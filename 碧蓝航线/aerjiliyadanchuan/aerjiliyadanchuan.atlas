@@ -1,0 +1,48 @@
+
+aerjiliyadanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 41
+  size: 422, 261
+  orig: 422, 261
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 2, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 877, 264
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 426, 216
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 426, 128
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 426, 40
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1

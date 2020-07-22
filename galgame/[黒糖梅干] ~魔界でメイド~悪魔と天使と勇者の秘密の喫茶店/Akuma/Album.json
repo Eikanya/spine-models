@@ -1,0 +1,141 @@
+[{
+		"aId": "1",
+		"aPath": "Rurua1",
+		"aName": "01_03",
+		"isLock": true,
+		"aRemarks": "HCG_Rurua_2"
+	},
+	{
+		"aId": "2",
+		"aPath": "Rurua2",
+		"aName": "02_02",
+		"isLock": true,
+		"aRemarks": "CG_Rurua_1"
+	},
+	{
+		"aId": "3",
+		"aPath": "Rurua3",
+		"aName": "gr_1_6_1",
+		"isLock": true,
+		"aRemarks": "HCG_RuruaxNanzhu_2"
+	},
+	{
+		"aId": "4",
+		"aPath": "Rurua4",
+		"aName": "gr_1_8_1",
+		"isLock": true,
+		"aRemarks": "HCG_RuruaxNanzhu_3"
+	},
+	{
+		"aId": "5",
+		"aPath": "Rurua5",
+		"aName": "gr_1_9_1",
+		"isLock": true,
+		"aRemarks": "HCG_RuruaxNanzhu_4"
+	},
+	{
+		"aId": "6",
+		"aPath": "Rurua6",
+		"aName": "ts_1_1",
+		"isLock": true,
+		"aRemarks": "HCG_RuruaxSLM"
+	},
+	{
+		"aId": "7",
+		"aPath": "Rurua7",
+		"aName": "ts_2_1",
+		"isLock": true,
+		"aRemarks": "HCG_RuruaxNainiu"
+	},
+	{
+		"aId": "8",
+		"aPath": "Yura1",
+		"aName": "05_02",
+		"isLock": true,
+		"aRemarks": "CG_Yura_1"
+	},
+	{
+		"aId": "9",
+		"aPath": "Yura2",
+		"aName": "08_02",
+		"isLock": true,
+		"aRemarks": "HCG_AngelxKeren"
+	},
+	{
+		"aId": "10",
+		"aPath": "Yura3",
+		"aName": "gr_2_6_1",
+		"isLock": true,
+		"aRemarks": "HCG_AngelxNanZhu"
+	},
+	{
+		"aId": "11",
+		"aPath": "Yura4",
+		"aName": "gr_2_9_1",
+		"isLock": true,
+		"aRemarks": "HCG_AngelxNanzhu_2"
+	},
+	{
+		"aId": "12",
+		"aPath": "Yura5",
+		"aName": "ts_3_1",
+		"isLock": true,
+		"aRemarks": "HCG_AngelxChushou"
+	},
+	{
+		"aId": "13",
+		"aPath": "Yura6",
+		"aName": "ts_4_1",
+		"isLock": true,
+		"aRemarks": "HCG_AngelxYaojing"
+	},
+	{
+		"aId": "14",
+		"aPath": "Beru1",
+		"aName": "fw_3_1",
+		"isLock": true,
+		"aRemarks": "HCG_Beruxkeren"
+	},
+	{
+		"aId": "15",
+		"aPath": "Beru2",
+		"aName": "gr_3_6_1",
+		"isLock": true,
+		"aRemarks": "HCG_BeruxNanzhu"
+	},
+	{
+		"aId": "16",
+		"aPath": "Beru3",
+		"aName": "gr_3_9_1",
+		"isLock": true,
+		"aRemarks": "HCG_BeruxNanzhu_2"
+	},
+	{
+		"aId": "17",
+		"aPath": "Beru4",
+		"aName": "ts_5_1",
+		"isLock": true,
+		"aRemarks": "HCG_BeruxQun"
+	},
+	{
+		"aId": "18",
+		"aPath": "",
+		"aName": "",
+		"isLock": true,
+		"aRemarks": ""
+	},
+	{
+		"aId": "19",
+		"aPath": "",
+		"aName": "",
+		"isLock": true,
+		"aRemarks": ""
+	},
+	{
+		"aId": "20",
+		"aPath": "",
+		"aName": "",
+		"isLock": true,
+		"aRemarks": ""
+	}
+]

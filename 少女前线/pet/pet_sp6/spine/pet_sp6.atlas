@@ -1,0 +1,153 @@
+
+pet_sp6.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 6
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+body0
+  rotate: false
+  xy: 68, 23
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+earL
+  rotate: false
+  xy: 133, 50
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+earL0
+  rotate: false
+  xy: 146, 52
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 84, 11
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+earR0
+  rotate: false
+  xy: 133, 24
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 103, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+eye0
+  rotate: false
+  xy: 83, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: false
+  xy: 93, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: true
+  xy: 110, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 171, 56
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: false
+  xy: 119, 16
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+handL
+  rotate: true
+  xy: 98, 11
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+handQ0
+  rotate: false
+  xy: 146, 41
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+handQ1
+  rotate: false
+  xy: 159, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 146, 30
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+jioH
+  rotate: false
+  xy: 68, 2
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+jioL
+  rotate: false
+  xy: 68, 11
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+jioR
+  rotate: true
+  xy: 109, 11
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 146, 25
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 133, 36
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

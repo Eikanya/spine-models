@@ -1,0 +1,83 @@
+
+pet_sp4.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 90, 49
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 409, 91
+  size: 35, 97
+  orig: 35, 97
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 296, 86
+  size: 40, 111
+  orig: 40, 111
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 33
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+legBL
+  rotate: false
+  xy: 55, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+legBR
+  rotate: true
+  xy: 2, 2
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+legFL
+  rotate: true
+  xy: 296, 60
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+legFR
+  rotate: false
+  xy: 250, 35
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 334, 65
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 192, 68
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 192, 33
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1

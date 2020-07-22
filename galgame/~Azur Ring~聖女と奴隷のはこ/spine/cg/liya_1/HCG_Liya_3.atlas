@@ -1,0 +1,174 @@
+
+HCG_Liya_3.png
+size: 2494,4202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2904
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+Liya_AX
+  rotate: true
+  xy: 2310, 3192
+  size: 1008, 182
+  orig: 1008, 182
+  offset: 0, 0
+  index: -1
+Liya_Body
+  rotate: false
+  xy: 1098, 697
+  size: 1099, 907
+  orig: 1099, 907
+  offset: 0, 0
+  index: -1
+Liya_Ear1
+  rotate: true
+  xy: 2199, 1331
+  size: 273, 215
+  orig: 273, 215
+  offset: 0, 0
+  index: -1
+Liya_Ear2
+  rotate: false
+  xy: 2, 51
+  size: 358, 253
+  orig: 358, 253
+  offset: 0, 0
+  index: -1
+Liya_Eyesb
+  rotate: true
+  xy: 2310, 1901
+  size: 244, 143
+  orig: 244, 145
+  offset: 0, 1
+  index: -1
+Liya_FS
+  rotate: false
+  xy: 946, 129
+  size: 117, 175
+  orig: 117, 175
+  offset: 0, 0
+  index: -1
+Liya_Face
+  rotate: false
+  xy: 1633, 216
+  size: 419, 479
+  orig: 419, 479
+  offset: 0, 0
+  index: -1
+Liya_HC
+  rotate: false
+  xy: 2310, 2772
+  size: 150, 418
+  orig: 150, 418
+  offset: 0, 0
+  index: -1
+Liya_Hair
+  rotate: false
+  xy: 1098, 188
+  size: 533, 507
+  orig: 533, 507
+  offset: 0, 0
+  index: -1
+Liya_HairB
+  rotate: true
+  xy: 648, 105
+  size: 199, 296
+  orig: 199, 296
+  offset: 0, 0
+  index: -1
+Liya_Leg2
+  rotate: false
+  xy: 2054, 195
+  size: 374, 500
+  orig: 374, 502
+  offset: 0, 1
+  index: -1
+Liya_OX1
+  rotate: false
+  xy: 2199, 1074
+  size: 232, 255
+  orig: 232, 255
+  offset: 0, 0
+  index: -1
+Liya_OX2
+  rotate: false
+  xy: 2199, 826
+  size: 199, 246
+  orig: 199, 246
+  offset: 0, 0
+  index: -1
+Liya_bb1
+  rotate: true
+  xy: 2310, 2434
+  size: 336, 151
+  orig: 336, 153
+  offset: 0, 1
+  index: -1
+Liya_eye1
+  rotate: false
+  xy: 2301, 757
+  size: 66, 67
+  orig: 66, 69
+  offset: 0, 1
+  index: -1
+Liya_eye2
+  rotate: true
+  xy: 362, 2
+  size: 57, 53
+  orig: 57, 55
+  offset: 0, 1
+  index: -1
+Liya_pp
+  rotate: true
+  xy: 2310, 2147
+  size: 285, 119
+  orig: 285, 119
+  offset: 0, 0
+  index: -1
+N_body
+  rotate: false
+  xy: 2, 306
+  size: 1094, 1298
+  orig: 1094, 1298
+  offset: 0, 0
+  index: -1
+N_hand2
+  rotate: false
+  xy: 2310, 1608
+  size: 65, 92
+  orig: 65, 94
+  offset: 0, 1
+  index: -1
+Narm
+  rotate: false
+  xy: 362, 61
+  size: 284, 243
+  orig: 284, 243
+  offset: 0, 0
+  index: -1
+Nhand
+  rotate: true
+  xy: 2310, 1702
+  size: 197, 181
+  orig: 197, 183
+  offset: 0, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 1606
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+white
+  rotate: false
+  xy: 2199, 724
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

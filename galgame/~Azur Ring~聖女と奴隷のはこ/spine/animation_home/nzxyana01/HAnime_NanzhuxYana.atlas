@@ -1,0 +1,237 @@
+
+HAnime_NanzhuxYana.png
+size: 1205,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 62, 35
+  size: 85, 173
+  orig: 85, 173
+  offset: 0, 0
+  index: -1
+EYEB
+  rotate: false
+  xy: 729, 82
+  size: 42, 13
+  orig: 42, 15
+  offset: 0, 1
+  index: -1
+EYES1
+  rotate: false
+  xy: 352, 46
+  size: 13, 10
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+EYES2
+  rotate: true
+  xy: 544, 65
+  size: 9, 8
+  orig: 9, 10
+  offset: 0, 1
+  index: -1
+Face
+  rotate: true
+  xy: 670, 6
+  size: 71, 83
+  orig: 71, 85
+  offset: 0, 1
+  index: -1
+Hair1
+  rotate: true
+  xy: 62, 2
+  size: 31, 94
+  orig: 31, 94
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 1161, 116
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 930, 85
+  size: 61, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 2, 21
+  size: 58, 187
+  orig: 58, 187
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 544, 76
+  size: 132, 100
+  orig: 132, 102
+  offset: 0, 1
+  index: -1
+Leg1-1
+  rotate: true
+  xy: 299, 49
+  size: 159, 51
+  orig: 159, 51
+  offset: 0, 0
+  index: -1
+N_Arm1
+  rotate: true
+  xy: 158, 2
+  size: 41, 96
+  orig: 41, 98
+  offset: 0, 1
+  index: -1
+N_Arm1_1
+  rotate: false
+  xy: 256, 3
+  size: 116, 40
+  orig: 116, 40
+  offset: 0, 0
+  index: -1
+N_Arm2
+  rotate: true
+  xy: 441, 6
+  size: 50, 80
+  orig: 50, 82
+  offset: 0, 1
+  index: -1
+N_Arm2-2
+  rotate: true
+  xy: 574, 2
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+N_Body
+  rotate: false
+  xy: 149, 45
+  size: 148, 163
+  orig: 148, 163
+  offset: 0, 0
+  index: -1
+N_Face
+  rotate: true
+  xy: 1079, 37
+  size: 65, 67
+  orig: 65, 69
+  offset: 0, 1
+  index: -1
+N_HC
+  rotate: true
+  xy: 1161, 86
+  size: 28, 34
+  orig: 28, 36
+  offset: 0, 1
+  index: -1
+N_Hair
+  rotate: true
+  xy: 825, 100
+  size: 108, 103
+  orig: 109, 104
+  offset: 1, 1
+  index: -1
+N_Hair2
+  rotate: true
+  xy: 20, 3
+  size: 16, 40
+  orig: 16, 42
+  offset: 0, 1
+  index: -1
+N_Hand_R1
+  rotate: true
+  xy: 1063, 104
+  size: 42, 96
+  orig: 42, 96
+  offset: 0, 0
+  index: -1
+N_JJ
+  rotate: false
+  xy: 1036, 103
+  size: 25, 43
+  orig: 25, 45
+  offset: 0, 1
+  index: -1
+N_Leg1
+  rotate: false
+  xy: 930, 148
+  size: 273, 60
+  orig: 273, 60
+  offset: 0, 0
+  index: -1
+N_Leg2
+  rotate: false
+  xy: 755, 2
+  size: 272, 78
+  orig: 272, 78
+  offset: 0, 0
+  index: -1
+N_Leg2-2
+  rotate: true
+  xy: 497, 61
+  size: 147, 45
+  orig: 147, 47
+  offset: 0, 1
+  index: -1
+N_Leg3
+  rotate: true
+  xy: 646, 79
+  size: 129, 81
+  orig: 129, 83
+  offset: 0, 1
+  index: -1
+N_R hand
+  rotate: false
+  xy: 1029, 15
+  size: 48, 71
+  orig: 48, 73
+  offset: 0, 1
+  index: -1
+N_SHouzhi
+  rotate: false
+  xy: 2, 2
+  size: 16, 17
+  orig: 16, 19
+  offset: 0, 1
+  index: -1
+N_airB
+  rotate: true
+  xy: 987, 88
+  size: 58, 47
+  orig: 58, 49
+  offset: 0, 1
+  index: -1
+N_umhair
+  rotate: false
+  xy: 352, 58
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 523, 3
+  size: 56, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 374, 3
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 729, 97
+  size: 111, 94
+  orig: 111, 94
+  offset: 0, 0
+  index: -1

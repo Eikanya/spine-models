@@ -1,0 +1,20 @@
+
+Detonator.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+detonator
+  rotate: false
+  xy: 2, 42
+  size: 104, 77
+  orig: 104, 77
+  offset: 0, 0
+  index: -1
+detonatorHandle
+  rotate: false
+  xy: 2, 2
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1

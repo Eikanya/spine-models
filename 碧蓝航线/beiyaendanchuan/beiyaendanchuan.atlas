@@ -1,0 +1,34 @@
+
+beiyaendanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 146
+  size: 473, 317
+  orig: 473, 317
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 477, 393
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 2, 2
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: false
+  xy: 2, 74
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1

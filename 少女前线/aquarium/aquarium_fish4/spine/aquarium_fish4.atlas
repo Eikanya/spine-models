@@ -1,0 +1,20 @@
+
+aquarium_fish4.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T4
+  rotate: false
+  xy: 2, 2
+  size: 345, 98
+  orig: 345, 98
+  offset: 0, 0
+  index: -1
+type4
+  rotate: true
+  xy: 349, 22
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1

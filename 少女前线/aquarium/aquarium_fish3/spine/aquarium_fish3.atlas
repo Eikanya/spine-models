@@ -1,0 +1,34 @@
+
+aquarium_fish3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T31
+  rotate: true
+  xy: 299, 73
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+T32
+  rotate: false
+  xy: 148, 71
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+T33
+  rotate: false
+  xy: 2, 53
+  size: 144, 160
+  orig: 144, 160
+  offset: 0, 0
+  index: -1
+type3
+  rotate: true
+  xy: 2, 2
+  size: 49, 122
+  orig: 49, 122
+  offset: 0, 0
+  index: -1

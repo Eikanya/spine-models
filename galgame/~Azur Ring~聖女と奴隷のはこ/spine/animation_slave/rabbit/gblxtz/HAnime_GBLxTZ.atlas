@@ -1,0 +1,286 @@
+
+HAnime_GBLxTZ.png
+size: 225,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ge1_Arm1
+  rotate: true
+  xy: 2, 697
+  size: 68, 149
+  orig: 68, 149
+  offset: 0, 0
+  index: -1
+Ge1_Arm2
+  rotate: false
+  xy: 140, 340
+  size: 82, 133
+  orig: 82, 139
+  offset: 0, 6
+  index: -1
+Ge2_Body
+  rotate: true
+  xy: 2, 855
+  size: 86, 183
+  orig: 86, 183
+  offset: 0, 0
+  index: -1
+Ge2_EYEB
+  rotate: false
+  xy: 200, 110
+  size: 20, 17
+  orig: 20, 19
+  offset: 0, 1
+  index: -1
+Ge2_EYES
+  rotate: true
+  xy: 216, 1085
+  size: 9, 7
+  orig: 9, 9
+  offset: 0, 1
+  index: -1
+Ge2_Ear
+  rotate: false
+  xy: 187, 891
+  size: 35, 50
+  orig: 35, 52
+  offset: 0, 1
+  index: -1
+Ge2_Head
+  rotate: false
+  xy: 127, 229
+  size: 93, 109
+  orig: 93, 111
+  offset: 0, 1
+  index: -1
+Ge2_JJ
+  rotate: true
+  xy: 200, 46
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+Ge2_Leg1
+  rotate: true
+  xy: 2, 471
+  size: 59, 136
+  orig: 59, 136
+  offset: 0, 0
+  index: -1
+Ge2_kou
+  rotate: false
+  xy: 160, 19
+  size: 26, 26
+  orig: 26, 28
+  offset: 0, 1
+  index: -1
+Ge3_Arm2
+  rotate: true
+  xy: 2, 142
+  size: 57, 117
+  orig: 57, 117
+  offset: 0, 0
+  index: -1
+Ge3_Arm2 2
+  rotate: true
+  xy: 2, 322
+  size: 40, 123
+  orig: 40, 123
+  offset: 0, 0
+  index: -1
+Ge3_Handr2
+  rotate: false
+  xy: 153, 740
+  size: 20, 25
+  orig: 20, 27
+  offset: 0, 1
+  index: -1
+Ge3_Leg2
+  rotate: true
+  xy: 2, 641
+  size: 54, 145
+  orig: 54, 145
+  offset: 0, 0
+  index: -1
+Ge3_R hand
+  rotate: false
+  xy: 2, 364
+  size: 132, 44
+  orig: 132, 44
+  offset: 0, 0
+  index: -1
+Ge_Body
+  rotate: true
+  xy: 2, 767
+  size: 86, 183
+  orig: 86, 183
+  offset: 0, 0
+  index: -1
+Ge_EYEB
+  rotate: false
+  xy: 200, 91
+  size: 20, 17
+  orig: 20, 19
+  offset: 0, 1
+  index: -1
+Ge_EYES
+  rotate: true
+  xy: 216, 1096
+  size: 10, 7
+  orig: 10, 9
+  offset: 0, 1
+  index: -1
+Ge_Ear
+  rotate: false
+  xy: 187, 839
+  size: 35, 50
+  orig: 35, 52
+  offset: 0, 1
+  index: -1
+Ge_Head
+  rotate: true
+  xy: 2, 47
+  size: 93, 108
+  orig: 93, 110
+  offset: 0, 1
+  index: -1
+Ge_JJ
+  rotate: false
+  xy: 50, 27
+  size: 41, 18
+  orig: 41, 20
+  offset: 0, 1
+  index: -1
+Ge_Leg1
+  rotate: true
+  xy: 2, 410
+  size: 59, 135
+  orig: 59, 135
+  offset: 0, 0
+  index: -1
+Ge_Leg2
+  rotate: true
+  xy: 2, 585
+  size: 54, 145
+  orig: 54, 145
+  offset: 0, 0
+  index: -1
+TZ_Leg2
+  rotate: false
+  xy: 2, 943
+  size: 212, 163
+  orig: 212, 163
+  offset: 0, 0
+  index: -1
+Tu_Body
+  rotate: true
+  xy: 149, 475
+  size: 141, 65
+  orig: 142, 65
+  offset: 0, 0
+  index: -1
+Tu_Face
+  rotate: true
+  xy: 153, 675
+  size: 63, 68
+  orig: 63, 70
+  offset: 0, 1
+  index: -1
+Tu_HairB
+  rotate: false
+  xy: 2, 201
+  size: 120, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+Tu_L hand
+  rotate: false
+  xy: 2, 532
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+Tu_Leg1
+  rotate: false
+  xy: 2, 1108
+  size: 217, 110
+  orig: 217, 110
+  offset: 0, 0
+  index: -1
+Tu_Tail
+  rotate: false
+  xy: 160, 47
+  size: 27, 24
+  orig: 27, 26
+  offset: 0, 1
+  index: -1
+Tu_ear
+  rotate: false
+  xy: 112, 73
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+Tu_ear2
+  rotate: false
+  xy: 149, 618
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+Tu_eye1
+  rotate: false
+  xy: 208, 31
+  size: 14, 13
+  orig: 14, 15
+  offset: 0, 1
+  index: -1
+Tu_eye2
+  rotate: true
+  xy: 127, 349
+  size: 13, 11
+  orig: 13, 13
+  offset: 0, 1
+  index: -1
+Tu_eyes
+  rotate: true
+  xy: 187, 740
+  size: 38, 28
+  orig: 38, 30
+  offset: 0, 1
+  index: -1
+Tu_hair
+  rotate: true
+  xy: 124, 129
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+Tu_opai1
+  rotate: false
+  xy: 2, 4
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Tu_opai2
+  rotate: false
+  xy: 112, 29
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Tu_scarf
+  rotate: false
+  xy: 187, 780
+  size: 33, 57
+  orig: 33, 59
+  offset: 0, 1
+  index: -1
+Tu_shui
+  rotate: true
+  xy: 188, 2
+  size: 42, 18
+  orig: 42, 20
+  offset: 0, 1
+  index: -1

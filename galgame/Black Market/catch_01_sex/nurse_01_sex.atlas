@@ -1,0 +1,320 @@
+
+nurse_01_sex.png
+size: 3348,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2556, 587
+  size: 454, 345
+  orig: 454, 345
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 3074, 11
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 805, 222
+  size: 136, 33
+  orig: 136, 33
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: false
+  xy: 2409, 338
+  size: 120, 42
+  orig: 121, 44
+  offset: 0, 1
+  index: -1
+Face
+  rotate: true
+  xy: 1348, 25
+  size: 145, 61
+  orig: 145, 61
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: false
+  xy: 2716, 2
+  size: 356, 340
+  orig: 356, 340
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 3111, 212
+  size: 225, 401
+  orig: 225, 401
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 3108, 58
+  size: 219, 152
+  orig: 219, 152
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3111, 776
+  size: 235, 265
+  orig: 235, 303
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: false
+  xy: 275, 3
+  size: 350, 204
+  orig: 350, 204
+  offset: 0, 0
+  index: -1
+Juice
+  rotate: false
+  xy: 1972, 353
+  size: 223, 191
+  orig: 223, 191
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1972, 546
+  size: 495, 290
+  orig: 495, 290
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 494, 217
+  size: 309, 824
+  orig: 309, 824
+  offset: 0, 0
+  index: -1
+M_Beard_01
+  rotate: false
+  xy: 1706, 341
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+M_Beard_02
+  rotate: false
+  xy: 3172, 11
+  size: 74, 45
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+M_Beard_03
+  rotate: false
+  xy: 2978, 687
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+M_Beard_04
+  rotate: false
+  xy: 2903, 848
+  size: 151, 118
+  orig: 151, 118
+  offset: 0, 0
+  index: -1
+M_Beard_05
+  rotate: false
+  xy: 1202, 10
+  size: 144, 245
+  orig: 144, 245
+  offset: 0, 0
+  index: -1
+M_Body
+  rotate: false
+  xy: 805, 257
+  size: 464, 784
+  orig: 464, 959
+  offset: 0, 175
+  index: -1
+M_EyeBrow_01
+  rotate: false
+  xy: 2903, 789
+  size: 145, 57
+  orig: 145, 57
+  offset: 0, 0
+  index: -1
+M_EyeBrow_02
+  rotate: false
+  xy: 2903, 968
+  size: 157, 73
+  orig: 158, 73
+  offset: 1, 0
+  index: -1
+M_EyeBrow_03
+  rotate: true
+  xy: 880, 72
+  size: 148, 61
+  orig: 148, 62
+  offset: 0, 1
+  index: -1
+M_EyeBrow_04
+  rotate: false
+  xy: 2531, 338
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+M_Eye_00
+  rotate: false
+  xy: 1271, 257
+  size: 145, 77
+  orig: 145, 77
+  offset: 0, 0
+  index: -1
+M_Eye_01
+  rotate: false
+  xy: 2903, 593
+  size: 124, 61
+  orig: 124, 61
+  offset: 0, 0
+  index: -1
+M_Eye_02
+  rotate: true
+  xy: 2903, 656
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+M_HairFront_01
+  rotate: false
+  xy: 2197, 357
+  size: 210, 187
+  orig: 210, 187
+  offset: 0, 0
+  index: -1
+M_HairFront_02
+  rotate: false
+  xy: 943, 10
+  size: 257, 245
+  orig: 258, 245
+  offset: 1, 0
+  index: -1
+M_HairFront_03
+  rotate: false
+  xy: 627, 2
+  size: 251, 213
+  orig: 251, 213
+  offset: 0, 0
+  index: -1
+M_HairFront_04
+  rotate: false
+  xy: 2264, 547
+  size: 290, 494
+  orig: 290, 494
+  offset: 0, 0
+  index: -1
+M_Head
+  rotate: false
+  xy: 2460, 10
+  size: 254, 326
+  orig: 254, 326
+  offset: 0, 0
+  index: -1
+M_L_arm
+  rotate: false
+  xy: 1271, 336
+  size: 433, 705
+  orig: 433, 705
+  offset: 0, 0
+  index: -1
+M_L_leg
+  rotate: false
+  xy: 2, 17
+  size: 271, 1024
+  orig: 271, 1024
+  offset: 0, 0
+  index: -1
+M_Mouth
+  rotate: true
+  xy: 880, 7
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+M_Nose
+  rotate: false
+  xy: 1348, 172
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+M_R_arm
+  rotate: false
+  xy: 1706, 369
+  size: 264, 672
+  orig: 264, 672
+  offset: 0, 0
+  index: -1
+M_R_leg
+  rotate: true
+  xy: 1418, 7
+  size: 327, 1040
+  orig: 327, 1040
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 2630, 340
+  size: 40, 52
+  orig: 41, 53
+  offset: 1, 0
+  index: -1
+Nipple
+  rotate: true
+  xy: 3074, 189
+  size: 153, 32
+  orig: 153, 32
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 2684, 344
+  size: 425, 241
+  orig: 425, 241
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 275, 209
+  size: 217, 832
+  orig: 217, 832
+  offset: 0, 0
+  index: -1
+Tinko
+  rotate: false
+  xy: 2409, 382
+  size: 264, 163
+  orig: 264, 163
+  offset: 0, 0
+  index: -1
+TinkoJuice
+  rotate: false
+  xy: 3111, 615
+  size: 226, 159
+  orig: 226, 159
+  offset: 0, 0
+  index: -1
+
+nurse_01_sex2.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

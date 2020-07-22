@@ -1,0 +1,195 @@
+
+HAnime_TuzixShilaimu.png
+size: 933,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 578, 202
+  size: 71, 141
+  orig: 71, 141
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 721, 143
+  size: 134, 130
+  orig: 134, 132
+  offset: 0, 1
+  index: -1
+Face
+  rotate: false
+  xy: 629, 13
+  size: 60, 67
+  orig: 60, 69
+  offset: 0, 1
+  index: -1
+Face2
+  rotate: true
+  xy: 902, 32
+  size: 31, 18
+  orig: 31, 20
+  offset: 0, 1
+  index: -1
+HairB
+  rotate: true
+  xy: 316, 6
+  size: 97, 138
+  orig: 97, 138
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 786, 12
+  size: 32, 66
+  orig: 35, 86
+  offset: 2, 18
+  index: -1
+JJ2
+  rotate: false
+  xy: 456, 9
+  size: 34, 94
+  orig: 37, 99
+  offset: 2, 3
+  index: -1
+JJ3
+  rotate: false
+  xy: 316, 195
+  size: 260, 78
+  orig: 263, 81
+  offset: 1, 2
+  index: -1
+L hand
+  rotate: false
+  xy: 507, 74
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 316, 105
+  size: 88, 189
+  orig: 88, 189
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: true
+  xy: 857, 156
+  size: 117, 74
+  orig: 117, 76
+  offset: 0, 1
+  index: -1
+Leg2-2
+  rotate: true
+  xy: 710, 95
+  size: 46, 139
+  orig: 46, 139
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 8
+  size: 312, 265
+  orig: 312, 265
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: false
+  xy: 854, 34
+  size: 46, 56
+  orig: 46, 58
+  offset: 0, 1
+  index: -1
+R hand2-2
+  rotate: true
+  xy: 854, 92
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 902, 65
+  size: 26, 25
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+ear
+  rotate: true
+  xy: 547, 9
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 492, 2
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 492, 90
+  size: 13, 13
+  orig: 13, 15
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 492, 77
+  size: 11, 13
+  orig: 11, 15
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 854, 13
+  size: 41, 19
+  orig: 41, 21
+  offset: 0, 1
+  index: -1
+hair
+  rotate: false
+  xy: 617, 82
+  size: 91, 118
+  orig: 91, 118
+  offset: 0, 0
+  index: -1
+opai1
+  rotate: true
+  xy: 691, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+opai2
+  rotate: true
+  xy: 739, 2
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 857, 123
+  size: 58, 31
+  orig: 58, 33
+  offset: 0, 1
+  index: -1
+shilaimu
+  rotate: true
+  xy: 710, 46
+  size: 47, 138
+  orig: 47, 139
+  offset: 0, 1
+  index: -1
+shui
+  rotate: false
+  xy: 691, 46
+  size: 15, 34
+  orig: 15, 36
+  offset: 0, 1
+  index: -1

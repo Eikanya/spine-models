@@ -1,0 +1,41 @@
+
+EMP.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+empCore
+  rotate: false
+  xy: 278, 94
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+empCoreFront
+  rotate: false
+  xy: 414, 100
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+empLight
+  rotate: false
+  xy: 2, 2
+  size: 123, 232
+  orig: 123, 232
+  offset: 0, 0
+  index: -1
+empPlate
+  rotate: false
+  xy: 127, 84
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+empPlateBack
+  rotate: true
+  xy: 127, 14
+  size: 68, 145
+  orig: 68, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+bird_2020V.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB
+  rotate: false
+  xy: 150, 52
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+BBT
+  rotate: true
+  xy: 195, 54
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+BBW
+  rotate: true
+  xy: 169, 4
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+BL
+  rotate: false
+  xy: 224, 67
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+BLL
+  rotate: false
+  xy: 224, 55
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+BLR
+  rotate: true
+  xy: 241, 70
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+BR
+  rotate: false
+  xy: 197, 13
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+BWL
+  rotate: true
+  xy: 101, 2
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+BWL1
+  rotate: false
+  xy: 2, 10
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+BWL2
+  rotate: true
+  xy: 135, 4
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+BWL3
+  rotate: false
+  xy: 209, 88
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+BWR
+  rotate: false
+  xy: 53, 42
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+BWR1
+  rotate: false
+  xy: 2, 66
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+BWR2
+  rotate: false
+  xy: 101, 48
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+BWR3
+  rotate: false
+  xy: 158, 85
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+wear1
+  rotate: false
+  xy: 197, 37
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+wear2
+  rotate: false
+  xy: 53, 78
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+wear3
+  rotate: false
+  xy: 101, 90
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+wear4
+  rotate: false
+  xy: 46, 2
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1

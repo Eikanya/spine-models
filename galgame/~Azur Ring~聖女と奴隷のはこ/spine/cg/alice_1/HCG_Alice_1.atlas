@@ -1,0 +1,195 @@
+
+HCG_Alice_1.png
+size: 3107,4191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1
+  rotate: true
+  xy: 1549, 43
+  size: 426, 630
+  orig: 427, 630
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: false
+  xy: 937, 16
+  size: 610, 453
+  orig: 610, 453
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 1593
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+BS
+  rotate: false
+  xy: 2310, 2156
+  size: 551, 550
+  orig: 612, 550
+  offset: 30, 0
+  index: -1
+BS2
+  rotate: true
+  xy: 2592, 1607
+  size: 107, 175
+  orig: 216, 211
+  offset: 1, 24
+  index: -1
+Blac
+  rotate: false
+  xy: 2, 2891
+  size: 2306, 1298
+  orig: 2306, 1298
+  offset: 0, 0
+  index: -1
+Blood
+  rotate: false
+  xy: 2181, 368
+  size: 54, 101
+  orig: 54, 103
+  offset: 0, 1
+  index: -1
+Cloth
+  rotate: true
+  xy: 2310, 1594
+  size: 560, 280
+  orig: 560, 323
+  offset: 0, 1
+  index: -1
+EYEB
+  rotate: true
+  xy: 3032, 393
+  size: 205, 56
+  orig: 205, 56
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2526, 21
+  size: 304, 323
+  orig: 304, 323
+  offset: 0, 0
+  index: -1
+HC
+  rotate: false
+  xy: 2972, 3705
+  size: 113, 484
+  orig: 113, 484
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2592, 1716
+  size: 438, 315
+  orig: 450, 315
+  offset: 11, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 2241, 600
+  size: 991, 864
+  orig: 991, 864
+  offset: 0, 0
+  index: -1
+HurtLeg
+  rotate: false
+  xy: 2, 471
+  size: 2237, 1120
+  orig: 2237, 1120
+  offset: 0, 0
+  index: -1
+Hurt_Body
+  rotate: false
+  xy: 2310, 3354
+  size: 660, 835
+  orig: 660, 835
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 2181, 2
+  size: 342, 343
+  orig: 342, 343
+  offset: 0, 0
+  index: -1
+Kizu
+  rotate: false
+  xy: 2, 14
+  size: 933, 455
+  orig: 933, 455
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: false
+  xy: 2972, 3457
+  size: 132, 246
+  orig: 132, 248
+  offset: 0, 1
+  index: -1
+Nhand1
+  rotate: true
+  xy: 2241, 346
+  size: 252, 789
+  orig: 255, 793
+  offset: 3, 0
+  index: -1
+Nhand2
+  rotate: false
+  xy: 2310, 2708
+  size: 641, 644
+  orig: 646, 644
+  offset: 0, 0
+  index: -1
+Opai1
+  rotate: false
+  xy: 2832, 85
+  size: 257, 259
+  orig: 257, 259
+  offset: 0, 0
+  index: -1
+Opai2
+  rotate: true
+  xy: 2863, 2467
+  size: 239, 229
+  orig: 241, 230
+  offset: 1, 0
+  index: -1
+Xue_F
+  rotate: true
+  xy: 2972, 3375
+  size: 80, 127
+  orig: 80, 127
+  offset: 0, 0
+  index: -1
+Yeti
+  rotate: true
+  xy: 2863, 2232
+  size: 233, 232
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2832, 35
+  size: 51, 48
+  orig: 51, 50
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 3032, 346
+  size: 42, 45
+  orig: 42, 47
+  offset: 0, 1
+  index: -1
+white
+  rotate: false
+  xy: 2769, 1614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

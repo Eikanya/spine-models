@@ -1,0 +1,153 @@
+
+dog9.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Bleg1
+  rotate: true
+  xy: 468, 97
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+2Bleg2
+  rotate: true
+  xy: 156, 7
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+2Fleg1
+  rotate: false
+  xy: 297, 56
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+2Fleg2
+  rotate: false
+  xy: 60, 2
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+BRleg1
+  rotate: true
+  xy: 85, 2
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+BRleg2
+  rotate: true
+  xy: 206, 22
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+FRleg1
+  rotate: true
+  xy: 159, 28
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+FRleg2
+  rotate: true
+  xy: 248, 28
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 411, 98
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 228, 6
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 346, 65
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: false
+  xy: 210, 4
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+belt
+  rotate: true
+  xy: 106, 32
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 45
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 106, 60
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 346, 96
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 217, 50
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 2, 4
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 193, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 123, 11
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+stick
+  rotate: true
+  xy: 85, 33
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1

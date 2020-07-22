@@ -1,0 +1,397 @@
+
+room_police_01.png
+size: 3273,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1069, 650
+  size: 501, 385
+  orig: 501, 385
+  offset: 0, 0
+  index: -1
+Body_00
+  rotate: false
+  xy: 2644, 4
+  size: 236, 109
+  orig: 236, 109
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 2480, 613
+  size: 252, 147
+  orig: 252, 147
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: true
+  xy: 3101, 139
+  size: 186, 36
+  orig: 187, 36
+  offset: 1, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 3079, 8
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+EyeBrow_00
+  rotate: true
+  xy: 1533, 503
+  size: 145, 28
+  orig: 145, 28
+  offset: 0, 0
+  index: -1
+EyeBrow_01
+  rotate: true
+  xy: 3139, 127
+  size: 151, 42
+  orig: 151, 42
+  offset: 0, 0
+  index: -1
+EyeBrow_02
+  rotate: false
+  xy: 833, 5
+  size: 141, 22
+  orig: 141, 22
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: true
+  xy: 3183, 145
+  size: 133, 48
+  orig: 135, 49
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1456, 493
+  size: 155, 75
+  orig: 155, 75
+  offset: 0, 0
+  index: -1
+Face_blue
+  rotate: true
+  xy: 2006, 610
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+Face_red
+  rotate: true
+  xy: 3166, 280
+  size: 182, 105
+  orig: 182, 105
+  offset: 0, 0
+  index: -1
+HairBack_00
+  rotate: false
+  xy: 558, 2
+  size: 273, 289
+  orig: 273, 297
+  offset: 0, 8
+  index: -1
+HairBack_01
+  rotate: false
+  xy: 2644, 764
+  size: 431, 271
+  orig: 436, 271
+  offset: 5, 0
+  index: -1
+HairBack_02
+  rotate: false
+  xy: 2, 6
+  size: 350, 244
+  orig: 350, 297
+  offset: 0, 53
+  index: -1
+HairBack_03
+  rotate: false
+  xy: 2, 608
+  size: 1065, 427
+  orig: 1065, 427
+  offset: 0, 0
+  index: -1
+HairBack_04
+  rotate: false
+  xy: 1052, 27
+  size: 357, 259
+  orig: 362, 313
+  offset: 5, 54
+  index: -1
+HairFront_00
+  rotate: false
+  xy: 833, 29
+  size: 217, 262
+  orig: 217, 264
+  offset: 0, 0
+  index: -1
+HairFront_01
+  rotate: true
+  xy: 1456, 263
+  size: 216, 347
+  orig: 216, 347
+  offset: 0, 0
+  index: -1
+HairFront_02
+  rotate: false
+  xy: 1805, 259
+  size: 213, 220
+  orig: 213, 336
+  offset: 0, 116
+  index: -1
+HairFront_03
+  rotate: true
+  xy: 1744, 41
+  size: 216, 347
+  orig: 216, 347
+  offset: 0, 0
+  index: -1
+HairFront_04
+  rotate: false
+  xy: 2334, 24
+  size: 213, 234
+  orig: 213, 337
+  offset: 0, 103
+  index: -1
+Head
+  rotate: true
+  xy: 2093, 45
+  size: 221, 239
+  orig: 221, 239
+  offset: 0, 0
+  index: -1
+HighLight
+  rotate: true
+  xy: 3233, 174
+  size: 104, 31
+  orig: 104, 31
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 2949, 464
+  size: 285, 91
+  orig: 285, 91
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: false
+  xy: 354, 4
+  size: 201, 246
+  orig: 201, 246
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 2998, 120
+  size: 205, 101
+  orig: 205, 101
+  offset: 0, 0
+  index: -1
+L_upleg
+  rotate: true
+  xy: 2114, 610
+  size: 150, 364
+  orig: 150, 364
+  offset: 0, 0
+  index: -1
+M_Body
+  rotate: false
+  xy: 2, 252
+  size: 554, 354
+  orig: 554, 354
+  offset: 0, 0
+  index: -1
+M_Eye
+  rotate: false
+  xy: 2661, 593
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+M_EyeBrow
+  rotate: false
+  xy: 2093, 4
+  size: 128, 39
+  orig: 128, 39
+  offset: 0, 0
+  index: -1
+M_Face
+  rotate: true
+  xy: 2081, 628
+  size: 107, 31
+  orig: 108, 34
+  offset: 1, 0
+  index: -1
+M_Hat
+  rotate: false
+  xy: 2661, 438
+  size: 286, 144
+  orig: 286, 144
+  offset: 0, 0
+  index: -1
+M_Head
+  rotate: true
+  xy: 1411, 27
+  size: 234, 331
+  orig: 234, 331
+  offset: 0, 0
+  index: -1
+M_L_arm
+  rotate: false
+  xy: 1069, 288
+  size: 385, 360
+  orig: 385, 360
+  offset: 0, 0
+  index: -1
+M_L_forearm
+  rotate: true
+  xy: 3077, 691
+  size: 344, 190
+  orig: 344, 190
+  offset: 0, 0
+  index: -1
+M_L_hand
+  rotate: false
+  xy: 2644, 115
+  size: 206, 179
+  orig: 206, 179
+  offset: 0, 0
+  index: -1
+M_L_leg
+  rotate: false
+  xy: 558, 293
+  size: 491, 313
+  orig: 491, 313
+  offset: 0, 0
+  index: -1
+M_L_upleg
+  rotate: true
+  xy: 2114, 762
+  size: 273, 528
+  orig: 273, 528
+  offset: 0, 0
+  index: -1
+M_Mouth
+  rotate: true
+  xy: 3125, 31
+  size: 94, 57
+  orig: 94, 58
+  offset: 0, 1
+  index: -1
+M_R_arm
+  rotate: false
+  xy: 2020, 268
+  size: 330, 340
+  orig: 330, 340
+  offset: 0, 0
+  index: -1
+M_R_forearm
+  rotate: false
+  xy: 2734, 584
+  size: 285, 178
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+M_R_hand
+  rotate: false
+  xy: 2852, 117
+  size: 144, 177
+  orig: 144, 177
+  offset: 0, 0
+  index: -1
+M_R_leg
+  rotate: true
+  xy: 1572, 481
+  size: 254, 432
+  orig: 254, 432
+  offset: 0, 0
+  index: -1
+M_R_upleg
+  rotate: false
+  xy: 1572, 737
+  size: 540, 298
+  orig: 540, 298
+  offset: 0, 0
+  index: -1
+Mouth01
+  rotate: false
+  xy: 3021, 740
+  size: 51, 22
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+Mouth02
+  rotate: false
+  xy: 2495, 267
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 2549, 8
+  size: 295, 93
+  orig: 295, 93
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: true
+  xy: 2495, 305
+  size: 306, 164
+  orig: 306, 164
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 2882, 18
+  size: 195, 97
+  orig: 195, 97
+  offset: 0, 0
+  index: -1
+R_upleg
+  rotate: false
+  xy: 2352, 260
+  size: 141, 348
+  orig: 141, 348
+  offset: 0, 0
+  index: -1
+Tinko
+  rotate: true
+  xy: 2949, 327
+  size: 135, 215
+  orig: 135, 215
+  offset: 0, 0
+  index: -1
+TinkoJuice
+  rotate: true
+  xy: 3021, 557
+  size: 132, 218
+  orig: 132, 218
+  offset: 0, 0
+  index: -1
+splash
+  rotate: true
+  xy: 2661, 296
+  size: 140, 265
+  orig: 140, 265
+  offset: 0, 0
+  index: -1
+
+room_police_012.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

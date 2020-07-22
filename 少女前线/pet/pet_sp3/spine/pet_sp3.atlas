@@ -1,0 +1,97 @@
+
+pet_sp3.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 188, 6
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 178, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 214, 3
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 212, 22
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 212, 13
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 195, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 178, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 231, 23
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 9
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+back2
+  rotate: true
+  xy: 69, 7
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 111, 7
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 203, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 152, 7
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Akuma.png
+size: 226,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Akuma_1_Body
+  rotate: true
+  xy: 159, 133
+  size: 56, 54
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+Akuma_1_Hair
+  rotate: true
+  xy: 2, 62
+  size: 112, 74
+  orig: 112, 120
+  offset: 0, 45
+  index: -1
+Akuma_1_Hair3
+  rotate: true
+  xy: 121, 84
+  size: 35, 50
+  orig: 35, 51
+  offset: 0, 1
+  index: -1
+Akuma_1_Hand_L
+  rotate: false
+  xy: 2, 2
+  size: 35, 58
+  orig: 35, 60
+  offset: 0, 1
+  index: -1
+Akuma_1_Head
+  rotate: false
+  xy: 2, 176
+  size: 105, 97
+  orig: 105, 99
+  offset: 0, 1
+  index: -1
+Akuma_1_Leg_L_1
+  rotate: false
+  xy: 201, 42
+  size: 21, 30
+  orig: 21, 32
+  offset: 0, 1
+  index: -1
+Akuma_1_Leg_L_2
+  rotate: false
+  xy: 75, 15
+  size: 24, 42
+  orig: 24, 44
+  offset: 0, 1
+  index: -1
+Akuma_1_Leg_R_1
+  rotate: false
+  xy: 201, 11
+  size: 20, 29
+  orig: 20, 31
+  offset: 0, 1
+  index: -1
+Akuma_1_Leg_R_2
+  rotate: true
+  xy: 78, 59
+  size: 27, 41
+  orig: 27, 43
+  offset: 0, 1
+  index: -1
+Akuma_1_Mouth1
+  rotate: false
+  xy: 75, 7
+  size: 18, 6
+  orig: 18, 8
+  offset: 0, 1
+  index: -1
+Akuma_1_Mouth2
+  rotate: false
+  xy: 206, 263
+  size: 18, 10
+  orig: 18, 12
+  offset: 0, 1
+  index: -1
+Akuma_1_face1
+  rotate: true
+  xy: 121, 121
+  size: 64, 36
+  orig: 64, 38
+  offset: 0, 1
+  index: -1
+Akuma_1_face2
+  rotate: true
+  xy: 173, 74
+  size: 57, 36
+  orig: 57, 38
+  offset: 0, 1
+  index: -1
+Akuma_1_hair2
+  rotate: true
+  xy: 101, 2
+  size: 26, 60
+  orig: 26, 62
+  offset: 0, 1
+  index: -1
+Akuma_1_mawei1
+  rotate: false
+  xy: 109, 187
+  size: 48, 86
+  orig: 48, 88
+  offset: 0, 1
+  index: -1
+Akuma_1_mawei2
+  rotate: false
+  xy: 159, 191
+  size: 45, 82
+  orig: 45, 84
+  offset: 0, 1
+  index: -1
+Akuma_Chibang1
+  rotate: true
+  xy: 172, 12
+  size: 60, 27
+  orig: 60, 29
+  offset: 0, 1
+  index: -1
+Akuma_Chibang2
+  rotate: false
+  xy: 121, 57
+  size: 49, 25
+  orig: 49, 27
+  offset: 0, 1
+  index: -1
+Akuma_Hand_R
+  rotate: false
+  xy: 39, 2
+  size: 34, 58
+  orig: 34, 60
+  offset: 0, 1
+  index: -1
+Akuma_Skirt
+  rotate: false
+  xy: 101, 30
+  size: 69, 25
+  orig: 69, 27
+  offset: 0, 1
+  index: -1
+Akuma_weijba
+  rotate: true
+  xy: 78, 88
+  size: 86, 41
+  orig: 86, 43
+  offset: 0, 1
+  index: -1

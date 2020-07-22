@@ -1,0 +1,299 @@
+
+room_01.png
+size: 3756,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_00
+  rotate: false
+  xy: 783, 226
+  size: 526, 520
+  orig: 526, 520
+  offset: 0, 0
+  index: -1
+Body_01
+  rotate: false
+  xy: 1311, 226
+  size: 526, 520
+  orig: 526, 520
+  offset: 0, 0
+  index: -1
+Body_02
+  rotate: false
+  xy: 1839, 226
+  size: 526, 520
+  orig: 526, 520
+  offset: 0, 0
+  index: -1
+Dildo
+  rotate: true
+  xy: 3055, 37
+  size: 236, 171
+  orig: 236, 171
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 2793, 169
+  size: 110, 38
+  orig: 110, 38
+  offset: 0, 0
+  index: -1
+EyeBrow_00
+  rotate: false
+  xy: 2475, 6
+  size: 136, 20
+  orig: 136, 20
+  offset: 0, 0
+  index: -1
+EyeBrow_01
+  rotate: true
+  xy: 2865, 282
+  size: 152, 27
+  orig: 152, 27
+  offset: 0, 0
+  index: -1
+EyeBrow_02
+  rotate: false
+  xy: 2327, 2
+  size: 146, 24
+  orig: 146, 24
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: true
+  xy: 3704, 334
+  size: 133, 43
+  orig: 134, 43
+  offset: 1, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2793, 281
+  size: 153, 70
+  orig: 153, 70
+  offset: 0, 0
+  index: -1
+HairBack_00
+  rotate: true
+  xy: 3468, 469
+  size: 277, 286
+  orig: 277, 301
+  offset: 0, 15
+  index: -1
+HairBack_01
+  rotate: true
+  xy: 2, 101
+  size: 267, 587
+  orig: 275, 587
+  offset: 0, 0
+  index: -1
+HairBack_02
+  rotate: false
+  xy: 2894, 275
+  size: 351, 245
+  orig: 351, 301
+  offset: 0, 56
+  index: -1
+HairBack_03
+  rotate: true
+  xy: 2, 370
+  size: 376, 779
+  orig: 376, 779
+  offset: 0, 0
+  index: -1
+HairBack_04
+  rotate: true
+  xy: 2367, 161
+  size: 273, 424
+  orig: 320, 424
+  offset: 43, 0
+  index: -1
+HairFront_00
+  rotate: false
+  xy: 3247, 263
+  size: 214, 257
+  orig: 214, 257
+  offset: 0, 0
+  index: -1
+HairFront_01
+  rotate: true
+  xy: 1635, 13
+  size: 211, 344
+  orig: 211, 344
+  offset: 0, 0
+  index: -1
+HairFront_02
+  rotate: false
+  xy: 3228, 44
+  size: 211, 217
+  orig: 211, 341
+  offset: 0, 124
+  index: -1
+HairFront_03
+  rotate: true
+  xy: 1981, 13
+  size: 211, 344
+  orig: 211, 344
+  offset: 0, 0
+  index: -1
+HairFront_04
+  rotate: false
+  xy: 2842, 41
+  size: 211, 232
+  orig: 211, 342
+  offset: 0, 110
+  index: -1
+Head
+  rotate: true
+  xy: 3463, 252
+  size: 215, 239
+  orig: 215, 239
+  offset: 0, 0
+  index: -1
+Inside_manko
+  rotate: true
+  xy: 3642, 54
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+Juice
+  rotate: false
+  xy: 591, 230
+  size: 184, 138
+  orig: 184, 138
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 3441, 58
+  size: 199, 192
+  orig: 199, 199
+  offset: 0, 7
+  index: -1
+L_forearm
+  rotate: true
+  xy: 181, 27
+  size: 72, 147
+  orig: 72, 178
+  offset: 0, 25
+  index: -1
+L_hand
+  rotate: true
+  xy: 330, 27
+  size: 72, 142
+  orig: 72, 142
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 591, 2
+  size: 222, 532
+  orig: 222, 532
+  offset: 0, 0
+  index: -1
+L_manko
+  rotate: true
+  xy: 3441, 5
+  size: 51, 108
+  orig: 51, 108
+  offset: 0, 0
+  index: -1
+L_upleg
+  rotate: true
+  xy: 2367, 436
+  size: 310, 525
+  orig: 310, 525
+  offset: 0, 0
+  index: -1
+Mask
+  rotate: false
+  xy: 2, 10
+  size: 177, 89
+  orig: 177, 89
+  offset: 0, 0
+  index: -1
+Mouth01
+  rotate: false
+  xy: 2842, 31
+  size: 26, 8
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+Mouth02
+  rotate: false
+  xy: 181, 13
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+Mouth03
+  rotate: false
+  xy: 2327, 184
+  size: 33, 40
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Mouth04
+  rotate: true
+  xy: 3704, 281
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 2327, 28
+  size: 131, 304
+  orig: 131, 304
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: true
+  xy: 2633, 28
+  size: 131, 207
+  orig: 131, 207
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 3642, 124
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1125, 4
+  size: 508, 220
+  orig: 508, 220
+  offset: 0, 0
+  index: -1
+R_manko
+  rotate: true
+  xy: 474, 24
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+R_upleg
+  rotate: false
+  xy: 2894, 522
+  size: 572, 224
+  orig: 572, 224
+  offset: 0, 0
+  index: -1
+
+room_012.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

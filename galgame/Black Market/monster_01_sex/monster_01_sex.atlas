@@ -1,0 +1,327 @@
+
+monster_01_sex.png
+size: 3956,1658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 3291, 1363
+  size: 293, 552
+  orig: 293, 569
+  offset: 0, 17
+  index: -1
+Drool_01
+  rotate: true
+  xy: 2352, 703
+  size: 59, 103
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+Drool_02
+  rotate: true
+  xy: 993, 512
+  size: 35, 143
+  orig: 35, 143
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 1138, 495
+  size: 137, 52
+  orig: 137, 52
+  offset: 0, 0
+  index: -1
+EyeBrow_00
+  rotate: false
+  xy: 1901, 671
+  size: 178, 28
+  orig: 178, 28
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: false
+  xy: 1060, 441
+  size: 175, 52
+  orig: 175, 52
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 603, 436
+  size: 202, 73
+  orig: 202, 73
+  offset: 0, 0
+  index: -1
+Face_blue
+  rotate: false
+  xy: 807, 440
+  size: 196, 69
+  orig: 198, 74
+  offset: 2, 0
+  index: -1
+HairBack_00
+  rotate: false
+  xy: 1714, 8
+  size: 370, 539
+  orig: 371, 539
+  offset: 1, 0
+  index: -1
+HairBack_01
+  rotate: false
+  xy: 3291, 1007
+  size: 319, 354
+  orig: 319, 355
+  offset: 0, 0
+  index: -1
+HairFront_00
+  rotate: false
+  xy: 3230, 30
+  size: 250, 379
+  orig: 250, 379
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 3612, 1115
+  size: 246, 301
+  orig: 246, 301
+  offset: 0, 0
+  index: -1
+HighLight
+  rotate: true
+  xy: 1826, 565
+  size: 134, 38
+  orig: 134, 38
+  offset: 0, 0
+  index: -1
+Juice
+  rotate: false
+  xy: 2563, 20
+  size: 365, 742
+  orig: 365, 742
+  offset: 0, 0
+  index: -1
+Juice02
+  rotate: false
+  xy: 2563, 20
+  size: 365, 742
+  orig: 365, 742
+  offset: 0, 0
+  index: -1
+Juice03
+  rotate: false
+  xy: 2563, 20
+  size: 365, 742
+  orig: 365, 742
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 1280, 2
+  size: 285, 545
+  orig: 285, 545
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 2975, 884
+  size: 314, 772
+  orig: 314, 772
+  offset: 0, 0
+  index: -1
+L_manko
+  rotate: false
+  xy: 1005, 442
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+M_Body
+  rotate: false
+  xy: 993, 549
+  size: 791, 1107
+  orig: 791, 1108
+  offset: 0, 1
+  index: -1
+M_Drool
+  rotate: true
+  xy: 2352, 764
+  size: 104, 282
+  orig: 104, 282
+  offset: 0, 0
+  index: -1
+M_Eye
+  rotate: true
+  xy: 1901, 558
+  size: 111, 24
+  orig: 111, 25
+  offset: 0, 0
+  index: -1
+M_EyeWhite
+  rotate: true
+  xy: 1786, 549
+  size: 150, 38
+  orig: 150, 39
+  offset: 0, 1
+  index: -1
+M_Head
+  rotate: false
+  xy: 2, 11
+  size: 331, 398
+  orig: 332, 398
+  offset: 0, 0
+  index: -1
+M_L_arm
+  rotate: false
+  xy: 2086, 39
+  size: 475, 660
+  orig: 475, 660
+  offset: 0, 0
+  index: -1
+M_L_forearm
+  rotate: true
+  xy: 2352, 870
+  size: 786, 621
+  orig: 786, 621
+  offset: 0, 0
+  index: -1
+M_L_leg
+  rotate: false
+  xy: 2, 411
+  size: 532, 1245
+  orig: 532, 1245
+  offset: 0, 0
+  index: -1
+M_R_arm
+  rotate: true
+  xy: 335, 21
+  size: 388, 582
+  orig: 388, 582
+  offset: 0, 0
+  index: -1
+M_R_forearm
+  rotate: true
+  xy: 3230, 411
+  size: 471, 724
+  orig: 471, 724
+  offset: 0, 0
+  index: -1
+M_R_leg
+  rotate: false
+  xy: 536, 511
+  size: 455, 1145
+  orig: 455, 1145
+  offset: 0, 0
+  index: -1
+M_Tongue
+  rotate: true
+  xy: 2636, 764
+  size: 104, 208
+  orig: 104, 208
+  offset: 0, 0
+  index: -1
+Mouth_01
+  rotate: false
+  xy: 603, 415
+  size: 58, 19
+  orig: 58, 19
+  offset: 0, 0
+  index: -1
+Mouth_02
+  rotate: false
+  xy: 1237, 446
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Nipple
+  rotate: true
+  xy: 1866, 570
+  size: 129, 33
+  orig: 130, 34
+  offset: 1, 1
+  index: -1
+R_arm
+  rotate: false
+  xy: 1567, 4
+  size: 145, 543
+  orig: 145, 543
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 2930, 91
+  size: 298, 777
+  orig: 298, 777
+  offset: 0, 0
+  index: -1
+R_manko
+  rotate: true
+  xy: 536, 422
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1
+Tears
+  rotate: false
+  xy: 1927, 568
+  size: 153, 101
+  orig: 153, 101
+  offset: 0, 0
+  index: -1
+Tinko
+  rotate: true
+  xy: 3482, 32
+  size: 377, 467
+  orig: 377, 467
+  offset: 0, 0
+  index: -1
+TinkoJuice
+  rotate: false
+  xy: 919, 5
+  size: 359, 433
+  orig: 359, 433
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: false
+  xy: 2457, 707
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 1786, 701
+  size: 564, 955
+  orig: 564, 955
+  offset: 0, 0
+  index: -1
+stomach
+  rotate: true
+  xy: 3612, 903
+  size: 210, 255
+  orig: 210, 255
+  offset: 0, 0
+  index: -1
+
+monster_01_sex2.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mosaic/mosaic2
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

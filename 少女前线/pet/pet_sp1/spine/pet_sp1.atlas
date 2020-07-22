@@ -1,0 +1,90 @@
+
+pet_sp1.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 162, 48
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 110, 47
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 236, 53
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 28, 3
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 200, 43
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 88, 6
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 67, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 2, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: false
+  xy: 111, 25
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 111, 19
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 26
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+top2
+  rotate: false
+  xy: 63, 34
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1

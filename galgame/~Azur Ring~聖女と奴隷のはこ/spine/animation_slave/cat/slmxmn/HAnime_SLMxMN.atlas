@@ -1,0 +1,188 @@
+
+HAnime_SLMxMN.png
+size: 303,1034
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cat_Arm_1
+  rotate: true
+  xy: 230, 676
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+Cat_Arm_11
+  rotate: false
+  xy: 230, 760
+  size: 66, 44
+  orig: 66, 46
+  offset: 0, 1
+  index: -1
+Cat_Arm_2
+  rotate: true
+  xy: 156, 358
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+Cat_Face
+  rotate: false
+  xy: 233, 958
+  size: 66, 74
+  orig: 66, 76
+  offset: 0, 1
+  index: -1
+Cat_HairB
+  rotate: true
+  xy: 230, 861
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+Cat_Leg1
+  rotate: false
+  xy: 2, 961
+  size: 229, 71
+  orig: 229, 71
+  offset: 0, 0
+  index: -1
+Cat_Leg2
+  rotate: true
+  xy: 2, 475
+  size: 134, 215
+  orig: 134, 215
+  offset: 0, 0
+  index: -1
+Cat_Shilaimu2
+  rotate: false
+  xy: 156, 446
+  size: 38, 27
+  orig: 38, 29
+  offset: 0, 1
+  index: -1
+Cat_Tial
+  rotate: false
+  xy: 219, 444
+  size: 76, 142
+  orig: 76, 142
+  offset: 0, 0
+  index: -1
+Cat_body
+  rotate: false
+  xy: 2, 245
+  size: 150, 103
+  orig: 150, 103
+  offset: 0, 0
+  index: -1
+Cat_eye1
+  rotate: false
+  xy: 284, 663
+  size: 14, 11
+  orig: 14, 13
+  offset: 0, 1
+  index: -1
+Cat_eye2
+  rotate: false
+  xy: 284, 652
+  size: 12, 9
+  orig: 12, 11
+  offset: 0, 1
+  index: -1
+Cat_eyes
+  rotate: true
+  xy: 129, 147
+  size: 35, 32
+  orig: 35, 34
+  offset: 0, 1
+  index: -1
+Cat_hair
+  rotate: true
+  xy: 156, 226
+  size: 130, 138
+  orig: 130, 138
+  offset: 0, 0
+  index: -1
+Cat_opai1
+  rotate: true
+  xy: 129, 184
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+Cat_opai2
+  rotate: true
+  xy: 230, 588
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Cat_um
+  rotate: true
+  xy: 282, 588
+  size: 40, 19
+  orig: 40, 21
+  offset: 0, 1
+  index: -1
+S_1
+  rotate: false
+  xy: 107, 2
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+S_2
+  rotate: false
+  xy: 2, 2
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+S_3
+  rotate: false
+  xy: 198, 3
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+S_4
+  rotate: false
+  xy: 2, 129
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+S_5
+  rotate: false
+  xy: 2, 350
+  size: 152, 123
+  orig: 152, 123
+  offset: 0, 0
+  index: -1
+S_6
+  rotate: true
+  xy: 230, 630
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+S_7
+  rotate: true
+  xy: 230, 806
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+S_Body2
+  rotate: false
+  xy: 198, 128
+  size: 100, 96
+  orig: 100, 98
+  offset: 0, 1
+  index: -1
+Silaimu
+  rotate: true
+  xy: 2, 611
+  size: 348, 226
+  orig: 348, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+HAnime_NanzhuxTuzi.png
+size: 1640,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1206, 7
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1568, 4
+  size: 60, 70
+  orig: 60, 72
+  offset: 0, 1
+  index: -1
+HairB
+  rotate: false
+  xy: 1099, 12
+  size: 105, 131
+  orig: 105, 131
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 635, 2
+  size: 51, 52
+  orig: 51, 54
+  offset: 0, 1
+  index: -1
+L hand2
+  rotate: false
+  xy: 1346, 6
+  size: 49, 18
+  orig: 49, 20
+  offset: 0, 1
+  index: -1
+Leg1
+  rotate: true
+  xy: 713, 72
+  size: 71, 224
+  orig: 71, 224
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: true
+  xy: 2, 5
+  size: 138, 227
+  orig: 138, 227
+  offset: 0, 0
+  index: -1
+N_Arm1
+  rotate: true
+  xy: 540, 2
+  size: 51, 93
+  orig: 51, 95
+  offset: 0, 1
+  index: -1
+N_Arm1_1
+  rotate: false
+  xy: 1477, 50
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+N_Arm2
+  rotate: false
+  xy: 330, 13
+  size: 88, 27
+  orig: 88, 29
+  offset: 0, 1
+  index: -1
+N_Arm2-2
+  rotate: true
+  xy: 231, 12
+  size: 28, 97
+  orig: 28, 97
+  offset: 0, 0
+  index: -1
+N_Body
+  rotate: true
+  xy: 514, 55
+  size: 88, 197
+  orig: 88, 197
+  offset: 0, 0
+  index: -1
+N_Face
+  rotate: true
+  xy: 1025, 73
+  size: 70, 72
+  orig: 70, 74
+  offset: 0, 1
+  index: -1
+N_HC
+  rotate: true
+  xy: 757, 56
+  size: 14, 40
+  orig: 14, 42
+  offset: 0, 1
+  index: -1
+N_Hair
+  rotate: true
+  xy: 1392, 37
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+N_Hair2
+  rotate: false
+  xy: 1506, 11
+  size: 18, 37
+  orig: 18, 39
+  offset: 0, 1
+  index: -1
+N_HairB
+  rotate: true
+  xy: 481, 2
+  size: 38, 57
+  orig: 38, 59
+  offset: 0, 1
+  index: -1
+N_Handn
+  rotate: true
+  xy: 1451, 5
+  size: 30, 26
+  orig: 30, 28
+  offset: 0, 1
+  index: -1
+N_JJ
+  rotate: false
+  xy: 1299, 2
+  size: 45, 22
+  orig: 45, 24
+  offset: 0, 1
+  index: -1
+N_JJ2
+  rotate: true
+  xy: 1479, 21
+  size: 27, 25
+  orig: 27, 27
+  offset: 0, 1
+  index: -1
+N_Leg1
+  rotate: true
+  xy: 825, 13
+  size: 57, 272
+  orig: 57, 272
+  offset: 0, 0
+  index: -1
+N_Leg2
+  rotate: true
+  xy: 231, 42
+  size: 101, 281
+  orig: 101, 281
+  offset: 0, 0
+  index: -1
+N_tiao
+  rotate: false
+  xy: 1397, 10
+  size: 52, 25
+  orig: 209, 325
+  offset: 0, 300
+  index: -1
+R hand
+  rotate: true
+  xy: 420, 2
+  size: 38, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 1526, 23
+  size: 25, 23
+  orig: 25, 25
+  offset: 0, 1
+  index: -1
+cloth
+  rotate: false
+  xy: 689, 7
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 939, 73
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 1568, 66
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 799, 57
+  size: 13, 13
+  orig: 13, 15
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 514, 42
+  size: 11, 13
+  orig: 11, 15
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 713, 56
+  size: 42, 14
+  orig: 42, 16
+  offset: 0, 1
+  index: -1
+hair
+  rotate: false
+  xy: 1299, 26
+  size: 91, 117
+  orig: 91, 117
+  offset: 0, 0
+  index: -1
+opai1
+  rotate: false
+  xy: 747, 5
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+opai2
+  rotate: false
+  xy: 789, 7
+  size: 34, 47
+  orig: 37, 47
+  offset: 3, 0
+  index: -1

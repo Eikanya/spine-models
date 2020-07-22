@@ -1,0 +1,41 @@
+
+CGCut_1.png
+size: 998,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Di
+  rotate: false
+  xy: 2, 2
+  size: 859, 558
+  orig: 859, 560
+  offset: 0, 1
+  index: -1
+Han
+  rotate: false
+  xy: 863, 118
+  size: 41, 73
+  orig: 41, 75
+  offset: 0, 1
+  index: -1
+Jingtan
+  rotate: true
+  xy: 863, 309
+  size: 114, 102
+  orig: 114, 104
+  offset: 0, 1
+  index: -1
+Jingtan2
+  rotate: true
+  xy: 863, 193
+  size: 114, 94
+  orig: 114, 104
+  offset: 0, 1
+  index: -1
+Leg
+  rotate: true
+  xy: 863, 425
+  size: 135, 133
+  orig: 135, 133
+  offset: 0, 0
+  index: -1

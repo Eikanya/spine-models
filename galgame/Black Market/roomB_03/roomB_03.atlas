@@ -1,0 +1,181 @@
+
+roomB_03.png
+size: 1440,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackHair_00
+  rotate: false
+  xy: 2, 480
+  size: 380, 553
+  orig: 380, 553
+  offset: 0, 0
+  index: -1
+BackHair_01
+  rotate: false
+  xy: 2, 115
+  size: 327, 363
+  orig: 327, 363
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 384, 592
+  size: 281, 607
+  orig: 281, 607
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 722, 186
+  size: 240, 304
+  orig: 240, 304
+  offset: 0, 0
+  index: -1
+Cloth_B
+  rotate: false
+  xy: 722, 2
+  size: 292, 182
+  orig: 292, 183
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 1370, 467
+  size: 131, 51
+  orig: 131, 51
+  offset: 0, 0
+  index: -1
+EyeBrow_00
+  rotate: true
+  xy: 1335, 414
+  size: 184, 33
+  orig: 184, 33
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: true
+  xy: 1091, 441
+  size: 169, 50
+  orig: 169, 50
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1365, 600
+  size: 195, 71
+  orig: 195, 71
+  offset: 0, 0
+  index: -1
+HairFront_00
+  rotate: true
+  xy: 331, 170
+  size: 256, 389
+  orig: 256, 389
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1149, 797
+  size: 236, 289
+  orig: 236, 290
+  offset: 0, 0
+  index: -1
+HighLight
+  rotate: true
+  xy: 675, 40
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 1151, 136
+  size: 95, 505
+  orig: 95, 505
+  offset: 0, 0
+  index: -1
+L_arm_P
+  rotate: false
+  xy: 1248, 172
+  size: 87, 230
+  orig: 87, 230
+  offset: 0, 0
+  index: -1
+L_forearm_P
+  rotate: true
+  xy: 2, 6
+  size: 107, 307
+  orig: 107, 307
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 384, 875
+  size: 158, 763
+  orig: 158, 763
+  offset: 0, 0
+  index: -1
+L_shoe_00
+  rotate: true
+  xy: 1137, 643
+  size: 152, 226
+  orig: 152, 226
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1137, 623
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Mouth02
+  rotate: false
+  xy: 331, 440
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+Nipple
+  rotate: true
+  xy: 1337, 278
+  size: 134, 31
+  orig: 134, 32
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 1248, 404
+  size: 85, 237
+  orig: 85, 237
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: false
+  xy: 1028, 63
+  size: 121, 363
+  orig: 121, 363
+  offset: 0, 0
+  index: -1
+R_forearm_P
+  rotate: true
+  xy: 331, 2
+  size: 166, 342
+  orig: 167, 342
+  offset: 1, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 384, 428
+  size: 162, 705
+  orig: 162, 705
+  offset: 0, 0
+  index: -1
+R_shoe_00
+  rotate: false
+  xy: 993, 612
+  size: 142, 261
+  orig: 142, 261
+  offset: 0, 0
+  index: -1

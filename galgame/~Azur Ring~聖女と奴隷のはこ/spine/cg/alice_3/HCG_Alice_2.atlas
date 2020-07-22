@@ -1,0 +1,181 @@
+
+HCG_Alice_2.png
+size: 3624,4196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL
+  rotate: true
+  xy: 2, 127
+  size: 419, 733
+  orig: 419, 733
+  offset: 0, 0
+  index: -1
+BG1
+  rotate: false
+  xy: 2, 2896
+  size: 2306, 1298
+  orig: 2306, 1298
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 2, 1598
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+Body_
+  rotate: false
+  xy: 2, 548
+  size: 1536, 1048
+  orig: 1536, 1048
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1189, 195
+  size: 315, 351
+  orig: 315, 351
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 3179, 1227
+  size: 659, 434
+  orig: 659, 434
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 1506, 55
+  size: 430, 282
+  orig: 430, 282
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 1540, 520
+  size: 1076, 819
+  orig: 1076, 819
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 737, 2
+  size: 228, 292
+  orig: 228, 294
+  offset: 0, 1
+  index: -1
+MS
+  rotate: false
+  xy: 3557, 671
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+NArm2
+  rotate: false
+  xy: 737, 232
+  size: 450, 314
+  orig: 450, 314
+  offset: 0, 0
+  index: -1
+N_Body
+  rotate: true
+  xy: 2361, 304
+  size: 1582, 816
+  orig: 1582, 816
+  offset: 0, 0
+  index: -1
+N_Hair
+  rotate: true
+  xy: 3179, 729
+  size: 496, 443
+  orig: 496, 443
+  offset: 0, 0
+  index: -1
+N_face
+  rotate: false
+  xy: 3179, 368
+  size: 376, 359
+  orig: 376, 361
+  offset: 0, 1
+  index: -1
+Nnan1
+  rotate: true
+  xy: 1506, 339
+  size: 179, 574
+  orig: 179, 574
+  offset: 0, 0
+  index: -1
+Opai1
+  rotate: true
+  xy: 2359, 14
+  size: 288, 314
+  orig: 288, 314
+  offset: 0, 0
+  index: -1
+Opai1-2
+  rotate: true
+  xy: 2675, 16
+  size: 286, 311
+  orig: 286, 311
+  offset: 0, 0
+  index: -1
+Opai2
+  rotate: true
+  xy: 2082, 189
+  size: 329, 275
+  orig: 329, 275
+  offset: 0, 0
+  index: -1
+PP
+  rotate: false
+  xy: 3179, 15
+  size: 384, 351
+  orig: 384, 351
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 74
+  size: 57, 51
+  orig: 57, 53
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 2310, 1836
+  size: 42, 50
+  orig: 42, 52
+  offset: 0, 1
+  index: -1
+eyesB
+  rotate: true
+  xy: 1031, 69
+  size: 161, 152
+  orig: 161, 154
+  offset: 0, 1
+  index: -1
+kuang
+  rotate: true
+  xy: 2310, 1888
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+mi1
+  rotate: true
+  xy: 2988, 53
+  size: 249, 143
+  orig: 249, 143
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1938, 237
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+HCG_Yana_1.png
+size: 6456,1670
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1
+  rotate: true
+  xy: 903, 168
+  size: 202, 884
+  orig: 207, 884
+  offset: 5, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 4827, 87
+  size: 423, 760
+  orig: 423, 760
+  offset: 0, 0
+  index: -1
+Arm2_1
+  rotate: false
+  xy: 6141, 205
+  size: 282, 397
+  orig: 282, 397
+  offset: 0, 0
+  index: -1
+Bg
+  rotate: false
+  xy: 3211, 512
+  size: 2057, 1156
+  orig: 2057, 1158
+  offset: 0, 1
+  index: -1
+Black
+  rotate: false
+  xy: 903, 372
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+Blood
+  rotate: false
+  xy: 1373, 65
+  size: 54, 101
+  orig: 54, 103
+  offset: 0, 1
+  index: -1
+Body
+  rotate: true
+  xy: 2, 166
+  size: 1502, 899
+  orig: 1502, 899
+  offset: 0, 0
+  index: -1
+Ear1
+  rotate: false
+  xy: 6282, 1438
+  size: 172, 230
+  orig: 172, 230
+  offset: 0, 0
+  index: -1
+Ear2
+  rotate: false
+  xy: 6141, 111
+  size: 282, 92
+  orig: 282, 92
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 3393, 6
+  size: 408, 504
+  orig: 408, 504
+  offset: 0, 0
+  index: -1
+H1
+  rotate: true
+  xy: 2434, 78
+  size: 292, 544
+  orig: 292, 544
+  offset: 0, 0
+  index: -1
+H2
+  rotate: false
+  xy: 4616, 23
+  size: 209, 487
+  orig: 209, 487
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 5589, 11
+  size: 550, 591
+  orig: 550, 591
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: false
+  xy: 5270, 604
+  size: 1010, 1064
+  orig: 1010, 1064
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: false
+  xy: 1789, 8
+  size: 221, 362
+  orig: 221, 364
+  offset: 0, 1
+  index: -1
+KS
+  rotate: true
+  xy: 1531, 78
+  size: 88, 72
+  orig: 89, 73
+  offset: 1, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 3803, 13
+  size: 811, 497
+  orig: 811, 497
+  offset: 0, 0
+  index: -1
+M1
+  rotate: true
+  xy: 547, 53
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+M2
+  rotate: true
+  xy: 627, 54
+  size: 110, 98
+  orig: 110, 99
+  offset: 0, 1
+  index: -1
+N_Body
+  rotate: false
+  xy: 727, 56
+  size: 644, 108
+  orig: 644, 108
+  offset: 0, 0
+  index: -1
+Opai1
+  rotate: true
+  xy: 2012, 54
+  size: 316, 420
+  orig: 316, 435
+  offset: 0, 1
+  index: -1
+Opai2
+  rotate: true
+  xy: 2980, 84
+  size: 286, 411
+  orig: 286, 411
+  offset: 0, 0
+  index: -1
+YW
+  rotate: false
+  xy: 6141, 14
+  size: 273, 95
+  orig: 273, 172
+  offset: 0, 38
+  index: -1
+Yeti2
+  rotate: true
+  xy: 238, 14
+  size: 150, 307
+  orig: 150, 309
+  offset: 0, 1
+  index: -1
+Yetii
+  rotate: false
+  xy: 6282, 1152
+  size: 169, 284
+  orig: 169, 286
+  offset: 0, 1
+  index: -1
+eye1
+  rotate: false
+  xy: 1373, 2
+  size: 60, 61
+  orig: 60, 63
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 727, 2
+  size: 52, 51
+  orig: 52, 53
+  offset: 0, 1
+  index: -1
+eyesb
+  rotate: false
+  xy: 2, 8
+  size: 234, 156
+  orig: 234, 156
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1429, 66
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

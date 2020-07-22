@@ -1,0 +1,251 @@
+
+HAnime_NanzhuxAlice.png
+size: 225,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1
+  rotate: true
+  xy: 147, 384
+  size: 25, 75
+  orig: 25, 77
+  offset: 0, 1
+  index: -1
+Arm1-1
+  rotate: false
+  xy: 137, 143
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 2, 42
+  size: 33, 54
+  orig: 33, 56
+  offset: 0, 1
+  index: -1
+Arm2-1
+  rotate: true
+  xy: 170, 681
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 641
+  size: 153, 67
+  orig: 153, 67
+  offset: 0, 0
+  index: -1
+Face1
+  rotate: false
+  xy: 156, 487
+  size: 64, 74
+  orig: 64, 76
+  offset: 0, 1
+  index: -1
+Face2
+  rotate: false
+  xy: 156, 411
+  size: 64, 74
+  orig: 64, 76
+  offset: 0, 1
+  index: -1
+H LBS
+  rotate: true
+  xy: 175, 750
+  size: 66, 48
+  orig: 67, 48
+  offset: 1, 0
+  index: -1
+HC
+  rotate: true
+  xy: 137, 28
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+HCB
+  rotate: false
+  xy: 137, 79
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+HL
+  rotate: true
+  xy: 97, 36
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 2, 472
+  size: 125, 152
+  orig: 125, 152
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 77
+  size: 79, 93
+  orig: 79, 94
+  offset: 0, 1
+  index: -1
+Leg1
+  rotate: true
+  xy: 2, 294
+  size: 59, 133
+  orig: 59, 135
+  offset: 0, 1
+  index: -1
+Leg1-1
+  rotate: false
+  xy: 2, 599
+  size: 153, 40
+  orig: 153, 40
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: false
+  xy: 157, 563
+  size: 65, 116
+  orig: 65, 118
+  offset: 0, 1
+  index: -1
+Leg2-2
+  rotate: false
+  xy: 2, 429
+  size: 151, 41
+  orig: 151, 41
+  offset: 0, 0
+  index: -1
+M1
+  rotate: false
+  xy: 2, 2
+  size: 43, 38
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+M2
+  rotate: false
+  xy: 47, 2
+  size: 43, 38
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+N_ Face
+  rotate: true
+  xy: 147, 312
+  size: 70, 72
+  orig: 70, 74
+  offset: 0, 1
+  index: -1
+N_Arm1
+  rotate: false
+  xy: 102, 142
+  size: 33, 98
+  orig: 33, 100
+  offset: 0, 1
+  index: -1
+N_Arm1_1
+  rotate: false
+  xy: 2, 158
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+N_Arm2
+  rotate: true
+  xy: 2, 759
+  size: 68, 171
+  orig: 68, 171
+  offset: 0, 0
+  index: -1
+N_Body
+  rotate: true
+  xy: 2, 829
+  size: 89, 197
+  orig: 89, 197
+  offset: 0, 0
+  index: -1
+N_HC
+  rotate: false
+  xy: 200, 37
+  size: 14, 40
+  orig: 14, 42
+  offset: 0, 1
+  index: -1
+N_Hair
+  rotate: true
+  xy: 137, 205
+  size: 105, 83
+  orig: 106, 83
+  offset: 1, 0
+  index: -1
+N_HairB
+  rotate: false
+  xy: 97, 83
+  size: 38, 57
+  orig: 38, 59
+  offset: 0, 1
+  index: -1
+N_HandR2
+  rotate: false
+  xy: 201, 835
+  size: 19, 37
+  orig: 19, 39
+  offset: 0, 1
+  index: -1
+N_JJ
+  rotate: true
+  xy: 201, 874
+  size: 44, 22
+  orig: 44, 24
+  offset: 0, 1
+  index: -1
+N_JJ2
+  rotate: false
+  xy: 58, 50
+  size: 26, 25
+  orig: 26, 27
+  offset: 0, 1
+  index: -1
+N_Leg1
+  rotate: true
+  xy: 2, 242
+  size: 50, 133
+  orig: 50, 135
+  offset: 0, 1
+  index: -1
+N_Leg1-1
+  rotate: false
+  xy: 2, 710
+  size: 166, 47
+  orig: 166, 47
+  offset: 0, 0
+  index: -1
+N_Leg1_2
+  rotate: true
+  xy: 2, 355
+  size: 72, 143
+  orig: 72, 145
+  offset: 0, 1
+  index: -1
+eyeB
+  rotate: false
+  xy: 201, 818
+  size: 17, 15
+  orig: 17, 17
+  offset: 0, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 175, 818
+  size: 14, 9
+  orig: 14, 11
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+CGCut_2.png
+size: 2921,682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 863, 152
+  size: 831, 528
+  orig: 831, 530
+  offset: 0, 1
+  index: -1
+Body
+  rotate: true
+  xy: 1696, 232
+  size: 448, 535
+  orig: 448, 535
+  offset: 0, 0
+  index: -1
+Boy
+  rotate: false
+  xy: 2233, 261
+  size: 356, 419
+  orig: 356, 419
+  offset: 0, 0
+  index: -1
+Erduo2
+  rotate: true
+  xy: 2, 4
+  size: 116, 295
+  orig: 116, 295
+  offset: 0, 0
+  index: -1
+Erduo_1
+  rotate: true
+  xy: 906, 22
+  size: 128, 309
+  orig: 128, 311
+  offset: 0, 1
+  index: -1
+Hair_1
+  rotate: true
+  xy: 1217, 4
+  size: 146, 233
+  orig: 146, 233
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: true
+  xy: 610, 2
+  size: 118, 238
+  orig: 118, 238
+  offset: 0, 0
+  index: -1
+Hand_1
+  rotate: false
+  xy: 1736, 6
+  size: 386, 224
+  orig: 386, 224
+  offset: 0, 0
+  index: -1
+Hand_2
+  rotate: true
+  xy: 2591, 315
+  size: 365, 328
+  orig: 365, 328
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1452, 30
+  size: 282, 120
+  orig: 282, 122
+  offset: 0, 1
+  index: -1
+Hounao
+  rotate: false
+  xy: 299, 20
+  size: 309, 100
+  orig: 309, 102
+  offset: 0, 1
+  index: -1
+Kuang
+  rotate: false
+  xy: 2, 122
+  size: 859, 558
+  orig: 859, 560
+  offset: 0, 1
+  index: -1
+Mawei_1
+  rotate: true
+  xy: 2233, 3
+  size: 256, 299
+  orig: 256, 299
+  offset: 0, 0
+  index: -1
+Mawei_2
+  rotate: true
+  xy: 2534, 3
+  size: 256, 299
+  orig: 256, 299
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: true
+  xy: 850, 56
+  size: 64, 35
+  orig: 64, 37
+  offset: 0, 1
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 850, 16
+  size: 54, 38
+  orig: 54, 40
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,125 @@
+
+supporter_01.png
+size: 3652,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 332
+  size: 640, 1287
+  orig: 640, 1287
+  offset: 0, 0
+  index: -1
+Body_cloth
+  rotate: true
+  xy: 2156, 317
+  size: 655, 1028
+  orig: 655, 1028
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 3581, 520
+  size: 193, 68
+  orig: 193, 68
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 3280, 22
+  size: 287, 33
+  orig: 287, 33
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1671, 595
+  size: 293, 110
+  orig: 293, 110
+  offset: 0, 0
+  index: -1
+FaceBlue
+  rotate: true
+  xy: 1291, 575
+  size: 397, 378
+  orig: 411, 404
+  offset: 0, 17
+  index: -1
+HairBack
+  rotate: false
+  xy: 3186, 505
+  size: 393, 467
+  orig: 393, 467
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 3186, 505
+  size: 393, 467
+  orig: 393, 467
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 3280, 57
+  size: 365, 446
+  orig: 365, 446
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1671, 707
+  size: 265, 409
+  orig: 265, 409
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: true
+  xy: 1291, 360
+  size: 213, 560
+  orig: 213, 560
+  offset: 0, 0
+  index: -1
+L_hair
+  rotate: true
+  xy: 1032, 31
+  size: 299, 1122
+  orig: 299, 1122
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1032, 4
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 2, 2
+  size: 328, 1028
+  orig: 328, 1028
+  offset: 0, 0
+  index: -1
+R_hair
+  rotate: true
+  xy: 2156, 16
+  size: 299, 1122
+  orig: 299, 1122
+  offset: 0, 0
+  index: -1
+WhiteEye
+  rotate: true
+  xy: 3581, 715
+  size: 257, 69
+  orig: 257, 69
+  offset: 0, 0
+  index: -1
+tara
+  rotate: true
+  xy: 3569, 19
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1

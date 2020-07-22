@@ -1,0 +1,209 @@
+
+HAnime_NZxLiya2.png
+size: 736,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_Arm1
+  rotate: false
+  xy: 367, 141
+  size: 123, 77
+  orig: 126, 79
+  offset: 1, 1
+  index: -1
+G_Arm1_1
+  rotate: false
+  xy: 514, 220
+  size: 113, 53
+  orig: 114, 54
+  offset: 1, 1
+  index: -1
+G_Arm2
+  rotate: false
+  xy: 311, 57
+  size: 53, 92
+  orig: 53, 94
+  offset: 0, 1
+  index: -1
+G_Leg1
+  rotate: false
+  xy: 226, 65
+  size: 83, 84
+  orig: 83, 86
+  offset: 0, 1
+  index: -1
+G_Leg1-1
+  rotate: false
+  xy: 456, 71
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+Liya_Arm2
+  rotate: false
+  xy: 644, 46
+  size: 59, 75
+  orig: 59, 77
+  offset: 0, 1
+  index: -1
+Liya_Arm2-2
+  rotate: true
+  xy: 366, 62
+  size: 77, 88
+  orig: 77, 90
+  offset: 0, 1
+  index: -1
+Liya_Arm33
+  rotate: false
+  xy: 226, 2
+  size: 76, 61
+  orig: 76, 63
+  offset: 0, 1
+  index: -1
+Liya_Arm34
+  rotate: false
+  xy: 523, 6
+  size: 33, 63
+  orig: 33, 65
+  offset: 0, 1
+  index: -1
+Liya_Body
+  rotate: true
+  xy: 228, 151
+  size: 67, 137
+  orig: 69, 139
+  offset: 1, 1
+  index: -1
+Liya_Ear1
+  rotate: false
+  xy: 366, 14
+  size: 61, 46
+  orig: 62, 48
+  offset: 0, 1
+  index: -1
+Liya_Ear2
+  rotate: false
+  xy: 304, 8
+  size: 60, 47
+  orig: 62, 49
+  offset: 1, 1
+  index: -1
+Liya_Eye1
+  rotate: false
+  xy: 456, 125
+  size: 14, 14
+  orig: 14, 16
+  offset: 0, 1
+  index: -1
+Liya_Eye2
+  rotate: false
+  xy: 624, 42
+  size: 11, 12
+  orig: 11, 14
+  offset: 0, 1
+  index: -1
+Liya_Face
+  rotate: true
+  xy: 566, 56
+  size: 65, 76
+  orig: 65, 78
+  offset: 0, 1
+  index: -1
+Liya_Hair3
+  rotate: true
+  xy: 558, 27
+  size: 27, 64
+  orig: 29, 66
+  offset: 1, 1
+  index: -1
+Liya_Hair_2
+  rotate: true
+  xy: 492, 123
+  size: 95, 101
+  orig: 97, 103
+  offset: 1, 1
+  index: -1
+Liya_LLeg2
+  rotate: true
+  xy: 163, 52
+  size: 100, 61
+  orig: 100, 63
+  offset: 0, 1
+  index: -1
+Liya_LLeg22
+  rotate: false
+  xy: 595, 123
+  size: 106, 46
+  orig: 108, 48
+  offset: 1, 1
+  index: -1
+Liya_Yanbei
+  rotate: false
+  xy: 558, 6
+  size: 49, 19
+  orig: 49, 21
+  offset: 0, 1
+  index: -1
+Nan_Face
+  rotate: false
+  xy: 456, 2
+  size: 65, 67
+  orig: 65, 69
+  offset: 0, 1
+  index: -1
+Nan_HC
+  rotate: false
+  xy: 703, 133
+  size: 27, 36
+  orig: 29, 36
+  offset: 1, 0
+  index: -1
+Nan_Hair
+  rotate: false
+  xy: 629, 171
+  size: 105, 102
+  orig: 109, 104
+  offset: 2, 0
+  index: -1
+Nan_HairB
+  rotate: false
+  xy: 163, 2
+  size: 59, 48
+  orig: 59, 50
+  offset: 0, 1
+  index: -1
+Nan_JJ
+  rotate: false
+  xy: 595, 174
+  size: 26, 44
+  orig: 26, 46
+  offset: 0, 1
+  index: -1
+Nan_JJBody
+  rotate: true
+  xy: 2, 5
+  size: 147, 159
+  orig: 149, 160
+  offset: 2, 1
+  index: -1
+Nan_JJLeg2
+  rotate: false
+  xy: 228, 220
+  size: 284, 53
+  orig: 285, 54
+  offset: 0, 0
+  index: -1
+Nan_Leg1
+  rotate: false
+  xy: 2, 154
+  size: 224, 119
+  orig: 226, 121
+  offset: 1, 1
+  index: -1
+Nan_hair2
+  rotate: false
+  xy: 429, 20
+  size: 14, 40
+  orig: 16, 41
+  offset: 1, 1
+  index: -1

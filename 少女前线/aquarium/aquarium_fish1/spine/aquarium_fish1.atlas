@@ -1,0 +1,41 @@
+
+aquarium_fish1.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T11
+  rotate: false
+  xy: 519, 28
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+T13
+  rotate: false
+  xy: 644, 100
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+type1
+  rotate: true
+  xy: 519, 73
+  size: 53, 123
+  orig: 53, 123
+  offset: 0, 0
+  index: -1
+yuqun1
+  rotate: false
+  xy: 2, 2
+  size: 268, 124
+  orig: 268, 124
+  offset: 0, 0
+  index: -1
+yuqun2
+  rotate: false
+  xy: 272, 25
+  size: 245, 101
+  orig: 245, 101
+  offset: 0, 0
+  index: -1

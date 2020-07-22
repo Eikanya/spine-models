@@ -1,0 +1,10 @@
+{
+  "textures": [
+    "spine/4type.png"
+  ],
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "spine/R4type.skel",
+  "atlas": "spine/4type.atlas"
+}

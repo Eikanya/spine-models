@@ -1,0 +1,118 @@
+
+Angel.png
+size: 172,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 2, 206
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+Hair_B1
+  rotate: false
+  xy: 135, 37
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+Hair_B2
+  rotate: false
+  xy: 2, 327
+  size: 160, 136
+  orig: 160, 136
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 135, 138
+  size: 35, 58
+  orig: 35, 60
+  offset: 0, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 135, 198
+  size: 35, 59
+  orig: 35, 61
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 107
+  size: 97, 97
+  orig: 97, 99
+  offset: 0, 1
+  index: -1
+Leg_L1
+  rotate: true
+  xy: 135, 112
+  size: 24, 33
+  orig: 24, 38
+  offset: 0, 1
+  index: -1
+Leg_L2
+  rotate: true
+  xy: 128, 11
+  size: 24, 39
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Leg_R1
+  rotate: false
+  xy: 65, 66
+  size: 28, 39
+  orig: 28, 41
+  offset: 0, 1
+  index: -1
+Leg_R2
+  rotate: true
+  xy: 101, 101
+  size: 21, 32
+  orig: 21, 35
+  offset: 0, 1
+  index: -1
+Skirt
+  rotate: true
+  xy: 101, 124
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Wing1
+  rotate: false
+  xy: 2, 60
+  size: 61, 45
+  orig: 61, 47
+  offset: 0, 1
+  index: -1
+Wing2
+  rotate: false
+  xy: 65, 19
+  size: 61, 45
+  orig: 61, 47
+  offset: 0, 1
+  index: -1
+face
+  rotate: true
+  xy: 135, 259
+  size: 66, 35
+  orig: 66, 37
+  offset: 0, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 164, 455
+  size: 8, 2
+  orig: 8, 4
+  offset: 0, 1
+  index: -1

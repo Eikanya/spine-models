@@ -1,0 +1,223 @@
+
+HCG_Liya_1.png
+size: 2649,4126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: true
+  xy: 2, 1818
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+Foot
+  rotate: true
+  xy: 782, 220
+  size: 298, 313
+  orig: 298, 356
+  offset: 0, 0
+  index: -1
+JJ
+  rotate: true
+  xy: 1712, 376
+  size: 142, 377
+  orig: 142, 377
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: true
+  xy: 1097, 241
+  size: 277, 613
+  orig: 277, 613
+  offset: 0, 0
+  index: -1
+LegA1
+  rotate: false
+  xy: 1300, 2228
+  size: 1209, 685
+  orig: 1209, 687
+  offset: 0, 1
+  index: -1
+LegA2
+  rotate: true
+  xy: 1300, 2915
+  size: 1209, 687
+  orig: 1209, 687
+  offset: 0, 0
+  index: -1
+NB
+  rotate: false
+  xy: 1733, 2088
+  size: 907, 138
+  orig: 907, 138
+  offset: 0, 0
+  index: -1
+Opai1
+  rotate: false
+  xy: 1973, 85
+  size: 159, 169
+  orig: 159, 169
+  offset: 0, 0
+  index: -1
+Opai2
+  rotate: true
+  xy: 2397, 174
+  size: 165, 152
+  orig: 165, 152
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 520
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+leg1
+  rotate: true
+  xy: 1989, 2965
+  size: 1159, 568
+  orig: 1159, 568
+  offset: 0, 0
+  index: -1
+legYTL
+  rotate: true
+  xy: 2310, 1428
+  size: 658, 335
+  orig: 658, 335
+  offset: 0, 0
+  index: -1
+liya_Arm1
+  rotate: false
+  xy: 2310, 748
+  size: 328, 678
+  orig: 328, 678
+  offset: 0, 0
+  index: -1
+liya_Body
+  rotate: true
+  xy: 2, 2
+  size: 516, 778
+  orig: 516, 778
+  offset: 0, 0
+  index: -1
+liya_Ear1
+  rotate: true
+  xy: 1733, 1838
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+liya_Ear2
+  rotate: false
+  xy: 1987, 1849
+  size: 245, 237
+  orig: 245, 237
+  offset: 0, 0
+  index: -1
+liya_FS
+  rotate: true
+  xy: 2511, 2245
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+liya_HC
+  rotate: false
+  xy: 2511, 2607
+  size: 127, 356
+  orig: 127, 356
+  offset: 0, 0
+  index: -1
+liya_HCB
+  rotate: false
+  xy: 2511, 2358
+  size: 129, 247
+  orig: 129, 247
+  offset: 0, 0
+  index: -1
+liya_Hair
+  rotate: false
+  xy: 1300, 1827
+  size: 431, 399
+  orig: 431, 399
+  offset: 0, 0
+  index: -1
+liya_eye1
+  rotate: false
+  xy: 2234, 1929
+  size: 51, 51
+  orig: 51, 53
+  offset: 0, 1
+  index: -1
+liya_eye2
+  rotate: true
+  xy: 1989, 2924
+  size: 39, 41
+  orig: 39, 43
+  offset: 0, 1
+  index: -1
+liya_eyesb
+  rotate: true
+  xy: 2559, 3677
+  size: 201, 54
+  orig: 201, 54
+  offset: 0, 0
+  index: -1
+liya_face
+  rotate: false
+  xy: 2310, 341
+  size: 322, 405
+  orig: 322, 405
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 1973, 274
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yeti1
+  rotate: false
+  xy: 1712, 132
+  size: 111, 242
+  orig: 111, 244
+  offset: 0, 1
+  index: -1
+yeti2
+  rotate: false
+  xy: 2234, 1982
+  size: 56, 104
+  orig: 56, 106
+  offset: 0, 1
+  index: -1
+yeti3
+  rotate: false
+  xy: 1825, 156
+  size: 146, 218
+  orig: 146, 220
+  offset: 0, 1
+  index: -1
+yeti4
+  rotate: false
+  xy: 2253, 155
+  size: 142, 184
+  orig: 142, 186
+  offset: 0, 1
+  index: -1
+yeti5
+  rotate: false
+  xy: 2091, 256
+  size: 160, 262
+  orig: 160, 264
+  offset: 0, 1
+  index: -1
+yeti6
+  rotate: false
+  xy: 2559, 3880
+  size: 88, 244
+  orig: 88, 246
+  offset: 0, 1
+  index: -1

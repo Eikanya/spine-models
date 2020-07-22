@@ -1,0 +1,97 @@
+
+catch_01.png
+size: 2772,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 880, 216
+  size: 358, 647
+  orig: 358, 647
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 1789, 223
+  size: 122, 41
+  orig: 122, 41
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 2595, 10
+  size: 175, 39
+  orig: 175, 39
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: false
+  xy: 2426, 2
+  size: 167, 47
+  orig: 167, 47
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 2669, 148
+  size: 197, 83
+  orig: 197, 84
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: true
+  xy: 2, 4
+  size: 570, 594
+  orig: 570, 594
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 1529, 248
+  size: 258, 326
+  orig: 258, 326
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2426, 51
+  size: 241, 294
+  orig: 241, 294
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 598, 16
+  size: 280, 558
+  orig: 280, 558
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 880, 15
+  size: 199, 963
+  orig: 213, 963
+  offset: 14, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1529, 222
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1845, 38
+  size: 307, 579
+  orig: 307, 579
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1789, 347
+  size: 227, 958
+  orig: 227, 958
+  offset: 0, 0
+  index: -1

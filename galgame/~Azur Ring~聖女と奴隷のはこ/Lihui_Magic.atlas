@@ -1,0 +1,237 @@
+
+Lihui_Magic.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 481, 1091
+  size: 212, 244
+  orig: 212, 244
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 930, 1109
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1086, 956
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 503, 338
+  size: 241, 211
+  orig: 241, 211
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 1061
+  size: 346, 981
+  orig: 346, 981
+  offset: 0, 0
+  index: -1
+C1
+  rotate: true
+  xy: 710, 650
+  size: 449, 374
+  orig: 449, 374
+  offset: 0, 0
+  index: -1
+ClothB
+  rotate: false
+  xy: 2, 295
+  size: 229, 764
+  orig: 229, 764
+  offset: 0, 0
+  index: -1
+ClothB2
+  rotate: false
+  xy: 233, 328
+  size: 268, 731
+  orig: 268, 731
+  offset: 0, 0
+  index: -1
+Daizi_1
+  rotate: true
+  xy: 416, 1074
+  size: 261, 63
+  orig: 261, 63
+  offset: 0, 0
+  index: -1
+Daizi_2
+  rotate: true
+  xy: 1026, 1118
+  size: 44, 145
+  orig: 44, 145
+  offset: 0, 0
+  index: -1
+Daizi_3
+  rotate: false
+  xy: 350, 1066
+  size: 64, 269
+  orig: 64, 269
+  offset: 0, 0
+  index: -1
+Ear_L
+  rotate: true
+  xy: 710, 553
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: true
+  xy: 882, 1104
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+Eye_L
+  rotate: false
+  xy: 554, 1064
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+Eye_R
+  rotate: false
+  xy: 610, 1065
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+HAnd_L2
+  rotate: true
+  xy: 1145, 405
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+Hand_L1
+  rotate: false
+  xy: 791, 345
+  size: 168, 303
+  orig: 168, 303
+  offset: 0, 0
+  index: -1
+Hand_R1
+  rotate: false
+  xy: 416, 2
+  size: 249, 324
+  orig: 249, 324
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 695, 1101
+  size: 185, 234
+  orig: 185, 234
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 503, 551
+  size: 205, 511
+  orig: 205, 511
+  offset: 0, 0
+  index: -1
+Meimao_L
+  rotate: false
+  xy: 481, 1064
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+Meimao_R
+  rotate: false
+  xy: 321, 295
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+OPAI1C
+  rotate: true
+  xy: 1073, 479
+  size: 169, 163
+  orig: 169, 163
+  offset: 0, 0
+  index: -1
+OPAI2C
+  rotate: true
+  xy: 882, 1164
+  size: 171, 162
+  orig: 171, 162
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 667, 20
+  size: 449, 316
+  orig: 449, 316
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 6
+  size: 287, 412
+  orig: 287, 412
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: true
+  xy: 350, 1337
+  size: 705, 564
+  orig: 705, 564
+  offset: 0, 0
+  index: -1
+jiemao_L
+  rotate: false
+  xy: 233, 295
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+jiemao_R
+  rotate: true
+  xy: 746, 497
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+opai1
+  rotate: false
+  xy: 1118, 194
+  size: 153, 162
+  orig: 153, 162
+  offset: 0, 0
+  index: -1
+opai2
+  rotate: true
+  xy: 1118, 32
+  size: 160, 159
+  orig: 160, 159
+  offset: 0, 0
+  index: -1
+pant
+  rotate: true
+  xy: 961, 350
+  size: 298, 110
+  orig: 298, 110
+  offset: 0, 0
+  index: -1
+weishen
+  rotate: true
+  xy: 1073, 358
+  size: 119, 70
+  orig: 119, 70
+  offset: 0, 0
+  index: -1

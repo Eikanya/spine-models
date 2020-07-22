@@ -1,0 +1,272 @@
+
+Lihui_Samuirai.png
+size: 907,2098
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL1
+  rotate: true
+  xy: 443, 495
+  size: 136, 407
+  orig: 136, 407
+  offset: 0, 0
+  index: -1
+ArmR2
+  rotate: true
+  xy: 2, 330
+  size: 210, 402
+  orig: 210, 402
+  offset: 0, 0
+  index: -1
+Cloth
+  rotate: true
+  xy: 2, 542
+  size: 368, 439
+  orig: 368, 439
+  offset: 0, 0
+  index: -1
+ClothA2R
+  rotate: true
+  xy: 221, 90
+  size: 238, 335
+  orig: 238, 335
+  offset: 0, 0
+  index: -1
+ClothB
+  rotate: true
+  xy: 795, 127
+  size: 366, 103
+  orig: 366, 103
+  offset: 0, 0
+  index: -1
+ClothLA
+  rotate: false
+  xy: 558, 108
+  size: 235, 385
+  orig: 235, 385
+  offset: 0, 0
+  index: -1
+Daizi
+  rotate: true
+  xy: 672, 1163
+  size: 297, 221
+  orig: 297, 221
+  offset: 0, 0
+  index: -1
+Ear1
+  rotate: false
+  xy: 406, 340
+  size: 134, 153
+  orig: 134, 153
+  offset: 0, 0
+  index: -1
+Ear2
+  rotate: false
+  xy: 774, 1881
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+FS
+  rotate: false
+  xy: 661, 33
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+HC
+  rotate: true
+  xy: 469, 1164
+  size: 76, 192
+  orig: 76, 192
+  offset: 0, 0
+  index: -1
+HCB
+  rotate: true
+  xy: 367, 14
+  size: 74, 149
+  orig: 74, 149
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 87
+  size: 241, 217
+  orig: 241, 217
+  offset: 0, 0
+  index: -1
+JB1
+  rotate: true
+  xy: 774, 1993
+  size: 103, 125
+  orig: 103, 127
+  offset: 0, 1
+  index: -1
+JB1-2
+  rotate: false
+  xy: 105, 3
+  size: 82, 82
+  orig: 82, 84
+  offset: 0, 1
+  index: -1
+JB10
+  rotate: false
+  xy: 672, 1530
+  size: 54, 78
+  orig: 177, 97
+  offset: 0, 19
+  index: -1
+JB3
+  rotate: false
+  xy: 2, 2
+  size: 101, 83
+  orig: 101, 85
+  offset: 0, 1
+  index: -1
+JB4
+  rotate: false
+  xy: 774, 1688
+  size: 104, 85
+  orig: 104, 87
+  offset: 0, 1
+  index: -1
+JB5
+  rotate: false
+  xy: 269, 12
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+JB6
+  rotate: true
+  xy: 774, 1775
+  size: 59, 105
+  orig: 59, 105
+  offset: 0, 0
+  index: -1
+JB7
+  rotate: false
+  xy: 189, 7
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+JB8
+  rotate: true
+  xy: 518, 14
+  size: 74, 70
+  orig: 74, 72
+  offset: 0, 1
+  index: -1
+JB9
+  rotate: true
+  xy: 590, 32
+  size: 74, 69
+  orig: 74, 71
+  offset: 0, 1
+  index: -1
+Leg1
+  rotate: true
+  xy: 469, 898
+  size: 263, 419
+  orig: 263, 419
+  offset: 0, 0
+  index: -1
+Point
+  rotate: true
+  xy: 901, 2091
+  size: 5, 2
+  orig: 5, 4
+  offset: 0, 1
+  index: -1
+SW
+  rotate: true
+  xy: 2, 912
+  size: 328, 465
+  orig: 328, 465
+  offset: 0, 0
+  index: -1
+SW1
+  rotate: true
+  xy: 443, 633
+  size: 263, 419
+  orig: 263, 419
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 1242
+  size: 668, 366
+  orig: 668, 368
+  offset: 0, 1
+  index: -1
+Weapon2
+  rotate: false
+  xy: 2, 1610
+  size: 726, 156
+  orig: 726, 158
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 1768
+  size: 328, 770
+  orig: 328, 770
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 672, 1496
+  size: 32, 33
+  orig: 32, 35
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 881, 1764
+  size: 24, 28
+  orig: 24, 30
+  offset: 0, 1
+  index: -1
+eyeb
+  rotate: false
+  xy: 774, 1836
+  size: 111, 43
+  orig: 111, 45
+  offset: 0, 1
+  index: -1
+face
+  rotate: false
+  xy: 730, 1462
+  size: 171, 224
+  orig: 171, 224
+  offset: 0, 0
+  index: -1
+jiemaoL
+  rotate: false
+  xy: 730, 1721
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+jiemaoR
+  rotate: true
+  xy: 725, 42
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+meimaoR
+  rotate: true
+  xy: 887, 1846
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+meimaol
+  rotate: true
+  xy: 887, 1794
+  size: 50, 9
+  orig: 50, 9
+  offset: 0, 0
+  index: -1

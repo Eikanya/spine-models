@@ -1,0 +1,48 @@
+
+aimierbeierdingdanchuan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 387, 245
+  orig: 387, 245
+  offset: 0, 0
+  index: -1
+pao1
+  rotate: false
+  xy: 675, 138
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: false
+  xy: 391, 65
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 391, 181
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 391, 113
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 675, 181
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+police_01.png
+size: 1476,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 936
+  size: 490, 957
+  orig: 490, 957
+  offset: 0, 0
+  index: -1
+Cloth_L_arm
+  rotate: true
+  xy: 2, 742
+  size: 192, 632
+  orig: 192, 632
+  offset: 0, 0
+  index: -1
+Cloth_L_leg
+  rotate: true
+  xy: 2, 1428
+  size: 277, 966
+  orig: 277, 966
+  offset: 0, 0
+  index: -1
+Cloth_R_arm
+  rotate: false
+  xy: 2, 37
+  size: 239, 693
+  orig: 239, 693
+  offset: 0, 0
+  index: -1
+Cloth_R_leg
+  rotate: true
+  xy: 2, 1707
+  size: 329, 997
+  orig: 329, 997
+  offset: 0, 0
+  index: -1
+Cloth_body
+  rotate: false
+  xy: 970, 732
+  size: 502, 864
+  orig: 502, 864
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 997, 1619
+  size: 66, 8
+  orig: 66, 8
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 2, 2
+  size: 126, 33
+  orig: 126, 33
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 970, 1598
+  size: 107, 25
+  orig: 107, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 636, 585
+  size: 291, 349
+  orig: 291, 349
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 754, 161
+  size: 171, 422
+  orig: 171, 422
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: false
+  xy: 1186, 68
+  size: 203, 439
+  orig: 203, 439
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 927, 45
+  size: 257, 462
+  orig: 257, 462
+  offset: 0, 0
+  index: -1
+L_upleg
+  rotate: false
+  xy: 506, 11
+  size: 246, 572
+  orig: 246, 572
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 504, 688
+  size: 93, 52
+  orig: 93, 52
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1001, 1821
+  size: 215, 473
+  orig: 215, 473
+  offset: 0, 0
+  index: -1
+R_forearm
+  rotate: true
+  xy: 929, 509
+  size: 221, 490
+  orig: 221, 490
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1001, 1629
+  size: 190, 472
+  orig: 190, 472
+  offset: 0, 0
+  index: -1
+R_upleg
+  rotate: false
+  xy: 243, 9
+  size: 261, 574
+  orig: 261, 574
+  offset: 0, 0
+  index: -1
+Tinko
+  rotate: true
+  xy: 243, 598
+  size: 142, 259
+  orig: 142, 259
+  offset: 0, 0
+  index: -1

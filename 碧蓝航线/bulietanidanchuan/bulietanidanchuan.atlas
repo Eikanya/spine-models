@@ -1,0 +1,48 @@
+
+bulietanidanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 405, 15
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 194
+  size: 407, 278
+  orig: 407, 278
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 470, 18
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 98
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 2
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 411, 71
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1

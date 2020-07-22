@@ -1,0 +1,153 @@
+
+HAnime_NZxLiya.png
+size: 290,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_Arm1
+  rotate: true
+  xy: 127, 258
+  size: 65, 87
+  orig: 65, 89
+  offset: 0, 1
+  index: -1
+G_Arm1_1
+  rotate: false
+  xy: 86, 73
+  size: 99, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+G_Arm2
+  rotate: false
+  xy: 167, 13
+  size: 64, 55
+  orig: 64, 57
+  offset: 0, 1
+  index: -1
+G_Body
+  rotate: false
+  xy: 2, 93
+  size: 82, 157
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+G_Ear1
+  rotate: true
+  xy: 242, 112
+  size: 63, 44
+  orig: 63, 46
+  offset: 0, 1
+  index: -1
+G_Ear2
+  rotate: true
+  xy: 216, 294
+  size: 59, 50
+  orig: 60, 51
+  offset: 0, 1
+  index: -1
+G_Face
+  rotate: true
+  xy: 84, 2
+  size: 69, 81
+  orig: 69, 83
+  offset: 0, 1
+  index: -1
+G_Hair
+  rotate: false
+  xy: 86, 154
+  size: 97, 102
+  orig: 98, 103
+  offset: 1, 1
+  index: -1
+G_Leg1
+  rotate: false
+  xy: 2, 4
+  size: 80, 87
+  orig: 80, 89
+  offset: 0, 1
+  index: -1
+G_Leg1-1
+  rotate: false
+  xy: 215, 355
+  size: 52, 108
+  orig: 53, 110
+  offset: 0, 1
+  index: -1
+G_shou
+  rotate: false
+  xy: 216, 265
+  size: 16, 27
+  orig: 16, 29
+  offset: 0, 1
+  index: -1
+nan_Arm2
+  rotate: true
+  xy: 187, 70
+  size: 105, 53
+  orig: 106, 70
+  offset: 1, 1
+  index: -1
+nan_Body
+  rotate: false
+  xy: 127, 325
+  size: 86, 210
+  orig: 88, 211
+  offset: 2, 1
+  index: -1
+nan_Face
+  rotate: true
+  xy: 215, 465
+  size: 70, 73
+  orig: 70, 75
+  offset: 0, 1
+  index: -1
+nan_HC
+  rotate: false
+  xy: 269, 423
+  size: 14, 40
+  orig: 14, 42
+  offset: 0, 1
+  index: -1
+nan_Hair
+  rotate: false
+  xy: 185, 177
+  size: 103, 79
+  orig: 106, 83
+  offset: 2, 3
+  index: -1
+nan_HairB
+  rotate: false
+  xy: 242, 53
+  size: 35, 57
+  orig: 38, 60
+  offset: 1, 2
+  index: -1
+nan_Hand_L2
+  rotate: true
+  xy: 271, 14
+  size: 37, 17
+  orig: 37, 19
+  offset: 0, 1
+  index: -1
+nan_JJ
+  rotate: false
+  xy: 233, 14
+  size: 36, 37
+  orig: 39, 38
+  offset: 1, 0
+  index: -1
+nan_Leg1
+  rotate: false
+  xy: 67, 264
+  size: 58, 271
+  orig: 58, 273
+  offset: 0, 0
+  index: -1
+nan_Leg2
+  rotate: false
+  xy: 2, 252
+  size: 63, 283
+  orig: 64, 285
+  offset: 0, 1
+  index: -1

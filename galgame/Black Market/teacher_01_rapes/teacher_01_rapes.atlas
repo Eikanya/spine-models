@@ -1,0 +1,243 @@
+
+teacher_01_rapes.png
+size: 2222,2083
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+K_Body
+  rotate: false
+  xy: 2, 1039
+  size: 789, 1042
+  orig: 789, 1042
+  offset: 0, 0
+  index: -1
+K_Head
+  rotate: true
+  xy: 1079, 1047
+  size: 387, 456
+  orig: 389, 458
+  offset: 1, 1
+  index: -1
+K_Head2
+  rotate: false
+  xy: 1263, 3
+  size: 387, 456
+  orig: 389, 458
+  offset: 1, 1
+  index: -1
+K_L_arm
+  rotate: true
+  xy: 1652, 196
+  size: 267, 557
+  orig: 267, 557
+  offset: 0, 0
+  index: -1
+K_L_arm2
+  rotate: true
+  xy: 1463, 465
+  size: 580, 280
+  orig: 580, 280
+  offset: 0, 0
+  index: -1
+K_L_leg
+  rotate: false
+  xy: 413, 379
+  size: 448, 658
+  orig: 448, 658
+  offset: 0, 0
+  index: -1
+K_L_leg2
+  rotate: false
+  xy: 1745, 481
+  size: 343, 572
+  orig: 343, 572
+  offset: 0, 0
+  index: -1
+K_R_arm
+  rotate: true
+  xy: 1696, 1275
+  size: 292, 522
+  orig: 292, 522
+  offset: 0, 0
+  index: -1
+K_R_arm2
+  rotate: false
+  xy: 2, 2
+  size: 628, 287
+  orig: 628, 287
+  offset: 0, 0
+  index: -1
+K_R_leg
+  rotate: false
+  xy: 793, 1436
+  size: 464, 645
+  orig: 464, 645
+  offset: 0, 0
+  index: -1
+K_R_leg2
+  rotate: false
+  xy: 863, 449
+  size: 343, 588
+  orig: 343, 588
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1880, 1132
+  size: 141, 327
+  orig: 141, 327
+  offset: 0, 0
+  index: -1
+L_arm2
+  rotate: true
+  xy: 1865, 22
+  size: 172, 243
+  orig: 172, 243
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 793, 1039
+  size: 284, 395
+  orig: 284, 395
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 1745, 1569
+  size: 423, 512
+  orig: 423, 512
+  offset: 0, 0
+  index: -1
+L_manko
+  rotate: false
+  xy: 491, 300
+  size: 73, 77
+  orig: 76, 79
+  offset: 2, 1
+  index: -1
+R_arm
+  rotate: true
+  xy: 1537, 1055
+  size: 218, 341
+  orig: 218, 341
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: false
+  xy: 1537, 1611
+  size: 200, 339
+  orig: 200, 339
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1016, 5
+  size: 245, 442
+  orig: 245, 442
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: true
+  xy: 1259, 1952
+  size: 129, 483
+  orig: 129, 483
+  offset: 0, 0
+  index: -1
+R_manko
+  rotate: true
+  xy: 413, 296
+  size: 81, 76
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 291
+  size: 409, 746
+  orig: 409, 746
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1259, 1444
+  size: 104, 123
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 2090, 1027
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+face3
+  rotate: true
+  xy: 2110, 99
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 1208, 461
+  size: 253, 584
+  orig: 253, 584
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 632, 26
+  size: 351, 382
+  orig: 351, 382
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1259, 1621
+  size: 329, 272
+  orig: 329, 272
+  offset: 0, 0
+  index: -1
+seiekitinko
+  rotate: true
+  xy: 1652, 18
+  size: 176, 211
+  orig: 179, 214
+  offset: 2, 1
+  index: -1
+seisi
+  rotate: true
+  xy: 1537, 1285
+  size: 158, 140
+  orig: 179, 148
+  offset: 21, 8
+  index: -1
+tinko
+  rotate: true
+  xy: 1365, 1445
+  size: 164, 329
+  orig: 164, 329
+  offset: 0, 0
+  index: -1
+
+teacher_01_rapes2.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+mosaic/mosaic2
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

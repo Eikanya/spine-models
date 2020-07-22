@@ -1,0 +1,230 @@
+
+HAnime_NZxAlice02.png
+size: 736,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_Arm1
+  rotate: false
+  xy: 517, 2
+  size: 44, 150
+  orig: 44, 152
+  offset: 0, 1
+  index: -1
+G_Arm1-1
+  rotate: false
+  xy: 557, 276
+  size: 177, 87
+  orig: 177, 87
+  offset: 0, 0
+  index: -1
+G_Arm2
+  rotate: true
+  xy: 395, 199
+  size: 55, 111
+  orig: 55, 113
+  offset: 0, 1
+  index: -1
+G_Arm2-1
+  rotate: true
+  xy: 625, 27
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+G_Body
+  rotate: true
+  xy: 301, 293
+  size: 210, 254
+  orig: 210, 254
+  offset: 0, 0
+  index: -1
+G_Face1
+  rotate: true
+  xy: 551, 154
+  size: 120, 150
+  orig: 120, 152
+  offset: 0, 1
+  index: -1
+G_Face2
+  rotate: false
+  xy: 395, 2
+  size: 120, 150
+  orig: 120, 152
+  offset: 0, 1
+  index: -1
+G_H LBS
+  rotate: true
+  xy: 326, 256
+  size: 35, 150
+  orig: 38, 150
+  offset: 2, 0
+  index: -1
+G_HC
+  rotate: false
+  xy: 563, 11
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+G_HCB
+  rotate: false
+  xy: 207, 107
+  size: 45, 189
+  orig: 45, 190
+  offset: 0, 1
+  index: -1
+G_HL
+  rotate: false
+  xy: 260, 253
+  size: 36, 107
+  orig: 37, 107
+  offset: 0, 0
+  index: -1
+G_HairB
+  rotate: true
+  xy: 2, 389
+  size: 263, 297
+  orig: 263, 297
+  offset: 0, 0
+  index: -1
+G_Hair
+  rotate: true
+  xy: 420, 636
+  size: 188, 144
+  orig: 188, 144
+  offset: 0, 0
+  index: -1
+G_Leg1
+  rotate: true
+  xy: 301, 505
+  size: 129, 261
+  orig: 129, 263
+  offset: 0, 1
+  index: -1
+G_Leg1-1
+  rotate: false
+  xy: 81, 11
+  size: 124, 280
+  orig: 124, 281
+  offset: 0, 1
+  index: -1
+G_Leg2
+  rotate: false
+  xy: 566, 549
+  size: 153, 218
+  orig: 153, 220
+  offset: 0, 1
+  index: -1
+G_Leg2-2
+  rotate: false
+  xy: 2, 6
+  size: 77, 285
+  orig: 79, 285
+  offset: 1, 0
+  index: -1
+G_M1
+  rotate: true
+  xy: 163, 298
+  size: 62, 95
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+G_eyeB
+  rotate: true
+  xy: 298, 255
+  size: 36, 26
+  orig: 36, 28
+  offset: 0, 1
+  index: -1
+G_eyes
+  rotate: false
+  xy: 543, 912
+  size: 15, 25
+  orig: 15, 27
+  offset: 0, 1
+  index: -1
+N_Arm1
+  rotate: true
+  xy: 207, 4
+  size: 101, 185
+  orig: 101, 187
+  offset: 0, 1
+  index: -1
+N_Arm1_1
+  rotate: true
+  xy: 564, 365
+  size: 182, 170
+  orig: 184, 172
+  offset: 0, 2
+  index: -1
+Nan_Arm2
+  rotate: true
+  xy: 569, 978
+  size: 84, 164
+  orig: 84, 166
+  offset: 0, 1
+  index: -1
+Nan_Body
+  rotate: true
+  xy: 2, 654
+  size: 170, 416
+  orig: 171, 418
+  offset: 1, 2
+  index: -1
+Nan_Face
+  rotate: false
+  xy: 254, 107
+  size: 139, 144
+  orig: 139, 146
+  offset: 0, 1
+  index: -1
+Nan_HC
+  rotate: true
+  xy: 207, 362
+  size: 25, 81
+  orig: 25, 81
+  offset: 0, 0
+  index: -1
+Nan_Hair
+  rotate: true
+  xy: 569, 769
+  size: 207, 161
+  orig: 208, 163
+  offset: 1, 1
+  index: -1
+Nan_HairB
+  rotate: true
+  xy: 46, 298
+  size: 62, 115
+  orig: 72, 116
+  offset: 1, 0
+  index: -1
+Nan_JJ
+  rotate: true
+  xy: 2, 300
+  size: 87, 42
+  orig: 87, 44
+  offset: 0, 1
+  index: -1
+Nan_Leg1
+  rotate: true
+  xy: 2, 826
+  size: 111, 539
+  orig: 111, 541
+  offset: 0, 1
+  index: -1
+Nan_Leg2
+  rotate: true
+  xy: 2, 939
+  size: 123, 565
+  orig: 124, 566
+  offset: 1, 1
+  index: -1
+Nan_hair2
+  rotate: true
+  xy: 478, 260
+  size: 31, 71
+  orig: 34, 75
+  offset: 1, 3
+  index: -1

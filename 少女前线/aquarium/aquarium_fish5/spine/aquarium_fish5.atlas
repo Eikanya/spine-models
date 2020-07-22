@@ -1,0 +1,20 @@
+
+aquarium_fish5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+T5
+  rotate: false
+  xy: 2, 117
+  size: 499, 126
+  orig: 499, 126
+  offset: 0, 0
+  index: -1
+type5
+  rotate: false
+  xy: 2, 2
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1

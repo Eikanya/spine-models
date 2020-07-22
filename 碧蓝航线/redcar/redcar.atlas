@@ -1,0 +1,62 @@
+
+redcar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B-1
+  rotate: false
+  xy: 771, 411
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+F-1
+  rotate: false
+  xy: 771, 411
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+B-2
+  rotate: false
+  xy: 257, 240
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+F-2
+  rotate: false
+  xy: 257, 240
+  size: 137, 97
+  orig: 137, 97
+  offset: 0, 0
+  index: -1
+B-btm
+  rotate: false
+  xy: 512, 359
+  size: 257, 149
+  orig: 257, 149
+  offset: 0, 0
+  index: -1
+B-up
+  rotate: false
+  xy: 2, 2
+  size: 257, 149
+  orig: 257, 149
+  offset: 0, 0
+  index: -1
+F-btm
+  rotate: false
+  xy: 2, 153
+  size: 253, 355
+  orig: 253, 355
+  offset: 0, 0
+  index: -1
+F-up
+  rotate: false
+  xy: 257, 339
+  size: 253, 169
+  orig: 253, 169
+  offset: 0, 0
+  index: -1

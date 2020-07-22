@@ -1,0 +1,118 @@
+
+Lihui_Nanzhu.png
+size: 1716,2913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ArmL1
+  rotate: true
+  xy: 2, 887
+  size: 366, 1125
+  orig: 366, 1125
+  offset: 0, 0
+  index: -1
+ArmR1
+  rotate: true
+  xy: 1129, 856
+  size: 285, 583
+  orig: 285, 584
+  offset: 0, 0
+  index: -1
+ArmR2
+  rotate: true
+  xy: 2, 570
+  size: 315, 1074
+  orig: 315, 1074
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 1255
+  size: 639, 1265
+  orig: 639, 1265
+  offset: 0, 0
+  index: -1
+ClothB
+  rotate: true
+  xy: 2, 1896
+  size: 1015, 1302
+  orig: 1015, 1302
+  offset: 0, 0
+  index: -1
+ClothBJ
+  rotate: true
+  xy: 819, 264
+  size: 304, 224
+  orig: 304, 224
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 1306, 1701
+  size: 370, 382
+  orig: 370, 384
+  offset: 0, 1
+  index: -1
+HC
+  rotate: false
+  xy: 1587, 392
+  size: 64, 264
+  orig: 64, 305
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1269, 1143
+  size: 556, 436
+  orig: 556, 437
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: false
+  xy: 1587, 658
+  size: 85, 196
+  orig: 85, 196
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 2, 84
+  size: 169, 309
+  orig: 170, 309
+  offset: 0, 0
+  index: -1
+Hand2
+  rotate: true
+  xy: 313, 102
+  size: 151, 208
+  orig: 155, 208
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: false
+  xy: 1306, 2073
+  size: 408, 838
+  orig: 408, 840
+  offset: 0, 1
+  index: -1
+Leg2
+  rotate: true
+  xy: 2, 255
+  size: 313, 815
+  orig: 313, 817
+  offset: 0, 1
+  index: -1
+Pifeng
+  rotate: true
+  xy: 1078, 2
+  size: 852, 507
+  orig: 852, 507
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 819, 63
+  size: 199, 222
+  orig: 226, 222
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,103 @@
+
+monster_01.png
+size: 2337,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 1251
+  size: 791, 1108
+  orig: 791, 1108
+  offset: 0, 0
+  index: -1
+Drool
+  rotate: true
+  xy: 1843, 791
+  size: 104, 282
+  orig: 104, 282
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 1013, 29
+  size: 111, 25
+  orig: 111, 25
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: true
+  xy: 1013, 142
+  size: 150, 38
+  orig: 150, 39
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1102, 2
+  size: 332, 397
+  orig: 332, 398
+  offset: 0, 1
+  index: -1
+L_arm
+  rotate: false
+  xy: 1112, 772
+  size: 729, 1270
+  orig: 729, 1270
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 2, 4
+  size: 532, 1245
+  orig: 532, 1245
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 1102, 336
+  size: 434, 1232
+  orig: 434, 1232
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 1843, 897
+  size: 454, 1145
+  orig: 455, 1145
+  offset: 1, 0
+  index: -1
+Tinko
+  rotate: true
+  xy: 536, 49
+  size: 243, 475
+  orig: 243, 475
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: true
+  xy: 2127, 791
+  size: 104, 208
+  orig: 104, 208
+  offset: 0, 0
+  index: -1
+fur
+  rotate: false
+  xy: 536, 294
+  size: 564, 955
+  orig: 564, 955
+  offset: 0, 0
+  index: -1
+
+monster_012.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+HCG_Liya_2.png
+size: 2326,4059
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_Leg2
+  rotate: false
+  xy: 1300, 2011
+  size: 362, 835
+  orig: 362, 835
+  offset: 0, 0
+  index: -1
+1_leg1
+  rotate: true
+  xy: 2, 2
+  size: 449, 714
+  orig: 449, 714
+  offset: 0, 0
+  index: -1
+Bg
+  rotate: true
+  xy: 2, 1751
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+LegA2
+  rotate: true
+  xy: 1300, 2848
+  size: 1209, 687
+  orig: 1209, 687
+  offset: 0, 0
+  index: -1
+Opai1
+  rotate: true
+  xy: 1801, 1907
+  size: 159, 169
+  orig: 159, 169
+  offset: 0, 0
+  index: -1
+Opai2
+  rotate: true
+  xy: 2159, 1901
+  size: 165, 152
+  orig: 165, 152
+  offset: 0, 0
+  index: -1
+Shetou
+  rotate: false
+  xy: 2159, 1784
+  size: 145, 115
+  orig: 145, 115
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 453
+  size: 2306, 1296
+  orig: 2306, 1298
+  offset: 0, 1
+  index: -1
+legYTL
+  rotate: true
+  xy: 1989, 3399
+  size: 658, 335
+  orig: 658, 335
+  offset: 0, 0
+  index: -1
+liya_Arm1
+  rotate: true
+  xy: 1151, 123
+  size: 328, 678
+  orig: 328, 678
+  offset: 0, 0
+  index: -1
+liya_Body
+  rotate: false
+  xy: 1664, 2068
+  size: 516, 778
+  orig: 516, 778
+  offset: 0, 0
+  index: -1
+liya_Ear1
+  rotate: true
+  xy: 1300, 1761
+  size: 248, 252
+  orig: 248, 252
+  offset: 0, 0
+  index: -1
+liya_Ear2
+  rotate: false
+  xy: 1554, 1772
+  size: 245, 237
+  orig: 245, 237
+  offset: 0, 0
+  index: -1
+liya_FS
+  rotate: true
+  xy: 1972, 1955
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+liya_HC
+  rotate: true
+  xy: 1801, 1778
+  size: 127, 356
+  orig: 127, 356
+  offset: 0, 0
+  index: -1
+liya_HCB
+  rotate: true
+  xy: 1989, 2861
+  size: 129, 247
+  orig: 129, 247
+  offset: 0, 0
+  index: -1
+liya_Hair
+  rotate: false
+  xy: 718, 52
+  size: 431, 399
+  orig: 431, 399
+  offset: 0, 0
+  index: -1
+liya_eye1
+  rotate: false
+  xy: 1664, 2015
+  size: 51, 51
+  orig: 51, 53
+  offset: 0, 1
+  index: -1
+liya_eye2
+  rotate: true
+  xy: 1717, 2027
+  size: 39, 41
+  orig: 39, 43
+  offset: 0, 1
+  index: -1
+liya_eyesb
+  rotate: true
+  xy: 2182, 2556
+  size: 201, 54
+  orig: 201, 54
+  offset: 0, 0
+  index: -1
+liya_face
+  rotate: false
+  xy: 1989, 2992
+  size: 322, 405
+  orig: 322, 405
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2182, 2759
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

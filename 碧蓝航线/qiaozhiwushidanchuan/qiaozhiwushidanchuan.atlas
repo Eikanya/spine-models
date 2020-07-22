@@ -1,0 +1,48 @@
+
+qiaozhiwushidanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 172
+  size: 503, 338
+  orig: 503, 338
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 2, 2
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 405, 101
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 507, 416
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 507, 320
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 2, 76
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1

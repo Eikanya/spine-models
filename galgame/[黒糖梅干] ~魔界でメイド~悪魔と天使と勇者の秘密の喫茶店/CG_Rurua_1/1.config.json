@@ -1,0 +1,26 @@
+{
+  "textures": [
+    "CG_Rurua_1.png"
+  ],
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "1"
+      }
+    ]
+  },
+  "options": {
+    "aniso_level": 4,
+    "position_x": -50.0,
+    "edge_padding": false,
+    "spine_sdk": "3.8",
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "CG_Rurua_1.json",
+  "atlas": "CG_Rurua_1.atlas"
+}

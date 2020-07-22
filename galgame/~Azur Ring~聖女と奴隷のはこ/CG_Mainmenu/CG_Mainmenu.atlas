@@ -1,0 +1,132 @@
+
+CG_Mainmenu.png
+size: 4703,1218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM2
+  rotate: false
+  xy: 3722, 474
+  size: 129, 249
+  orig: 129, 249
+  offset: 0, 0
+  index: -1
+Ass
+  rotate: false
+  xy: 3136, 217
+  size: 584, 506
+  orig: 584, 506
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 2, 134
+  size: 1922, 1082
+  orig: 1922, 1082
+  offset: 0, 0
+  index: -1
+Ear
+  rotate: false
+  xy: 3658, 167
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+Hair2
+  rotate: true
+  xy: 438, 46
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 3136, 25
+  size: 190, 321
+  orig: 190, 321
+  offset: 0, 0
+  index: -1
+Hair_Piao
+  rotate: true
+  xy: 4426, 444
+  size: 441, 275
+  orig: 441, 275
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: true
+  xy: 3722, 199
+  size: 273, 522
+  orig: 273, 523
+  offset: 0, 1
+  index: -1
+Opai
+  rotate: true
+  xy: 3459, 74
+  size: 141, 197
+  orig: 141, 197
+  offset: 0, 0
+  index: -1
+QZ
+  rotate: false
+  xy: 4246, 49
+  size: 433, 393
+  orig: 433, 393
+  offset: 0, 0
+  index: -1
+QZB
+  rotate: false
+  xy: 3876, 474
+  size: 548, 411
+  orig: 548, 411
+  offset: 0, 0
+  index: -1
+SD1
+  rotate: false
+  xy: 2, 2
+  size: 231, 130
+  orig: 231, 130
+  offset: 0, 0
+  index: -1
+SD2
+  rotate: true
+  xy: 4615, 941
+  size: 275, 41
+  orig: 275, 41
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 1926, 10
+  size: 1208, 1206
+  orig: 1234, 1208
+  offset: 26, 0
+  index: -1
+body
+  rotate: true
+  xy: 3876, 887
+  size: 329, 737
+  orig: 329, 737
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 3459, 38
+  size: 31, 34
+  orig: 44, 43
+  offset: 7, 4
+  index: -1
+fashi
+  rotate: false
+  xy: 235, 21
+  size: 201, 111
+  orig: 201, 111
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 3136, 725
+  size: 738, 491
+  orig: 738, 492
+  offset: 0, 1
+  index: -1

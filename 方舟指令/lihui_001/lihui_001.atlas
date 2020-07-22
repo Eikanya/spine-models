@@ -1,0 +1,279 @@
+
+lihui_001.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: false
+  xy: 1446, 415
+  size: 213, 95
+  orig: 213, 95
+  offset: 0, 0
+  index: -1
+arm1
+  rotate: false
+  xy: 1523, 273
+  size: 62, 140
+  orig: 62, 140
+  offset: 0, 0
+  index: -1
+arm1a
+  rotate: true
+  xy: 479, 41
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 1417, 272
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+arm2a
+  rotate: true
+  xy: 1661, 406
+  size: 104, 172
+  orig: 104, 172
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 671, 239
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 89, 23
+  size: 85, 17
+  orig: 85, 17
+  offset: 0, 0
+  index: -1
+eye2b
+  rotate: true
+  xy: 671, 154
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+eye_b0
+  rotate: false
+  xy: 2, 14
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+eye_b1
+  rotate: true
+  xy: 2007, 425
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+eye_b1 -2
+  rotate: true
+  xy: 176, 27
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+eye_b3
+  rotate: false
+  xy: 479, 12
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1587, 260
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 1660, 266
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 649, 64
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 1417, 418
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 756, 202
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+h12
+  rotate: false
+  xy: 192, 14
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+h13
+  rotate: false
+  xy: 1651, 325
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+h14
+  rotate: true
+  xy: 368, 102
+  size: 222, 301
+  orig: 222, 301
+  offset: 0, 0
+  index: -1
+h15
+  rotate: true
+  xy: 270, 26
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+h16
+  rotate: true
+  xy: 947, 243
+  size: 181, 136
+  orig: 181, 136
+  offset: 0, 0
+  index: -1
+h17
+  rotate: false
+  xy: 368, 326
+  size: 353, 184
+  orig: 353, 184
+  offset: 0, 0
+  index: -1
+h18
+  rotate: false
+  xy: 700, 182
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+h19
+  rotate: false
+  xy: 2, 42
+  size: 188, 468
+  orig: 188, 468
+  offset: 0, 0
+  index: -1
+h20
+  rotate: false
+  xy: 192, 84
+  size: 174, 426
+  orig: 174, 426
+  offset: 0, 0
+  index: -1
+h21
+  rotate: false
+  xy: 1835, 387
+  size: 170, 123
+  orig: 170, 123
+  offset: 0, 0
+  index: -1
+h22
+  rotate: true
+  xy: 1082, 432
+  size: 78, 362
+  orig: 78, 362
+  offset: 0, 0
+  index: -1
+h23
+  rotate: true
+  xy: 723, 426
+  size: 84, 357
+  orig: 84, 357
+  offset: 0, 0
+  index: -1
+ha17
+  rotate: false
+  xy: 723, 255
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 368, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+haixiu_face
+  rotate: false
+  xy: 1733, 282
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1085, 262
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+mouth3b
+  rotate: false
+  xy: 89, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+panzi
+  rotate: false
+  xy: 1252, 266
+  size: 163, 164
+  orig: 163, 164
+  offset: 0, 0
+  index: -1
+pd
+  rotate: true
+  xy: 1726, 341
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: false
+  xy: 1587, 319
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+pddd1
+  rotate: false
+  xy: 815, 213
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+pddd2
+  rotate: false
+  xy: 700, 283
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1

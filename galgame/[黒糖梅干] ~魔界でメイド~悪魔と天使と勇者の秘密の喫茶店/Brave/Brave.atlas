@@ -1,0 +1,132 @@
+
+Brave.png
+size: 225,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Biyan
+  rotate: true
+  xy: 101, 136
+  size: 71, 36
+  orig: 71, 38
+  offset: 0, 1
+  index: -1
+Body
+  rotate: true
+  xy: 138, 12
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+FD
+  rotate: false
+  xy: 196, 4
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+Hair_1
+  rotate: true
+  xy: 141, 212
+  size: 108, 82
+  orig: 108, 82
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: true
+  xy: 2, 69
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: true
+  xy: 2, 28
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+Hair_B
+  rotate: false
+  xy: 2, 209
+  size: 137, 111
+  orig: 139, 111
+  offset: 2, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 138, 69
+  size: 35, 58
+  orig: 35, 60
+  offset: 0, 1
+  index: -1
+Hand_R
+  rotate: false
+  xy: 101, 75
+  size: 35, 59
+  orig: 35, 61
+  offset: 0, 1
+  index: -1
+Head
+  rotate: false
+  xy: 2, 110
+  size: 97, 97
+  orig: 97, 99
+  offset: 0, 1
+  index: -1
+Hudie
+  rotate: false
+  xy: 139, 106
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+Leg_L_1
+  rotate: true
+  xy: 95, 23
+  size: 21, 30
+  orig: 21, 32
+  offset: 0, 1
+  index: -1
+Leg_L_2
+  rotate: true
+  xy: 2, 2
+  size: 24, 43
+  orig: 24, 45
+  offset: 0, 1
+  index: -1
+Leg_R_1
+  rotate: true
+  xy: 47, 6
+  size: 20, 29
+  orig: 20, 31
+  offset: 0, 1
+  index: -1
+Leg_R_2
+  rotate: true
+  xy: 95, 46
+  size: 27, 41
+  orig: 27, 43
+  offset: 0, 1
+  index: -1
+Mouth
+  rotate: true
+  xy: 215, 195
+  size: 15, 4
+  orig: 15, 6
+  offset: 0, 1
+  index: -1
+Skirt
+  rotate: true
+  xy: 198, 48
+  size: 56, 25
+  orig: 56, 27
+  offset: 0, 1
+  index: -1
+Zhengyan
+  rotate: false
+  xy: 141, 174
+  size: 72, 36
+  orig: 72, 38
+  offset: 0, 1
+  index: -1

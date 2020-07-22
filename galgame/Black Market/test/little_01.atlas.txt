@@ -1,0 +1,264 @@
+
+little_01.png
+size: 4000,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_Hair
+  rotate: true
+  xy: 874, 201
+  size: 639, 865
+  orig: 639, 865
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2592, 280
+  size: 325, 690
+  orig: 351, 719
+  offset: 7, 29
+  index: -1
+Cloth＿Body
+  rotate: true
+  xy: 2, 87
+  size: 753, 870
+  orig: 753, 870
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 270, 41
+  size: 118, 44
+  orig: 118, 44
+  offset: 0, 0
+  index: -1
+Eye02
+  rotate: false
+  xy: 390, 41
+  size: 118, 44
+  orig: 118, 44
+  offset: 0, 0
+  index: -1
+Eye_Brow
+  rotate: false
+  xy: 120, 5
+  size: 163, 24
+  orig: 163, 24
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2273, 251
+  size: 169, 88
+  orig: 169, 124
+  offset: 0, 36
+  index: -1
+Front_Hair
+  rotate: true
+  xy: 1741, 341
+  size: 499, 849
+  orig: 499, 849
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2966, 24
+  size: 254, 312
+  orig: 254, 313
+  offset: 0, 0
+  index: -1
+Head_blue
+  rotate: false
+  xy: 3570, 37
+  size: 199, 209
+  orig: 199, 209
+  offset: 0, 0
+  index: -1
+Head_red
+  rotate: true
+  xy: 3771, 45
+  size: 201, 203
+  orig: 201, 208
+  offset: 0, 5
+  index: -1
+L_arm
+  rotate: false
+  xy: 3751, 248
+  size: 247, 592
+  orig: 247, 596
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 2592, 607
+  size: 233, 1157
+  orig: 233, 1157
+  offset: 0, 0
+  index: -1
+Oppai
+  rotate: false
+  xy: 1311, 11
+  size: 259, 188
+  orig: 263, 188
+  offset: 2, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 3284, 27
+  size: 284, 578
+  orig: 284, 578
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1819, 11
+  size: 222, 1145
+  orig: 222, 1145
+  offset: 0, 0
+  index: -1
+White_eye
+  rotate: false
+  xy: 120, 31
+  size: 148, 54
+  orig: 148, 54
+  offset: 0, 0
+  index: -1
+ase
+  rotate: true
+  xy: 455, 14
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+blood_head_01
+  rotate: true
+  xy: 582, 31
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+blood_head_02
+  rotate: true
+  xy: 1572, 29
+  size: 170, 245
+  orig: 170, 245
+  offset: 0, 0
+  index: -1
+bump_Body_01
+  rotate: false
+  xy: 3570, 423
+  size: 158, 182
+  orig: 158, 192
+  offset: 0, 10
+  index: -1
+bump_L_arm_01
+  rotate: true
+  xy: 2, 14
+  size: 71, 116
+  orig: 71, 116
+  offset: 0, 0
+  index: -1
+bump_L_leg_01
+  rotate: true
+  xy: 874, 36
+  size: 163, 435
+  orig: 163, 437
+  offset: 0, 0
+  index: -1
+bump_R_arm_01
+  rotate: true
+  xy: 510, 41
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+bump_R_leg_01
+  rotate: true
+  xy: 1741, 235
+  size: 104, 374
+  orig: 104, 374
+  offset: 0, 0
+  index: -1
+bump_head_01
+  rotate: true
+  xy: 729, 18
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+bump_head_02
+  rotate: false
+  xy: 671, 8
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+bump_head_03
+  rotate: false
+  xy: 2444, 235
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+gunhole_head_01
+  rotate: false
+  xy: 3570, 292
+  size: 114, 129
+  orig: 114, 129
+  offset: 0, 0
+  index: -1
+mouth01
+  rotate: false
+  xy: 2, 2
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: false
+  xy: 285, 2
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: false
+  xy: 398, 15
+  size: 55, 24
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+mouth04
+  rotate: false
+  xy: 348, 6
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+mouth05
+  rotate: false
+  xy: 501, 14
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+tears_head_01
+  rotate: false
+  xy: 2117, 241
+  size: 154, 98
+  orig: 154, 98
+  offset: 0, 0
+  index: -1
+
+little_012.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mosaic/mosaic
+  rotate: false
+  xy: 2, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1

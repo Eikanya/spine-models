@@ -1,0 +1,272 @@
+
+RKSVKMod.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: true
+  xy: 226, 24
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 298, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Lcoat
+  rotate: true
+  xy: 399, 77
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: false
+  xy: 151, 26
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 226, 49
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+Leye3
+  rotate: false
+  xy: 305, 28
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Lhair
+  rotate: true
+  xy: 167, 77
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+Lhair2
+  rotate: true
+  xy: 167, 59
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: true
+  xy: 249, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 319, 7
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 195, 24
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 321, 57
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Lshoulder
+  rotate: true
+  xy: 219, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Lyey4
+  rotate: false
+  xy: 323, 28
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 198, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 172, 2
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Rcoat
+  rotate: true
+  xy: 2, 3
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 59, 5
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 249, 30
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: true
+  xy: 268, 6
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: true
+  xy: 276, 29
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rhair
+  rotate: true
+  xy: 245, 87
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 151, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 286, 56
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 352, 57
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Rshoulder
+  rotate: false
+  xy: 340, 25
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 245, 59
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 110, 6
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 99, 61
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 451, 92
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+hairpin
+  rotate: false
+  xy: 451, 75
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 41
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+mike
+  rotate: false
+  xy: 383, 64
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 319, 2
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 502, 80
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: true
+  xy: 220, 65
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 340, 43
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 325, 83
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1

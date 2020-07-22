@@ -1,0 +1,167 @@
+
+nurse_01.png
+size: 3799,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 1667, 306
+  size: 296, 591
+  orig: 296, 591
+  offset: 0, 0
+  index: -1
+Cloth_Body
+  rotate: true
+  xy: 2, 8
+  size: 594, 674
+  orig: 594, 674
+  offset: 0, 0
+  index: -1
+Cloth_L_arm
+  rotate: true
+  xy: 678, 15
+  size: 107, 324
+  orig: 107, 324
+  offset: 0, 0
+  index: -1
+Cloth_L_forearm
+  rotate: false
+  xy: 3396, 97
+  size: 254, 116
+  orig: 254, 116
+  offset: 0, 0
+  index: -1
+Cloth_L_leg
+  rotate: true
+  xy: 2788, 262
+  size: 161, 630
+  orig: 161, 630
+  offset: 0, 0
+  index: -1
+Cloth_R_arm
+  rotate: true
+  xy: 2147, 8
+  size: 262, 473
+  orig: 262, 473
+  offset: 0, 0
+  index: -1
+Cloth_R_leg
+  rotate: true
+  xy: 2788, 425
+  size: 177, 638
+  orig: 177, 638
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 3652, 164
+  size: 144, 49
+  orig: 144, 49
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 1300, 10
+  size: 177, 24
+  orig: 177, 24
+  offset: 0, 0
+  index: -1
+EyeWhite
+  rotate: false
+  xy: 1613, 2
+  size: 182, 50
+  orig: 182, 50
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 3396, 19
+  size: 216, 76
+  orig: 216, 76
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: true
+  xy: 3428, 215
+  size: 387, 369
+  orig: 387, 369
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: true
+  xy: 1657, 54
+  size: 250, 488
+  orig: 250, 488
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 3199, 15
+  size: 245, 195
+  orig: 245, 195
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2622, 14
+  size: 246, 312
+  orig: 246, 312
+  offset: 0, 0
+  index: -1
+HighLight
+  rotate: false
+  xy: 1797, 15
+  size: 133, 37
+  orig: 133, 37
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 1300, 36
+  size: 86, 311
+  orig: 86, 311
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: false
+  xy: 1004, 8
+  size: 294, 114
+  orig: 294, 114
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 678, 124
+  size: 221, 977
+  orig: 221, 977
+  offset: 0, 0
+  index: -1
+Mouth01
+  rotate: false
+  xy: 2147, 290
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 2260, 272
+  size: 330, 526
+  orig: 330, 526
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 678, 347
+  size: 255, 987
+  orig: 255, 987
+  offset: 0, 0
+  index: -1
+book
+  rotate: true
+  xy: 2936, 38
+  size: 222, 261
+  orig: 222, 261
+  offset: 0, 0
+  index: -1

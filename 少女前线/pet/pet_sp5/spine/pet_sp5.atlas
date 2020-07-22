@@ -1,0 +1,90 @@
+
+pet_sp5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 89, 43
+  orig: 89, 43
+  offset: 0, 0
+  index: -1
+earL
+  rotate: true
+  xy: 247, 86
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+earR
+  rotate: true
+  xy: 170, 77
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 95, 65
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 465, 116
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 364, 99
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 47
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+legBL
+  rotate: false
+  xy: 93, 4
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+legBR
+  rotate: true
+  xy: 417, 97
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+legFL
+  rotate: true
+  xy: 465, 97
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+legFR
+  rotate: true
+  xy: 95, 38
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 308, 90
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+CG_Yura_1.png
+size: 6316,3153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 2, 1871
+  size: 2122, 1280
+  orig: 2122, 1282
+  offset: 0, 1
+  index: -1
+Biyan
+  rotate: false
+  xy: 6036, 901
+  size: 238, 242
+  orig: 238, 242
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 4089, 727
+  size: 1377, 618
+  orig: 1697, 783
+  offset: 320, 165
+  index: -1
+Chibang
+  rotate: false
+  xy: 4089, 120
+  size: 1314, 605
+  orig: 1314, 607
+  offset: 0, 1
+  index: -1
+Face
+  rotate: true
+  xy: 5998, 1398
+  size: 384, 295
+  orig: 384, 296
+  offset: 0, 0
+  index: -1
+Hair_10
+  rotate: true
+  xy: 3408, 129
+  size: 145, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+Hair_11
+  rotate: true
+  xy: 5405, 78
+  size: 141, 252
+  orig: 141, 252
+  offset: 0, 0
+  index: -1
+Hair_2
+  rotate: false
+  xy: 2470, 80
+  size: 437, 139
+  orig: 437, 139
+  offset: 0, 0
+  index: -1
+Hair_3
+  rotate: false
+  xy: 1809, 36
+  size: 659, 183
+  orig: 659, 183
+  offset: 0, 0
+  index: -1
+Hair_4
+  rotate: false
+  xy: 2981, 196
+  size: 213, 78
+  orig: 277, 84
+  offset: 47, 6
+  index: -1
+Hair_7
+  rotate: false
+  xy: 2981, 276
+  size: 628, 311
+  orig: 628, 311
+  offset: 0, 0
+  index: -1
+Hair_9
+  rotate: false
+  xy: 3611, 143
+  size: 448, 444
+  orig: 642, 498
+  offset: 0, 54
+  index: -1
+Hair_B
+  rotate: false
+  xy: 5935, 186
+  size: 289, 135
+  orig: 289, 137
+  offset: 0, 1
+  index: -1
+Hair_Back
+  rotate: false
+  xy: 2, 38
+  size: 1805, 549
+  orig: 1805, 551
+  offset: 0, 1
+  index: -1
+Hair_Light
+  rotate: false
+  xy: 4250, 2202
+  size: 1681, 949
+  orig: 1681, 949
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 4089, 1361
+  size: 508, 143
+  orig: 508, 143
+  offset: 0, 0
+  index: -1
+Hua
+  rotate: false
+  xy: 2909, 101
+  size: 100, 93
+  orig: 100, 93
+  offset: 0, 0
+  index: -1
+Hua3
+  rotate: true
+  xy: 2, 2
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+Hudiejie_F
+  rotate: false
+  xy: 3196, 180
+  size: 210, 94
+  orig: 210, 94
+  offset: 0, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 2, 589
+  size: 2122, 1280
+  orig: 2122, 1282
+  offset: 0, 1
+  index: -1
+Leg_L
+  rotate: true
+  xy: 5935, 323
+  size: 380, 332
+  orig: 380, 334
+  offset: 0, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 5468, 705
+  size: 566, 640
+  orig: 736, 670
+  offset: 170, 0
+  index: -1
+Point
+  rotate: false
+  xy: 2126, 589
+  size: 1961, 1280
+  orig: 1961, 1282
+  offset: 0, 1
+  index: -1
+Shadow
+  rotate: false
+  xy: 2126, 1871
+  size: 2122, 1280
+  orig: 2122, 1282
+  offset: 0, 1
+  index: -1
+Shine
+  rotate: false
+  xy: 4250, 1347
+  size: 1746, 853
+  orig: 1746, 855
+  offset: 0, 1
+  index: -1
+Shoudai
+  rotate: true
+  xy: 5659, 68
+  size: 151, 201
+  orig: 165, 201
+  offset: 14, 0
+  index: -1
+Sidai_1
+  rotate: false
+  xy: 6036, 712
+  size: 201, 187
+  orig: 201, 189
+  offset: 0, 1
+  index: -1
+Skirt
+  rotate: false
+  xy: 5405, 221
+  size: 528, 482
+  orig: 810, 482
+  offset: 282, 0
+  index: -1
+YumaoHou
+  rotate: false
+  xy: 1809, 221
+  size: 1170, 366
+  orig: 1170, 366
+  offset: 0, 0
+  index: -1
+YumaoQian
+  rotate: true
+  xy: 5933, 2407
+  size: 744, 318
+  orig: 744, 318
+  offset: 0, 0
+  index: -1
+Zhengyan
+  rotate: false
+  xy: 6036, 1145
+  size: 243, 251
+  orig: 243, 251
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 5998, 1784
+  size: 621, 316
+  orig: 621, 316
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 5933, 2359
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1

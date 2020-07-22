@@ -1,0 +1,237 @@
+
+HAnime_NZxHNR.png
+size: 330,1169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nan_Arm1
+  rotate: true
+  xy: 135, 63
+  size: 52, 93
+  orig: 52, 95
+  offset: 0, 1
+  index: -1
+Nan_Arm1_1
+  rotate: false
+  xy: 232, 528
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+Nan_Arm2
+  rotate: true
+  xy: 2, 135
+  size: 84, 165
+  orig: 84, 165
+  offset: 0, 0
+  index: -1
+Nan_Body
+  rotate: false
+  xy: 236, 618
+  size: 88, 211
+  orig: 88, 211
+  offset: 0, 0
+  index: -1
+Nan_Face
+  rotate: true
+  xy: 2, 2
+  size: 70, 74
+  orig: 70, 76
+  offset: 0, 1
+  index: -1
+Nan_HC
+  rotate: false
+  xy: 198, 433
+  size: 14, 41
+  orig: 14, 43
+  offset: 0, 1
+  index: -1
+Nan_Hair
+  rotate: false
+  xy: 198, 298
+  size: 106, 81
+  orig: 106, 83
+  offset: 0, 1
+  index: -1
+Nan_Hair2
+  rotate: true
+  xy: 289, 1087
+  size: 20, 37
+  orig: 20, 39
+  offset: 0, 1
+  index: -1
+Nan_HairB
+  rotate: false
+  xy: 289, 1109
+  size: 38, 58
+  orig: 38, 60
+  offset: 0, 1
+  index: -1
+Nan_JJ
+  rotate: true
+  xy: 198, 492
+  size: 45, 22
+  orig: 45, 24
+  offset: 0, 1
+  index: -1
+Nan_Leg1
+  rotate: true
+  xy: 2, 1043
+  size: 58, 273
+  orig: 58, 273
+  offset: 0, 0
+  index: -1
+Nan_Leg1_2
+  rotate: false
+  xy: 2, 74
+  size: 131, 59
+  orig: 131, 61
+  offset: 0, 1
+  index: -1
+Nan_Leg2
+  rotate: true
+  xy: 2, 1103
+  size: 64, 285
+  orig: 64, 285
+  offset: 0, 0
+  index: -1
+Nan_Leg2_2
+  rotate: false
+  xy: 222, 381
+  size: 106, 145
+  orig: 106, 145
+  offset: 0, 0
+  index: -1
+Niao_Arm1
+  rotate: true
+  xy: 2, 294
+  size: 45, 179
+  orig: 45, 179
+  offset: 0, 0
+  index: -1
+Niao_Arm2
+  rotate: true
+  xy: 169, 117
+  size: 84, 151
+  orig: 84, 151
+  offset: 0, 0
+  index: -1
+Niao_Body
+  rotate: false
+  xy: 2, 221
+  size: 176, 71
+  orig: 176, 71
+  offset: 0, 0
+  index: -1
+Niao_Ear
+  rotate: false
+  xy: 198, 539
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+Niao_EyeB
+  rotate: false
+  xy: 198, 476
+  size: 17, 14
+  orig: 17, 16
+  offset: 0, 1
+  index: -1
+Niao_Face1
+  rotate: false
+  xy: 266, 937
+  size: 62, 79
+  orig: 62, 81
+  offset: 0, 1
+  index: -1
+Niao_Face2
+  rotate: true
+  xy: 230, 53
+  size: 62, 79
+  orig: 62, 81
+  offset: 0, 1
+  index: -1
+Niao_HC
+  rotate: false
+  xy: 198, 643
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+Niao_HCB
+  rotate: false
+  xy: 198, 589
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Niao_HZ
+  rotate: false
+  xy: 78, 3
+  size: 50, 69
+  orig: 50, 71
+  offset: 0, 1
+  index: -1
+Niao_HZB
+  rotate: false
+  xy: 277, 1018
+  size: 51, 67
+  orig: 51, 69
+  offset: 0, 1
+  index: -1
+Niao_Hair
+  rotate: true
+  xy: 236, 831
+  size: 104, 89
+  orig: 104, 89
+  offset: 0, 0
+  index: -1
+Niao_HairB
+  rotate: true
+  xy: 183, 203
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+Niao_Leg1
+  rotate: false
+  xy: 2, 940
+  size: 262, 101
+  orig: 262, 101
+  offset: 0, 0
+  index: -1
+Niao_M1
+  rotate: true
+  xy: 130, 14
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Niao_M2
+  rotate: true
+  xy: 181, 17
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+Niao_Wing1
+  rotate: false
+  xy: 2, 341
+  size: 194, 366
+  orig: 194, 366
+  offset: 0, 0
+  index: -1
+Niao_Wing2
+  rotate: true
+  xy: 2, 709
+  size: 229, 232
+  orig: 229, 232
+  offset: 0, 0
+  index: -1
+Niao_eyes
+  rotate: false
+  xy: 198, 420
+  size: 11, 11
+  orig: 11, 13
+  offset: 0, 1
+  index: -1

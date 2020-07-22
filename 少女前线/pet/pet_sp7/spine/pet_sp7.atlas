@@ -1,0 +1,76 @@
+
+pet_sp7.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 3
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+collar
+  rotate: true
+  xy: 72, 5
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 102, 12
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 195, 10
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 141, 7
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 195, 21
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 168, 9
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: false
+  xy: 112, 9
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+leg4
+  rotate: true
+  xy: 93, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 72, 18
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
