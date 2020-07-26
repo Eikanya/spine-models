@@ -1,0 +1,16 @@
+{
+  "textures": [
+    "feiteliedadi.png"
+  ],
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "feiteliedadi.skel",
+  "atlas": "feiteliedadi.atlas"
+}

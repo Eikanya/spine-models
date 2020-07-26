@@ -1,0 +1,27 @@
+
+yiyuanfeiji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 105
+  size: 232, 149
+  orig: 232, 149
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 194, 2
+  size: 186, 101
+  orig: 186, 101
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 190, 101
+  orig: 190, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+{
+  "textures": [
+    "Pet1001.png"
+  ],
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "Pet1001.skel",
+  "atlas": "Pet1001.atlas"
+}
