@@ -1,0 +1,335 @@
+
+zhenying_aladiya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sjm
+  rotate: false
+  xy: 503, 338
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+syp
+  rotate: false
+  xy: 632, 875
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 1286, 1
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_1
+  rotate: true
+  xy: 983, 421
+  size: 253, 336
+  orig: 253, 336
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_10
+  rotate: false
+  xy: 1241, 140
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_11
+  rotate: false
+  xy: 579, 15
+  size: 128, 359
+  orig: 128, 359
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_12
+  rotate: true
+  xy: 949, 140
+  size: 136, 291
+  orig: 136, 291
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_13
+  rotate: false
+  xy: 1579, 1371
+  size: 417, 165
+  orig: 417, 165
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_14
+  rotate: false
+  xy: 1946, 1099
+  size: 80, 164
+  orig: 80, 164
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_16
+  rotate: false
+  xy: 915, 1061
+  size: 287, 427
+  orig: 287, 427
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_17
+  rotate: true
+  xy: 1906, 734
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_18
+  rotate: true
+  xy: 1454, 169
+  size: 163, 189
+  orig: 163, 189
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_19
+  rotate: false
+  xy: 1286, 22
+  size: 110, 127
+  orig: 110, 127
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_2
+  rotate: false
+  xy: 1320, 379
+  size: 165, 319
+  orig: 165, 319
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_20
+  rotate: true
+  xy: 1885, 847
+  size: 206, 108
+  orig: 206, 108
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_21
+  rotate: false
+  xy: 1787, 461
+  size: 157, 227
+  orig: 157, 227
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_22
+  rotate: true
+  xy: 1500, 832
+  size: 221, 384
+  orig: 221, 384
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_23
+  rotate: true
+  xy: 1249, 269
+  size: 109, 204
+  orig: 109, 204
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_24
+  rotate: false
+  xy: 708, 162
+  size: 240, 281
+  orig: 240, 281
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_25
+  rotate: true
+  xy: 708, 10
+  size: 151, 239
+  orig: 151, 239
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_26
+  rotate: false
+  xy: 632, 901
+  size: 282, 587
+  orig: 282, 587
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_27
+  rotate: true
+  xy: 1500, 689
+  size: 142, 405
+  orig: 142, 405
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_28
+  rotate: true
+  xy: 1241, 150
+  size: 118, 172
+  orig: 118, 172
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_29
+  rotate: false
+  xy: 948, 10
+  size: 238, 129
+  orig: 238, 129
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_3
+  rotate: true
+  xy: 1, 18
+  size: 301, 577
+  orig: 301, 577
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_30
+  rotate: false
+  xy: 1486, 333
+  size: 221, 132
+  orig: 221, 132
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_31
+  rotate: true
+  xy: 1915, 349
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_32
+  rotate: false
+  xy: 1, 870
+  size: 630, 618
+  orig: 630, 618
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_33.1
+  rotate: false
+  xy: 1, 320
+  size: 501, 549
+  orig: 501, 549
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_33.2
+  rotate: false
+  xy: 681, 444
+  size: 301, 456
+  orig: 301, 456
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_33.3
+  rotate: false
+  xy: 1203, 1076
+  size: 351, 414
+  orig: 351, 414
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_34
+  rotate: false
+  xy: 1946, 1264
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_35
+  rotate: true
+  xy: 924, 1491
+  size: 556, 654
+  orig: 556, 654
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_36
+  rotate: true
+  xy: 1915, 283
+  size: 65, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_37
+  rotate: true
+  xy: 1579, 1537
+  size: 510, 415
+  orig: 510, 415
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_38
+  rotate: true
+  xy: 949, 277
+  size: 143, 299
+  orig: 143, 299
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_39
+  rotate: false
+  xy: 983, 675
+  size: 271, 385
+  orig: 271, 385
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_4
+  rotate: false
+  xy: 1255, 699
+  size: 244, 376
+  orig: 244, 376
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_40
+  rotate: true
+  xy: 503, 375
+  size: 494, 177
+  orig: 494, 177
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_41
+  rotate: false
+  xy: 1, 1489
+  size: 922, 558
+  orig: 922, 558
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_5
+  rotate: true
+  xy: 1708, 292
+  size: 168, 206
+  orig: 168, 206
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_6
+  rotate: true
+  xy: 1187, 1
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_7
+  rotate: false
+  xy: 1486, 466
+  size: 300, 222
+  orig: 300, 222
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_8
+  rotate: true
+  xy: 1994, 902
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_9
+  rotate: true
+  xy: 915, 940
+  size: 120, 54
+  orig: 120, 54
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_9.2
+  rotate: true
+  xy: 1994, 988
+  size: 110, 53
+  orig: 110, 53
+  offset: 0, 0
+  index: -1
+zhenying_aladiya_99
+  rotate: true
+  xy: 1555, 1054
+  size: 316, 390
+  orig: 316, 390
+  offset: 0, 0
+  index: -1

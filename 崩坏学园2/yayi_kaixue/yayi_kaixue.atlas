@@ -1,0 +1,384 @@
+
+yayi_kaixue.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanshengyayi_7
+  rotate: false
+  xy: 607, 161
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+wanshengyayi_7a
+  rotate: false
+  xy: 869, 219
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+yayi_kaixue_0
+  rotate: false
+  xy: 773, 1169
+  size: 51, 8
+  orig: 51, 8
+  offset: 0, 0
+  index: -1
+yayi_kaixue_1
+  rotate: false
+  xy: 271, 11
+  size: 42, 6
+  orig: 42, 6
+  offset: 0, 0
+  index: -1
+yayi_kaixue_10
+  rotate: false
+  xy: 1718, 1329
+  size: 149, 244
+  orig: 149, 244
+  offset: 0, 0
+  index: -1
+yayi_kaixue_11
+  rotate: true
+  xy: 1339, 1220
+  size: 79, 133
+  orig: 79, 133
+  offset: 0, 0
+  index: -1
+yayi_kaixue_12
+  rotate: false
+  xy: 1065, 766
+  size: 67, 158
+  orig: 67, 158
+  offset: 0, 0
+  index: -1
+yayi_kaixue_13
+  rotate: true
+  xy: 934, 296
+  size: 187, 181
+  orig: 187, 181
+  offset: 0, 0
+  index: -1
+yayi_kaixue_14
+  rotate: true
+  xy: 934, 201
+  size: 94, 203
+  orig: 94, 203
+  offset: 0, 0
+  index: -1
+yayi_kaixue_15
+  rotate: true
+  xy: 1339, 1300
+  size: 259, 160
+  orig: 259, 160
+  offset: 0, 0
+  index: -1
+yayi_kaixue_16
+  rotate: true
+  xy: 271, 18
+  size: 60, 118
+  orig: 60, 118
+  offset: 0, 0
+  index: -1
+yayi_kaixue_18
+  rotate: true
+  xy: 699, 411
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+yayi_kaixue_19
+  rotate: false
+  xy: 390, 59
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+yayi_kaixue_2
+  rotate: false
+  xy: 1049, 484
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+yayi_kaixue_20
+  rotate: false
+  xy: 1856, 1677
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+yayi_kaixue_21
+  rotate: false
+  xy: 442, 79
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+yayi_kaixue_22
+  rotate: false
+  xy: 1234, 744
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+yayi_kaixue_23
+  rotate: true
+  xy: 1311, 866
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+yayi_kaixue_24
+  rotate: false
+  xy: 1718, 1142
+  size: 178, 186
+  orig: 178, 186
+  offset: 0, 0
+  index: -1
+yayi_kaixue_25
+  rotate: true
+  xy: 1591, 1574
+  size: 101, 266
+  orig: 101, 266
+  offset: 0, 0
+  index: -1
+yayi_kaixue_26
+  rotate: true
+  xy: 766, 239
+  size: 226, 167
+  orig: 226, 167
+  offset: 0, 0
+  index: -1
+yayi_kaixue_27
+  rotate: false
+  xy: 1235, 914
+  size: 120, 276
+  orig: 120, 276
+  offset: 0, 0
+  index: -1
+yayi_kaixue_28
+  rotate: false
+  xy: 1856, 1727
+  size: 154, 320
+  orig: 154, 320
+  offset: 0, 0
+  index: -1
+yayi_kaixue_29
+  rotate: false
+  xy: 1234, 783
+  size: 76, 130
+  orig: 76, 130
+  offset: 0, 0
+  index: -1
+yayi_kaixue_3
+  rotate: false
+  xy: 1064, 925
+  size: 170, 265
+  orig: 170, 265
+  offset: 0, 0
+  index: -1
+yayi_kaixue_30
+  rotate: false
+  xy: 1500, 1206
+  size: 217, 162
+  orig: 217, 162
+  offset: 0, 0
+  index: -1
+yayi_kaixue_31
+  rotate: false
+  xy: 1370, 1627
+  size: 220, 420
+  orig: 220, 420
+  offset: 0, 0
+  index: -1
+yayi_kaixue_32
+  rotate: false
+  xy: 699, 760
+  size: 230, 404
+  orig: 230, 404
+  offset: 0, 0
+  index: -1
+yayi_kaixue_33
+  rotate: false
+  xy: 699, 466
+  size: 196, 293
+  orig: 196, 293
+  offset: 0, 0
+  index: -1
+yayi_kaixue_34
+  rotate: true
+  xy: 1, 4
+  size: 74, 269
+  orig: 74, 269
+  offset: 0, 0
+  index: -1
+yayi_kaixue_35
+  rotate: false
+  xy: 1049, 520
+  size: 56, 245
+  orig: 56, 245
+  offset: 0, 0
+  index: -1
+yayi_kaixue_36
+  rotate: false
+  xy: 896, 484
+  size: 152, 275
+  orig: 152, 275
+  offset: 0, 0
+  index: -1
+yayi_kaixue_37
+  rotate: false
+  xy: 1591, 1676
+  size: 264, 371
+  orig: 264, 371
+  offset: 0, 0
+  index: -1
+yayi_kaixue_38
+  rotate: false
+  xy: 1, 79
+  size: 440, 298
+  orig: 440, 298
+  offset: 0, 0
+  index: -1
+yayi_kaixue_39a
+  rotate: false
+  xy: 773, 1178
+  size: 256, 869
+  orig: 256, 869
+  offset: 0, 0
+  index: -1
+yayi_kaixue_4
+  rotate: true
+  xy: 1106, 734
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+yayi_kaixue_41a
+  rotate: false
+  xy: 462, 411
+  size: 236, 753
+  orig: 236, 753
+  offset: 0, 0
+  index: -1
+yayi_kaixue_43
+  rotate: true
+  xy: 607, 176
+  size: 234, 158
+  orig: 234, 158
+  offset: 0, 0
+  index: -1
+yayi_kaixue_44a
+  rotate: false
+  xy: 930, 887
+  size: 133, 290
+  orig: 133, 290
+  offset: 0, 0
+  index: -1
+yayi_kaixue_45
+  rotate: false
+  xy: 1500, 1369
+  size: 217, 204
+  orig: 217, 204
+  offset: 0, 0
+  index: -1
+yayi_kaixue_46
+  rotate: true
+  xy: 442, 121
+  size: 256, 164
+  orig: 256, 164
+  offset: 0, 0
+  index: -1
+yayi_kaixue_47
+  rotate: true
+  xy: 1370, 1573
+  size: 53, 83
+  orig: 53, 83
+  offset: 0, 0
+  index: -1
+yayi_kaixue_48
+  rotate: false
+  xy: 1473, 1246
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+yayi_kaixue_49
+  rotate: true
+  xy: 1030, 1191
+  size: 368, 308
+  orig: 368, 308
+  offset: 0, 0
+  index: -1
+yayi_kaixue_5
+  rotate: true
+  xy: 462, 378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+yayi_kaixue_50
+  rotate: false
+  xy: 1030, 1560
+  size: 339, 487
+  orig: 339, 487
+  offset: 0, 0
+  index: -1
+yayi_kaixue_51
+  rotate: false
+  xy: 1133, 741
+  size: 100, 183
+  orig: 100, 183
+  offset: 0, 0
+  index: -1
+yayi_kaixue_52
+  rotate: false
+  xy: 930, 766
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+yayi_kaixue_53
+  rotate: false
+  xy: 1, 378
+  size: 460, 786
+  orig: 460, 786
+  offset: 0, 0
+  index: -1
+yayi_kaixue_54
+  rotate: false
+  xy: 1, 1165
+  size: 771, 882
+  orig: 771, 882
+  offset: 0, 0
+  index: -1
+yayi_kaixue_6
+  rotate: true
+  xy: 2011, 2020
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+yayi_kaixue_7
+  rotate: false
+  xy: 1116, 452
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+yayi_kaixue_8
+  rotate: true
+  xy: 1339, 1191
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+yayi_kaixue_9
+  rotate: false
+  xy: 766, 158
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1

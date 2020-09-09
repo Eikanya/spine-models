@@ -1,0 +1,402 @@
+
+YC_A_07.png
+size: 4000,4000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YC_A_07_03
+  rotate: true
+  xy: 3844, 3086
+  size: 111, 95
+  orig: 111, 95
+  offset: 0, 0
+  index: -1
+YC_A_07_04
+  rotate: true
+  xy: 3844, 2404
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+YC_A_07_10
+  rotate: true
+  xy: 3913, 2068
+  size: 334, 59
+  orig: 334, 59
+  offset: 0, 0
+  index: -1
+YC_A_07_11
+  rotate: true
+  xy: 3922, 2418
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+YC_A_07_12
+  rotate: true
+  xy: 3844, 3677
+  size: 321, 124
+  orig: 321, 124
+  offset: 0, 0
+  index: -1
+YC_A_07_13
+  rotate: true
+  xy: 3940, 2729
+  size: 355, 47
+  orig: 355, 47
+  offset: 0, 0
+  index: -1
+YC_A_07_14
+  rotate: true
+  xy: 3844, 2493
+  size: 154, 82
+  orig: 154, 82
+  offset: 0, 0
+  index: -1
+YC_A_07_15
+  rotate: true
+  xy: 3844, 2649
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+YC_A_07_16
+  rotate: true
+  xy: 3844, 2760
+  size: 324, 94
+  orig: 324, 94
+  offset: 0, 0
+  index: -1
+YC_A_07_17
+  rotate: true
+  xy: 3844, 2142
+  size: 260, 67
+  orig: 260, 67
+  offset: 0, 0
+  index: -1
+YC_A_07_18
+  rotate: true
+  xy: 3844, 3397
+  size: 278, 119
+  orig: 278, 119
+  offset: 0, 0
+  index: -1
+YC_A_07_19
+  rotate: true
+  xy: 3941, 3126
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+YC_A_07_21
+  rotate: false
+  xy: 2450, 28
+  size: 659, 589
+  orig: 659, 589
+  offset: 0, 0
+  index: -1
+YC_A_07_22
+  rotate: false
+  xy: 3111, 38
+  size: 648, 579
+  orig: 648, 579
+  offset: 0, 0
+  index: -1
+YC_A_07_36
+  rotate: true
+  xy: 1803, 2
+  size: 615, 645
+  orig: 615, 645
+  offset: 0, 0
+  index: -1
+YC_A_07_37
+  rotate: true
+  xy: 3844, 3199
+  size: 196, 96
+  orig: 196, 96
+  offset: 0, 0
+  index: -1
+YC_A_07_45
+  rotate: false
+  xy: 2, 52
+  size: 1799, 1784
+  orig: 1799, 1784
+  offset: 0, 0
+  index: -1
+YC_A_07_46
+  rotate: true
+  xy: 3761, 31
+  size: 586, 235
+  orig: 586, 235
+  offset: 0, 0
+  index: -1
+YC_A_07_47
+  rotate: false
+  xy: 1803, 619
+  size: 2132, 1217
+  orig: 2132, 1217
+  offset: 0, 0
+  index: -1
+YC_A_07_49
+  rotate: false
+  xy: 2, 1838
+  size: 3840, 2160
+  orig: 3840, 2160
+  offset: 0, 0
+  index: -1
+
+YC_A_072.png
+size: 3996,3996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YC_A_07_02
+  rotate: true
+  xy: 2, 44
+  size: 377, 918
+  orig: 377, 918
+  offset: 0, 0
+  index: -1
+YC_A_07_05
+  rotate: false
+  xy: 2336, 14
+  size: 637, 407
+  orig: 637, 407
+  offset: 0, 0
+  index: -1
+YC_A_07_08
+  rotate: false
+  xy: 3782, 1759
+  size: 207, 372
+  orig: 207, 372
+  offset: 0, 0
+  index: -1
+YC_A_07_20
+  rotate: true
+  xy: 3782, 1407
+  size: 350, 182
+  orig: 350, 182
+  offset: 0, 0
+  index: -1
+YC_A_07_24
+  rotate: true
+  xy: 2975, 73
+  size: 348, 682
+  orig: 348, 682
+  offset: 0, 0
+  index: -1
+YC_A_07_26
+  rotate: false
+  xy: 1666, 2
+  size: 668, 419
+  orig: 668, 419
+  offset: 0, 0
+  index: -1
+YC_A_07_27
+  rotate: false
+  xy: 922, 9
+  size: 742, 412
+  orig: 742, 412
+  offset: 0, 0
+  index: -1
+YC_A_07_34
+  rotate: false
+  xy: 3782, 1118
+  size: 211, 287
+  orig: 211, 287
+  offset: 0, 0
+  index: -1
+YC_A_07_35
+  rotate: false
+  xy: 2, 423
+  size: 1888, 2046
+  orig: 1888, 2046
+  offset: 0, 0
+  index: -1
+YC_A_07_39
+  rotate: true
+  xy: 3659, 11
+  size: 410, 331
+  orig: 410, 331
+  offset: 0, 0
+  index: -1
+YC_A_07_40
+  rotate: false
+  xy: 3782, 2133
+  size: 191, 532
+  orig: 191, 532
+  offset: 0, 0
+  index: -1
+YC_A_07_41
+  rotate: false
+  xy: 2, 2471
+  size: 3239, 1522
+  orig: 3239, 1522
+  offset: 0, 0
+  index: -1
+YC_A_07_42
+  rotate: true
+  xy: 3740, 2667
+  size: 664, 179
+  orig: 664, 179
+  offset: 0, 0
+  index: -1
+YC_A_07_43
+  rotate: false
+  xy: 1892, 423
+  size: 1888, 2046
+  orig: 1888, 2046
+  offset: 0, 0
+  index: -1
+YC_A_07_51
+  rotate: false
+  xy: 3243, 3333
+  size: 662, 660
+  orig: 662, 660
+  offset: 0, 0
+  index: -1
+YC_A_07_53
+  rotate: true
+  xy: 3243, 2561
+  size: 770, 495
+  orig: 770, 495
+  offset: 0, 0
+  index: -1
+
+YC_A_073.png
+size: 4000,3816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YC_A_07_01
+  rotate: false
+  xy: 1454, 1267
+  size: 804, 1375
+  orig: 804, 1375
+  offset: 0, 0
+  index: -1
+YC_A_07_06
+  rotate: true
+  xy: 3084, 420
+  size: 307, 666
+  orig: 307, 666
+  offset: 0, 0
+  index: -1
+YC_A_07_07
+  rotate: false
+  xy: 3584, 75
+  size: 234, 343
+  orig: 234, 343
+  offset: 0, 0
+  index: -1
+YC_A_07_09
+  rotate: false
+  xy: 3084, 37
+  size: 498, 381
+  orig: 498, 381
+  offset: 0, 0
+  index: -1
+YC_A_07_25
+  rotate: false
+  xy: 3311, 3142
+  size: 345, 669
+  orig: 345, 669
+  offset: 0, 0
+  index: -1
+YC_A_07_28
+  rotate: true
+  xy: 1157, 67
+  size: 1198, 886
+  orig: 1198, 886
+  offset: 0, 0
+  index: -1
+YC_A_07_29
+  rotate: false
+  xy: 1759, 2712
+  size: 1550, 1099
+  orig: 1550, 1099
+  offset: 0, 0
+  index: -1
+YC_A_07_30
+  rotate: true
+  xy: 3658, 3334
+  size: 477, 338
+  orig: 477, 338
+  offset: 0, 0
+  index: -1
+YC_A_07_31
+  rotate: true
+  xy: 2260, 1070
+  size: 1640, 790
+  orig: 1640, 790
+  offset: 0, 0
+  index: -1
+YC_A_07_32
+  rotate: false
+  xy: 2, 1311
+  size: 1450, 1331
+  orig: 1450, 1331
+  offset: 0, 0
+  index: -1
+YC_A_07_33
+  rotate: true
+  xy: 3752, 458
+  size: 269, 241
+  orig: 269, 241
+  offset: 0, 0
+  index: -1
+YC_A_07_38
+  rotate: true
+  xy: 3311, 2752
+  size: 388, 346
+  orig: 388, 346
+  offset: 0, 0
+  index: -1
+YC_A_07_44
+  rotate: false
+  xy: 2, 2
+  size: 1153, 1307
+  orig: 1153, 1307
+  offset: 0, 0
+  index: -1
+YC_A_07_48
+  rotate: false
+  xy: 2, 2644
+  size: 1755, 1167
+  orig: 1755, 1167
+  offset: 0, 0
+  index: -1
+YC_A_07_50
+  rotate: false
+  xy: 3084, 729
+  size: 863, 868
+  orig: 863, 868
+  offset: 0, 0
+  index: -1
+YC_A_07_52
+  rotate: true
+  xy: 3052, 1599
+  size: 1111, 864
+  orig: 1111, 864
+  offset: 0, 0
+  index: -1
+YC_A_07_54
+  rotate: true
+  xy: 2045, 110
+  size: 958, 1037
+  orig: 958, 1037
+  offset: 0, 0
+  index: -1
+
+YC_A_074.png
+size: 444,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YC_A_07_23
+  rotate: false
+  xy: 2, 2
+  size: 438, 457
+  orig: 438, 457
+  offset: 0, 0
+  index: -1

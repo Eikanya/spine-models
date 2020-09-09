@@ -1,0 +1,181 @@
+
+Sailor_Jizi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jizi__0
+  rotate: false
+  xy: 325, 26
+  size: 72, 38
+  orig: 72, 38
+  offset: 0, 0
+  index: -1
+Jizi__1
+  rotate: false
+  xy: 164, 17
+  size: 160, 47
+  orig: 160, 47
+  offset: 0, 0
+  index: -1
+Jizi__10
+  rotate: true
+  xy: 145, 14
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+Jizi__11
+  rotate: false
+  xy: 1, 1
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+Jizi__12
+  rotate: true
+  xy: 530, 968
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+Jizi__13
+  rotate: true
+  xy: 1590, 41
+  size: 279, 332
+  orig: 279, 332
+  offset: 0, 0
+  index: -1
+Jizi__14
+  rotate: true
+  xy: 773, 885
+  size: 154, 259
+  orig: 154, 259
+  offset: 0, 0
+  index: -1
+Jizi__15
+  rotate: false
+  xy: 456, 956
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+Jizi__16
+  rotate: false
+  xy: 1, 65
+  size: 771, 876
+  orig: 771, 876
+  offset: 0, 0
+  index: -1
+Jizi__17
+  rotate: true
+  xy: 1043, 1587
+  size: 459, 674
+  orig: 459, 674
+  offset: 0, 0
+  index: -1
+Jizi__18
+  rotate: true
+  xy: 1043, 1188
+  size: 398, 642
+  orig: 398, 642
+  offset: 0, 0
+  index: -1
+Jizi__19
+  rotate: true
+  xy: 1718, 1604
+  size: 184, 313
+  orig: 184, 313
+  offset: 0, 0
+  index: -1
+Jizi__2
+  rotate: true
+  xy: 1590, 321
+  size: 290, 386
+  orig: 290, 386
+  offset: 0, 0
+  index: -1
+Jizi__20
+  rotate: false
+  xy: 1248, 41
+  size: 295, 151
+  orig: 295, 151
+  offset: 0, 0
+  index: -1
+Jizi__21
+  rotate: false
+  xy: 990, 66
+  size: 127, 545
+  orig: 127, 545
+  offset: 0, 0
+  index: -1
+Jizi__22
+  rotate: false
+  xy: 456, 1040
+  size: 586, 1006
+  orig: 586, 1006
+  offset: 0, 0
+  index: -1
+Jizi__23
+  rotate: false
+  xy: 1, 942
+  size: 454, 1104
+  orig: 454, 1104
+  offset: 0, 0
+  index: -1
+Jizi__24
+  rotate: true
+  xy: 1118, 193
+  size: 445, 471
+  orig: 445, 471
+  offset: 0, 0
+  index: -1
+Jizi__25
+  rotate: false
+  xy: 1676, 612
+  size: 358, 339
+  orig: 358, 339
+  offset: 0, 0
+  index: -1
+Jizi__27
+  rotate: true
+  xy: 1118, 36
+  size: 156, 129
+  orig: 156, 129
+  offset: 0, 0
+  index: -1
+Jizi__3
+  rotate: false
+  xy: 773, 18
+  size: 216, 593
+  orig: 216, 593
+  offset: 0, 0
+  index: -1
+Jizi__4
+  rotate: false
+  xy: 1043, 639
+  size: 632, 548
+  orig: 632, 548
+  offset: 0, 0
+  index: -1
+Jizi__7
+  rotate: true
+  xy: 87, 5
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+Jizi__8
+  rotate: false
+  xy: 1718, 952
+  size: 305, 651
+  orig: 305, 651
+  offset: 0, 0
+  index: -1
+Jizi__9
+  rotate: false
+  xy: 1718, 1789
+  size: 319, 257
+  orig: 319, 257
+  offset: 0, 0
+  index: -1

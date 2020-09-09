@@ -1,0 +1,265 @@
+
+Kuangsan_Partner.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kuangsan_Partner1
+  rotate: false
+  xy: 1294, 528
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner11
+  rotate: true
+  xy: 732, 566
+  size: 29, 110
+  orig: 29, 110
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner12
+  rotate: false
+  xy: 1775, 878
+  size: 96, 297
+  orig: 96, 297
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner13
+  rotate: true
+  xy: 1172, 68
+  size: 99, 164
+  orig: 99, 164
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner14
+  rotate: false
+  xy: 1775, 1176
+  size: 182, 221
+  orig: 182, 221
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner17
+  rotate: false
+  xy: 1, 2
+  size: 128, 49
+  orig: 128, 49
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner18
+  rotate: true
+  xy: 1958, 1246
+  size: 151, 71
+  orig: 151, 71
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner18.5
+  rotate: true
+  xy: 1787, 517
+  size: 132, 68
+  orig: 132, 68
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner19
+  rotate: true
+  xy: 919, 40
+  size: 266, 252
+  orig: 266, 252
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner2
+  rotate: false
+  xy: 1801, 1667
+  size: 199, 380
+  orig: 199, 380
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner21
+  rotate: true
+  xy: 2001, 1955
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner22
+  rotate: false
+  xy: 918, 307
+  size: 235, 288
+  orig: 235, 288
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner23
+  rotate: false
+  xy: 1, 547
+  size: 730, 627
+  orig: 730, 627
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner24
+  rotate: true
+  xy: 1872, 1029
+  size: 146, 96
+  orig: 146, 96
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner25
+  rotate: false
+  xy: 1872, 897
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner26
+  rotate: true
+  xy: 1787, 650
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner27
+  rotate: true
+  xy: 1154, 363
+  size: 248, 139
+  orig: 248, 139
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner28
+  rotate: false
+  xy: 1885, 790
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner3
+  rotate: true
+  xy: 1094, 612
+  size: 92, 244
+  orig: 92, 244
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner30
+  rotate: true
+  xy: 1775, 779
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner31
+  rotate: false
+  xy: 330, 62
+  size: 301, 199
+  orig: 301, 199
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner32
+  rotate: true
+  xy: 1377, 502
+  size: 266, 409
+  orig: 266, 409
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner33
+  rotate: true
+  xy: 732, 596
+  size: 578, 361
+  orig: 578, 361
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner33.5
+  rotate: true
+  xy: 1909, 688
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner34
+  rotate: false
+  xy: 1, 1175
+  size: 1113, 872
+  orig: 1113, 872
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner35
+  rotate: true
+  xy: 1115, 1194
+  size: 278, 659
+  orig: 278, 659
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner36
+  rotate: true
+  xy: 1, 262
+  size: 284, 916
+  orig: 284, 916
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner37
+  rotate: true
+  xy: 1094, 705
+  size: 469, 282
+  orig: 469, 282
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner38
+  rotate: true
+  xy: 1172, 168
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner40
+  rotate: true
+  xy: 1, 52
+  size: 209, 328
+  orig: 209, 328
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner41
+  rotate: true
+  xy: 1377, 769
+  size: 424, 397
+  orig: 424, 397
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner42
+  rotate: false
+  xy: 1115, 1473
+  size: 685, 574
+  orig: 685, 574
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner5
+  rotate: false
+  xy: 1801, 1398
+  size: 226, 268
+  orig: 226, 268
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner5.5
+  rotate: false
+  xy: 2001, 1874
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner6
+  rotate: true
+  xy: 330, 1
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner8
+  rotate: false
+  xy: 1856, 539
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+Kuangsan_Partner9
+  rotate: true
+  xy: 632, 25
+  size: 236, 286
+  orig: 236, 286
+  offset: 0, 0
+  index: -1

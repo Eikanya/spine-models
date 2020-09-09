@@ -1,0 +1,223 @@
+
+kimonokiana.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kimonokiana_10
+  rotate: false
+  xy: 1110, 642
+  size: 595, 1405
+  orig: 595, 1405
+  offset: 0, 0
+  index: -1
+kimonokiana_11
+  rotate: false
+  xy: 1626, 313
+  size: 68, 328
+  orig: 68, 328
+  offset: 0, 0
+  index: -1
+kimonokiana_12
+  rotate: false
+  xy: 1695, 310
+  size: 148, 110
+  orig: 148, 110
+  offset: 0, 0
+  index: -1
+kimonokiana_13
+  rotate: false
+  xy: 1998, 1725
+  size: 49, 322
+  orig: 49, 322
+  offset: 0, 0
+  index: -1
+kimonokiana_14
+  rotate: true
+  xy: 640, 367
+  size: 37, 381
+  orig: 37, 381
+  offset: 0, 0
+  index: -1
+kimonokiana_15
+  rotate: false
+  xy: 1, 297
+  size: 638, 1750
+  orig: 638, 1750
+  offset: 0, 0
+  index: -1
+kimonokiana_16
+  rotate: false
+  xy: 640, 405
+  size: 469, 1642
+  orig: 469, 1642
+  offset: 0, 0
+  index: -1
+kimonokiana_17
+  rotate: true
+  xy: 1706, 1694
+  size: 353, 291
+  orig: 353, 291
+  offset: 0, 0
+  index: -1
+kimonokiana_18
+  rotate: true
+  xy: 845, 21
+  size: 99, 129
+  orig: 99, 129
+  offset: 0, 0
+  index: -1
+kimonokiana_19
+  rotate: true
+  xy: 613, 1
+  size: 132, 99
+  orig: 132, 99
+  offset: 0, 0
+  index: -1
+kimonokiana_2
+  rotate: false
+  xy: 1706, 1057
+  size: 194, 316
+  orig: 194, 316
+  offset: 0, 0
+  index: -1
+kimonokiana_20
+  rotate: false
+  xy: 1, 31
+  size: 313, 265
+  orig: 313, 265
+  offset: 0, 0
+  index: -1
+kimonokiana_22
+  rotate: false
+  xy: 1022, 389
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+kimonokiana_23
+  rotate: false
+  xy: 1998, 1707
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+kimonokiana_24
+  rotate: true
+  xy: 1843, 467
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+kimonokiana_25
+  rotate: true
+  xy: 613, 220
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+kimonokiana_26
+  rotate: true
+  xy: 975, 6
+  size: 114, 67
+  orig: 114, 67
+  offset: 0, 0
+  index: -1
+kimonokiana_27
+  rotate: false
+  xy: 1901, 1046
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+kimonokiana_28
+  rotate: false
+  xy: 883, 121
+  size: 153, 64
+  orig: 153, 64
+  offset: 0, 0
+  index: -1
+kimonokiana_29
+  rotate: true
+  xy: 1110, 291
+  size: 350, 515
+  orig: 350, 515
+  offset: 0, 0
+  index: -1
+kimonokiana_3
+  rotate: false
+  xy: 1901, 1104
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+kimonokiana_30
+  rotate: false
+  xy: 315, 54
+  size: 297, 242
+  orig: 297, 242
+  offset: 0, 0
+  index: -1
+kimonokiana_31
+  rotate: false
+  xy: 1706, 585
+  size: 179, 164
+  orig: 179, 164
+  offset: 0, 0
+  index: -1
+kimonokiana_32
+  rotate: false
+  xy: 713, 10
+  size: 131, 123
+  orig: 131, 123
+  offset: 0, 0
+  index: -1
+kimonokiana_33
+  rotate: false
+  xy: 640, 134
+  size: 242, 232
+  orig: 242, 232
+  offset: 0, 0
+  index: -1
+kimonokiana_4
+  rotate: false
+  xy: 883, 186
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+kimonokiana_5
+  rotate: false
+  xy: 1695, 421
+  size: 147, 163
+  orig: 147, 163
+  offset: 0, 0
+  index: -1
+kimonokiana_6
+  rotate: false
+  xy: 1706, 1374
+  size: 243, 319
+  orig: 243, 319
+  offset: 0, 0
+  index: -1
+kimonokiana_7
+  rotate: false
+  xy: 1950, 1493
+  size: 23, 200
+  orig: 23, 200
+  offset: 0, 0
+  index: -1
+kimonokiana_8
+  rotate: false
+  xy: 1901, 1182
+  size: 30, 191
+  orig: 30, 191
+  offset: 0, 0
+  index: -1
+kimonokiana_9
+  rotate: true
+  xy: 1706, 750
+  size: 306, 189
+  orig: 306, 189
+  offset: 0, 0
+  index: -1

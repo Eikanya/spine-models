@@ -1,0 +1,405 @@
+
+idol_zouming.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zoumingqu_0
+  rotate: true
+  xy: 1996, 1345
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+zoumingqu_1
+  rotate: false
+  xy: 783, 54
+  size: 141, 73
+  orig: 141, 73
+  offset: 0, 0
+  index: -1
+zoumingqu_10
+  rotate: false
+  xy: 1747, 502
+  size: 201, 241
+  orig: 201, 241
+  offset: 0, 0
+  index: -1
+zoumingqu_11
+  rotate: false
+  xy: 1, 1
+  size: 312, 154
+  orig: 312, 154
+  offset: 0, 0
+  index: -1
+zoumingqu_12
+  rotate: true
+  xy: 783, 128
+  size: 85, 184
+  orig: 85, 184
+  offset: 0, 0
+  index: -1
+zoumingqu_13
+  rotate: false
+  xy: 783, 214
+  size: 318, 429
+  orig: 318, 429
+  offset: 0, 0
+  index: -1
+zoumingqu_14
+  rotate: false
+  xy: 1090, 1396
+  size: 781, 651
+  orig: 781, 651
+  offset: 0, 0
+  index: -1
+zoumingqu_15
+  rotate: false
+  xy: 1090, 744
+  size: 781, 651
+  orig: 781, 651
+  offset: 0, 0
+  index: -1
+zoumingqu_16
+  rotate: false
+  xy: 1, 156
+  size: 781, 917
+  orig: 781, 917
+  offset: 0, 0
+  index: -1
+zoumingqu_17
+  rotate: true
+  xy: 925, 1
+  size: 124, 73
+  orig: 124, 73
+  offset: 0, 0
+  index: -1
+zoumingqu_18
+  rotate: false
+  xy: 1438, 180
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+zoumingqu_19
+  rotate: true
+  xy: 1955, 759
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+zoumingqu_2
+  rotate: false
+  xy: 1996, 1177
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+zoumingqu_20
+  rotate: false
+  xy: 1067, 1036
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+zoumingqu_21
+  rotate: false
+  xy: 999, 30
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+zoumingqu_22
+  rotate: false
+  xy: 1049, 977
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+zoumingqu_23
+  rotate: false
+  xy: 2018, 1127
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+zoumingqu_24
+  rotate: false
+  xy: 1996, 1234
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+zoumingqu_25
+  rotate: false
+  xy: 1049, 52
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+zoumingqu_26
+  rotate: false
+  xy: 314, 4
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+zoumingqu_27
+  rotate: false
+  xy: 365, 4
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+zoumingqu_28
+  rotate: false
+  xy: 1996, 1210
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+zoumingqu_3
+  rotate: true
+  xy: 1049, 72
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+zoumingqu_30
+  rotate: false
+  xy: 1031, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+zoumingqu_31
+  rotate: false
+  xy: 1439, 468
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+zoumingqu_32
+  rotate: true
+  xy: 2026, 1823
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+zoumingqu_33
+  rotate: false
+  xy: 1332, 130
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+zoumingqu_34
+  rotate: true
+  xy: 710, 43
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+zoumingqu_35
+  rotate: true
+  xy: 1996, 1272
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+zoumingqu_36
+  rotate: true
+  xy: 2002, 760
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+zoumingqu_38
+  rotate: true
+  xy: 1872, 1870
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+zoumingqu_39
+  rotate: false
+  xy: 1, 1074
+  size: 1088, 973
+  orig: 1088, 973
+  offset: 0, 0
+  index: -1
+zoumingqu_4
+  rotate: true
+  xy: 1438, 217
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+zoumingqu_40
+  rotate: false
+  xy: 1102, 564
+  size: 401, 179
+  orig: 401, 179
+  offset: 0, 0
+  index: -1
+zoumingqu_41
+  rotate: true
+  xy: 1102, 129
+  size: 201, 229
+  orig: 201, 229
+  offset: 0, 0
+  index: -1
+zoumingqu_42
+  rotate: false
+  xy: 1872, 756
+  size: 82, 230
+  orig: 82, 230
+  offset: 0, 0
+  index: -1
+zoumingqu_43
+  rotate: true
+  xy: 1504, 502
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+zoumingqu_44
+  rotate: true
+  xy: 1872, 1614
+  size: 255, 153
+  orig: 255, 153
+  offset: 0, 0
+  index: -1
+zoumingqu_45
+  rotate: true
+  xy: 783, 644
+  size: 429, 265
+  orig: 429, 265
+  offset: 0, 0
+  index: -1
+zoumingqu_46
+  rotate: true
+  xy: 1495, 361
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+zoumingqu_47
+  rotate: true
+  xy: 1049, 995
+  size: 78, 17
+  orig: 78, 17
+  offset: 0, 0
+  index: -1
+zoumingqu_48
+  rotate: true
+  xy: 1067, 997
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+zoumingqu_49
+  rotate: false
+  xy: 1872, 1403
+  size: 172, 210
+  orig: 172, 210
+  offset: 0, 0
+  index: -1
+zoumingqu_5
+  rotate: true
+  xy: 710, 69
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+zoumingqu_50
+  rotate: false
+  xy: 1438, 271
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+zoumingqu_51
+  rotate: false
+  xy: 1439, 331
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+zoumingqu_52
+  rotate: true
+  xy: 1439, 392
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+zoumingqu_53
+  rotate: false
+  xy: 314, 42
+  size: 395, 113
+  orig: 395, 113
+  offset: 0, 0
+  index: -1
+zoumingqu_54
+  rotate: false
+  xy: 1955, 791
+  size: 73, 195
+  orig: 73, 195
+  offset: 0, 0
+  index: -1
+zoumingqu_55
+  rotate: false
+  xy: 1332, 148
+  size: 105, 182
+  orig: 105, 182
+  offset: 0, 0
+  index: -1
+zoumingqu_56
+  rotate: false
+  xy: 968, 126
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+zoumingqu_57
+  rotate: false
+  xy: 1872, 1177
+  size: 123, 225
+  orig: 123, 225
+  offset: 0, 0
+  index: -1
+zoumingqu_58
+  rotate: false
+  xy: 1102, 331
+  size: 336, 232
+  orig: 336, 232
+  offset: 0, 0
+  index: -1
+zoumingqu_6
+  rotate: false
+  xy: 1872, 987
+  size: 145, 189
+  orig: 145, 189
+  offset: 0, 0
+  index: -1
+zoumingqu_7
+  rotate: false
+  xy: 2018, 1146
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+zoumingqu_8
+  rotate: false
+  xy: 1438, 152
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zoumingqu_9
+  rotate: false
+  xy: 999, 1
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1

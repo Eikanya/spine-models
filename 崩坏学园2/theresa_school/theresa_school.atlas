@@ -1,0 +1,272 @@
+
+theresa_school.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL1
+  rotate: true
+  xy: 546, 39
+  size: 139, 242
+  orig: 139, 242
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 625, 500
+  size: 193, 497
+  orig: 193, 497
+  offset: 0, 0
+  index: -1
+armR1
+  rotate: true
+  xy: 1115, 523
+  size: 349, 258
+  orig: 349, 258
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: false
+  xy: 1374, 809
+  size: 306, 283
+  orig: 306, 283
+  offset: 0, 0
+  index: -1
+bag1
+  rotate: false
+  xy: 1359, 1093
+  size: 420, 370
+  orig: 420, 370
+  offset: 0, 0
+  index: -1
+bag_huan1
+  rotate: false
+  xy: 546, 1
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+bag_pet1
+  rotate: true
+  xy: 877, 231
+  size: 140, 153
+  orig: 140, 153
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 885, 1102
+  size: 361, 473
+  orig: 361, 473
+  offset: 0, 0
+  index: -1
+browL1
+  rotate: false
+  xy: 1022, 516
+  size: 92, 18
+  orig: 92, 18
+  offset: 0, 0
+  index: -1
+browR1
+  rotate: false
+  xy: 1681, 955
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: true
+  xy: 515, 998
+  size: 510, 369
+  orig: 510, 369
+  offset: 0, 0
+  index: -1
+earphone1
+  rotate: true
+  xy: 396, 480
+  size: 515, 228
+  orig: 515, 228
+  offset: 0, 0
+  index: -1
+earphone2
+  rotate: false
+  xy: 994, 1464
+  size: 540, 361
+  orig: 540, 361
+  offset: 0, 0
+  index: -1
+earphoneL1
+  rotate: false
+  xy: 994, 1826
+  size: 689, 221
+  orig: 689, 221
+  offset: 0, 0
+  index: -1
+earphoneR1
+  rotate: false
+  xy: 885, 873
+  size: 381, 228
+  orig: 381, 228
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: false
+  xy: 1535, 1488
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: true
+  xy: 819, 894
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 1681, 1004
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: false
+  xy: 748, 213
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 819, 535
+  size: 295, 337
+  orig: 295, 337
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 515, 1509
+  size: 478, 538
+  orig: 478, 538
+  offset: 0, 0
+  index: -1
+hairSL1
+  rotate: true
+  xy: 1684, 1710
+  size: 337, 354
+  orig: 337, 354
+  offset: 0, 0
+  index: -1
+hairSL2
+  rotate: false
+  xy: 1930, 1551
+  size: 104, 158
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+hairSR1
+  rotate: false
+  xy: 1535, 1572
+  size: 137, 253
+  orig: 137, 253
+  offset: 0, 0
+  index: -1
+hairf1
+  rotate: true
+  xy: 1780, 981
+  size: 258, 263
+  orig: 258, 263
+  offset: 0, 0
+  index: -1
+hairf2
+  rotate: true
+  xy: 1, 22
+  size: 184, 315
+  orig: 184, 315
+  offset: 0, 0
+  index: -1
+hairf3
+  rotate: false
+  xy: 1780, 1240
+  size: 262, 284
+  orig: 262, 284
+  offset: 0, 0
+  index: -1
+ldress2
+  rotate: false
+  xy: 1374, 540
+  size: 261, 268
+  orig: 261, 268
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 1, 207
+  size: 394, 788
+  orig: 394, 788
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 1, 996
+  size: 513, 1051
+  orig: 513, 1051
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 1267, 942
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 396, 179
+  size: 351, 300
+  orig: 351, 300
+  offset: 0, 0
+  index: -1
+neck1
+  rotate: true
+  xy: 1267, 993
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+neck2
+  rotate: false
+  xy: 1673, 1525
+  size: 256, 184
+  orig: 256, 184
+  offset: 0, 0
+  index: -1
+neck_line1
+  rotate: false
+  xy: 877, 372
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+neck_line2
+  rotate: false
+  xy: 317, 5
+  size: 228, 173
+  orig: 228, 173
+  offset: 0, 0
+  index: -1
+neck_line3
+  rotate: true
+  xy: 748, 262
+  size: 237, 128
+  orig: 237, 128
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 885, 1486
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1

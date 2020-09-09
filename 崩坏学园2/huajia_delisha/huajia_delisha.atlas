@@ -1,0 +1,293 @@
+
+huajia_delisha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+delisha_0
+  rotate: false
+  xy: 1478, 301
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+delisha_1
+  rotate: true
+  xy: 1310, 4
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+delisha_10
+  rotate: true
+  xy: 1012, 716
+  size: 102, 179
+  orig: 102, 179
+  offset: 0, 0
+  index: -1
+delisha_11
+  rotate: false
+  xy: 1257, 624
+  size: 481, 474
+  orig: 481, 474
+  offset: 0, 0
+  index: -1
+delisha_12
+  rotate: false
+  xy: 1212, 1428
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+delisha_13
+  rotate: false
+  xy: 1904, 1589
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+delisha_14
+  rotate: false
+  xy: 1739, 643
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+delisha_15
+  rotate: false
+  xy: 921, 68
+  size: 273, 309
+  orig: 273, 309
+  offset: 0, 0
+  index: -1
+delisha_16
+  rotate: false
+  xy: 1739, 824
+  size: 106, 165
+  orig: 106, 165
+  offset: 0, 0
+  index: -1
+delisha_17
+  rotate: false
+  xy: 527, 1021
+  size: 543, 430
+  orig: 543, 430
+  offset: 0, 0
+  index: -1
+delisha_17a
+  rotate: false
+  xy: 1257, 376
+  size: 334, 247
+  orig: 334, 247
+  offset: 0, 0
+  index: -1
+delisha_17b
+  rotate: false
+  xy: 1806, 1570
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+delisha_18
+  rotate: false
+  xy: 527, 1452
+  size: 711, 592
+  orig: 711, 592
+  offset: 0, 0
+  index: -1
+delisha_19
+  rotate: false
+  xy: 1195, 7
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+delisha_2
+  rotate: false
+  xy: 1592, 296
+  size: 191, 327
+  orig: 191, 327
+  offset: 0, 0
+  index: -1
+delisha_20
+  rotate: true
+  xy: 1918, 1199
+  size: 103, 95
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+delisha_21
+  rotate: false
+  xy: 1739, 676
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+delisha_22
+  rotate: false
+  xy: 1239, 1557
+  size: 566, 487
+  orig: 566, 487
+  offset: 0, 0
+  index: -1
+delisha_23
+  rotate: false
+  xy: 1, 976
+  size: 525, 1068
+  orig: 525, 1068
+  offset: 0, 0
+  index: -1
+delisha_24
+  rotate: true
+  xy: 1, 40
+  size: 252, 919
+  orig: 252, 919
+  offset: 0, 0
+  index: -1
+delisha_25
+  rotate: false
+  xy: 1239, 1099
+  size: 502, 457
+  orig: 502, 457
+  offset: 0, 0
+  index: -1
+delisha_26
+  rotate: false
+  xy: 1846, 847
+  size: 94, 142
+  orig: 94, 142
+  offset: 0, 0
+  index: -1
+delisha_27
+  rotate: true
+  xy: 527, 716
+  size: 304, 484
+  orig: 304, 484
+  offset: 0, 0
+  index: -1
+delisha_28
+  rotate: true
+  xy: 1, 293
+  size: 682, 523
+  orig: 682, 523
+  offset: 0, 0
+  index: -1
+delisha_29
+  rotate: false
+  xy: 1563, 343
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+delisha_3
+  rotate: false
+  xy: 1806, 1651
+  size: 170, 393
+  orig: 170, 393
+  offset: 0, 0
+  index: -1
+delisha_30
+  rotate: false
+  xy: 525, 293
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+delisha_31
+  rotate: false
+  xy: 525, 325
+  size: 394, 390
+  orig: 394, 390
+  offset: 0, 0
+  index: -1
+delisha_32
+  rotate: false
+  xy: 1071, 1034
+  size: 154, 180
+  orig: 154, 180
+  offset: 0, 0
+  index: -1
+delisha_33
+  rotate: false
+  xy: 1071, 1215
+  size: 140, 236
+  orig: 140, 236
+  offset: 0, 0
+  index: -1
+delisha_34
+  rotate: false
+  xy: 1132, 821
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+delisha_35
+  rotate: true
+  xy: 1742, 990
+  size: 151, 179
+  orig: 151, 179
+  offset: 0, 0
+  index: -1
+delisha_37
+  rotate: false
+  xy: 920, 378
+  size: 336, 337
+  orig: 336, 337
+  offset: 0, 0
+  index: -1
+delisha_38
+  rotate: false
+  xy: 1195, 116
+  size: 282, 259
+  orig: 282, 259
+  offset: 0, 0
+  index: -1
+delisha_39
+  rotate: true
+  xy: 1858, 711
+  size: 135, 108
+  orig: 135, 108
+  offset: 0, 0
+  index: -1
+delisha_4
+  rotate: false
+  xy: 1132, 849
+  size: 83, 184
+  orig: 83, 184
+  offset: 0, 0
+  index: -1
+delisha_5
+  rotate: false
+  xy: 1, 1
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+delisha_6
+  rotate: false
+  xy: 1012, 819
+  size: 119, 201
+  orig: 119, 201
+  offset: 0, 0
+  index: -1
+delisha_7
+  rotate: false
+  xy: 1742, 1303
+  size: 223, 253
+  orig: 223, 253
+  offset: 0, 0
+  index: -1
+delisha_8
+  rotate: false
+  xy: 1742, 1142
+  size: 175, 160
+  orig: 175, 160
+  offset: 0, 0
+  index: -1
+delisha_9
+  rotate: true
+  xy: 1478, 68
+  size: 227, 294
+  orig: 227, 294
+  offset: 0, 0
+  index: -1

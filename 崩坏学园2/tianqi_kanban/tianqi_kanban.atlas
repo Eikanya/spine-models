@@ -1,0 +1,412 @@
+
+tianqi_kanban.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TianQi_1
+  rotate: false
+  xy: 1642, 727
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+TianQi_11
+  rotate: true
+  xy: 1251, 1336
+  size: 15, 57
+  orig: 15, 57
+  offset: 0, 0
+  index: -1
+TianQi_121
+  rotate: false
+  xy: 739, 1
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+TianQi_122
+  rotate: false
+  xy: 1938, 543
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+TianQi_141
+  rotate: false
+  xy: 779, 6
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+TianQi_142
+  rotate: true
+  xy: 1700, 438
+  size: 55, 11
+  orig: 55, 11
+  offset: 0, 0
+  index: -1
+TianQi_15
+  rotate: true
+  xy: 1884, 1473
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+TianQi_16
+  rotate: false
+  xy: 643, 41
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1
+TianQi_17
+  rotate: true
+  xy: 1717, 495
+  size: 105, 220
+  orig: 105, 220
+  offset: 0, 0
+  index: -1
+TianQi_18
+  rotate: false
+  xy: 1112, 31
+  size: 143, 111
+  orig: 143, 111
+  offset: 0, 0
+  index: -1
+TianQi_19
+  rotate: false
+  xy: 598, 203
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+TianQi_2
+  rotate: false
+  xy: 1938, 569
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+TianQi_20
+  rotate: true
+  xy: 973, 11
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+TianQi_21
+  rotate: false
+  xy: 1720, 1472
+  size: 163, 83
+  orig: 163, 83
+  offset: 0, 0
+  index: -1
+TianQi_22
+  rotate: false
+  xy: 973, 92
+  size: 138, 161
+  orig: 138, 161
+  offset: 0, 0
+  index: -1
+TianQi_23
+  rotate: false
+  xy: 786, 1336
+  size: 464, 711
+  orig: 464, 711
+  offset: 0, 0
+  index: -1
+TianQi_24
+  rotate: false
+  xy: 1, 191
+  size: 596, 735
+  orig: 596, 735
+  offset: 0, 0
+  index: -1
+TianQi_25
+  rotate: false
+  xy: 1251, 1463
+  size: 468, 584
+  orig: 468, 584
+  offset: 0, 0
+  index: -1
+TianQi_26
+  rotate: false
+  xy: 958, 254
+  size: 163, 674
+  orig: 163, 674
+  offset: 0, 0
+  index: -1
+TianQi_27
+  rotate: false
+  xy: 1122, 325
+  size: 181, 603
+  orig: 181, 603
+  offset: 0, 0
+  index: -1
+TianQi_28
+  rotate: false
+  xy: 1650, 1070
+  size: 356, 392
+  orig: 356, 392
+  offset: 0, 0
+  index: -1
+TianQi_29
+  rotate: false
+  xy: 1304, 275
+  size: 236, 152
+  orig: 236, 152
+  offset: 0, 0
+  index: -1
+TianQi_3
+  rotate: false
+  xy: 1304, 428
+  size: 239, 296
+  orig: 239, 296
+  offset: 0, 0
+  index: -1
+TianQi_30
+  rotate: true
+  xy: 1296, 161
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+TianQi_31
+  rotate: true
+  xy: 1419, 161
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+TianQi_32
+  rotate: true
+  xy: 1327, 725
+  size: 278, 314
+  orig: 278, 314
+  offset: 0, 0
+  index: -1
+TianQi_33
+  rotate: false
+  xy: 1938, 494
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+TianQi_34
+  rotate: false
+  xy: 1, 1
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+TianQi_35
+  rotate: false
+  xy: 838, 52
+  size: 134, 186
+  orig: 134, 186
+  offset: 0, 0
+  index: -1
+TianQi_36
+  rotate: false
+  xy: 1884, 1491
+  size: 144, 64
+  orig: 144, 64
+  offset: 0, 0
+  index: -1
+TianQi_38
+  rotate: false
+  xy: 1276, 212
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+TianQi_39
+  rotate: true
+  xy: 1251, 1352
+  size: 11, 75
+  orig: 11, 75
+  offset: 0, 0
+  index: -1
+TianQi_4
+  rotate: true
+  xy: 838, 1
+  size: 50, 128
+  orig: 50, 128
+  offset: 0, 0
+  index: -1
+TianQi_40
+  rotate: true
+  xy: 1984, 795
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+TianQi_41
+  rotate: false
+  xy: 1304, 838
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+TianQi_42
+  rotate: false
+  xy: 1938, 518
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+TianQi_42_2
+  rotate: true
+  xy: 1304, 880
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+TianQi_43
+  rotate: true
+  xy: 1984, 828
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+TianQi_44
+  rotate: true
+  xy: 1251, 1364
+  size: 98, 67
+  orig: 98, 67
+  offset: 0, 0
+  index: -1
+TianQi_45
+  rotate: true
+  xy: 1256, 91
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+TianQi_45_2
+  rotate: true
+  xy: 1276, 177
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+TianQi_47
+  rotate: true
+  xy: 1984, 905
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1
+TianQi_48
+  rotate: false
+  xy: 1122, 252
+  size: 173, 72
+  orig: 173, 72
+  offset: 0, 0
+  index: -1
+TianQi_49
+  rotate: false
+  xy: 1112, 143
+  size: 163, 108
+  orig: 163, 108
+  offset: 0, 0
+  index: -1
+TianQi_5
+  rotate: false
+  xy: 1717, 601
+  size: 220, 198
+  orig: 220, 198
+  offset: 0, 0
+  index: -1
+TianQi_50
+  rotate: false
+  xy: 193, 6
+  size: 310, 184
+  orig: 310, 184
+  offset: 0, 0
+  index: -1
+TianQi_51
+  rotate: false
+  xy: 1544, 494
+  size: 172, 230
+  orig: 172, 230
+  offset: 0, 0
+  index: -1
+TianQi_52
+  rotate: false
+  xy: 598, 239
+  size: 359, 687
+  orig: 359, 687
+  offset: 0, 0
+  index: -1
+TianQi_53
+  rotate: false
+  xy: 786, 929
+  size: 540, 406
+  orig: 540, 406
+  offset: 0, 0
+  index: -1
+TianQi_54
+  rotate: true
+  xy: 1650, 800
+  size: 269, 333
+  orig: 269, 333
+  offset: 0, 0
+  index: -1
+TianQi_55
+  rotate: false
+  xy: 1327, 1004
+  size: 322, 458
+  orig: 322, 458
+  offset: 0, 0
+  index: -1
+TianQi_56
+  rotate: false
+  xy: 1720, 1556
+  size: 322, 491
+  orig: 322, 491
+  offset: 0, 0
+  index: -1
+TianQi_57
+  rotate: false
+  xy: 1, 927
+  size: 784, 1120
+  orig: 784, 1120
+  offset: 0, 0
+  index: -1
+TianQi_58
+  rotate: false
+  xy: 1938, 642
+  size: 35, 157
+  orig: 35, 157
+  offset: 0, 0
+  index: -1
+TianQi_59
+  rotate: true
+  xy: 1544, 436
+  size: 57, 155
+  orig: 57, 155
+  offset: 0, 0
+  index: -1
+TianQi_6
+  rotate: false
+  xy: 504, 2
+  size: 138, 188
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+TianQi_8
+  rotate: false
+  xy: 643, 14
+  size: 95, 26
+  orig: 95, 26
+  offset: 0, 0
+  index: -1
+TianQi_9
+  rotate: false
+  xy: 1720, 1463
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1

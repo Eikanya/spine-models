@@ -1,0 +1,390 @@
+
+BlackHeart.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlackHeart_25
+  rotate: false
+  xy: 1868, 1772
+  size: 100, 274
+  orig: 100, 274
+  offset: 0, 0
+  index: -1
+BlackHeart_27
+  rotate: false
+  xy: 1911, 30
+  size: 104, 198
+  orig: 104, 198
+  offset: 0, 0
+  index: -1
+BlackHeart_28
+  rotate: true
+  xy: 494, 2
+  size: 92, 239
+  orig: 92, 239
+  offset: 0, 0
+  index: -1
+BlackHeart_33.1
+  rotate: false
+  xy: 734, 1
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+BlackHeart_33.2
+  rotate: true
+  xy: 1976, 1906
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+BlackHeart_33.3
+  rotate: true
+  xy: 1976, 1760
+  size: 145, 61
+  orig: 145, 61
+  offset: 0, 0
+  index: -1
+BlackHeart_38
+  rotate: true
+  xy: 891, 28
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+BlackHeart_39
+  rotate: true
+  xy: 891, 76
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+BlackHeart_42
+  rotate: false
+  xy: 1957, 1631
+  size: 75, 128
+  orig: 75, 128
+  offset: 0, 0
+  index: -1
+BlackHeart_44
+  rotate: false
+  xy: 1809, 712
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+BlackHeart_45
+  rotate: true
+  xy: 1283, 323
+  size: 365, 302
+  orig: 365, 302
+  offset: 0, 0
+  index: -1
+BlackHeart_46
+  rotate: true
+  xy: 1940, 727
+  size: 118, 91
+  orig: 118, 91
+  offset: 0, 0
+  index: -1
+BlackHeart_47
+  rotate: true
+  xy: 1957, 1476
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+BlackHeart_48
+  rotate: false
+  xy: 1, 1107
+  size: 927, 939
+  orig: 927, 939
+  offset: 0, 0
+  index: -1
+BlackHeart_49
+  rotate: false
+  xy: 1787, 1130
+  size: 259, 199
+  orig: 259, 199
+  offset: 0, 0
+  index: -1
+BlackHeart_52
+  rotate: true
+  xy: 1460, 1773
+  size: 273, 407
+  orig: 273, 407
+  offset: 0, 0
+  index: -1
+BlackHeart_53
+  rotate: false
+  xy: 929, 1319
+  size: 530, 727
+  orig: 530, 727
+  offset: 0, 0
+  index: -1
+BlackHeart_54
+  rotate: false
+  xy: 1586, 643
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+BlackHeart_55
+  rotate: false
+  xy: 1629, 229
+  size: 346, 459
+  orig: 346, 459
+  offset: 0, 0
+  index: -1
+BlackHeart_57
+  rotate: false
+  xy: 1957, 1539
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+BlackHeart_59
+  rotate: true
+  xy: 1283, 689
+  size: 427, 525
+  orig: 427, 525
+  offset: 0, 0
+  index: -1
+BlackHeart_63
+  rotate: false
+  xy: 1629, 11
+  size: 281, 217
+  orig: 281, 217
+  offset: 0, 0
+  index: -1
+BlackHeart_67
+  rotate: true
+  xy: 1460, 1330
+  size: 429, 496
+  orig: 429, 496
+  offset: 0, 0
+  index: -1
+BlackHeart_68
+  rotate: false
+  xy: 929, 1117
+  size: 443, 201
+  orig: 443, 201
+  offset: 0, 0
+  index: -1
+BlackHeart_69
+  rotate: true
+  xy: 840, 127
+  size: 149, 91
+  orig: 149, 91
+  offset: 0, 0
+  index: -1
+BlackHeart_70
+  rotate: false
+  xy: 1, 273
+  size: 726, 833
+  orig: 726, 833
+  offset: 0, 0
+  index: -1
+BlackHeart_71
+  rotate: false
+  xy: 936, 8
+  size: 692, 287
+  orig: 692, 287
+  offset: 0, 0
+  index: -1
+BlackHeart_72
+  rotate: false
+  xy: 728, 296
+  size: 554, 810
+  orig: 554, 810
+  offset: 0, 0
+  index: -1
+BlackHeart_73
+  rotate: true
+  xy: 1, 15
+  size: 79, 492
+  orig: 79, 492
+  offset: 0, 0
+  index: -1
+BlackHeart_74
+  rotate: false
+  xy: 1809, 846
+  size: 191, 283
+  orig: 191, 283
+  offset: 0, 0
+  index: -1
+BlackHeart_75
+  rotate: false
+  xy: 831, 277
+  size: 104, 18
+  orig: 104, 18
+  offset: 0, 0
+  index: -1
+BlackHeart_76
+  rotate: true
+  xy: 1, 95
+  size: 177, 838
+  orig: 177, 838
+  offset: 0, 0
+  index: -1
+BlackHeart_78.1
+  rotate: false
+  xy: 1373, 1144
+  size: 413, 174
+  orig: 413, 174
+  offset: 0, 0
+  index: -1
+BlackHeart_79
+  rotate: false
+  xy: 728, 275
+  size: 102, 20
+  orig: 102, 20
+  offset: 0, 0
+  index: -1
+Effect_0
+  rotate: false
+  xy: 858, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Effect_1
+  rotate: false
+  xy: 840, 96
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Effect_2
+  rotate: false
+  xy: 1957, 1420
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+
+BlackHeart2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlackHeart_24
+  rotate: true
+  xy: 293, 771
+  size: 252, 292
+  orig: 252, 292
+  offset: 0, 0
+  index: -1
+BlackHeart_29
+  rotate: true
+  xy: 436, 410
+  size: 150, 357
+  orig: 150, 357
+  offset: 0, 0
+  index: -1
+BlackHeart_30
+  rotate: true
+  xy: 436, 20
+  size: 186, 215
+  orig: 186, 215
+  offset: 0, 0
+  index: -1
+BlackHeart_31
+  rotate: true
+  xy: 436, 207
+  size: 202, 219
+  orig: 202, 219
+  offset: 0, 0
+  index: -1
+BlackHeart_34
+  rotate: true
+  xy: 186, 22
+  size: 167, 180
+  orig: 167, 180
+  offset: 0, 0
+  index: -1
+BlackHeart_35
+  rotate: true
+  xy: 793, 148
+  size: 261, 170
+  orig: 261, 170
+  offset: 0, 0
+  index: -1
+BlackHeart_37
+  rotate: true
+  xy: 293, 561
+  size: 209, 230
+  orig: 209, 230
+  offset: 0, 0
+  index: -1
+BlackHeart_41
+  rotate: true
+  xy: 912, 893
+  size: 130, 111
+  orig: 130, 111
+  offset: 0, 0
+  index: -1
+BlackHeart_50
+  rotate: true
+  xy: 1, 19
+  size: 170, 184
+  orig: 170, 184
+  offset: 0, 0
+  index: -1
+BlackHeart_51
+  rotate: false
+  xy: 794, 412
+  size: 210, 179
+  orig: 210, 179
+  offset: 0, 0
+  index: -1
+BlackHeart_56
+  rotate: true
+  xy: 586, 776
+  size: 247, 325
+  orig: 247, 325
+  offset: 0, 0
+  index: -1
+BlackHeart_60
+  rotate: false
+  xy: 652, 7
+  size: 262, 114
+  orig: 262, 114
+  offset: 0, 0
+  index: -1
+BlackHeart_61
+  rotate: true
+  xy: 656, 122
+  size: 287, 136
+  orig: 287, 136
+  offset: 0, 0
+  index: -1
+BlackHeart_62
+  rotate: true
+  xy: 1, 190
+  size: 364, 434
+  orig: 364, 434
+  offset: 0, 0
+  index: -1
+BlackHeart_64
+  rotate: false
+  xy: 524, 592
+  size: 291, 178
+  orig: 291, 178
+  offset: 0, 0
+  index: -1
+BlackHeart_65
+  rotate: false
+  xy: 816, 598
+  size: 193, 177
+  orig: 193, 177
+  offset: 0, 0
+  index: -1
+BlackHeart_77
+  rotate: false
+  xy: 1, 555
+  size: 291, 468
+  orig: 291, 468
+  offset: 0, 0
+  index: -1

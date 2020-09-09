@@ -1,0 +1,440 @@
+
+younianboshi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+younianboshi_0a
+  rotate: false
+  xy: 379, 162
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+younianboshi_0b
+  rotate: false
+  xy: 711, 153
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+younianboshi_10
+  rotate: true
+  xy: 1, 71
+  size: 107, 262
+  orig: 107, 262
+  offset: 0, 0
+  index: -1
+younianboshi_11
+  rotate: false
+  xy: 454, 126
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+younianboshi_12
+  rotate: true
+  xy: 850, 348
+  size: 65, 154
+  orig: 65, 154
+  offset: 0, 0
+  index: -1
+younianboshi_13
+  rotate: false
+  xy: 1, 179
+  size: 225, 304
+  orig: 225, 304
+  offset: 0, 0
+  index: -1
+younianboshi_14
+  rotate: false
+  xy: 268, 489
+  size: 233, 534
+  orig: 233, 534
+  offset: 0, 0
+  index: -1
+younianboshi_15
+  rotate: true
+  xy: 1005, 377
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+younianboshi_16
+  rotate: true
+  xy: 569, 274
+  size: 37, 6
+  orig: 37, 6
+  offset: 0, 0
+  index: -1
+younianboshi_17
+  rotate: false
+  xy: 362, 24
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+younianboshi_18
+  rotate: false
+  xy: 587, 10
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+younianboshi_19
+  rotate: false
+  xy: 975, 902
+  size: 46, 121
+  orig: 46, 121
+  offset: 0, 0
+  index: -1
+younianboshi_1a
+  rotate: true
+  xy: 525, 47
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+younianboshi_1b
+  rotate: true
+  xy: 979, 636
+  size: 95, 23
+  orig: 95, 23
+  offset: 0, 0
+  index: -1
+younianboshi_2
+  rotate: false
+  xy: 281, 29
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+younianboshi_20
+  rotate: true
+  xy: 454, 226
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+younianboshi_21
+  rotate: true
+  xy: 850, 414
+  size: 107, 173
+  orig: 107, 173
+  offset: 0, 0
+  index: -1
+younianboshi_22
+  rotate: false
+  xy: 979, 732
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+younianboshi_23
+  rotate: true
+  xy: 421, 29
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+younianboshi_24
+  rotate: true
+  xy: 758, 87
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+younianboshi_25
+  rotate: false
+  xy: 732, 348
+  size: 117, 173
+  orig: 117, 173
+  offset: 0, 0
+  index: -1
+younianboshi_27
+  rotate: false
+  xy: 364, 201
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+younianboshi_28a
+  rotate: false
+  xy: 757, 35
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+younianboshi_28b
+  rotate: false
+  xy: 240, 2
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+younianboshi_28c
+  rotate: false
+  xy: 715, 17
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+younianboshi_28d
+  rotate: false
+  xy: 668, 13
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+younianboshi_29
+  rotate: false
+  xy: 509, 16
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+younianboshi_3
+  rotate: true
+  xy: 577, 253
+  size: 86, 148
+  orig: 86, 148
+  offset: 0, 0
+  index: -1
+younianboshi_30
+  rotate: true
+  xy: 975, 892
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+younianboshi_31
+  rotate: false
+  xy: 711, 149
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+younianboshi_32
+  rotate: false
+  xy: 561, 214
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+younianboshi_33
+  rotate: true
+  xy: 325, 26
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+younianboshi_34
+  rotate: false
+  xy: 289, 179
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+younianboshi_35
+  rotate: false
+  xy: 502, 489
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+younianboshi_36
+  rotate: true
+  xy: 979, 595
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+younianboshi_37
+  rotate: true
+  xy: 421, 128
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+younianboshi_38
+  rotate: true
+  xy: 480, 1
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+younianboshi_39
+  rotate: false
+  xy: 758, 61
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+younianboshi_4
+  rotate: false
+  xy: 264, 73
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+younianboshi_40
+  rotate: true
+  xy: 337, 179
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+younianboshi_41
+  rotate: false
+  xy: 577, 340
+  size: 154, 174
+  orig: 154, 174
+  offset: 0, 0
+  index: -1
+younianboshi_42
+  rotate: false
+  xy: 421, 1
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+younianboshi_43
+  rotate: false
+  xy: 289, 218
+  size: 89, 270
+  orig: 89, 270
+  offset: 0, 0
+  index: -1
+younianboshi_44
+  rotate: false
+  xy: 454, 312
+  size: 122, 176
+  orig: 122, 176
+  offset: 0, 0
+  index: -1
+younianboshi_45
+  rotate: false
+  xy: 979, 784
+  size: 44, 117
+  orig: 44, 117
+  offset: 0, 0
+  index: -1
+younianboshi_46
+  rotate: false
+  xy: 716, 582
+  size: 206, 231
+  orig: 206, 231
+  offset: 0, 0
+  index: -1
+younianboshi_47
+  rotate: false
+  xy: 697, 64
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+younianboshi_48
+  rotate: false
+  xy: 379, 262
+  size: 74, 226
+  orig: 74, 226
+  offset: 0, 0
+  index: -1
+younianboshi_49
+  rotate: true
+  xy: 716, 522
+  size: 59, 218
+  orig: 59, 218
+  offset: 0, 0
+  index: -1
+younianboshi_5
+  rotate: true
+  xy: 561, 61
+  size: 87, 135
+  orig: 87, 135
+  offset: 0, 0
+  index: -1
+younianboshi_50
+  rotate: true
+  xy: 935, 524
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+younianboshi_51
+  rotate: true
+  xy: 1, 1
+  size: 69, 238
+  orig: 69, 238
+  offset: 0, 0
+  index: -1
+younianboshi_52
+  rotate: false
+  xy: 923, 587
+  size: 55, 226
+  orig: 55, 226
+  offset: 0, 0
+  index: -1
+younianboshi_53
+  rotate: false
+  xy: 716, 814
+  size: 258, 209
+  orig: 258, 209
+  offset: 0, 0
+  index: -1
+younianboshi_54
+  rotate: true
+  xy: 569, 149
+  size: 103, 141
+  orig: 103, 141
+  offset: 0, 0
+  index: -1
+younianboshi_55
+  rotate: false
+  xy: 502, 515
+  size: 213, 508
+  orig: 213, 508
+  offset: 0, 0
+  index: -1
+younianboshi_56
+  rotate: false
+  xy: 1, 484
+  size: 266, 539
+  orig: 266, 539
+  offset: 0, 0
+  index: -1
+younianboshi_6
+  rotate: false
+  xy: 362, 74
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+younianboshi_7
+  rotate: true
+  xy: 525, 1
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+younianboshi_8
+  rotate: true
+  xy: 240, 24
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+younianboshi_9
+  rotate: false
+  xy: 227, 179
+  size: 61, 304
+  orig: 61, 304
+  offset: 0, 0
+  index: -1
+zhangzui
+  rotate: true
+  xy: 549, 116
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1

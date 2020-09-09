@@ -1,0 +1,279 @@
+
+puritian.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+puritian_1
+  rotate: false
+  xy: 582, 696
+  size: 360, 276
+  orig: 360, 276
+  offset: 0, 0
+  index: -1
+puritian_10
+  rotate: false
+  xy: 1404, 83
+  size: 151, 326
+  orig: 151, 326
+  offset: 0, 0
+  index: -1
+puritian_11
+  rotate: false
+  xy: 1388, 410
+  size: 148, 215
+  orig: 148, 215
+  offset: 0, 0
+  index: -1
+puritian_12
+  rotate: true
+  xy: 1962, 1936
+  size: 111, 75
+  orig: 111, 75
+  offset: 0, 0
+  index: -1
+puritian_14
+  rotate: true
+  xy: 1158, 822
+  size: 230, 382
+  orig: 230, 382
+  offset: 0, 0
+  index: -1
+puritian_15
+  rotate: false
+  xy: 554, 93
+  size: 302, 296
+  orig: 302, 296
+  offset: 0, 0
+  index: -1
+puritian_16
+  rotate: false
+  xy: 1158, 1053
+  size: 478, 541
+  orig: 478, 541
+  offset: 0, 0
+  index: -1
+puritian_17
+  rotate: false
+  xy: 186, 34
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+puritian_18
+  rotate: false
+  xy: 1954, 800
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+puritian_19
+  rotate: false
+  xy: 857, 93
+  size: 302, 296
+  orig: 302, 296
+  offset: 0, 0
+  index: -1
+puritian_2
+  rotate: true
+  xy: 1710, 624
+  size: 232, 243
+  orig: 232, 243
+  offset: 0, 0
+  index: -1
+puritian_20
+  rotate: true
+  xy: 1498, 627
+  size: 194, 211
+  orig: 194, 211
+  offset: 0, 0
+  index: -1
+puritian_21
+  rotate: true
+  xy: 1, 4
+  size: 134, 184
+  orig: 134, 184
+  offset: 0, 0
+  index: -1
+puritian_22
+  rotate: false
+  xy: 1105, 395
+  size: 282, 230
+  orig: 282, 230
+  offset: 0, 0
+  index: -1
+puritian_23
+  rotate: true
+  xy: 1105, 626
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+puritian_24
+  rotate: false
+  xy: 307, 1
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+puritian_25
+  rotate: false
+  xy: 1541, 894
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+puritian_26
+  rotate: true
+  xy: 395, 1
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+puritian_27
+  rotate: false
+  xy: 307, 57
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+puritian_28
+  rotate: true
+  xy: 554, 853
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+puritian_29
+  rotate: false
+  xy: 1160, 99
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+puritian_3
+  rotate: false
+  xy: 860, 390
+  size: 244, 305
+  orig: 244, 305
+  offset: 0, 0
+  index: -1
+puritian_30
+  rotate: true
+  xy: 1743, 186
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+puritian_31
+  rotate: false
+  xy: 1160, 116
+  size: 243, 278
+  orig: 243, 278
+  offset: 0, 0
+  index: -1
+puritian_32
+  rotate: false
+  xy: 582, 973
+  size: 575, 1074
+  orig: 575, 1074
+  offset: 0, 0
+  index: -1
+puritian_33
+  rotate: false
+  xy: 1637, 1175
+  size: 394, 419
+  orig: 394, 419
+  offset: 0, 0
+  index: -1
+puritian_34
+  rotate: true
+  xy: 1637, 857
+  size: 317, 386
+  orig: 317, 386
+  offset: 0, 0
+  index: -1
+puritian_35
+  rotate: true
+  xy: 943, 699
+  size: 273, 201
+  orig: 273, 201
+  offset: 0, 0
+  index: -1
+puritian_36
+  rotate: false
+  xy: 1, 913
+  size: 580, 1134
+  orig: 580, 1134
+  offset: 0, 0
+  index: -1
+puritian_37
+  rotate: true
+  xy: 1556, 98
+  size: 145, 186
+  orig: 145, 186
+  offset: 0, 0
+  index: -1
+puritian_38
+  rotate: true
+  xy: 1, 139
+  size: 773, 552
+  orig: 773, 552
+  offset: 0, 0
+  index: -1
+puritian_39
+  rotate: false
+  xy: 1158, 1595
+  size: 803, 452
+  orig: 803, 452
+  offset: 0, 0
+  index: -1
+puritian_4
+  rotate: false
+  xy: 1556, 244
+  size: 238, 181
+  orig: 238, 181
+  offset: 0, 0
+  index: -1
+puritian_40
+  rotate: false
+  xy: 554, 390
+  size: 305, 305
+  orig: 305, 305
+  offset: 0, 0
+  index: -1
+puritian_5
+  rotate: true
+  xy: 1145, 626
+  size: 195, 352
+  orig: 195, 352
+  offset: 0, 0
+  index: -1
+puritian_6
+  rotate: false
+  xy: 1541, 925
+  size: 92, 127
+  orig: 92, 127
+  offset: 0, 0
+  index: -1
+puritian_7
+  rotate: true
+  xy: 1537, 440
+  size: 186, 150
+  orig: 186, 150
+  offset: 0, 0
+  index: -1
+puritian_8
+  rotate: true
+  xy: 1688, 426
+  size: 197, 241
+  orig: 197, 241
+  offset: 0, 0
+  index: -1
+puritian_9
+  rotate: false
+  xy: 1795, 338
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1

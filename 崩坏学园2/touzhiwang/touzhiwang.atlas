@@ -1,0 +1,293 @@
+
+touzhiwang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou_0
+  rotate: false
+  xy: 611, 39
+  size: 194, 192
+  orig: 194, 192
+  offset: 0, 0
+  index: -1
+tou_1
+  rotate: false
+  xy: 855, 160
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+tou_2
+  rotate: true
+  xy: 705, 4
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+touzhiwang_0
+  rotate: false
+  xy: 226, 533
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+touzhiwang_1
+  rotate: false
+  xy: 807, 60
+  size: 25, 85
+  orig: 25, 85
+  offset: 0, 0
+  index: -1
+touzhiwang_10_0
+  rotate: false
+  xy: 262, 42
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+touzhiwang_10_1
+  rotate: true
+  xy: 2, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+touzhiwang_10_2
+  rotate: false
+  xy: 834, 80
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+touzhiwang_11_0
+  rotate: false
+  xy: 659, 2
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+touzhiwang_11_1
+  rotate: false
+  xy: 839, 453
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+touzhiwang_11_2
+  rotate: false
+  xy: 786, 6
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+touzhiwang_12
+  rotate: false
+  xy: 1002, 620
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+touzhiwang_13
+  rotate: false
+  xy: 226, 514
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+touzhiwang_14
+  rotate: false
+  xy: 1002, 606
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+touzhiwang_15
+  rotate: true
+  xy: 247, 514
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+touzhiwang_16
+  rotate: false
+  xy: 807, 147
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+touzhiwang_17
+  rotate: false
+  xy: 839, 481
+  size: 72, 161
+  orig: 72, 161
+  offset: 0, 0
+  index: -1
+touzhiwang_18
+  rotate: false
+  xy: 817, 223
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+touzhiwang_2
+  rotate: true
+  xy: 611, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+touzhiwang_20
+  rotate: true
+  xy: 2, 18
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+touzhiwang_21
+  rotate: false
+  xy: 540, 338
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+touzhiwang_22
+  rotate: false
+  xy: 2, 59
+  size: 160, 453
+  orig: 160, 453
+  offset: 0, 0
+  index: -1
+touzhiwang_23
+  rotate: false
+  xy: 803, 644
+  size: 216, 378
+  orig: 216, 378
+  offset: 0, 0
+  index: -1
+touzhiwang_24
+  rotate: false
+  xy: 2, 514
+  size: 222, 508
+  orig: 222, 508
+  offset: 0, 0
+  index: -1
+touzhiwang_25
+  rotate: false
+  xy: 226, 606
+  size: 314, 416
+  orig: 314, 416
+  offset: 0, 0
+  index: -1
+touzhiwang_26
+  rotate: true
+  xy: 97, 17
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+touzhiwang_27
+  rotate: false
+  xy: 496, 27
+  size: 113, 294
+  orig: 113, 294
+  offset: 0, 0
+  index: -1
+touzhiwang_28
+  rotate: false
+  xy: 611, 233
+  size: 204, 218
+  orig: 204, 218
+  offset: 0, 0
+  index: -1
+touzhiwang_29
+  rotate: false
+  xy: 262, 54
+  size: 232, 267
+  orig: 232, 267
+  offset: 0, 0
+  index: -1
+touzhiwang_3
+  rotate: false
+  xy: 972, 459
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+touzhiwang_30
+  rotate: true
+  xy: 262, 323
+  size: 281, 276
+  orig: 281, 276
+  offset: 0, 0
+  index: -1
+touzhiwang_31
+  rotate: false
+  xy: 542, 637
+  size: 259, 385
+  orig: 259, 385
+  offset: 0, 0
+  index: -1
+touzhiwang_32
+  rotate: false
+  xy: 164, 36
+  size: 96, 476
+  orig: 96, 476
+  offset: 0, 0
+  index: -1
+touzhiwang_33
+  rotate: true
+  xy: 817, 327
+  size: 124, 72
+  orig: 124, 72
+  offset: 0, 0
+  index: -1
+touzhiwang_34
+  rotate: false
+  xy: 542, 453
+  size: 295, 182
+  orig: 295, 182
+  offset: 0, 0
+  index: -1
+touzhiwang_4
+  rotate: true
+  xy: 913, 461
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+touzhiwang_5
+  rotate: true
+  xy: 834, 99
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+touzhiwang_6
+  rotate: false
+  xy: 540, 414
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+touzhiwang_7
+  rotate: true
+  xy: 913, 504
+  size: 138, 87
+  orig: 138, 87
+  offset: 0, 0
+  index: -1
+touzhiwang_8
+  rotate: false
+  xy: 540, 325
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+touzhiwang_9
+  rotate: false
+  xy: 754, 6
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

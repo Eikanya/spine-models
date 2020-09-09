@@ -1,0 +1,286 @@
+
+idol_wenzhang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huizhang_1
+  rotate: false
+  xy: 1357, 240
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+huizhang_10
+  rotate: false
+  xy: 907, 260
+  size: 239, 256
+  orig: 239, 256
+  offset: 0, 0
+  index: -1
+huizhang_11
+  rotate: false
+  xy: 1066, 180
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+huizhang_12
+  rotate: false
+  xy: 992, 36
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+huizhang_13
+  rotate: false
+  xy: 661, 225
+  size: 245, 291
+  orig: 245, 291
+  offset: 0, 0
+  index: -1
+huizhang_14
+  rotate: false
+  xy: 1721, 1027
+  size: 187, 242
+  orig: 187, 242
+  offset: 0, 0
+  index: -1
+huizhang_15
+  rotate: true
+  xy: 1981, 1609
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+huizhang_16
+  rotate: true
+  xy: 930, 744
+  size: 31, 143
+  orig: 31, 143
+  offset: 0, 0
+  index: -1
+huizhang_17
+  rotate: false
+  xy: 1202, 834
+  size: 340, 200
+  orig: 340, 200
+  offset: 0, 0
+  index: -1
+huizhang_18
+  rotate: true
+  xy: 1981, 1523
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+huizhang_19
+  rotate: true
+  xy: 1432, 708
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+huizhang_2
+  rotate: true
+  xy: 1134, 527
+  size: 126, 222
+  orig: 126, 222
+  offset: 0, 0
+  index: -1
+huizhang_20
+  rotate: true
+  xy: 1432, 667
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+huizhang_21
+  rotate: false
+  xy: 1, 169
+  size: 397, 347
+  orig: 397, 347
+  offset: 0, 0
+  index: -1
+huizhang_22
+  rotate: false
+  xy: 1874, 708
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+huizhang_23
+  rotate: false
+  xy: 1147, 332
+  size: 209, 194
+  orig: 209, 194
+  offset: 0, 0
+  index: -1
+huizhang_24
+  rotate: false
+  xy: 430, 26
+  size: 182, 188
+  orig: 182, 188
+  offset: 0, 0
+  index: -1
+huizhang_25
+  rotate: false
+  xy: 685, 34
+  size: 170, 190
+  orig: 170, 190
+  offset: 0, 0
+  index: -1
+huizhang_26
+  rotate: true
+  xy: 1715, 734
+  size: 292, 158
+  orig: 292, 158
+  offset: 0, 0
+  index: -1
+huizhang_27
+  rotate: true
+  xy: 1874, 823
+  size: 203, 131
+  orig: 203, 131
+  offset: 0, 0
+  index: -1
+huizhang_28
+  rotate: false
+  xy: 1943, 1699
+  size: 103, 347
+  orig: 103, 347
+  offset: 0, 0
+  index: -1
+huizhang_29
+  rotate: false
+  xy: 1943, 1433
+  size: 37, 265
+  orig: 37, 265
+  offset: 0, 0
+  index: -1
+huizhang_3
+  rotate: false
+  xy: 992, 119
+  size: 73, 140
+  orig: 73, 140
+  offset: 0, 0
+  index: -1
+huizhang_30
+  rotate: true
+  xy: 1147, 261
+  size: 70, 206
+  orig: 70, 206
+  offset: 0, 0
+  index: -1
+huizhang_31
+  rotate: false
+  xy: 399, 215
+  size: 261, 301
+  orig: 261, 301
+  offset: 0, 0
+  index: -1
+huizhang_32
+  rotate: false
+  xy: 1202, 1270
+  size: 740, 776
+  orig: 740, 776
+  offset: 0, 0
+  index: -1
+huizhang_33
+  rotate: false
+  xy: 1543, 739
+  size: 171, 295
+  orig: 171, 295
+  offset: 0, 0
+  index: -1
+huizhang_34
+  rotate: false
+  xy: 930, 776
+  size: 271, 1270
+  orig: 271, 1270
+  offset: 0, 0
+  index: -1
+huizhang_35
+  rotate: true
+  xy: 1, 517
+  size: 209, 1132
+  orig: 209, 1132
+  offset: 0, 0
+  index: -1
+huizhang_36
+  rotate: true
+  xy: 1357, 438
+  size: 215, 141
+  orig: 215, 141
+  offset: 0, 0
+  index: -1
+huizhang_37
+  rotate: true
+  xy: 856, 34
+  size: 190, 135
+  orig: 190, 135
+  offset: 0, 0
+  index: -1
+huizhang_38
+  rotate: true
+  xy: 289, 8
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+huizhang_39
+  rotate: true
+  xy: 1, 2
+  size: 166, 287
+  orig: 166, 287
+  offset: 0, 0
+  index: -1
+huizhang_4
+  rotate: true
+  xy: 1202, 1035
+  size: 234, 518
+  orig: 234, 518
+  offset: 0, 0
+  index: -1
+huizhang_40
+  rotate: false
+  xy: 1, 727
+  size: 928, 1319
+  orig: 928, 1319
+  offset: 0, 0
+  index: -1
+huizhang_5
+  rotate: false
+  xy: 1202, 654
+  size: 229, 179
+  orig: 229, 179
+  offset: 0, 0
+  index: -1
+huizhang_6
+  rotate: true
+  xy: 1909, 1192
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+huizhang_7
+  rotate: true
+  xy: 1943, 1356
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+huizhang_8
+  rotate: true
+  xy: 613, 16
+  size: 198, 71
+  orig: 198, 71
+  offset: 0, 0
+  index: -1
+huizhang_9
+  rotate: false
+  xy: 907, 232
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1

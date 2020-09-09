@@ -1,0 +1,279 @@
+
+seele_WedBlack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cheek
+  rotate: false
+  xy: 1375, 1001
+  size: 210, 98
+  orig: 210, 98
+  offset: 0, 0
+  index: -1
+eyeL03
+  rotate: true
+  xy: 499, 332
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+eyeR03
+  rotate: false
+  xy: 1713, 1386
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+mouth02
+  rotate: true
+  xy: 884, 1
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+mouth03
+  rotate: true
+  xy: 1937, 1156
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+seeleB_BF01
+  rotate: false
+  xy: 1962, 1951
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+seeleB_BFL02
+  rotate: false
+  xy: 1784, 1196
+  size: 186, 235
+  orig: 186, 235
+  offset: 0, 0
+  index: -1
+seeleB_BFR02
+  rotate: false
+  xy: 739, 10
+  size: 144, 217
+  orig: 144, 217
+  offset: 0, 0
+  index: -1
+seeleB_PL01
+  rotate: false
+  xy: 1252, 1741
+  size: 709, 306
+  orig: 709, 306
+  offset: 0, 0
+  index: -1
+seeleB_PR02
+  rotate: false
+  xy: 1713, 1432
+  size: 259, 308
+  orig: 259, 308
+  offset: 0, 0
+  index: -1
+seeleB_armL01
+  rotate: false
+  xy: 1162, 252
+  size: 115, 144
+  orig: 115, 144
+  offset: 0, 0
+  index: -1
+seeleB_armL02
+  rotate: true
+  xy: 1784, 1101
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+seeleB_armL02_2
+  rotate: false
+  xy: 1590, 1098
+  size: 193, 248
+  orig: 193, 248
+  offset: 0, 0
+  index: -1
+seeleB_armR01_1
+  rotate: false
+  xy: 1586, 974
+  size: 243, 123
+  orig: 243, 123
+  offset: 0, 0
+  index: -1
+seeleB_armR01_2
+  rotate: true
+  xy: 1137, 685
+  size: 252, 131
+  orig: 252, 131
+  offset: 0, 0
+  index: -1
+seeleB_armR01_3
+  rotate: true
+  xy: 1187, 1021
+  size: 286, 187
+  orig: 286, 187
+  offset: 0, 0
+  index: -1
+seeleB_armR02
+  rotate: false
+  xy: 1375, 1100
+  size: 214, 246
+  orig: 214, 246
+  offset: 0, 0
+  index: -1
+seeleB_armR02_2
+  rotate: false
+  xy: 499, 11
+  size: 239, 194
+  orig: 239, 194
+  offset: 0, 0
+  index: -1
+seeleB_armR03
+  rotate: false
+  xy: 1830, 972
+  size: 108, 128
+  orig: 108, 128
+  offset: 0, 0
+  index: -1
+seeleB_bang
+  rotate: false
+  xy: 1, 11
+  size: 497, 415
+  orig: 497, 415
+  offset: 0, 0
+  index: -1
+seeleB_body01
+  rotate: false
+  xy: 1, 427
+  size: 558, 880
+  orig: 558, 880
+  offset: 0, 0
+  index: -1
+seeleB_browL
+  rotate: false
+  xy: 1962, 1937
+  size: 85, 13
+  orig: 85, 13
+  offset: 0, 0
+  index: -1
+seeleB_browR
+  rotate: false
+  xy: 1252, 1323
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+seeleB_dress02
+  rotate: false
+  xy: 1, 1308
+  size: 1250, 739
+  orig: 1250, 739
+  offset: 0, 0
+  index: -1
+seeleB_dressL01
+  rotate: false
+  xy: 863, 242
+  size: 298, 303
+  orig: 298, 303
+  offset: 0, 0
+  index: -1
+seeleB_dressR01
+  rotate: false
+  xy: 863, 938
+  size: 323, 369
+  orig: 323, 369
+  offset: 0, 0
+  index: -1
+seeleB_eyeL
+  rotate: false
+  xy: 1187, 974
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+seeleB_eyeR
+  rotate: false
+  xy: 1097, 59
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+seeleB_hairB01
+  rotate: true
+  xy: 863, 546
+  size: 391, 273
+  orig: 391, 273
+  offset: 0, 0
+  index: -1
+seeleB_handL01
+  rotate: true
+  xy: 1137, 547
+  size: 137, 110
+  orig: 137, 110
+  offset: 0, 0
+  index: -1
+seeleB_handL02
+  rotate: false
+  xy: 884, 52
+  size: 212, 189
+  orig: 212, 189
+  offset: 0, 0
+  index: -1
+seeleB_handL02_2
+  rotate: false
+  xy: 1202, 121
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+seeleB_handL03
+  rotate: true
+  xy: 1162, 397
+  size: 149, 144
+  orig: 149, 144
+  offset: 0, 0
+  index: -1
+seeleB_handR02_2
+  rotate: false
+  xy: 1097, 105
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+seeleB_hat01
+  rotate: true
+  xy: 1248, 547
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+seeleB_hat02
+  rotate: false
+  xy: 1252, 1347
+  size: 460, 393
+  orig: 460, 393
+  offset: 0, 0
+  index: -1
+seeleB_legL
+  rotate: false
+  xy: 560, 206
+  size: 157, 1101
+  orig: 157, 1101
+  offset: 0, 0
+  index: -1
+seeleB_legR
+  rotate: false
+  xy: 718, 228
+  size: 144, 1079
+  orig: 144, 1079
+  offset: 0, 0
+  index: -1
+seeleB_mouth
+  rotate: false
+  xy: 1187, 955
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1

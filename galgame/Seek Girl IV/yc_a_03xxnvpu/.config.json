@@ -1,0 +1,12 @@
+{
+  "textures": [
+    "YC_A_03.png",
+    "YC_A_032.png",
+    "YC_A_033.png"
+  ],
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "YC_A_03.skel",
+  "atlas": "YC_A_03.atlas"
+}

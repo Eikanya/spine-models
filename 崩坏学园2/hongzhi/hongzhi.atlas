@@ -1,0 +1,195 @@
+
+hongzhi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongzhi_10a
+  rotate: false
+  xy: 800, 185
+  size: 99, 147
+  orig: 99, 147
+  offset: 0, 0
+  index: -1
+hongzhi_11
+  rotate: false
+  xy: 1, 615
+  size: 472, 408
+  orig: 472, 408
+  offset: 0, 0
+  index: -1
+hongzhi_12
+  rotate: false
+  xy: 474, 589
+  size: 338, 236
+  orig: 338, 236
+  offset: 0, 0
+  index: -1
+hongzhi_13
+  rotate: false
+  xy: 813, 606
+  size: 131, 63
+  orig: 131, 63
+  offset: 0, 0
+  index: -1
+hongzhi_14
+  rotate: false
+  xy: 589, 14
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+hongzhi_15
+  rotate: false
+  xy: 900, 204
+  size: 92, 132
+  orig: 92, 132
+  offset: 0, 0
+  index: -1
+hongzhi_16
+  rotate: false
+  xy: 1, 40
+  size: 264, 574
+  orig: 264, 574
+  offset: 0, 0
+  index: -1
+hongzhi_17
+  rotate: false
+  xy: 945, 612
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+hongzhi_18
+  rotate: false
+  xy: 467, 358
+  size: 217, 230
+  orig: 217, 230
+  offset: 0, 0
+  index: -1
+hongzhi_19
+  rotate: true
+  xy: 55, 2
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+hongzhi_2
+  rotate: false
+  xy: 595, 86
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+hongzhi_20
+  rotate: true
+  xy: 474, 826
+  size: 197, 533
+  orig: 197, 533
+  offset: 0, 0
+  index: -1
+hongzhi_21
+  rotate: false
+  xy: 466, 30
+  size: 122, 85
+  orig: 122, 85
+  offset: 0, 0
+  index: -1
+hongzhi_22
+  rotate: false
+  xy: 467, 215
+  size: 188, 142
+  orig: 188, 142
+  offset: 0, 0
+  index: -1
+hongzhi_23
+  rotate: true
+  xy: 266, 206
+  size: 408, 200
+  orig: 408, 200
+  offset: 0, 0
+  index: -1
+hongzhi_24
+  rotate: true
+  xy: 838, 337
+  size: 130, 121
+  orig: 130, 121
+  offset: 0, 0
+  index: -1
+hongzhi_25
+  rotate: false
+  xy: 685, 333
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+hongzhi_26
+  rotate: false
+  xy: 656, 195
+  size: 143, 137
+  orig: 143, 137
+  offset: 0, 0
+  index: -1
+hongzhi_3
+  rotate: false
+  xy: 781, 102
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+hongzhi_4
+  rotate: true
+  xy: 707, 94
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+hongzhi_5
+  rotate: false
+  xy: 813, 670
+  size: 175, 155
+  orig: 175, 155
+  offset: 0, 0
+  index: -1
+hongzhi_6
+  rotate: false
+  xy: 832, 468
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+hongzhi_7
+  rotate: false
+  xy: 467, 116
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+hongzhi_8
+  rotate: true
+  xy: 266, 63
+  size: 142, 199
+  orig: 142, 199
+  offset: 0, 0
+  index: -1
+hongzhi_9
+  rotate: true
+  xy: 685, 428
+  size: 160, 146
+  orig: 160, 146
+  offset: 0, 0
+  index: -1
+huaban1
+  rotate: false
+  xy: 860, 155
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+huaban2
+  rotate: false
+  xy: 1, 1
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1

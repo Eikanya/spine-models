@@ -1,0 +1,19 @@
+{
+  "textures": [
+    "YC19.png",
+    "YC192.png",
+    "YC193.png",
+    "YC194.png"
+  ],
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "position_y": -100.0,
+    "edge_padding": false
+  },
+  "skeleton": "YC19.skel",
+  "atlas": "YC19.atlas"
+}

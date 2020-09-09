@@ -1,0 +1,286 @@
+
+kimonohouraiji.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiuxiao_kanban1
+  rotate: false
+  xy: 1949, 962
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban10L
+  rotate: true
+  xy: 1987, 1228
+  size: 96, 45
+  orig: 96, 45
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban10L-1
+  rotate: false
+  xy: 1567, 714
+  size: 97, 46
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban11
+  rotate: false
+  xy: 1165, 386
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban12
+  rotate: true
+  xy: 1241, 1023
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban13
+  rotate: true
+  xy: 1840, 1154
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban14
+  rotate: true
+  xy: 1687, 184
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban15
+  rotate: false
+  xy: 1949, 1053
+  size: 61, 132
+  orig: 61, 132
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban16
+  rotate: false
+  xy: 1687, 1625
+  size: 68, 144
+  orig: 68, 144
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban17
+  rotate: true
+  xy: 1849, 778
+  size: 154, 97
+  orig: 154, 97
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban18
+  rotate: false
+  xy: 821, 1011
+  size: 419, 1036
+  orig: 419, 1036
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban19
+  rotate: false
+  xy: 1241, 1056
+  size: 251, 539
+  orig: 251, 539
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban2
+  rotate: false
+  xy: 487, 248
+  size: 83, 116
+  orig: 83, 116
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban21
+  rotate: false
+  xy: 1762, 1186
+  size: 224, 138
+  orig: 224, 138
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban22
+  rotate: false
+  xy: 1849, 933
+  size: 99, 252
+  orig: 99, 252
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban23
+  rotate: true
+  xy: 1, 5
+  size: 89, 224
+  orig: 89, 224
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban24
+  rotate: true
+  xy: 591, 377
+  size: 250, 208
+  orig: 250, 208
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban25
+  rotate: true
+  xy: 1567, 761
+  size: 377, 281
+  orig: 377, 281
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban26
+  rotate: false
+  xy: 1165, 399
+  size: 288, 310
+  orig: 288, 310
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban27
+  rotate: false
+  xy: 1, 624
+  size: 427, 1423
+  orig: 427, 1423
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban28
+  rotate: false
+  xy: 429, 628
+  size: 391, 1419
+  orig: 391, 1419
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban29
+  rotate: false
+  xy: 1, 95
+  size: 332, 58
+  orig: 332, 58
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban3
+  rotate: true
+  xy: 226, 15
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban30
+  rotate: false
+  xy: 390, 190
+  size: 96, 174
+  orig: 96, 174
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban31
+  rotate: true
+  xy: 821, 383
+  size: 334, 343
+  orig: 334, 343
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban32
+  rotate: false
+  xy: 800, 544
+  size: 17, 83
+  orig: 17, 83
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban33
+  rotate: false
+  xy: 1, 154
+  size: 388, 469
+  orig: 388, 469
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban34
+  rotate: true
+  xy: 821, 718
+  size: 292, 428
+  orig: 292, 428
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban35
+  rotate: false
+  xy: 1762, 1325
+  size: 283, 444
+  orig: 283, 444
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban36
+  rotate: false
+  xy: 1241, 1596
+  size: 445, 451
+  orig: 445, 451
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban37
+  rotate: false
+  xy: 1493, 1139
+  size: 268, 456
+  orig: 268, 456
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban38
+  rotate: true
+  xy: 390, 365
+  size: 258, 200
+  orig: 258, 200
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban39
+  rotate: false
+  xy: 1687, 1770
+  size: 360, 277
+  orig: 360, 277
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban4
+  rotate: true
+  xy: 1250, 710
+  size: 345, 316
+  orig: 345, 316
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban5
+  rotate: false
+  xy: 1454, 377
+  size: 232, 332
+  orig: 232, 332
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban6
+  rotate: false
+  xy: 1687, 447
+  size: 274, 313
+  orig: 274, 313
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban8L
+  rotate: false
+  xy: 1687, 1596
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban8R
+  rotate: false
+  xy: 390, 162
+  size: 64, 27
+  orig: 64, 27
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban9L
+  rotate: true
+  xy: 1493, 1061
+  size: 77, 28
+  orig: 77, 28
+  offset: 0, 0
+  index: -1
+jiuxiao_kanban9R
+  rotate: false
+  xy: 1762, 1158
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1

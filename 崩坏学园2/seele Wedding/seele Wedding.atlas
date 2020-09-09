@@ -1,0 +1,146 @@
+
+seele Wedding.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1893, 1887
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 111
+  size: 93, 235
+  orig: 93, 235
+  offset: 0, 0
+  index: -1
+003
+  rotate: true
+  xy: 735, 418
+  size: 104, 220
+  orig: 104, 220
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1176, 588
+  size: 80, 228
+  orig: 80, 228
+  offset: 0, 0
+  index: -1
+005
+  rotate: true
+  xy: 1554, 878
+  size: 431, 401
+  orig: 431, 401
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 956, 494
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 1, 101
+  size: 87, 9
+  orig: 87, 9
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 1554, 825
+  size: 78, 52
+  orig: 78, 52
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 1032, 534
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 1893, 1867
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 95, 122
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+012
+  rotate: true
+  xy: 2007, 2027
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 1176, 817
+  size: 377, 492
+  orig: 377, 492
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 1257, 670
+  size: 93, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 1, 523
+  size: 1030, 1524
+  orig: 1030, 1524
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 1032, 1310
+  size: 860, 737
+  orig: 860, 737
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 95, 151
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+018
+  rotate: true
+  xy: 735, 353
+  size: 64, 170
+  orig: 64, 170
+  offset: 0, 0
+  index: -1
+019
+  rotate: true
+  xy: 1, 347
+  size: 175, 733
+  orig: 175, 733
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 1032, 582
+  size: 143, 727
+  orig: 143, 727
+  offset: 0, 0
+  index: -1

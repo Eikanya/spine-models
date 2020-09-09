@@ -1,0 +1,405 @@
+
+figure_71042.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sakura_11
+  rotate: false
+  xy: 1, 7
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+Sakura_12
+  rotate: false
+  xy: 1877, 1214
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Sakura_14
+  rotate: true
+  xy: 2023, 2009
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+Sakura_15
+  rotate: true
+  xy: 640, 668
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Sakura_16
+  rotate: true
+  xy: 1921, 1214
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+Sakura_17
+  rotate: false
+  xy: 1446, 1260
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Sakura_18
+  rotate: true
+  xy: 1446, 1280
+  size: 112, 140
+  orig: 112, 140
+  offset: 0, 0
+  index: -1
+Sakura_19
+  rotate: false
+  xy: 1877, 1244
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+Sakura_2
+  rotate: false
+  xy: 1296, 353
+  size: 110, 155
+  orig: 110, 155
+  offset: 0, 0
+  index: -1
+Sakura_22
+  rotate: false
+  xy: 1937, 1290
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+Sakura_23
+  rotate: false
+  xy: 678, 1
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+Sakura_24
+  rotate: false
+  xy: 1056, 1200
+  size: 362, 94
+  orig: 362, 94
+  offset: 0, 0
+  index: -1
+Sakura_25
+  rotate: false
+  xy: 1075, 1295
+  size: 370, 97
+  orig: 370, 97
+  offset: 0, 0
+  index: -1
+Sakura_26
+  rotate: false
+  xy: 1232, 733
+  size: 153, 168
+  orig: 153, 168
+  offset: 0, 0
+  index: -1
+Sakura_27
+  rotate: true
+  xy: 1232, 676
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+Sakura_28
+  rotate: true
+  xy: 1296, 509
+  size: 166, 82
+  orig: 166, 82
+  offset: 0, 0
+  index: -1
+Sakura_29
+  rotate: true
+  xy: 1386, 735
+  size: 166, 115
+  orig: 166, 115
+  offset: 0, 0
+  index: -1
+Sakura_3
+  rotate: false
+  xy: 1887, 1346
+  size: 134, 136
+  orig: 134, 136
+  offset: 0, 0
+  index: -1
+Sakura_30
+  rotate: true
+  xy: 752, 1
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+Sakura_31
+  rotate: false
+  xy: 1090, 266
+  size: 115, 97
+  orig: 115, 97
+  offset: 0, 0
+  index: -1
+Sakura_33
+  rotate: true
+  xy: 1, 36
+  size: 244, 340
+  orig: 244, 340
+  offset: 0, 0
+  index: -1
+Sakura_33.5
+  rotate: true
+  xy: 834, 1
+  size: 103, 116
+  orig: 103, 116
+  offset: 0, 0
+  index: -1
+Sakura_34
+  rotate: false
+  xy: 640, 284
+  size: 335, 383
+  orig: 335, 383
+  offset: 0, 0
+  index: -1
+Sakura_36
+  rotate: false
+  xy: 1233, 980
+  size: 209, 219
+  orig: 209, 219
+  offset: 0, 0
+  index: -1
+Sakura_37
+  rotate: true
+  xy: 1770, 1212
+  size: 140, 106
+  orig: 140, 106
+  offset: 0, 0
+  index: -1
+Sakura_38
+  rotate: true
+  xy: 1587, 1279
+  size: 73, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+Sakura_39
+  rotate: true
+  xy: 753, 668
+  size: 653, 302
+  orig: 653, 302
+  offset: 0, 0
+  index: -1
+Sakura_40
+  rotate: false
+  xy: 1206, 267
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+Sakura_41
+  rotate: false
+  xy: 1, 1322
+  size: 1073, 725
+  orig: 1073, 725
+  offset: 0, 0
+  index: -1
+Sakura_41.5
+  rotate: false
+  xy: 834, 105
+  size: 137, 178
+  orig: 137, 178
+  offset: 0, 0
+  index: -1
+Sakura_42
+  rotate: false
+  xy: 1090, 364
+  size: 118, 311
+  orig: 118, 311
+  offset: 0, 0
+  index: -1
+Sakura_43
+  rotate: false
+  xy: 678, 45
+  size: 155, 238
+  orig: 155, 238
+  offset: 0, 0
+  index: -1
+Sakura_45
+  rotate: false
+  xy: 1075, 1393
+  size: 521, 469
+  orig: 521, 469
+  offset: 0, 0
+  index: -1
+Sakura_46
+  rotate: false
+  xy: 1056, 934
+  size: 176, 265
+  orig: 176, 265
+  offset: 0, 0
+  index: -1
+Sakura_47
+  rotate: false
+  xy: 1597, 1353
+  size: 289, 509
+  orig: 289, 509
+  offset: 0, 0
+  index: -1
+Sakura_48
+  rotate: false
+  xy: 1, 710
+  size: 751, 611
+  orig: 751, 611
+  offset: 0, 0
+  index: -1
+Sakura_49
+  rotate: false
+  xy: 342, 41
+  size: 251, 239
+  orig: 251, 239
+  offset: 0, 0
+  index: -1
+Sakura_50
+  rotate: false
+  xy: 1, 281
+  size: 638, 428
+  orig: 638, 428
+  offset: 0, 0
+  index: -1
+Sakura_6
+  rotate: false
+  xy: 1325, 676
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+Sakura_7
+  rotate: true
+  xy: 951, 64
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+Sakura_8
+  rotate: true
+  xy: 1056, 676
+  size: 257, 175
+  orig: 257, 175
+  offset: 0, 0
+  index: -1
+Sakura_Back1
+  rotate: false
+  xy: 1987, 1258
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+Sakura_Back10
+  rotate: true
+  xy: 594, 39
+  size: 241, 83
+  orig: 241, 83
+  offset: 0, 0
+  index: -1
+Sakura_Back11.5
+  rotate: true
+  xy: 1075, 1863
+  size: 184, 947
+  orig: 184, 947
+  offset: 0, 0
+  index: -1
+Sakura_Back12
+  rotate: false
+  xy: 1419, 1258
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Sakura_Back13
+  rotate: true
+  xy: 1887, 1483
+  size: 379, 121
+  orig: 379, 121
+  offset: 0, 0
+  index: -1
+Sakura_Back14
+  rotate: true
+  xy: 976, 290
+  size: 377, 113
+  orig: 377, 113
+  offset: 0, 0
+  index: -1
+Sakura_Back15
+  rotate: true
+  xy: 1209, 348
+  size: 327, 86
+  orig: 327, 86
+  offset: 0, 0
+  index: -1
+Sakura_Back16
+  rotate: false
+  xy: 1233, 902
+  size: 281, 77
+  orig: 281, 77
+  offset: 0, 0
+  index: -1
+Sakura_Back2
+  rotate: false
+  xy: 1253, 298
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+Sakura_Back3
+  rotate: true
+  xy: 672, 678
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+Sakura_Back4
+  rotate: true
+  xy: 1056, 668
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Sakura_Back5
+  rotate: false
+  xy: 2023, 1993
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Sakura_Back6
+  rotate: false
+  xy: 1370, 676
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+Sakura_Back7
+  rotate: false
+  xy: 1253, 275
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+Sakura_Back8
+  rotate: false
+  xy: 1937, 1242
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Sakura_Back9
+  rotate: false
+  xy: 1325, 685
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
