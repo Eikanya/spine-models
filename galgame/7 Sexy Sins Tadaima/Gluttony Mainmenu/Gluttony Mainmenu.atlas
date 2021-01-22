@@ -1,0 +1,307 @@
+
+Gluttony Mainmenu.png
+size: 491,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eye Idle2 Right
+  rotate: false
+  xy: 422, 36
+  size: 44, 22
+  orig: 46, 24
+  offset: 1, 1
+  index: -1
+Eye Idle2 left
+  rotate: true
+  xy: 470, 465
+  size: 42, 15
+  orig: 44, 17
+  offset: 1, 1
+  index: -1
+Eyeball left
+  rotate: true
+  xy: 135, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Eyeball right
+  rotate: false
+  xy: 370, 5
+  size: 33, 36
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+Eyebrow Idle Left
+  rotate: false
+  xy: 328, 43
+  size: 40, 7
+  orig: 43, 9
+  offset: 2, 1
+  index: -1
+Eyebrow Idle2 Right
+  rotate: true
+  xy: 470, 533
+  size: 41, 19
+  orig: 45, 21
+  offset: 2, 1
+  index: -1
+Hair band
+  rotate: true
+  xy: 2, 89
+  size: 163, 118
+  orig: 163, 118
+  offset: 0, 0
+  index: -1
+Hand Right
+  rotate: true
+  xy: 451, 394
+  size: 64, 38
+  orig: 66, 40
+  offset: 1, 1
+  index: -1
+Mouth Click
+  rotate: false
+  xy: 458, 296
+  size: 30, 23
+  orig: 32, 25
+  offset: 1, 1
+  index: -1
+Mouth Idle2
+  rotate: false
+  xy: 470, 509
+  size: 19, 22
+  orig: 21, 24
+  offset: 1, 1
+  index: -1
+apron
+  rotate: true
+  xy: 180, 283
+  size: 86, 113
+  orig: 86, 114
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 180, 371
+  size: 116, 203
+  orig: 116, 204
+  offset: 0, 0
+  index: -1
+eyebrow left
+  rotate: true
+  xy: 481, 78
+  size: 31, 8
+  orig: 34, 10
+  offset: 1, 1
+  index: -1
+eyebrow right
+  rotate: false
+  xy: 2, 9
+  size: 46, 5
+  orig: 48, 8
+  offset: 1, 2
+  index: -1
+eyelash left
+  rotate: false
+  xy: 458, 321
+  size: 31, 34
+  orig: 36, 38
+  offset: 2, 1
+  index: -1
+eyelash right
+  rotate: false
+  xy: 170, 4
+  size: 48, 27
+  orig: 50, 36
+  offset: 1, 8
+  index: -1
+hair back
+  rotate: false
+  xy: 298, 460
+  size: 170, 114
+  orig: 172, 116
+  offset: 1, 1
+  index: -1
+hair fron left
+  rotate: true
+  xy: 2, 16
+  size: 71, 131
+  orig: 71, 136
+  offset: 0, 3
+  index: -1
+hair fron left Inside
+  rotate: true
+  xy: 135, 33
+  size: 43, 124
+  orig: 44, 125
+  offset: 1, 1
+  index: -1
+hair front right
+  rotate: false
+  xy: 168, 138
+  size: 96, 138
+  orig: 97, 138
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 298, 346
+  size: 151, 112
+  orig: 154, 114
+  offset: 2, 1
+  index: -1
+left arm
+  rotate: false
+  xy: 355, 175
+  size: 62, 102
+  orig: 112, 106
+  offset: 1, 4
+  index: -1
+left horn
+  rotate: true
+  xy: 261, 17
+  size: 37, 65
+  orig: 39, 67
+  offset: 1, 1
+  index: -1
+left leg
+  rotate: true
+  xy: 295, 279
+  size: 65, 161
+  orig: 65, 161
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 450, 7
+  size: 27, 22
+  orig: 29, 25
+  offset: 1, 2
+  index: -1
+ribbon left
+  rotate: true
+  xy: 405, 9
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+ribbon right
+  rotate: false
+  xy: 345, 52
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 168, 78
+  size: 101, 58
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+right arm Back
+  rotate: false
+  xy: 220, 7
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+right horn
+  rotate: true
+  xy: 271, 56
+  size: 45, 72
+  orig: 47, 74
+  offset: 1, 1
+  index: -1
+right leg
+  rotate: false
+  xy: 122, 90
+  size: 44, 186
+  orig: 44, 194
+  offset: 0, 0
+  index: -1
+sash1
+  rotate: true
+  xy: 381, 43
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+sash2
+  rotate: true
+  xy: 422, 162
+  size: 42, 67
+  orig: 72, 69
+  offset: 1, 2
+  index: -1
+skirt
+  rotate: false
+  xy: 266, 158
+  size: 87, 119
+  orig: 89, 120
+  offset: 2, 0
+  index: -1
+steamed bun A
+  rotate: false
+  xy: 422, 111
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+steamed bun B
+  rotate: false
+  xy: 422, 60
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+steamed bun C
+  rotate: false
+  xy: 271, 103
+  size: 93, 53
+  orig: 95, 55
+  offset: 1, 1
+  index: -1
+twin hair left
+  rotate: false
+  xy: 104, 278
+  size: 74, 296
+  orig: 74, 296
+  offset: 0, 0
+  index: -1
+twin hair left A
+  rotate: false
+  xy: 366, 107
+  size: 54, 66
+  orig: 56, 66
+  offset: 2, 0
+  index: -1
+twin hair right
+  rotate: false
+  xy: 2, 254
+  size: 100, 320
+  orig: 101, 321
+  offset: 0, 1
+  index: -1
+twin hair right A
+  rotate: false
+  xy: 419, 206
+  size: 70, 71
+  orig: 71, 83
+  offset: 1, 0
+  index: -1
+white eye left
+  rotate: true
+  xy: 451, 357
+  size: 35, 38
+  orig: 39, 40
+  offset: 2, 1
+  index: -1
+white eye right
+  rotate: false
+  xy: 328, 2
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1

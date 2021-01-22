@@ -1,0 +1,237 @@
+
+Greed_Stand.png
+size: 4081,1739
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 2, 13
+  size: 562, 349
+  orig: 563, 349
+  offset: 0, 0
+  index: -1
+Coat of arms Left
+  rotate: true
+  xy: 2, 364
+  size: 558, 852
+  orig: 562, 852
+  offset: 3, 0
+  index: -1
+Coat of arms Left sha
+  rotate: true
+  xy: 566, 2
+  size: 107, 392
+  orig: 113, 393
+  offset: 6, 0
+  index: -1
+Coat of arms Righ  Out
+  rotate: true
+  xy: 2044, 243
+  size: 217, 475
+  orig: 281, 475
+  offset: 4, 0
+  index: -1
+Coat of arms Righ  back
+  rotate: true
+  xy: 1376, 560
+  size: 362, 753
+  orig: 362, 753
+  offset: 0, 0
+  index: -1
+Eye L
+  rotate: true
+  xy: 1166, 13
+  size: 120, 133
+  orig: 127, 136
+  offset: 4, 1
+  index: -1
+Hair back
+  rotate: true
+  xy: 3733, 165
+  size: 95, 346
+  orig: 97, 349
+  offset: 1, 2
+  index: -1
+Head cloth Top
+  rotate: false
+  xy: 856, 479
+  size: 518, 443
+  orig: 518, 443
+  offset: 0, 0
+  index: -1
+Head cloth back
+  rotate: true
+  xy: 3189, 42
+  size: 168, 436
+  orig: 168, 436
+  offset: 0, 0
+  index: -1
+Khao
+  rotate: true
+  xy: 856, 364
+  size: 113, 218
+  orig: 115, 221
+  offset: 1, 1
+  index: -1
+Left leg
+  rotate: false
+  xy: 2602, 23
+  size: 314, 1714
+  orig: 315, 1714
+  offset: 0, 0
+  index: -1
+Red cheeks 1
+  rotate: true
+  xy: 1166, 135
+  size: 342, 153
+  orig: 375, 194
+  offset: 7, 21
+  index: -1
+Red cheeks 2
+  rotate: false
+  xy: 1321, 112
+  size: 342, 153
+  orig: 375, 194
+  offset: 10, 22
+  index: -1
+Right leg
+  rotate: false
+  xy: 3733, 262
+  size: 339, 1475
+  orig: 340, 1475
+  offset: 1, 0
+  index: -1
+Sash
+  rotate: true
+  xy: 1376, 267
+  size: 291, 666
+  orig: 291, 703
+  offset: 0, 0
+  index: -1
+Sash sha
+  rotate: true
+  xy: 1986, 24
+  size: 119, 575
+  orig: 120, 575
+  offset: 0, 0
+  index: -1
+arms Righ
+  rotate: false
+  xy: 566, 111
+  size: 598, 251
+  orig: 603, 251
+  offset: 5, 0
+  index: -1
+earring
+  rotate: false
+  xy: 4040, 20
+  size: 25, 39
+  orig: 29, 41
+  offset: 2, 1
+  index: -1
+eye R
+  rotate: false
+  xy: 3974, 61
+  size: 78, 102
+  orig: 82, 105
+  offset: 2, 2
+  index: -1
+eyebrow L
+  rotate: true
+  xy: 2044, 474
+  size: 84, 46
+  orig: 85, 46
+  offset: 1, 0
+  index: -1
+eyebrow R
+  rotate: false
+  xy: 3627, 186
+  size: 89, 24
+  orig: 95, 28
+  offset: 0, 4
+  index: -1
+hair 1
+  rotate: true
+  xy: 3627, 10
+  size: 153, 345
+  orig: 156, 345
+  offset: 3, 0
+  index: -1
+hair 2
+  rotate: true
+  xy: 2918, 25
+  size: 185, 269
+  orig: 202, 293
+  offset: 0, 0
+  index: -1
+hair line
+  rotate: true
+  xy: 1301, 23
+  size: 87, 229
+  orig: 87, 230
+  offset: 0, 0
+  index: -1
+hair out back
+  rotate: true
+  xy: 1665, 9
+  size: 105, 232
+  orig: 107, 238
+  offset: 1, 5
+  index: -1
+hand
+  rotate: false
+  xy: 1665, 116
+  size: 319, 149
+  orig: 342, 163
+  offset: 23, 14
+  index: -1
+head
+  rotate: true
+  xy: 2131, 462
+  size: 460, 420
+  orig: 489, 610
+  offset: 21, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 2521, 145
+  size: 107, 52
+  orig: 113, 57
+  offset: 2, 1
+  index: -1
+mouth A
+  rotate: true
+  xy: 2521, 254
+  size: 106, 63
+  orig: 108, 68
+  offset: 1, 2
+  index: -1
+mouth E
+  rotate: true
+  xy: 2521, 362
+  size: 98, 65
+  orig: 115, 72
+  offset: 12, 3
+  index: -1
+mouth O
+  rotate: false
+  xy: 3974, 7
+  size: 64, 52
+  orig: 84, 56
+  offset: 9, 2
+  index: -1
+shirt
+  rotate: true
+  xy: 2, 924
+  size: 813, 2598
+  orig: 902, 2601
+  offset: 89, 3
+  index: -1
+skirt
+  rotate: false
+  xy: 2918, 212
+  size: 813, 1525
+  orig: 1085, 1951
+  offset: 272, 7
+  index: -1

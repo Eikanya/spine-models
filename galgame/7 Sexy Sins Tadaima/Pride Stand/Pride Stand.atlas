@@ -1,0 +1,272 @@
+
+Pride Stand.png
+size: 4064,1579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Left_Back
+  rotate: true
+  xy: 2102, 349
+  size: 155, 732
+  orig: 155, 738
+  offset: 0, 6
+  index: -1
+Arm_Left_Front
+  rotate: false
+  xy: 3107, 32
+  size: 460, 1545
+  orig: 471, 1545
+  offset: 11, 0
+  index: -1
+Arm_Right
+  rotate: false
+  xy: 3569, 488
+  size: 440, 1089
+  orig: 442, 1119
+  offset: 1, 0
+  index: -1
+Blush_01
+  rotate: false
+  xy: 2738, 142
+  size: 365, 190
+  orig: 404, 230
+  offset: 22, 21
+  index: -1
+Blush_02
+  rotate: false
+  xy: 2098, 5
+  size: 365, 190
+  orig: 404, 230
+  offset: 22, 21
+  index: -1
+Body
+  rotate: true
+  xy: 2, 836
+  size: 741, 3103
+  orig: 806, 3247
+  offset: 0, 1
+  index: -1
+Ear_Left
+  rotate: true
+  xy: 1552, 8
+  size: 128, 114
+  orig: 134, 115
+  offset: 5, 0
+  index: -1
+Ear_Right
+  rotate: true
+  xy: 3020, 43
+  size: 97, 85
+  orig: 103, 96
+  offset: 1, 5
+  index: -1
+Eye_Brow
+  rotate: true
+  xy: 4011, 1403
+  size: 109, 49
+  orig: 110, 49
+  offset: 1, 0
+  index: -1
+Eye_Close
+  rotate: false
+  xy: 1313, 166
+  size: 243, 121
+  orig: 247, 126
+  offset: 2, 3
+  index: -1
+Eye_Middle
+  rotate: false
+  xy: 1313, 40
+  size: 237, 124
+  orig: 243, 129
+  offset: 3, 3
+  index: -1
+Eye_Open
+  rotate: true
+  xy: 1980, 263
+  size: 234, 116
+  orig: 239, 121
+  offset: 3, 2
+  index: -1
+Eye_Open_Look_left
+  rotate: true
+  xy: 1980, 27
+  size: 234, 116
+  orig: 239, 121
+  offset: 3, 2
+  index: -1
+Eye_Open_Look_low
+  rotate: false
+  xy: 965, 39
+  size: 234, 116
+  orig: 239, 121
+  offset: 3, 2
+  index: -1
+Eye_Open_Look_right
+  rotate: false
+  xy: 635, 13
+  size: 234, 116
+  orig: 239, 121
+  offset: 3, 2
+  index: -1
+F_AI_Nam
+  rotate: true
+  xy: 1157, 162
+  size: 125, 154
+  orig: 134, 159
+  offset: 1, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 1670, 499
+  size: 335, 430
+  orig: 337, 433
+  offset: 1, 1
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 2, 289
+  size: 545, 1666
+  orig: 548, 1668
+  offset: 1, 0
+  index: -1
+Hair_Back_Petite
+  rotate: true
+  xy: 2098, 197
+  size: 150, 638
+  orig: 151, 638
+  offset: 0, 0
+  index: -1
+Hair_Front_Right
+  rotate: false
+  xy: 1747, 182
+  size: 231, 315
+  orig: 234, 319
+  offset: 1, 2
+  index: -1
+Hair_Front_Right_Petite
+  rotate: true
+  xy: 965, 157
+  size: 130, 190
+  orig: 130, 190
+  offset: 0, 0
+  index: -1
+Hair_Left
+  rotate: false
+  xy: 4011, 1138
+  size: 47, 203
+  orig: 47, 203
+  offset: 0, 0
+  index: -1
+Hair_Left_Petite
+  rotate: true
+  xy: 1747, 45
+  size: 135, 217
+  orig: 143, 217
+  offset: 8, 0
+  index: -1
+Hair_Right
+  rotate: true
+  xy: 2102, 506
+  size: 328, 738
+  orig: 460, 739
+  offset: 132, 1
+  index: -1
+Hair_Right_Petite
+  rotate: true
+  xy: 3634, 13
+  size: 51, 392
+  orig: 53, 401
+  offset: 1, 0
+  index: -1
+Hair_Right_S_Petite
+  rotate: false
+  xy: 1670, 123
+  size: 75, 374
+  orig: 76, 376
+  offset: 1, 0
+  index: -1
+Hand_Left
+  rotate: true
+  xy: 2842, 334
+  size: 500, 256
+  orig: 500, 257
+  offset: 0, 1
+  index: -1
+Hand_Right_Finger_Back
+  rotate: true
+  xy: 2881, 5
+  size: 135, 137
+  orig: 135, 138
+  offset: 0, 1
+  index: -1
+Hand_Right_Finger_Front
+  rotate: true
+  xy: 2733, 2
+  size: 138, 146
+  orig: 138, 226
+  offset: 0, 1
+  index: -1
+Head
+  rotate: true
+  xy: 3569, 66
+  size: 420, 487
+  orig: 441, 489
+  offset: 4, 1
+  index: -1
+Horn_Left
+  rotate: true
+  xy: 635, 131
+  size: 156, 328
+  orig: 158, 330
+  offset: 1, 1
+  index: -1
+Horn_Right
+  rotate: true
+  xy: 2465, 62
+  size: 133, 266
+  orig: 184, 279
+  offset: 50, 2
+  index: -1
+Kaew_Cha
+  rotate: true
+  xy: 2, 89
+  size: 198, 272
+  orig: 200, 274
+  offset: 1, 1
+  index: -1
+Mouth_00
+  rotate: true
+  xy: 4011, 1343
+  size: 58, 48
+  orig: 61, 50
+  offset: 2, 0
+  index: -1
+Mouth_01
+  rotate: true
+  xy: 4011, 1514
+  size: 63, 51
+  orig: 64, 52
+  offset: 1, 1
+  index: -1
+Mouth_02
+  rotate: false
+  xy: 3569, 12
+  size: 63, 52
+  orig: 64, 57
+  offset: 1, 1
+  index: -1
+Ribbon_Body
+  rotate: false
+  xy: 1558, 138
+  size: 87, 149
+  orig: 87, 149
+  offset: 0, 0
+  index: -1
+Ribbon_Hair
+  rotate: true
+  xy: 276, 110
+  size: 177, 357
+  orig: 177, 357
+  offset: 0, 0
+  index: -1

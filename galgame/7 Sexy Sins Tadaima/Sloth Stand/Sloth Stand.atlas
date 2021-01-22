@@ -1,0 +1,356 @@
+
+Sloth Stand.png
+size: 8192,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left top
+  rotate: false
+  xy: 2609, 246
+  size: 143, 327
+  orig: 144, 329
+  offset: 0, 1
+  index: -1
+Arm Rigth
+  rotate: true
+  xy: 983, 36
+  size: 437, 255
+  orig: 439, 264
+  offset: 1, 2
+  index: -1
+Bra line back
+  rotate: true
+  xy: 1413, 166
+  size: 89, 74
+  orig: 90, 74
+  offset: 1, 0
+  index: -1
+Bra line fron
+  rotate: true
+  xy: 1413, 313
+  size: 181, 79
+  orig: 181, 79
+  offset: 0, 0
+  index: -1
+Close Eyes  Left
+  rotate: false
+  xy: 1678, 501
+  size: 114, 44
+  orig: 118, 52
+  offset: 3, 1
+  index: -1
+Close Eyes Right
+  rotate: false
+  xy: 1960, 512
+  size: 87, 33
+  orig: 90, 40
+  offset: 2, 6
+  index: -1
+Eye Right
+  rotate: true
+  xy: 1975, 216
+  size: 86, 68
+  orig: 90, 72
+  offset: 1, 1
+  index: -1
+Eye left
+  rotate: true
+  xy: 1975, 402
+  size: 108, 71
+  orig: 111, 75
+  offset: 2, 3
+  index: -1
+Eyebrow Left
+  rotate: true
+  xy: 1240, 2
+  size: 102, 45
+  orig: 104, 47
+  offset: 1, 1
+  index: -1
+Eyebrow Right
+  rotate: false
+  xy: 1413, 257
+  size: 77, 54
+  orig: 89, 62
+  offset: 0, 1
+  index: -1
+Face
+  rotate: true
+  xy: 1496, 3
+  size: 491, 477
+  orig: 491, 477
+  offset: 0, 0
+  index: -1
+Hair Crest
+  rotate: true
+  xy: 2754, 248
+  size: 325, 258
+  orig: 327, 259
+  offset: 0, 1
+  index: -1
+Hair Rigth
+  rotate: false
+  xy: 2321, 209
+  size: 286, 364
+  orig: 286, 391
+  offset: 0, 0
+  index: -1
+Hair back
+  rotate: true
+  xy: 4353, 786
+  size: 1260, 2203
+  orig: 1264, 2207
+  offset: 4, 4
+  index: -1
+Hair back Left
+  rotate: true
+  xy: 2888, 28
+  size: 218, 777
+  orig: 221, 779
+  offset: 0, 2
+  index: -1
+Hair back Rigth
+  rotate: true
+  xy: 4005, 22
+  size: 259, 1165
+  orig: 260, 1165
+  offset: 0, 0
+  index: -1
+Hair_Front Rigth
+  rotate: false
+  xy: 2, 15
+  size: 341, 458
+  orig: 357, 470
+  offset: 16, 11
+  index: -1
+Hair_Front Rigth 2
+  rotate: true
+  xy: 3903, 604
+  size: 88, 286
+  orig: 302, 355
+  offset: 161, 69
+  index: -1
+Hair_Front Rigth 3
+  rotate: true
+  xy: 3350, 581
+  size: 111, 290
+  orig: 120, 343
+  offset: 9, 53
+  index: -1
+Hair_Front Rigth sha
+  rotate: false
+  xy: 4012, 317
+  size: 58, 285
+  orig: 221, 313
+  offset: 0, 3
+  index: -1
+Hair_Front_Left
+  rotate: false
+  xy: 345, 15
+  size: 218, 458
+  orig: 291, 696
+  offset: 0, 238
+  index: -1
+Hair_Front_Left sha
+  rotate: true
+  xy: 1287, 8
+  size: 96, 207
+  orig: 116, 207
+  offset: 17, 0
+  index: -1
+Hair_Front_Left_back
+  rotate: true
+  xy: 3311, 283
+  size: 290, 699
+  orig: 294, 730
+  offset: 0, 30
+  index: -1
+Hair_Front_Middle_back
+  rotate: false
+  xy: 1240, 106
+  size: 171, 367
+  orig: 172, 369
+  offset: 1, 1
+  index: -1
+Hair_Front_Middle_back sha
+  rotate: false
+  xy: 2707, 3
+  size: 179, 241
+  orig: 202, 246
+  offset: 14, 5
+  index: -1
+Hair_Front_Middle_fron
+  rotate: false
+  xy: 3667, 2
+  size: 93, 279
+  orig: 94, 367
+  offset: 0, 88
+  index: -1
+Headphones  back
+  rotate: true
+  xy: 1975, 304
+  size: 96, 69
+  orig: 99, 72
+  offset: 1, 2
+  index: -1
+Headphones Left
+  rotate: true
+  xy: 4251, 514
+  size: 178, 173
+  orig: 180, 177
+  offset: 1, 2
+  index: -1
+Headphones Rigth
+  rotate: true
+  xy: 4072, 420
+  size: 182, 177
+  orig: 184, 179
+  offset: 1, 1
+  index: -1
+Horn Left
+  rotate: false
+  xy: 3014, 269
+  size: 295, 304
+  orig: 297, 307
+  offset: 1, 2
+  index: -1
+Horn Rigth Back
+  rotate: false
+  xy: 2321, 4
+  size: 202, 203
+  orig: 206, 206
+  offset: 3, 2
+  index: -1
+Horn Rigth Fron
+  rotate: false
+  xy: 3875, 14
+  size: 128, 267
+  orig: 141, 270
+  offset: 3, 2
+  index: -1
+Left hand
+  rotate: false
+  xy: 2525, 8
+  size: 180, 199
+  orig: 180, 201
+  offset: 0, 0
+  index: -1
+Leg Left
+  rotate: false
+  xy: 1643, 547
+  size: 365, 1499
+  orig: 372, 1499
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 1319, 496
+  size: 322, 1550
+  orig: 322, 1550
+  offset: 0, 0
+  index: -1
+Mattress Back
+  rotate: true
+  xy: 2, 475
+  size: 1571, 1315
+  orig: 1574, 1315
+  offset: 0, 0
+  index: -1
+Mattress Front
+  rotate: true
+  xy: 2010, 575
+  size: 1471, 1338
+  orig: 1471, 1338
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1643, 497
+  size: 48, 33
+  orig: 50, 35
+  offset: 1, 1
+  index: -1
+Mouth_D
+  rotate: false
+  xy: 1863, 504
+  size: 54, 41
+  orig: 59, 44
+  offset: 4, 1
+  index: -1
+Mouth_M
+  rotate: true
+  xy: 1919, 504
+  size: 41, 39
+  orig: 50, 40
+  offset: 4, 1
+  index: -1
+Mouth_W
+  rotate: false
+  xy: 1794, 504
+  size: 67, 41
+  orig: 71, 68
+  offset: 3, 20
+  index: -1
+Neck
+  rotate: false
+  xy: 565, 18
+  size: 416, 455
+  orig: 416, 455
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 1450, 131
+  size: 33, 42
+  orig: 39, 46
+  offset: 2, 3
+  index: -1
+Red Cheeks
+  rotate: false
+  xy: 3642, 601
+  size: 259, 91
+  orig: 297, 113
+  offset: 11, 1
+  index: -1
+Red Cheeks2
+  rotate: true
+  xy: 3762, 10
+  size: 271, 111
+  orig: 289, 145
+  offset: 3, 23
+  index: -1
+Red Cheeks3
+  rotate: true
+  xy: 3762, 10
+  size: 271, 111
+  orig: 289, 145
+  offset: 3, 23
+  index: -1
+Shirt
+  rotate: false
+  xy: 3350, 694
+  size: 1001, 1352
+  orig: 1001, 1358
+  offset: 0, 6
+  index: -1
+Shirt Arm Left Middle
+  rotate: true
+  xy: 4251, 335
+  size: 177, 619
+  orig: 177, 627
+  offset: 0, 8
+  index: -1
+Shirt Arm Left down
+  rotate: false
+  xy: 2049, 48
+  size: 270, 525
+  orig: 272, 529
+  offset: 1, 3
+  index: -1
+Sweat
+  rotate: false
+  xy: 1413, 106
+  size: 35, 58
+  orig: 40, 68
+  offset: 3, 8
+  index: -1

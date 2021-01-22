@@ -1,0 +1,160 @@
+
+5_ASYU.png
+size: 4014,3286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ASYU_B_breast
+  rotate: false
+  xy: 2981, 2
+  size: 257, 235
+  orig: 257, 235
+  offset: 0, 0
+  index: -1
+ASYU_B_leg
+  rotate: false
+  xy: 2479, 1744
+  size: 1533, 1540
+  orig: 1533, 1540
+  offset: 0, 0
+  index: -1
+ASYU_F_arm1
+  rotate: false
+  xy: 3725, 799
+  size: 284, 461
+  orig: 284, 461
+  offset: 0, 0
+  index: -1
+ASYU_F_arm2
+  rotate: true
+  xy: 2281, 175
+  size: 566, 399
+  orig: 566, 399
+  offset: 0, 0
+  index: -1
+ASYU_F_breast
+  rotate: false
+  xy: 2682, 112
+  size: 297, 268
+  orig: 297, 268
+  offset: 0, 0
+  index: -1
+ASYU_F_leg1
+  rotate: false
+  xy: 2, 60
+  size: 1127, 441
+  orig: 1127, 441
+  offset: 0, 0
+  index: -1
+ASYU_F_leg2
+  rotate: true
+  xy: 1131, 12
+  size: 489, 553
+  orig: 489, 553
+  offset: 0, 0
+  index: -1
+ASYU_body1
+  rotate: false
+  xy: 2455, 794
+  size: 673, 578
+  orig: 673, 578
+  offset: 0, 0
+  index: -1
+ASYU_body2
+  rotate: false
+  xy: 3130, 746
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+ASYU_body2_2
+  rotate: false
+  xy: 1686, 227
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+ASYU_bura
+  rotate: false
+  xy: 2479, 1374
+  size: 806, 368
+  orig: 806, 368
+  offset: 0, 0
+  index: -1
+ASYU_bura2
+  rotate: false
+  xy: 3240, 91
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+ASYU_cheek
+  rotate: false
+  xy: 3584, 100
+  size: 375, 235
+  orig: 376, 235
+  offset: 1, 0
+  index: -1
+ASYU_eye1
+  rotate: false
+  xy: 1954, 109
+  size: 230, 116
+  orig: 232, 117
+  offset: 1, 0
+  index: -1
+ASYU_eye2
+  rotate: false
+  xy: 1686, 91
+  size: 266, 134
+  orig: 266, 135
+  offset: 0, 0
+  index: -1
+ASYU_hair1
+  rotate: true
+  xy: 3054, 239
+  size: 505, 528
+  orig: 505, 528
+  offset: 0, 0
+  index: -1
+ASYU_hair2
+  rotate: false
+  xy: 2682, 382
+  size: 370, 410
+  orig: 371, 411
+  offset: 0, 0
+  index: -1
+ASYU_hair3
+  rotate: false
+  xy: 1597, 743
+  size: 856, 673
+  orig: 856, 673
+  offset: 0, 0
+  index: -1
+ASYU_head
+  rotate: false
+  xy: 3584, 337
+  size: 371, 407
+  orig: 372, 407
+  offset: 1, 0
+  index: -1
+ASYU_wear
+  rotate: false
+  xy: 3287, 1262
+  size: 682, 480
+  orig: 682, 480
+  offset: 0, 0
+  index: -1
+SR_1
+  rotate: false
+  xy: 2, 1418
+  size: 2475, 1866
+  orig: 2475, 1866
+  offset: 0, 0
+  index: -1
+SR_2
+  rotate: false
+  xy: 2, 503
+  size: 1593, 913
+  orig: 1593, 913
+  offset: 0, 0
+  index: -1

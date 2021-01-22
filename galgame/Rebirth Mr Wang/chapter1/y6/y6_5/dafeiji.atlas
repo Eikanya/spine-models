@@ -1,0 +1,174 @@
+
+dafeiji.png
+size: 7456,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0602zuoshou
+  rotate: true
+  xy: 2663, 77
+  size: 463, 962
+  orig: 463, 962
+  offset: 0, 0
+  index: -1
+0603jiji
+  rotate: true
+  xy: 4252, 4
+  size: 574, 762
+  orig: 577, 768
+  offset: 3, 6
+  index: -1
+0604shouzhi
+  rotate: false
+  xy: 5801, 29
+  size: 344, 456
+  orig: 344, 456
+  offset: 0, 0
+  index: -1
+0605kua
+  rotate: false
+  xy: 2, 533
+  size: 1398, 625
+  orig: 1398, 635
+  offset: 0, 0
+  index: -1
+D_000
+  rotate: false
+  xy: 5421, 126
+  size: 378, 417
+  orig: 881, 949
+  offset: 283, 326
+  index: -1
+D_001
+  rotate: false
+  xy: 2, 746
+  size: 124, 166
+  orig: 881, 949
+  offset: 271, 587
+  index: -1
+D_002
+  rotate: false
+  xy: 4252, 37
+  size: 198, 237
+  orig: 881, 949
+  offset: 246, 528
+  index: -1
+D_003
+  rotate: false
+  xy: 6148, 6
+  size: 298, 352
+  orig: 881, 949
+  offset: 241, 415
+  index: -1
+D_004
+  rotate: false
+  xy: 5015, 38
+  size: 404, 505
+  orig: 881, 949
+  offset: 237, 270
+  index: -1
+D_005
+  rotate: false
+  xy: 3783, 5
+  size: 467, 572
+  orig: 881, 949
+  offset: 210, 215
+  index: -1
+D_006
+  rotate: true
+  xy: 1402, 8
+  size: 529, 644
+  orig: 881, 949
+  offset: 178, 161
+  index: -1
+D_007
+  rotate: true
+  xy: 6777, 602
+  size: 555, 677
+  orig: 881, 949
+  offset: 169, 139
+  index: -1
+D_008
+  rotate: true
+  xy: 6077, 570
+  size: 587, 698
+  orig: 881, 949
+  offset: 160, 132
+  index: -1
+D_009
+  rotate: true
+  xy: 5339, 545
+  size: 612, 736
+  orig: 881, 949
+  offset: 156, 101
+  index: -1
+D_010
+  rotate: true
+  xy: 2211, 542
+  size: 615, 770
+  orig: 881, 949
+  offset: 150, 77
+  index: -1
+D_011
+  rotate: true
+  xy: 3783, 579
+  size: 578, 789
+  orig: 881, 949
+  offset: 149, 61
+  index: -1
+D_012
+  rotate: true
+  xy: 1402, 569
+  size: 588, 807
+  orig: 881, 949
+  offset: 147, 48
+  index: -1
+D_013
+  rotate: true
+  xy: 2983, 565
+  size: 592, 798
+  orig: 881, 949
+  offset: 147, 59
+  index: -1
+D_014
+  rotate: true
+  xy: 4574, 561
+  size: 596, 763
+  orig: 881, 949
+  offset: 146, 97
+  index: -1
+D_015
+  rotate: true
+  xy: 6777, 2
+  size: 598, 621
+  orig: 881, 949
+  offset: 145, 242
+  index: -1
+D_016
+  rotate: true
+  xy: 2, 32
+  size: 594, 628
+  orig: 881, 949
+  offset: 145, 237
+  index: -1
+D_017
+  rotate: true
+  xy: 632, 7
+  size: 524, 626
+  orig: 881, 949
+  offset: 204, 244
+  index: -1
+D_018
+  rotate: true
+  xy: 2048, 30
+  size: 510, 613
+  orig: 881, 949
+  offset: 203, 264
+  index: -1
+D_019
+  rotate: false
+  xy: 6448, 305
+  size: 321, 263
+  orig: 881, 949
+  offset: 370, 292
+  index: -1

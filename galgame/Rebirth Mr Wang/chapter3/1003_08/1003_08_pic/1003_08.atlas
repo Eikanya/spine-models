@@ -1,0 +1,139 @@
+
+1003_08.png
+size: 7964,2904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiaojiao_1
+  rotate: false
+  xy: 2, 2
+  size: 2284, 2900
+  orig: 2286, 2902
+  offset: 1, 1
+  index: -1
+tiaojiao_10
+  rotate: false
+  xy: 5558, 1677
+  size: 788, 1225
+  orig: 790, 1259
+  offset: 1, 1
+  index: -1
+tiaojiao_11
+  rotate: true
+  xy: 6348, 1730
+  size: 261, 466
+  orig: 261, 466
+  offset: 0, 0
+  index: -1
+tiaojiao_12
+  rotate: false
+  xy: 6772, 2582
+  size: 321, 320
+  orig: 321, 320
+  offset: 0, 0
+  index: -1
+tiaojiao_13
+  rotate: false
+  xy: 7213, 2145
+  size: 679, 757
+  orig: 681, 760
+  offset: 1, 1
+  index: -1
+tiaojiao_14
+  rotate: false
+  xy: 6996, 2405
+  size: 215, 201
+  orig: 215, 201
+  offset: 0, 0
+  index: -1
+tiaojiao_15
+  rotate: 270
+  xy: 6245, 1035
+  size: 689, 1122
+  orig: 746, 1122
+  offset: 57, 0
+  index: -1
+tiaojiao_16
+  rotate: false
+  xy: 4574, 1584
+  size: 181, 187
+  orig: 181, 187
+  offset: 0, 0
+  index: -1
+tiaojiao_17
+  rotate: false
+  xy: 4574, 1158
+  size: 982, 1744
+  orig: 982, 1744
+  offset: 0, 0
+  index: -1
+tiaojiao_18
+  rotate: 180
+  xy: 6348, 1725
+  size: 1036, 1177
+  orig: 1044, 1177
+  offset: 0, 0
+  index: -1
+tiaojiao_19
+  rotate: false
+  xy: 2288, 2
+  size: 2284, 2900
+  orig: 2286, 2902
+  offset: 1, 1
+  index: -1
+tiaojiao_2
+  rotate: false
+  xy: 5936, 1200
+  size: 297, 476
+  orig: 301, 487
+  offset: 0, 0
+  index: -1
+tiaojiao_3
+  rotate: false
+  xy: 5558, 1434
+  size: 221, 241
+  orig: 221, 241
+  offset: 0, 0
+  index: -1
+tiaojiao_4
+  rotate: false
+  xy: 5773, 1471
+  size: 156, 205
+  orig: 156, 232
+  offset: 0, 27
+  index: -1
+tiaojiao_5
+  rotate: false
+  xy: 5553, 881
+  size: 967, 488
+  orig: 967, 488
+  offset: 0, 0
+  index: -1
+tiaojiao_6
+  rotate: false
+  xy: 4574, 843
+  size: 839, 714
+  orig: 839, 714
+  offset: 0, 0
+  index: -1
+tiaojiao_7
+  rotate: false
+  xy: 7265, 1949
+  size: 109, 194
+  orig: 109, 194
+  offset: 0, 0
+  index: -1
+tiaojiao_8
+  rotate: false
+  xy: 7088, 2652
+  size: 120, 251
+  orig: 145, 262
+  offset: 10, 0
+  index: -1
+tiaojiao_9
+  rotate: false
+  xy: 7385, 1537
+  size: 573, 606
+  orig: 575, 609
+  offset: 1, 1
+  index: -1

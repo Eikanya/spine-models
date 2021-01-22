@@ -1,0 +1,10 @@
+{
+  "textures": [
+    "Cat Sexy.png"
+  ],
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "Cat Sexy.json",
+  "atlas": "Cat Sexy.atlas"
+}

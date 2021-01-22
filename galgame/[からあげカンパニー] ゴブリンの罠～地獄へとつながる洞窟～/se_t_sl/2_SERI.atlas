@@ -1,0 +1,237 @@
+
+2_SERI.png
+size: 4071,4081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ASYU_F_arm1
+  rotate: false
+  xy: 3806, 2161
+  size: 192, 473
+  orig: 192, 473
+  offset: 0, 0
+  index: -1
+B_arm1
+  rotate: false
+  xy: 2389, 1727
+  size: 126, 224
+  orig: 127, 224
+  offset: 1, 0
+  index: -1
+B_arm2
+  rotate: true
+  xy: 3806, 1683
+  size: 476, 172
+  orig: 477, 173
+  offset: 1, 1
+  index: -1
+B_arm3
+  rotate: true
+  xy: 2389, 1517
+  size: 208, 131
+  orig: 260, 139
+  offset: 51, 0
+  index: -1
+B_leg1
+  rotate: true
+  xy: 1234, 2
+  size: 489, 726
+  orig: 491, 727
+  offset: 1, 0
+  index: -1
+B_leg2
+  rotate: true
+  xy: 3806, 3157
+  size: 922, 263
+  orig: 923, 270
+  offset: 0, 7
+  index: -1
+B_leg3
+  rotate: false
+  xy: 3088, 1035
+  size: 315, 304
+  orig: 315, 304
+  offset: 0, 0
+  index: -1
+F_arm3
+  rotate: false
+  xy: 3781, 1117
+  size: 227, 153
+  orig: 227, 153
+  offset: 0, 0
+  index: -1
+F_leg1
+  rotate: true
+  xy: 1906, 839
+  size: 1112, 481
+  orig: 1113, 481
+  offset: 1, 0
+  index: -1
+F_leg2
+  rotate: false
+  xy: 1829, 494
+  size: 433, 343
+  orig: 433, 344
+  offset: 0, 0
+  index: -1
+F_leg3
+  rotate: true
+  xy: 3806, 1272
+  size: 409, 152
+  orig: 409, 152
+  offset: 0, 0
+  index: -1
+SERI/KSR_1
+  rotate: false
+  xy: 2, 3
+  size: 772, 378
+  orig: 776, 386
+  offset: 4, 4
+  index: -1
+SERI/KSR_2
+  rotate: true
+  xy: 2, 383
+  size: 1568, 1047
+  orig: 1569, 1052
+  offset: 0, 5
+  index: -1
+SERI/KSR_3
+  rotate: false
+  xy: 3088, 884
+  size: 277, 149
+  orig: 277, 149
+  offset: 0, 0
+  index: -1
+SERI/KSR_4
+  rotate: false
+  xy: 776, 30
+  size: 456, 351
+  orig: 456, 351
+  offset: 0, 0
+  index: -1
+SERI/KSR_5
+  rotate: true
+  xy: 2526, 1341
+  size: 2738, 1278
+  orig: 2738, 1278
+  offset: 0, 0
+  index: -1
+SERI/KSR_6
+  rotate: false
+  xy: 2, 1953
+  size: 2522, 2126
+  orig: 2522, 2126
+  offset: 0, 0
+  index: -1
+SERI/SERI_B_breast
+  rotate: false
+  xy: 3061, 558
+  size: 360, 285
+  orig: 360, 285
+  offset: 0, 0
+  index: -1
+SERI/SERI_F_breast
+  rotate: false
+  xy: 2704, 537
+  size: 355, 306
+  orig: 355, 306
+  offset: 0, 0
+  index: -1
+SERI/SERI_cheek
+  rotate: true
+  xy: 2389, 1317
+  size: 198, 121
+  orig: 200, 122
+  offset: 1, 1
+  index: -1
+SERI/SERI_eye1
+  rotate: false
+  xy: 3781, 966
+  size: 216, 149
+  orig: 217, 150
+  offset: 0, 0
+  index: -1
+SERI/SERI_eye2
+  rotate: false
+  xy: 1347, 498
+  size: 213, 139
+  orig: 213, 140
+  offset: 0, 0
+  index: -1
+SERI/SERI_hair3
+  rotate: true
+  xy: 3348, 21
+  size: 535, 675
+  orig: 535, 675
+  offset: 0, 0
+  index: -1
+SERI/SERI_hair4
+  rotate: false
+  xy: 1051, 1133
+  size: 853, 818
+  orig: 853, 818
+  offset: 0, 0
+  index: -1
+SERI/SERI_head
+  rotate: false
+  xy: 3423, 941
+  size: 356, 398
+  orig: 356, 399
+  offset: 0, 1
+  index: -1
+SERI_F_arm2
+  rotate: true
+  xy: 3806, 2636
+  size: 519, 188
+  orig: 519, 188
+  offset: 0, 0
+  index: -1
+SERI_body1
+  rotate: false
+  xy: 1051, 639
+  size: 776, 492
+  orig: 776, 499
+  offset: 0, 7
+  index: -1
+SERI_cheek
+  rotate: false
+  xy: 1051, 493
+  size: 294, 144
+  orig: 296, 145
+  offset: 2, 0
+  index: -1
+SERI_wear
+  rotate: false
+  xy: 2512, 845
+  size: 574, 494
+  orig: 574, 494
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 1962, 46
+  size: 446, 564
+  orig: 446, 564
+  offset: 0, 0
+  index: -1
+bura
+  rotate: false
+  xy: 2264, 511
+  size: 438, 326
+  orig: 439, 326
+  offset: 1, 0
+  index: -1
+shorts
+  rotate: false
+  xy: 2528, 28
+  size: 408, 481
+  orig: 408, 481
+  offset: 0, 0
+  index: -1
+shorts2
+  rotate: false
+  xy: 2938, 54
+  size: 408, 481
+  orig: 408, 481
+  offset: 0, 0
+  index: -1

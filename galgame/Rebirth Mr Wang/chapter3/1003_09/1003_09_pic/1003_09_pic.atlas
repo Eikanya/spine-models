@@ -1,0 +1,111 @@
+
+1003_09_pic.png
+size: 1956,7392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0002yeti1
+  rotate: false
+  xy: 2, 28
+  size: 100, 204
+  orig: 100, 204
+  offset: 0, 0
+  index: -1
+0002yeti3
+  rotate: false
+  xy: 1657, 2990
+  size: 296, 461
+  orig: 296, 461
+  offset: 0, 0
+  index: -1
+0002yeti4
+  rotate: false
+  xy: 2, 234
+  size: 400, 349
+  orig: 400, 349
+  offset: 0, 0
+  index: -1
+0002yeti5
+  rotate: false
+  xy: 1254, 27
+  size: 383, 294
+  orig: 383, 294
+  offset: 0, 0
+  index: -1
+0002yeti6
+  rotate: true
+  xy: 403, 3
+  size: 366, 357
+  orig: 366, 357
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 1194, 4010
+  size: 733, 855
+  orig: 733, 855
+  offset: 0, 0
+  index: -1
+diban
+  rotate: false
+  xy: 2, 6129
+  size: 1788, 1260
+  orig: 1790, 1262
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 4867
+  size: 1788, 1260
+  orig: 1790, 1262
+  offset: 1, 1
+  index: -1
+pigu
+  rotate: 270
+  xy: 1274, 962
+  size: 1445, 588
+  orig: 1445, 588
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 3791
+  size: 1074, 1254
+  orig: 1074, 1254
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 467, 2028
+  size: 964, 1292
+  orig: 964, 1292
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: true
+  xy: 2, 236
+  size: 1182, 1250
+  orig: 1182, 1266
+  offset: 0, 0
+  index: -1
+zuo-yingdao
+  rotate: true
+  xy: 1070, 323
+  size: 726, 657
+  orig: 736, 657
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: 180
+  xy: 472, 2808
+  size: 1204, 1365
+  orig: 1204, 1365
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 2, 1095
+  size: 1270, 1096
+  orig: 1270, 1107
+  offset: 0, 0
+  index: -1

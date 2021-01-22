@@ -1,0 +1,132 @@
+
+Cat Stand.png
+size: 1834,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blush
+  rotate: false
+  xy: 1002, 9
+  size: 344, 139
+  orig: 390, 184
+  offset: 23, 27
+  index: -1
+Cat Body
+  rotate: true
+  xy: 2, 11
+  size: 609, 998
+  orig: 609, 998
+  offset: 0, 0
+  index: -1
+Cat Eye Left
+  rotate: false
+  xy: 1737, 519
+  size: 95, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+Cat Eye Right
+  rotate: false
+  xy: 1348, 48
+  size: 96, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+Cat Leg Left
+  rotate: true
+  xy: 1002, 150
+  size: 172, 445
+  orig: 174, 469
+  offset: 0, 0
+  index: -1
+Cat Leg Right
+  rotate: false
+  xy: 1559, 199
+  size: 176, 421
+  orig: 285, 466
+  offset: 0, 5
+  index: -1
+Cat Mouth
+  rotate: false
+  xy: 1738, 166
+  size: 70, 51
+  orig: 71, 51
+  offset: 1, 0
+  index: -1
+Cat Tail
+  rotate: false
+  xy: 1002, 324
+  size: 555, 296
+  orig: 555, 296
+  offset: 0, 0
+  index: -1
+Eye Close Left
+  rotate: false
+  xy: 1414, 3
+  size: 113, 41
+  orig: 121, 52
+  offset: 6, 9
+  index: -1
+Eye Close Right
+  rotate: true
+  xy: 1737, 219
+  size: 109, 32
+  orig: 118, 38
+  offset: 7, 3
+  index: -1
+Eye2 Left
+  rotate: false
+  xy: 1737, 417
+  size: 95, 100
+  orig: 97, 102
+  offset: 1, 1
+  index: -1
+Eye2 Right
+  rotate: false
+  xy: 1446, 46
+  size: 96, 100
+  orig: 99, 102
+  offset: 2, 1
+  index: -1
+Eye3 Left
+  rotate: false
+  xy: 1664, 23
+  size: 108, 72
+  orig: 110, 74
+  offset: 1, 1
+  index: -1
+Eye3 Right
+  rotate: false
+  xy: 1544, 17
+  size: 118, 78
+  orig: 121, 80
+  offset: 2, 1
+  index: -1
+Mouth Break1
+  rotate: false
+  xy: 1737, 330
+  size: 71, 85
+  orig: 84, 87
+  offset: 4, 1
+  index: -1
+Mouth Break2
+  rotate: true
+  xy: 1348, 2
+  size: 44, 64
+  orig: 50, 74
+  offset: 2, 9
+  index: -1
+Whiskers Left
+  rotate: true
+  xy: 1449, 148
+  size: 174, 106
+  orig: 174, 106
+  offset: 0, 0
+  index: -1
+Whiskers Right
+  rotate: false
+  xy: 1557, 97
+  size: 179, 100
+  orig: 179, 100
+  offset: 0, 0
+  index: -1

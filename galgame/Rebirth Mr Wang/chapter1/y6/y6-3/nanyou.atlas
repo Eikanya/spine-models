@@ -1,0 +1,146 @@
+
+nanyou.png
+size: 2044,3040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0401kuang
+  rotate: false
+  xy: 2, 1960
+  size: 1918, 1078
+  orig: 1920, 1080
+  offset: 1, 1
+  index: -1
+0402fa
+  rotate: false
+  xy: 579, 21
+  size: 495, 400
+  orig: 588, 400
+  offset: 88, 0
+  index: -1
+0403han
+  rotate: false
+  xy: 1367, 47
+  size: 335, 79
+  orig: 335, 90
+  offset: 0, 0
+  index: -1
+0404mei
+  rotate: false
+  xy: 2, 40
+  size: 128, 36
+  orig: 141, 39
+  offset: 0, 0
+  index: -1
+0405mei
+  rotate: false
+  xy: 2, 15
+  size: 102, 23
+  orig: 102, 23
+  offset: 0, 0
+  index: -1
+0406yan
+  rotate: false
+  xy: 106, 17
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+0407yan
+  rotate: false
+  xy: 81, 4
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+0408bizi
+  rotate: false
+  xy: 1704, 41
+  size: 122, 189
+  orig: 128, 189
+  offset: 0, 0
+  index: -1
+0409zui
+  rotate: true
+  xy: 1922, 1245
+  size: 145, 93
+  orig: 170, 108
+  offset: 6, 6
+  index: -1
+0410youshang
+  rotate: false
+  xy: 1827, 48
+  size: 182, 131
+  orig: 203, 149
+  offset: 13, 0
+  index: -1
+0411zuoshang
+  rotate: true
+  xy: 1922, 815
+  size: 161, 117
+  orig: 173, 123
+  offset: 4, 0
+  index: -1
+0412youxia
+  rotate: false
+  xy: 1868, 144
+  size: 164, 127
+  orig: 166, 148
+  offset: 1, 21
+  index: -1
+0413zuoxia
+  rotate: false
+  xy: 477, 17
+  size: 170, 120
+  orig: 176, 127
+  offset: 4, 7
+  index: -1
+0414yanbai
+  rotate: true
+  xy: 1923, 976
+  size: 132, 108
+  orig: 132, 108
+  offset: 0, 0
+  index: -1
+0415yanbai
+  rotate: true
+  xy: 1935, 1110
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+0416tou
+  rotate: true
+  xy: 2, 3
+  size: 511, 581
+  orig: 511, 689
+  offset: 0, 25
+  index: -1
+0417fahou
+  rotate: 270
+  xy: 1536, 240
+  size: 638, 497
+  orig: 638, 497
+  offset: 0, 0
+  index: -1
+0418bozi
+  rotate: false
+  xy: 1055, 17
+  size: 348, 345
+  orig: 380, 345
+  offset: 32, 0
+  index: -1
+0419shenti
+  rotate: false
+  xy: 2, 433
+  size: 1541, 445
+  orig: 1541, 445
+  offset: 0, 0
+  index: -1
+0420beijing
+  rotate: false
+  xy: 2, 880
+  size: 1918, 1078
+  orig: 1920, 1080
+  offset: 1, 1
+  index: -1

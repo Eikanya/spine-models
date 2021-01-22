@@ -1,0 +1,286 @@
+
+Wrath Stand.png
+size: 8192,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bonquet
+  rotate: false
+  xy: 2978, 717
+  size: 496, 500
+  orig: 497, 500
+  offset: 1, 0
+  index: -1
+Eye brown
+  rotate: false
+  xy: 166, 28
+  size: 110, 40
+  orig: 114, 46
+  offset: 3, 5
+  index: -1
+Lace Glove
+  rotate: false
+  xy: 2478, 7
+  size: 177, 74
+  orig: 177, 74
+  offset: 0, 0
+  index: -1
+Little finger
+  rotate: true
+  xy: 2, 2
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+Ring finger
+  rotate: true
+  xy: 2657, 12
+  size: 69, 119
+  orig: 69, 119
+  offset: 0, 0
+  index: -1
+arm
+  rotate: false
+  xy: 5649, 1505
+  size: 725, 746
+  orig: 725, 780
+  offset: 0, 33
+  index: -1
+body
+  rotate: true
+  xy: 2192, 544
+  size: 673, 784
+  orig: 691, 788
+  offset: 0, 0
+  index: -1
+brush01
+  rotate: false
+  xy: 2478, 83
+  size: 272, 121
+  orig: 307, 162
+  offset: 20, 25
+  index: -1
+brush02
+  rotate: false
+  xy: 2611, 225
+  size: 200, 85
+  orig: 208, 88
+  offset: 4, 2
+  index: -1
+crawn
+  rotate: true
+  xy: 2611, 312
+  size: 230, 215
+  orig: 238, 230
+  offset: 7, 1
+  index: -1
+earring
+  rotate: true
+  xy: 408, 11
+  size: 28, 43
+  orig: 32, 47
+  offset: 2, 2
+  index: -1
+eye close
+  rotate: true
+  xy: 3064, 444
+  size: 122, 111
+  orig: 132, 117
+  offset: 5, 2
+  index: -1
+eyeball
+  rotate: false
+  xy: 278, 9
+  size: 49, 59
+  orig: 49, 60
+  offset: 0, 1
+  index: -1
+eyelash
+  rotate: false
+  xy: 2813, 239
+  size: 102, 71
+  orig: 111, 73
+  offset: 2, 1
+  index: -1
+hair back03
+  rotate: true
+  xy: 2975, 40
+  size: 395, 579
+  orig: 395, 579
+  offset: 0, 0
+  index: -1
+hair back04
+  rotate: false
+  xy: 3476, 455
+  size: 875, 762
+  orig: 876, 765
+  offset: 0, 3
+  index: -1
+hair back05
+  rotate: true
+  xy: 5225, 127
+  size: 1099, 1468
+  orig: 1106, 1471
+  offset: 0, 3
+  index: -1
+hair01
+  rotate: true
+  xy: 1314, 25
+  size: 168, 453
+  orig: 169, 466
+  offset: 0, 13
+  index: -1
+hair02
+  rotate: true
+  xy: 2078, 70
+  size: 123, 398
+  orig: 126, 414
+  offset: 2, 16
+  index: -1
+hair_back01
+  rotate: true
+  xy: 4353, 527
+  size: 690, 847
+  orig: 717, 850
+  offset: 27, 0
+  index: -1
+hair_back02
+  rotate: false
+  xy: 4724, 1228
+  size: 923, 1023
+  orig: 928, 1023
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 4661, 149
+  size: 376, 562
+  orig: 417, 576
+  offset: 0, 14
+  index: -1
+horn
+  rotate: false
+  xy: 4060, 96
+  size: 599, 357
+  orig: 605, 367
+  offset: 2, 1
+  index: -1
+horn back
+  rotate: true
+  xy: 2331, 206
+  size: 336, 278
+  orig: 339, 280
+  offset: 2, 1
+  index: -1
+icon_angry
+  rotate: false
+  xy: 2828, 313
+  size: 145, 122
+  orig: 147, 125
+  offset: 1, 1
+  index: -1
+leaf01
+  rotate: false
+  xy: 1769, 30
+  size: 307, 163
+  orig: 310, 164
+  offset: 3, 1
+  index: -1
+leaf02
+  rotate: true
+  xy: 2828, 437
+  size: 105, 234
+  orig: 105, 235
+  offset: 0, 0
+  index: -1
+leaf03
+  rotate: true
+  xy: 2978, 568
+  size: 147, 96
+  orig: 149, 96
+  offset: 2, 0
+  index: -1
+leaf04
+  rotate: false
+  xy: 2752, 99
+  size: 221, 124
+  orig: 223, 127
+  offset: 0, 2
+  index: -1
+mouth
+  rotate: false
+  xy: 408, 41
+  size: 69, 27
+  orig: 73, 29
+  offset: 2, 1
+  index: -1
+mouth A
+  rotate: true
+  xy: 367, 9
+  size: 59, 39
+  orig: 61, 41
+  offset: 1, 1
+  index: -1
+mouth_angry
+  rotate: true
+  xy: 329, 4
+  size: 64, 36
+  orig: 66, 39
+  offset: 1, 1
+  index: -1
+ribbon01
+  rotate: true
+  xy: 2, 70
+  size: 462, 1310
+  orig: 462, 1311
+  offset: 0, 1
+  index: -1
+ribbon02
+  rotate: true
+  xy: 1314, 195
+  size: 337, 1015
+  orig: 468, 1278
+  offset: 0, 134
+  index: -1
+rose
+  rotate: false
+  xy: 3556, 10
+  size: 502, 443
+  orig: 505, 446
+  offset: 1, 2
+  index: -1
+sweat
+  rotate: true
+  xy: 166, 8
+  size: 18, 52
+  orig: 20, 57
+  offset: 1, 2
+  index: -1
+veil01
+  rotate: false
+  xy: 2, 534
+  size: 2188, 3560
+  orig: 2217, 3561
+  offset: 29, 0
+  index: -1
+veil02
+  rotate: true
+  xy: 4724, 2253
+  size: 1841, 2879
+  orig: 1847, 2891
+  offset: 0, 0
+  index: -1
+wedding dress
+  rotate: true
+  xy: 2192, 1219
+  size: 2875, 2530
+  orig: 2875, 2530
+  offset: 0, 0
+  index: -1
+white eye
+  rotate: false
+  xy: 88, 7
+  size: 76, 61
+  orig: 80, 63
+  offset: 2, 1
+  index: -1

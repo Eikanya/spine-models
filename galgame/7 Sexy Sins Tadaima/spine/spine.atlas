@@ -1,0 +1,1223 @@
+
+spine.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 4255, 6731
+  size: 1044, 425
+  orig: 1044, 452
+  offset: 0, 0
+  index: -1
+Arm Right Back
+  rotate: false
+  xy: 1696, 6381
+  size: 597, 485
+  orig: 598, 485
+  offset: 1, 0
+  index: -1
+Arm Right Front
+  rotate: false
+  xy: 2351, 7279
+  size: 502, 256
+  orig: 502, 389
+  offset: 0, 0
+  index: -1
+Blush
+  rotate: true
+  xy: 1870, 7296
+  size: 249, 479
+  orig: 303, 525
+  offset: 20, 22
+  index: -1
+Body
+  rotate: false
+  xy: 2, 626
+  size: 1557, 1398
+  orig: 1583, 1506
+  offset: 26, 0
+  index: -1
+Breast Left
+  rotate: false
+  xy: 1730, 6891
+  size: 437, 403
+  orig: 452, 408
+  offset: 15, 0
+  index: -1
+Breast Middle
+  rotate: true
+  xy: 5041, 5672
+  size: 528, 729
+  orig: 574, 739
+  offset: 31, 4
+  index: -1
+Breast Right
+  rotate: true
+  xy: 3275, 6819
+  size: 417, 425
+  orig: 559, 492
+  offset: 10, 0
+  index: -1
+Butt Back
+  rotate: false
+  xy: 252, 7604
+  size: 141, 122
+  orig: 144, 123
+  offset: 3, 0
+  index: -1
+Butt Back Mosaic
+  rotate: false
+  xy: 395, 7602
+  size: 141, 122
+  orig: 144, 123
+  offset: 3, 0
+  index: -1
+Butt Front
+  rotate: true
+  xy: 3256, 7676
+  size: 85, 122
+  orig: 96, 123
+  offset: 9, 0
+  index: -1
+Butt Front Mosaic
+  rotate: true
+  xy: 3380, 7676
+  size: 85, 122
+  orig: 96, 123
+  offset: 9, 0
+  index: -1
+Butt Water A
+  rotate: true
+  xy: 1040, 7716
+  size: 45, 65
+  orig: 52, 68
+  offset: 1, 0
+  index: -1
+Butt Water B
+  rotate: true
+  xy: 545, 7725
+  size: 36, 158
+  orig: 36, 161
+  offset: 0, 0
+  index: -1
+Butt Water SP
+  rotate: false
+  xy: 5249, 7476
+  size: 223, 183
+  orig: 243, 193
+  offset: 15, 8
+  index: -1
+Censor Breast Left
+  rotate: false
+  xy: 3104, 7523
+  size: 166, 151
+  orig: 187, 164
+  offset: 1, 0
+  index: -1
+Censor Breast Real Left
+  rotate: false
+  xy: 2582, 7539
+  size: 162, 145
+  orig: 201, 176
+  offset: 12, 7
+  index: -1
+Censor Breast Right
+  rotate: false
+  xy: 2947, 7528
+  size: 155, 150
+  orig: 210, 200
+  offset: 19, 18
+  index: -1
+Censor Breast Real Right
+  rotate: false
+  xy: 2947, 7528
+  size: 155, 150
+  orig: 210, 200
+  offset: 19, 18
+  index: -1
+Censor Penis
+  rotate: false
+  xy: 6265, 7452
+  size: 450, 201
+  orig: 462, 201
+  offset: 12, 0
+  index: -1
+Cock
+  rotate: true
+  xy: 3422, 7238
+  size: 273, 386
+  orig: 401, 487
+  offset: 42, 101
+  index: -1
+Dress
+  rotate: true
+  xy: 2, 4433
+  size: 831, 836
+  orig: 1051, 852
+  offset: 164, 0
+  index: -1
+Dress Broken1
+  rotate: true
+  xy: 840, 4388
+  size: 831, 836
+  orig: 1051, 852
+  offset: 164, 0
+  index: -1
+Dress Broken2
+  rotate: true
+  xy: 1678, 4264
+  size: 831, 836
+  orig: 1051, 852
+  offset: 164, 0
+  index: -1
+Ear Left2
+  rotate: true
+  xy: 6078, 7657
+  size: 104, 157
+  orig: 104, 159
+  offset: 0, 2
+  index: -1
+Ear Right
+  rotate: true
+  xy: 8007, 7643
+  size: 118, 139
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+Eye Break01 Left
+  rotate: true
+  xy: 1675, 7558
+  size: 133, 195
+  orig: 134, 198
+  offset: 0, 3
+  index: -1
+Eye Break01 Right
+  rotate: true
+  xy: 538, 7601
+  size: 122, 165
+  orig: 122, 166
+  offset: 0, 1
+  index: -1
+Eye Break02 Left
+  rotate: true
+  xy: 705, 7593
+  size: 122, 192
+  orig: 124, 193
+  offset: 0, 1
+  index: -1
+Eye Break02 Rigth
+  rotate: true
+  xy: 7645, 7647
+  size: 114, 164
+  orig: 115, 166
+  offset: 0, 1
+  index: -1
+Eye Break03 Left
+  rotate: true
+  xy: 6345, 7655
+  size: 106, 158
+  orig: 106, 159
+  offset: 0, 1
+  index: -1
+Eye Break03 Right
+  rotate: true
+  xy: 6505, 7655
+  size: 106, 191
+  orig: 106, 191
+  offset: 0, 0
+  index: -1
+Eye Brow Left
+  rotate: true
+  xy: 1381, 7704
+  size: 57, 139
+  orig: 57, 149
+  offset: 0, 0
+  index: -1
+Eye Brow Right
+  rotate: true
+  xy: 1188, 7709
+  size: 52, 129
+  orig: 57, 135
+  offset: 5, 0
+  index: -1
+Eye Close Left
+  rotate: true
+  xy: 3272, 7519
+  size: 155, 172
+  orig: 157, 176
+  offset: 1, 1
+  index: -1
+Eye Close Right
+  rotate: true
+  xy: 2201, 7547
+  size: 139, 165
+  orig: 141, 167
+  offset: 1, 1
+  index: -1
+Eye Idle Left
+  rotate: true
+  xy: 899, 7588
+  size: 126, 194
+  orig: 126, 194
+  offset: 0, 0
+  index: -1
+Eye Idle Right
+  rotate: true
+  xy: 7486, 7649
+  size: 112, 157
+  orig: 112, 157
+  offset: 0, 0
+  index: -1
+Eye Orgasm 01 Left
+  rotate: true
+  xy: 7811, 7645
+  size: 116, 194
+  orig: 116, 194
+  offset: 0, 0
+  index: -1
+Eye Orgasm 01 Right
+  rotate: true
+  xy: 7064, 7653
+  size: 108, 165
+  orig: 108, 166
+  offset: 0, 1
+  index: -1
+Eye Orgasm 02 Left
+  rotate: true
+  xy: 2776, 7685
+  size: 76, 179
+  orig: 77, 180
+  offset: 1, 0
+  index: -1
+Eye Orgasm 02 Right
+  rotate: true
+  xy: 2624, 7686
+  size: 75, 150
+  orig: 77, 152
+  offset: 1, 0
+  index: -1
+Face
+  rotate: false
+  xy: 819, 5266
+  size: 746, 615
+  orig: 746, 615
+  offset: 0, 0
+  index: -1
+Fish
+  rotate: false
+  xy: 3559, 6236
+  size: 853, 493
+  orig: 974, 698
+  offset: 68, 143
+  index: -1
+Fish Cheek Back2
+  rotate: true
+  xy: 5747, 7456
+  size: 201, 220
+  orig: 201, 220
+  offset: 0, 0
+  index: -1
+Fish Cheek Front2
+  rotate: true
+  xy: 3140, 7254
+  size: 263, 280
+  orig: 263, 280
+  offset: 0, 0
+  index: -1
+Fish Cloth
+  rotate: false
+  xy: 1567, 5221
+  size: 915, 626
+  orig: 922, 626
+  offset: 0, 0
+  index: -1
+Fish Cloth Broken1
+  rotate: false
+  xy: 2484, 5097
+  size: 915, 626
+  orig: 922, 626
+  offset: 0, 0
+  index: -1
+Fish Cloth Broken2
+  rotate: false
+  xy: 3401, 5090
+  size: 915, 626
+  orig: 922, 626
+  offset: 0, 0
+  index: -1
+Fish Eye
+  rotate: false
+  xy: 508, 7726
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Fish Fins Bottom
+  rotate: false
+  xy: 5682, 7659
+  size: 141, 102
+  orig: 147, 104
+  offset: 0, 2
+  index: -1
+Fish Fins Middle
+  rotate: true
+  xy: 7093, 7432
+  size: 216, 243
+  orig: 218, 243
+  offset: 2, 0
+  index: -1
+Fish Fins Top
+  rotate: false
+  xy: 2368, 7542
+  size: 212, 144
+  orig: 212, 144
+  offset: 0, 0
+  index: -1
+Fish Mouth
+  rotate: true
+  xy: 2746, 7537
+  size: 146, 199
+  orig: 153, 212
+  offset: 7, 13
+  index: -1
+Fish shadow
+  rotate: false
+  xy: 2855, 7262
+  size: 283, 259
+  orig: 295, 283
+  offset: 3, 10
+  index: -1
+HW Body
+  rotate: false
+  xy: 4975, 7481
+  size: 272, 180
+  orig: 274, 181
+  offset: 1, 0
+  index: -1
+HW F A
+  rotate: false
+  xy: 94, 7739
+  size: 161, 22
+  orig: 163, 36
+  offset: 0, 14
+  index: -1
+HW F B
+  rotate: false
+  xy: 6806, 7654
+  size: 256, 107
+  orig: 256, 107
+  offset: 0, 0
+  index: -1
+HW GR
+  rotate: false
+  xy: 3504, 7676
+  size: 295, 85
+  orig: 298, 87
+  offset: 2, 2
+  index: -1
+HW SPL
+  rotate: false
+  xy: 2325, 7688
+  size: 297, 73
+  orig: 297, 73
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 6548, 4630
+  size: 828, 1233
+  orig: 838, 1316
+  offset: 5, 82
+  index: -1
+Hair Back2
+  rotate: true
+  xy: 4910, 3679
+  size: 1137, 1580
+  orig: 1299, 1616
+  offset: 161, 36
+  index: -1
+Hair BackA
+  rotate: true
+  xy: 2, 5341
+  size: 602, 815
+  orig: 602, 815
+  offset: 0, 0
+  index: -1
+Hair Front
+  rotate: true
+  xy: 2295, 6351
+  size: 490, 681
+  orig: 490, 684
+  offset: 0, 0
+  index: -1
+Hair Front Left A
+  rotate: false
+  xy: 1872, 7551
+  size: 327, 136
+  orig: 328, 136
+  offset: 1, 0
+  index: -1
+Hair Front Left B
+  rotate: false
+  xy: 1095, 7579
+  size: 303, 123
+  orig: 303, 123
+  offset: 0, 0
+  index: -1
+Hair Front Left C
+  rotate: false
+  xy: 6243, 7106
+  size: 558, 339
+  orig: 558, 339
+  offset: 0, 0
+  index: -1
+Hair Front Left C Petite
+  rotate: false
+  xy: 5322, 7661
+  size: 188, 100
+  orig: 188, 100
+  offset: 0, 0
+  index: -1
+Hair Front Right A
+  rotate: false
+  xy: 3446, 7516
+  size: 314, 158
+  orig: 314, 158
+  offset: 0, 0
+  index: -1
+Hair Front Right A Petite
+  rotate: false
+  xy: 7231, 7650
+  size: 253, 111
+  orig: 253, 111
+  offset: 0, 0
+  index: -1
+Hair Front Right B
+  rotate: false
+  xy: 1400, 7570
+  size: 273, 125
+  orig: 273, 125
+  offset: 0, 0
+  index: -1
+Hair Side Left
+  rotate: false
+  xy: 7338, 7429
+  size: 382, 216
+  orig: 382, 216
+  offset: 0, 0
+  index: -1
+Hair Side Right Back A
+  rotate: true
+  xy: 5474, 7462
+  size: 195, 271
+  orig: 195, 271
+  offset: 0, 0
+  index: -1
+Hair Side Right Back B
+  rotate: false
+  xy: 1201, 7324
+  size: 267, 244
+  orig: 273, 285
+  offset: 6, 41
+  index: -1
+Hair Side Right Front
+  rotate: false
+  xy: 5825, 7659
+  size: 251, 102
+  orig: 251, 102
+  offset: 0, 0
+  index: -1
+Hair Tail Left Back
+  rotate: false
+  xy: 4361, 7207
+  size: 447, 278
+  orig: 447, 303
+  offset: 0, 0
+  index: -1
+Hair Tail Left Front
+  rotate: false
+  xy: 7728, 7031
+  size: 407, 386
+  orig: 407, 386
+  offset: 0, 0
+  index: -1
+Hair Tail Left Petite
+  rotate: false
+  xy: 4375, 7493
+  size: 366, 172
+  orig: 366, 172
+  offset: 0, 0
+  index: -1
+Hair Tail Right
+  rotate: false
+  xy: 4810, 7158
+  size: 505, 316
+  orig: 505, 316
+  offset: 0, 0
+  index: -1
+Hand Index Finger Right
+  rotate: true
+  xy: 2033, 7689
+  size: 72, 184
+  orig: 78, 185
+  offset: 0, 0
+  index: -1
+Hand Left
+  rotate: true
+  xy: 590, 6443
+  size: 508, 516
+  orig: 508, 527
+  offset: 0, 10
+  index: -1
+Hand Right
+  rotate: true
+  xy: 754, 7345
+  size: 232, 445
+  orig: 232, 454
+  offset: 0, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 7722, 7419
+  size: 431, 222
+  orig: 432, 222
+  offset: 1, 0
+  index: -1
+Leg Left Finger2
+  rotate: false
+  xy: 4109, 7671
+  size: 184, 90
+  orig: 184, 104
+  offset: 0, 14
+  index: -1
+Leg Left Finger3
+  rotate: false
+  xy: 4740, 7667
+  size: 180, 94
+  orig: 180, 94
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 5316, 1270
+  size: 2057, 1090
+  orig: 2057, 1634
+  offset: 0, 0
+  index: -1
+Leg Right Finger
+  rotate: false
+  xy: 5064, 7663
+  size: 256, 98
+  orig: 256, 98
+  offset: 0, 0
+  index: -1
+Mouth Break01
+  rotate: true
+  xy: 350, 7728
+  size: 33, 66
+  orig: 36, 67
+  offset: 1, 0
+  index: -1
+Mouth Break02
+  rotate: true
+  xy: 418, 7727
+  size: 34, 88
+  orig: 42, 89
+  offset: 4, 1
+  index: -1
+Mouth Break03
+  rotate: true
+  xy: 1744, 7694
+  size: 67, 96
+  orig: 71, 96
+  offset: 3, 0
+  index: -1
+Mouth Orgasm01
+  rotate: true
+  xy: 4922, 7665
+  size: 96, 140
+  orig: 96, 142
+  offset: 0, 1
+  index: -1
+Mouth Orgasm02
+  rotate: false
+  xy: 3801, 7676
+  size: 88, 85
+  orig: 99, 90
+  offset: 7, 5
+  index: -1
+Mouth SP
+  rotate: true
+  xy: 3068, 7680
+  size: 81, 97
+  orig: 83, 97
+  offset: 2, 0
+  index: -1
+Mouth SP Top
+  rotate: false
+  xy: 2219, 7689
+  size: 104, 72
+  orig: 108, 72
+  offset: 3, 0
+  index: -1
+Mouth00
+  rotate: true
+  xy: 1107, 7714
+  size: 47, 79
+  orig: 47, 80
+  offset: 0, 1
+  index: -1
+Nose
+  rotate: false
+  xy: 705, 7723
+  size: 51, 38
+  orig: 68, 43
+  offset: 3, 3
+  index: -1
+Panty Back
+  rotate: false
+  xy: 2, 7370
+  size: 459, 230
+  orig: 459, 230
+  offset: 0, 0
+  index: -1
+Panty Front
+  rotate: true
+  xy: 2169, 6868
+  size: 409, 551
+  orig: 631, 564
+  offset: 222, 7
+  index: -1
+Panty Front Broken1
+  rotate: true
+  xy: 2722, 6843
+  size: 409, 551
+  orig: 631, 564
+  offset: 222, 7
+  index: -1
+Panty Front Broken2
+  rotate: true
+  xy: 3702, 6812
+  size: 409, 551
+  orig: 631, 564
+  offset: 222, 7
+  index: -1
+Panty Metal Gun
+  rotate: true
+  xy: 2937, 5725
+  size: 509, 1050
+  orig: 599, 1055
+  offset: 90, 5
+  index: -1
+Panty Metal Gun Back
+  rotate: false
+  xy: 1470, 7311
+  size: 398, 245
+  orig: 398, 245
+  offset: 0, 0
+  index: -1
+Panty Metal Gun Front Broken1
+  rotate: true
+  xy: 3989, 5718
+  size: 509, 1050
+  orig: 599, 1055
+  offset: 90, 5
+  index: -1
+Panty Metal Gun Front Broken2
+  rotate: true
+  xy: 5772, 5603
+  size: 509, 1050
+  orig: 599, 1055
+  offset: 90, 5
+  index: -1
+Penis
+  rotate: false
+  xy: 6717, 7447
+  size: 374, 204
+  orig: 374, 204
+  offset: 0, 0
+  index: -1
+Penis Red
+  rotate: false
+  xy: 1842, 7693
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Ribbon Head Left
+  rotate: false
+  xy: 3931, 7508
+  size: 257, 161
+  orig: 257, 161
+  offset: 0, 0
+  index: -1
+Ribbon Head Right
+  rotate: false
+  xy: 3762, 7513
+  size: 167, 159
+  orig: 170, 159
+  offset: 3, 0
+  index: -1
+Rope A
+  rotate: false
+  xy: 758, 7721
+  size: 84, 40
+  orig: 84, 40
+  offset: 0, 0
+  index: -1
+Rope B
+  rotate: false
+  xy: 1915, 7692
+  size: 116, 69
+  orig: 116, 69
+  offset: 0, 0
+  index: -1
+Rope C
+  rotate: true
+  xy: 2957, 7683
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+Rope D
+  rotate: true
+  xy: 1522, 7700
+  size: 61, 138
+  orig: 61, 138
+  offset: 0, 0
+  index: -1
+Rope E
+  rotate: false
+  xy: 3891, 7674
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+Rope F
+  rotate: false
+  xy: 891, 7717
+  size: 147, 44
+  orig: 152, 57
+  offset: 5, 0
+  index: -1
+Rope G
+  rotate: false
+  xy: 5969, 7454
+  size: 294, 201
+  orig: 294, 201
+  offset: 0, 0
+  index: -1
+SPH A
+  rotate: true
+  xy: 3167, 7677
+  size: 84, 87
+  orig: 85, 87
+  offset: 1, 0
+  index: -1
+SPH B
+  rotate: false
+  xy: 4020, 7674
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+SPH C
+  rotate: true
+  xy: 6237, 7657
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+SPH D
+  rotate: false
+  xy: 6698, 7655
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+SPH E
+  rotate: true
+  xy: 2, 7618
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+SPH F
+  rotate: true
+  xy: 126, 7614
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+Saliva A Break2
+  rotate: true
+  xy: 2, 7740
+  size: 21, 90
+  orig: 21, 90
+  offset: 0, 0
+  index: -1
+Saliva B Break2
+  rotate: true
+  xy: 5512, 7660
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+Saliva C Break2
+  rotate: true
+  xy: 4476, 7668
+  size: 93, 262
+  orig: 93, 262
+  offset: 0, 0
+  index: -1
+Shirt Collar
+  rotate: true
+  xy: 2, 6967
+  size: 390, 574
+  orig: 428, 574
+  offset: 38, 0
+  index: -1
+Shirt Collar Broken1
+  rotate: true
+  xy: 578, 6953
+  size: 390, 574
+  orig: 428, 574
+  offset: 38, 0
+  index: -1
+Shirt Collar Broken2
+  rotate: true
+  xy: 1154, 6919
+  size: 390, 574
+  orig: 428, 574
+  offset: 38, 0
+  index: -1
+Shoe Left
+  rotate: false
+  xy: 5301, 6704
+  size: 685, 432
+  orig: 735, 432
+  offset: 46, 0
+  index: -1
+Shoe Left Broken1
+  rotate: false
+  xy: 5988, 6672
+  size: 685, 432
+  orig: 735, 432
+  offset: 46, 0
+  index: -1
+Shoe Left Broken2
+  rotate: false
+  xy: 6675, 6612
+  size: 685, 432
+  orig: 735, 432
+  offset: 46, 0
+  index: -1
+Shoe Right
+  rotate: false
+  xy: 7362, 6553
+  size: 586, 476
+  orig: 601, 477
+  offset: 6, 0
+  index: -1
+Shoe Right Back
+  rotate: false
+  xy: 4295, 7671
+  size: 179, 90
+  orig: 180, 91
+  offset: 1, 0
+  index: -1
+Shoe Right Broken1
+  rotate: false
+  xy: 2, 6475
+  size: 586, 476
+  orig: 601, 477
+  offset: 6, 0
+  index: -1
+Shoe Right Broken2
+  rotate: false
+  xy: 1108, 6441
+  size: 586, 476
+  orig: 601, 477
+  offset: 6, 0
+  index: -1
+Skirt Left
+  rotate: false
+  xy: 2516, 3990
+  size: 1195, 1098
+  orig: 1195, 1098
+  offset: 0, 0
+  index: -1
+Skirt Left Back
+  rotate: true
+  xy: 7316, 7046
+  size: 371, 410
+  orig: 371, 410
+  offset: 0, 0
+  index: -1
+Skirt Left Broken1
+  rotate: false
+  xy: 3713, 3901
+  size: 1195, 1098
+  orig: 1195, 1098
+  offset: 0, 0
+  index: -1
+Skirt Middle
+  rotate: true
+  xy: 5604, 4818
+  size: 783, 942
+  orig: 783, 942
+  offset: 0, 0
+  index: -1
+Skirt Right
+  rotate: false
+  xy: 6492, 3449
+  size: 1634, 1179
+  orig: 1634, 1179
+  offset: 0, 0
+  index: -1
+Skirt Right Broken1
+  rotate: false
+  xy: 2, 3207
+  size: 1634, 1179
+  orig: 1634, 1179
+  offset: 0, 0
+  index: -1
+Skirt Right Broken2
+  rotate: false
+  xy: 2, 2026
+  size: 1634, 1179
+  orig: 1634, 1179
+  offset: 0, 0
+  index: -1
+Skirt Right Broken3
+  rotate: false
+  xy: 3680, 1411
+  size: 1634, 1179
+  orig: 1634, 1179
+  offset: 0, 0
+  index: -1
+Sleeve Left
+  rotate: false
+  xy: 5960, 6114
+  size: 1079, 496
+  orig: 1093, 510
+  offset: 11, 12
+  index: -1
+Sleeve Left Back
+  rotate: false
+  xy: 3810, 7223
+  size: 549, 273
+  orig: 549, 273
+  offset: 0, 0
+  index: -1
+Sleeve Left Broken1
+  rotate: false
+  xy: 7041, 6055
+  size: 1079, 496
+  orig: 1093, 510
+  offset: 11, 12
+  index: -1
+Sleeve Left Broken2
+  rotate: false
+  xy: 2, 5945
+  size: 1079, 496
+  orig: 1093, 510
+  offset: 11, 12
+  index: -1
+Sleeve Left Broken3
+  rotate: false
+  xy: 1083, 5883
+  size: 1079, 496
+  orig: 1093, 510
+  offset: 11, 12
+  index: -1
+Sleeve Right
+  rotate: false
+  xy: 2978, 6322
+  size: 579, 495
+  orig: 622, 495
+  offset: 0, 0
+  index: -1
+Sleeve Rigth Back
+  rotate: false
+  xy: 4743, 7487
+  size: 230, 176
+  orig: 289, 219
+  offset: 0, 0
+  index: -1
+Sleeve Rigth Front
+  rotate: false
+  xy: 463, 7359
+  size: 289, 232
+  orig: 289, 238
+  offset: 0, 6
+  index: -1
+Stocking Left2
+  rotate: false
+  xy: 1561, 143
+  size: 2641, 1266
+  orig: 2641, 1286
+  offset: 0, 0
+  index: -1
+Stocking Left2 Broken1
+  rotate: false
+  xy: 4204, 2
+  size: 2641, 1266
+  orig: 2641, 1286
+  offset: 0, 0
+  index: -1
+Stocking Right
+  rotate: false
+  xy: 1638, 2903
+  size: 2040, 1085
+  orig: 2040, 1196
+  offset: 0, 4
+  index: -1
+Stocking Right Brokren1
+  rotate: false
+  xy: 3680, 2592
+  size: 2040, 1085
+  orig: 2040, 1196
+  offset: 0, 4
+  index: -1
+Stocking Right Brokren2
+  rotate: false
+  xy: 5722, 2362
+  size: 2040, 1085
+  orig: 2040, 1196
+  offset: 0, 4
+  index: -1
+Stocking Right Brokren3
+  rotate: false
+  xy: 1638, 1816
+  size: 2040, 1085
+  orig: 2040, 1196
+  offset: 0, 4
+  index: -1
+Tear1 Left
+  rotate: true
+  xy: 257, 7737
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+Tear1 Right
+  rotate: true
+  xy: 301, 7733
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+Tear2 Left
+  rotate: true
+  xy: 1319, 7706
+  size: 55, 60
+  orig: 55, 62
+  offset: 0, 1
+  index: -1
+Tear2 Right
+  rotate: true
+  xy: 844, 7719
+  size: 42, 45
+  orig: 42, 46
+  offset: 0, 1
+  index: -1
+Tongue Break03
+  rotate: true
+  xy: 1662, 7697
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+Underwear
+  rotate: true
+  xy: 4414, 6229
+  size: 500, 771
+  orig: 709, 807
+  offset: 209, 0
+  index: -1
+Underwear Broken1
+  rotate: true
+  xy: 5187, 6202
+  size: 500, 771
+  orig: 709, 807
+  offset: 209, 0
+  index: -1
+Underwear Broken2
+  rotate: true
+  xy: 2164, 5849
+  size: 500, 771
+  orig: 709, 807
+  offset: 209, 0
+  index: -1
+lick
+  rotate: false
+  xy: 4190, 7498
+  size: 183, 171
+  orig: 183, 171
+  offset: 0, 0
+  index: -1
+shadow dress bottom
+  rotate: false
+  xy: 4318, 5001
+  size: 1284, 669
+  orig: 1393, 732
+  offset: 28, 19
+  index: -1
+shadow dress top
+  rotate: false
+  xy: 6824, 5460
+  size: 852, 593
+  orig: 860, 629
+  offset: 2, 36
+  index: -1
+shadow hand Left
+  rotate: false
+  xy: 6803, 7084
+  size: 511, 346
+  orig: 517, 346
+  offset: 0, 0
+  index: -1
+shadow sleeve
+  rotate: false
+  xy: 5317, 7138
+  size: 924, 314
+  orig: 924, 328
+  offset: 0, 5
+  index: -1
+
+spine2.png
+size: 8192,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg Left 2
+  rotate: true
+  xy: 2, 1270
+  size: 2656, 1332
+  orig: 2656, 1365
+  offset: 0, 0
+  index: -1
+Senbu Sha
+  rotate: true
+  xy: 2604, 1306
+  size: 2620, 1748
+  orig: 2839, 1830
+  offset: 143, 81
+  index: -1
+Stocking Left2 Broken2
+  rotate: false
+  xy: 2, 2
+  size: 2641, 1266
+  orig: 2641, 1286
+  offset: 0, 0
+  index: -1
+Stocking Left2 Broken3
+  rotate: true
+  xy: 1336, 1285
+  size: 2641, 1266
+  orig: 2641, 1286
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+1003_05_Pic.png
+size: 4992,1276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c3_1
+  rotate: true
+  xy: 4396, 598
+  size: 675, 590
+  orig: 677, 592
+  offset: 1, 1
+  index: -1
+c3_bang
+  rotate: true
+  xy: 3138, 3
+  size: 873, 785
+  orig: 875, 787
+  offset: 1, 1
+  index: -1
+c3_bg
+  rotate: false
+  xy: 2, 25
+  size: 1721, 1248
+  orig: 1723, 1250
+  offset: 1, 1
+  index: -1
+c3_body
+  rotate: false
+  xy: 1725, 62
+  size: 1667, 1212
+  orig: 1722, 1249
+  offset: 25, 37
+  index: -1
+c3_leg
+  rotate: false
+  xy: 3925, 320
+  size: 469, 953
+  orig: 471, 955
+  offset: 1, 1
+  index: -1
+c3_shui
+  rotate: false
+  xy: 4396, 129
+  size: 507, 467
+  orig: 509, 469
+  offset: 1, 1
+  index: -1

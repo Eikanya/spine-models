@@ -1,0 +1,34 @@
+
+校長.png
+size: 3778,2709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1
+  rotate: false
+  xy: 3027, 1926
+  size: 749, 781
+  orig: 750, 781
+  offset: 1, 0
+  index: -1
+2/2
+  rotate: false
+  xy: 3027, 1143
+  size: 749, 781
+  orig: 750, 781
+  offset: 1, 0
+  index: -1
+3/3
+  rotate: false
+  xy: 3027, 360
+  size: 749, 781
+  orig: 750, 781
+  offset: 1, 0
+  index: -1
+MON_body
+  rotate: true
+  xy: 2, 2
+  size: 2705, 3023
+  orig: 2705, 3023
+  offset: 0, 0
+  index: -1

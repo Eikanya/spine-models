@@ -1,0 +1,146 @@
+
+3_RET.png
+size: 3816,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RET/RET_body1
+  rotate: false
+  xy: 2, 616
+  size: 985, 1154
+  orig: 985, 1168
+  offset: 0, 14
+  index: -1
+RET/RET_body2
+  rotate: false
+  xy: 2, 38
+  size: 981, 576
+  orig: 981, 576
+  offset: 0, 0
+  index: -1
+RET/RET_eye
+  rotate: true
+  xy: 3359, 22
+  size: 170, 201
+  orig: 171, 201
+  offset: 1, 0
+  index: -1
+RET/RET_hair1
+  rotate: false
+  xy: 2890, 231
+  size: 341, 455
+  orig: 352, 455
+  offset: 11, 0
+  index: -1
+RET/RET_hair2
+  rotate: true
+  xy: 2890, 1256
+  size: 514, 893
+  orig: 514, 896
+  offset: 0, 3
+  index: -1
+RET/RET_hair3
+  rotate: false
+  xy: 989, 660
+  size: 806, 1110
+  orig: 806, 1110
+  offset: 0, 0
+  index: -1
+RET/RET_head
+  rotate: false
+  xy: 1903, 12
+  size: 492, 654
+  orig: 492, 654
+  offset: 0, 0
+  index: -1
+RET/Thunder_1
+  rotate: true
+  xy: 2397, 51
+  size: 615, 491
+  orig: 620, 496
+  offset: 2, 2
+  index: -1
+RET/Thunder_2
+  rotate: false
+  xy: 3251, 558
+  size: 469, 326
+  orig: 475, 331
+  offset: 3, 3
+  index: -1
+RET/Thunder_3
+  rotate: true
+  xy: 2833, 688
+  size: 566, 416
+  orig: 571, 421
+  offset: 2, 2
+  index: -1
+RET/Thunder_4
+  rotate: false
+  xy: 3359, 194
+  size: 453, 362
+  orig: 457, 368
+  offset: 2, 3
+  index: -1
+RET/Thunder_5
+  rotate: true
+  xy: 3251, 886
+  size: 368, 563
+  orig: 373, 567
+  offset: 2, 2
+  index: -1
+RET/cheek
+  rotate: false
+  xy: 3056, 24
+  size: 301, 205
+  orig: 316, 227
+  offset: 1, 12
+  index: -1
+RET/namida
+  rotate: true
+  xy: 3562, 49
+  size: 143, 235
+  orig: 143, 235
+  offset: 0, 0
+  index: -1
+RET_F_arm1
+  rotate: false
+  xy: 2428, 718
+  size: 403, 1052
+  orig: 403, 1053
+  offset: 0, 0
+  index: -1
+RET_F_arm2
+  rotate: true
+  xy: 1254, 2
+  size: 656, 647
+  orig: 656, 647
+  offset: 0, 0
+  index: -1
+RET_F_arm3
+  rotate: false
+  xy: 985, 43
+  size: 267, 571
+  orig: 268, 571
+  offset: 0, 0
+  index: -1
+RET_ear
+  rotate: false
+  xy: 2890, 8
+  size: 164, 221
+  orig: 164, 222
+  offset: 0, 1
+  index: -1
+RET_mouth
+  rotate: false
+  xy: 2833, 1583
+  size: 50, 187
+  orig: 50, 187
+  offset: 0, 0
+  index: -1
+RET_waer
+  rotate: true
+  xy: 1797, 668
+  size: 1102, 629
+  orig: 1102, 629
+  offset: 0, 0
+  index: -1

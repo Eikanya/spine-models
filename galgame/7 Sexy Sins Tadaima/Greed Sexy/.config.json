@@ -1,0 +1,11 @@
+{
+  "textures": [
+    "Greed Sexy.png"
+  ],
+  "options": {
+    "edge_padding": false,
+    "spine_sdk": "3.8"
+  },
+  "skeleton": "Greed Sexy.json",
+  "atlas": "Greed Sexy.atlas"
+}

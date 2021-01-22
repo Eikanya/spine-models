@@ -1,0 +1,32 @@
+{
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "edge_padding": false
+  },
+  "skeleton": "CG1_SERI.json",
+  "atlases": [
+    {
+      "atlas": "CG1_SERI.atlas",
+      "tex_names": [
+        "CG1_SERI",
+        "CG1_SERI2",
+        "CG1_SERI3",
+        "CG1_SERI4",
+        "CG1_SERI5",
+        "CG1_SERI6"
+      ],
+      "textures": [
+        "CG1_SERI.png",
+        "CG1_SERI2.png",
+        "CG1_SERI3.png",
+        "CG1_SERI4.png",
+        "CG1_SERI5.png",
+        "CG1_SERI6.png"
+      ]
+    }
+  ]
+}

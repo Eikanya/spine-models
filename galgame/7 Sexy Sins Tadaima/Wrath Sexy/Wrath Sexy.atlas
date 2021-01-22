@@ -1,0 +1,1349 @@
+
+Wrath Sexy.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left Back
+  rotate: true
+  xy: 3763, 6706
+  size: 455, 637
+  orig: 522, 637
+  offset: 0, 0
+  index: -1
+Arm Right Back
+  rotate: true
+  xy: 5775, 7439
+  size: 270, 500
+  orig: 299, 501
+  offset: 29, 0
+  index: -1
+Arm Right Front
+  rotate: false
+  xy: 3682, 7517
+  size: 487, 229
+  orig: 487, 230
+  offset: 0, 1
+  index: -1
+Ase1
+  rotate: true
+  xy: 247, 7955
+  size: 17, 42
+  orig: 17, 55
+  offset: 0, 13
+  index: -1
+Blush 2
+  rotate: false
+  xy: 6700, 7402
+  size: 576, 293
+  orig: 611, 318
+  offset: 20, 14
+  index: -1
+Bonquet
+  rotate: false
+  xy: 5012, 5994
+  size: 646, 632
+  orig: 647, 632
+  offset: 1, 0
+  index: -1
+Bonquet Rope A
+  rotate: true
+  xy: 4536, 5258
+  size: 734, 956
+  orig: 734, 957
+  offset: 0, 0
+  index: -1
+Bonquet Rope A Broken1
+  rotate: true
+  xy: 5494, 5071
+  size: 734, 956
+  orig: 734, 957
+  offset: 0, 0
+  index: -1
+Bonquet Rope B
+  rotate: false
+  xy: 4402, 6671
+  size: 676, 466
+  orig: 676, 466
+  offset: 0, 0
+  index: -1
+Bonquet Rope B Broken1
+  rotate: false
+  xy: 5080, 6628
+  size: 676, 466
+  orig: 676, 466
+  offset: 0, 0
+  index: -1
+Bra
+  rotate: false
+  xy: 4553, 7139
+  size: 671, 341
+  orig: 677, 344
+  offset: 5, 0
+  index: -1
+Bra Broken 1
+  rotate: false
+  xy: 5226, 7096
+  size: 671, 341
+  orig: 677, 344
+  offset: 5, 0
+  index: -1
+Bra Broken 2
+  rotate: false
+  xy: 5899, 7071
+  size: 671, 341
+  orig: 677, 344
+  offset: 5, 0
+  index: -1
+Breast Left
+  rotate: true
+  xy: 2101, 7224
+  size: 336, 397
+  orig: 336, 397
+  offset: 0, 0
+  index: -1
+Breast Left Censor
+  rotate: true
+  xy: 2500, 7210
+  size: 336, 397
+  orig: 336, 397
+  offset: 0, 0
+  index: -1
+Breast Right
+  rotate: true
+  xy: 1245, 7250
+  size: 331, 426
+  orig: 332, 427
+  offset: 1, 0
+  index: -1
+Breast Right Censor
+  rotate: true
+  xy: 1673, 7244
+  size: 331, 426
+  orig: 332, 427
+  offset: 1, 0
+  index: -1
+Brow Right
+  rotate: false
+  xy: 4519, 7896
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+Brow left
+  rotate: false
+  xy: 588, 7939
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+Chain
+  rotate: false
+  xy: 2756, 6729
+  size: 1005, 445
+  orig: 1005, 517
+  offset: 0, 72
+  index: -1
+Collar
+  rotate: false
+  xy: 2, 7655
+  size: 240, 177
+  orig: 240, 178
+  offset: 0, 1
+  index: -1
+Crown
+  rotate: false
+  xy: 2116, 7565
+  size: 223, 213
+  orig: 227, 230
+  offset: 3, 1
+  index: -1
+Crown Broken1
+  rotate: true
+  xy: 244, 7645
+  size: 186, 201
+  orig: 227, 230
+  offset: 40, 1
+  index: -1
+Dress Skirt Back
+  rotate: false
+  xy: 2749, 4403
+  size: 2277, 853
+  orig: 2277, 854
+  offset: 0, 0
+  index: -1
+Dress Skirt Front
+  rotate: false
+  xy: 5028, 3996
+  size: 1938, 1045
+  orig: 1960, 1101
+  offset: 1, 34
+  index: -1
+Dress Skirt Front Broken1
+  rotate: false
+  xy: 2, 3580
+  size: 1938, 1045
+  orig: 1960, 1101
+  offset: 1, 34
+  index: -1
+Dress Skirt Front Broken2
+  rotate: false
+  xy: 1942, 3356
+  size: 1938, 1045
+  orig: 1960, 1101
+  offset: 1, 34
+  index: -1
+Dress Top
+  rotate: false
+  xy: 1624, 5494
+  size: 726, 675
+  orig: 832, 703
+  offset: 0, 0
+  index: -1
+Dress Top Broken1
+  rotate: false
+  xy: 2352, 5428
+  size: 726, 675
+  orig: 832, 703
+  offset: 0, 0
+  index: -1
+Dress Top Broken2
+  rotate: false
+  xy: 3080, 5428
+  size: 726, 675
+  orig: 832, 703
+  offset: 0, 0
+  index: -1
+Dress Top Broken3
+  rotate: false
+  xy: 3808, 5393
+  size: 726, 675
+  orig: 832, 703
+  offset: 0, 0
+  index: -1
+Ear Left
+  rotate: false
+  xy: 780, 7814
+  size: 139, 118
+  orig: 140, 119
+  offset: 1, 1
+  index: -1
+Ear Right
+  rotate: false
+  xy: 2, 7840
+  size: 148, 116
+  orig: 149, 116
+  offset: 1, 0
+  index: -1
+Eye Back Right Orgasm2
+  rotate: false
+  xy: 4030, 7906
+  size: 82, 66
+  orig: 86, 68
+  offset: 2, 1
+  index: -1
+Eye Ball Left Orgasm2
+  rotate: false
+  xy: 1942, 7924
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+Eye Ball Right Orgasm2
+  rotate: false
+  xy: 2489, 7920
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Eye Bottom Left Orgasm2
+  rotate: false
+  xy: 125, 7958
+  size: 84, 14
+  orig: 88, 16
+  offset: 2, 1
+  index: -1
+Eye Bottom Right Orgasm2
+  rotate: false
+  xy: 1171, 7932
+  size: 61, 40
+  orig: 64, 43
+  offset: 1, 2
+  index: -1
+Eye Break2 Left
+  rotate: false
+  xy: 3457, 7909
+  size: 134, 63
+  orig: 140, 67
+  offset: 5, 1
+  index: -1
+Eye Break2 Right
+  rotate: false
+  xy: 7956, 7857
+  size: 120, 115
+  orig: 136, 121
+  offset: 6, 2
+  index: -1
+Eye Close Left
+  rotate: false
+  xy: 2543, 7919
+  size: 146, 53
+  orig: 158, 59
+  offset: 10, 3
+  index: -1
+Eye Close Right
+  rotate: false
+  xy: 7829, 7858
+  size: 125, 114
+  orig: 138, 121
+  offset: 6, 2
+  index: -1
+Eye Idle Left Back2
+  rotate: false
+  xy: 1051, 7933
+  size: 118, 39
+  orig: 124, 42
+  offset: 2, 2
+  index: -1
+Eye Idle Left Ball
+  rotate: false
+  xy: 1364, 7931
+  size: 69, 41
+  orig: 71, 43
+  offset: 1, 1
+  index: -1
+Eye Idle Left Bottom
+  rotate: false
+  xy: 2, 7959
+  size: 102, 13
+  orig: 105, 15
+  offset: 1, 1
+  index: -1
+Eye Idle Left Top
+  rotate: false
+  xy: 2003, 7922
+  size: 147, 50
+  orig: 151, 53
+  offset: 3, 2
+  index: -1
+Eye Idle Right Back2
+  rotate: false
+  xy: 4429, 7897
+  size: 88, 75
+  orig: 91, 77
+  offset: 1, 1
+  index: -1
+Eye Idle Right Ball
+  rotate: true
+  xy: 2691, 7917
+  size: 55, 57
+  orig: 57, 60
+  offset: 1, 2
+  index: -1
+Eye Idle Right Bottom
+  rotate: false
+  xy: 1873, 7925
+  size: 67, 47
+  orig: 70, 51
+  offset: 1, 2
+  index: -1
+Eye Idle Right Top
+  rotate: false
+  xy: 4757, 7894
+  size: 112, 78
+  orig: 116, 80
+  offset: 2, 1
+  index: -1
+Eye Left Orgasm2
+  rotate: false
+  xy: 2257, 7921
+  size: 135, 51
+  orig: 141, 70
+  offset: 4, 15
+  index: -1
+Eye Top Left Orgasm2
+  rotate: false
+  xy: 1604, 7926
+  size: 135, 46
+  orig: 138, 48
+  offset: 1, 1
+  index: -1
+Eye Top Right Orgasm2
+  rotate: false
+  xy: 4317, 7899
+  size: 110, 73
+  orig: 116, 76
+  offset: 2, 2
+  index: -1
+Glove Hand Left A
+  rotate: false
+  xy: 1612, 7583
+  size: 250, 207
+  orig: 250, 208
+  offset: 0, 0
+  index: -1
+Glove Hand Left A Broken1
+  rotate: false
+  xy: 1864, 7577
+  size: 250, 207
+  orig: 250, 208
+  offset: 0, 0
+  index: -1
+Glove Hand Left B
+  rotate: false
+  xy: 274, 7833
+  size: 251, 116
+  orig: 251, 159
+  offset: 0, 41
+  index: -1
+Glove Hand Left B Broken1
+  rotate: false
+  xy: 527, 7820
+  size: 251, 116
+  orig: 251, 159
+  offset: 0, 41
+  index: -1
+Glove Hand Left Back
+  rotate: false
+  xy: 3883, 7754
+  size: 230, 150
+  orig: 233, 152
+  offset: 1, 1
+  index: -1
+Glove Hand Left Little Finger
+  rotate: false
+  xy: 1741, 7926
+  size: 130, 46
+  orig: 136, 58
+  offset: 0, 6
+  index: -1
+Glove Hand Right A
+  rotate: false
+  xy: 7098, 7697
+  size: 281, 171
+  orig: 281, 171
+  offset: 0, 0
+  index: -1
+Glove Hand Right A Broken1
+  rotate: false
+  xy: 7381, 7694
+  size: 281, 171
+  orig: 281, 171
+  offset: 0, 0
+  index: -1
+Glove Hand Right B
+  rotate: false
+  xy: 1533, 7794
+  size: 204, 130
+  orig: 204, 132
+  offset: 0, 1
+  index: -1
+Glove Hand Right B Broken1
+  rotate: false
+  xy: 1739, 7792
+  size: 204, 130
+  orig: 204, 132
+  offset: 0, 1
+  index: -1
+Glove Hand Right Back
+  rotate: false
+  xy: 4913, 7726
+  size: 292, 158
+  orig: 295, 162
+  offset: 1, 1
+  index: -1
+Glove Left
+  rotate: true
+  xy: 6572, 7003
+  size: 397, 494
+  orig: 398, 494
+  offset: 0, 0
+  index: -1
+Glove Left Broken1
+  rotate: true
+  xy: 7068, 6992
+  size: 397, 494
+  orig: 398, 494
+  offset: 0, 0
+  index: -1
+Glove Right Back
+  rotate: true
+  xy: 5159, 7482
+  size: 242, 286
+  orig: 627, 286
+  offset: 385, 0
+  index: -1
+Glove Right Front
+  rotate: false
+  xy: 4171, 7504
+  size: 492, 235
+  orig: 493, 251
+  offset: 0, 14
+  index: -1
+Glove Right Front Broken1
+  rotate: false
+  xy: 4665, 7489
+  size: 492, 235
+  orig: 493, 251
+  offset: 0, 14
+  index: -1
+HM
+  rotate: false
+  xy: 5988, 7878
+  size: 111, 94
+  orig: 114, 110
+  offset: 2, 14
+  index: -1
+HW A
+  rotate: true
+  xy: 2924, 7913
+  size: 59, 390
+  orig: 76, 426
+  offset: 0, 3
+  index: -1
+HW B
+  rotate: true
+  xy: 4871, 7894
+  size: 78, 130
+  orig: 182, 365
+  offset: 1, 170
+  index: -1
+HW Body
+  rotate: false
+  xy: 7278, 7391
+  size: 424, 293
+  orig: 429, 340
+  offset: 1, 1
+  index: -1
+HW C
+  rotate: true
+  xy: 291, 7951
+  size: 21, 210
+  orig: 32, 229
+  offset: 10, 0
+  index: -1
+HW D
+  rotate: true
+  xy: 2394, 7921
+  size: 51, 93
+  orig: 64, 106
+  offset: 13, 0
+  index: -1
+HW Ground
+  rotate: false
+  xy: 5207, 7726
+  size: 351, 156
+  orig: 356, 161
+  offset: 2, 4
+  index: -1
+Hair Front Left
+  rotate: true
+  xy: 2822, 7548
+  size: 211, 592
+  orig: 213, 611
+  offset: 2, 19
+  index: -1
+Hair Front Left Petite
+  rotate: true
+  xy: 6508, 7874
+  size: 98, 351
+  orig: 98, 352
+  offset: 0, 1
+  index: -1
+Hair Front Left Petite A
+  rotate: true
+  xy: 1945, 7786
+  size: 134, 172
+  orig: 134, 172
+  offset: 0, 0
+  index: -1
+Hair Front Left Petite B
+  rotate: true
+  xy: 921, 7811
+  size: 120, 198
+  orig: 121, 198
+  offset: 1, 0
+  index: -1
+Hair Front Middle
+  rotate: true
+  xy: 3275, 7761
+  size: 146, 439
+  orig: 146, 439
+  offset: 0, 0
+  index: -1
+Hair Front Middle Petite
+  rotate: true
+  xy: 3593, 7909
+  size: 63, 321
+  orig: 63, 324
+  offset: 0, 0
+  index: -1
+Hair Left
+  rotate: false
+  xy: 6277, 7414
+  size: 421, 292
+  orig: 421, 292
+  offset: 0, 0
+  index: -1
+Hair Left Back
+  rotate: false
+  xy: 1092, 7598
+  size: 295, 198
+  orig: 297, 198
+  offset: 0, 0
+  index: -1
+Hair Middle Petite
+  rotate: false
+  xy: 3716, 7758
+  size: 165, 149
+  orig: 166, 149
+  offset: 1, 0
+  index: -1
+Hair Right Petite
+  rotate: true
+  xy: 5871, 7715
+  size: 161, 312
+  orig: 162, 313
+  offset: 0, 1
+  index: -1
+Hair Side Right
+  rotate: true
+  xy: 2899, 7207
+  size: 339, 455
+  orig: 413, 455
+  offset: 74, 0
+  index: -1
+Hair Side Right Back
+  rotate: false
+  xy: 1389, 7589
+  size: 221, 203
+  orig: 221, 205
+  offset: 0, 1
+  index: -1
+Hand Left Back
+  rotate: false
+  xy: 2119, 7780
+  size: 243, 139
+  orig: 244, 139
+  offset: 1, 0
+  index: -1
+Hand Left Front
+  rotate: false
+  xy: 7336, 7870
+  size: 233, 102
+  orig: 233, 102
+  offset: 0, 0
+  index: -1
+Hand Right Back
+  rotate: false
+  xy: 2364, 7778
+  size: 276, 139
+  orig: 290, 141
+  offset: 1, 1
+  index: -1
+Hand Right Front A
+  rotate: false
+  xy: 6825, 7703
+  size: 271, 169
+  orig: 271, 169
+  offset: 0, 0
+  index: -1
+Hand Right Front B
+  rotate: false
+  xy: 1121, 7803
+  size: 199, 127
+  orig: 199, 127
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 7564, 6963
+  size: 422, 521
+  orig: 656, 650
+  offset: 234, 129
+  index: -1
+Head Covering Back Left
+  rotate: false
+  xy: 3882, 2699
+  size: 2295, 1295
+  orig: 2624, 1598
+  offset: 188, 230
+  index: -1
+Head Covering Back Left Broken1
+  rotate: false
+  xy: 3240, 1402
+  size: 2295, 1295
+  orig: 2624, 1598
+  offset: 188, 230
+  index: -1
+Head Covering Back Middle
+  rotate: true
+  xy: 2, 2223
+  size: 1355, 1626
+  orig: 1355, 1628
+  offset: 0, 0
+  index: -1
+Head Covering Top
+  rotate: false
+  xy: 525, 6842
+  size: 624, 446
+  orig: 634, 447
+  offset: 10, 1
+  index: -1
+Head Covering Top Broken1
+  rotate: false
+  xy: 2130, 6762
+  size: 624, 446
+  orig: 634, 447
+  offset: 10, 1
+  index: -1
+Head2
+  rotate: true
+  xy: 2, 6897
+  size: 422, 521
+  orig: 656, 650
+  offset: 234, 129
+  index: -1
+Hip Censor
+  rotate: true
+  xy: 2642, 7769
+  size: 145, 243
+  orig: 149, 263
+  offset: 3, 12
+  index: -1
+Horn
+  rotate: false
+  xy: 1151, 6800
+  size: 977, 422
+  orig: 979, 425
+  offset: 1, 2
+  index: -1
+Index Finger Left
+  rotate: false
+  xy: 6323, 7876
+  size: 183, 96
+  orig: 184, 96
+  offset: 1, 0
+  index: -1
+Leaf A
+  rotate: false
+  xy: 5631, 7883
+  size: 157, 89
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+Leaf B
+  rotate: true
+  xy: 3916, 7907
+  size: 65, 112
+  orig: 68, 113
+  offset: 1, 0
+  index: -1
+Leaf Back
+  rotate: true
+  xy: 6185, 7711
+  size: 163, 320
+  orig: 167, 329
+  offset: 2, 8
+  index: -1
+Leaf C
+  rotate: true
+  xy: 3316, 7911
+  size: 61, 139
+  orig: 61, 140
+  offset: 0, 0
+  index: -1
+Leaf D
+  rotate: false
+  xy: 1509, 7927
+  size: 93, 45
+  orig: 94, 45
+  offset: 1, 0
+  index: -1
+Leaf E
+  rotate: false
+  xy: 4603, 7896
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+Leaf F
+  rotate: true
+  xy: 4115, 7748
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+Leaf G
+  rotate: false
+  xy: 5790, 7880
+  size: 196, 92
+  orig: 198, 92
+  offset: 1, 0
+  index: -1
+Leaf H
+  rotate: true
+  xy: 4510, 7741
+  size: 153, 210
+  orig: 153, 212
+  offset: 0, 1
+  index: -1
+Leg Left
+  rotate: true
+  xy: 2, 6251
+  size: 589, 1145
+  orig: 589, 1145
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 2, 4732
+  size: 909, 779
+  orig: 910, 781
+  offset: 1, 2
+  index: -1
+Little Finger Left
+  rotate: false
+  xy: 1234, 7932
+  size: 128, 40
+  orig: 128, 41
+  offset: 0, 0
+  index: -1
+Man Body
+  rotate: false
+  xy: 1149, 6171
+  size: 1557, 589
+  orig: 1579, 601
+  offset: 20, 2
+  index: -1
+Mouth Break1
+  rotate: false
+  xy: 5003, 7887
+  size: 107, 85
+  orig: 109, 88
+  offset: 1, 2
+  index: -1
+Mouth Break3
+  rotate: false
+  xy: 6101, 7878
+  size: 122, 94
+  orig: 128, 96
+  offset: 2, 0
+  index: -1
+Mouth Idle
+  rotate: false
+  xy: 4114, 7906
+  size: 91, 66
+  orig: 93, 69
+  offset: 1, 2
+  index: -1
+Mouth Orgasm1
+  rotate: true
+  xy: 7571, 7867
+  size: 105, 119
+  orig: 107, 122
+  offset: 1, 2
+  index: -1
+Mouth Orgasm2
+  rotate: false
+  xy: 7692, 7866
+  size: 135, 106
+  orig: 139, 109
+  offset: 2, 1
+  index: -1
+Necklace
+  rotate: false
+  xy: 1322, 7798
+  size: 209, 127
+  orig: 211, 129
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: false
+  xy: 854, 7935
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+Panty
+  rotate: true
+  xy: 7280, 5761
+  size: 656, 809
+  orig: 656, 810
+  offset: 0, 1
+  index: -1
+Panty Broken 1
+  rotate: true
+  xy: 2, 5593
+  size: 656, 809
+  orig: 656, 810
+  offset: 0, 1
+  index: -1
+Panty Broken 2
+  rotate: true
+  xy: 813, 5513
+  size: 656, 809
+  orig: 656, 810
+  offset: 0, 1
+  index: -1
+Penis
+  rotate: true
+  xy: 5560, 7722
+  size: 156, 309
+  orig: 158, 310
+  offset: 1, 1
+  index: -1
+Penis water01
+  rotate: false
+  xy: 152, 7834
+  size: 120, 119
+  orig: 123, 135
+  offset: 1, 2
+  index: -1
+Pusssy ML Back
+  rotate: false
+  xy: 2887, 7764
+  size: 192, 147
+  orig: 198, 279
+  offset: 0, 0
+  index: -1
+Pusssy ML Back Mosaic2
+  rotate: false
+  xy: 3081, 7764
+  size: 192, 147
+  orig: 198, 279
+  offset: 0, 0
+  index: -1
+Pusssy ML Front
+  rotate: true
+  xy: 447, 7626
+  size: 192, 218
+  orig: 198, 279
+  offset: 0, 33
+  index: -1
+Pusssy ML Front Mosaic2
+  rotate: true
+  xy: 667, 7620
+  size: 192, 218
+  orig: 198, 279
+  offset: 0, 33
+  index: -1
+Pussy Mosaic2
+  rotate: true
+  xy: 2750, 7916
+  size: 56, 172
+  orig: 56, 172
+  offset: 0, 0
+  index: -1
+Ra Hand Right
+  rotate: true
+  xy: 804, 7290
+  size: 306, 439
+  orig: 316, 478
+  offset: 10, 38
+  index: -1
+Ra Little Finger Right
+  rotate: true
+  xy: 7162, 7872
+  size: 100, 172
+  orig: 101, 172
+  offset: 1, 0
+  index: -1
+Ra Middle Finger Right
+  rotate: true
+  xy: 4722, 7736
+  size: 156, 189
+  orig: 158, 189
+  offset: 1, 0
+  index: -1
+Ra Ring Finger Right
+  rotate: true
+  xy: 4300, 7744
+  size: 151, 208
+  orig: 151, 208
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: false
+  xy: 5447, 7450
+  size: 326, 270
+  orig: 366, 324
+  offset: 40, 0
+  index: -1
+Ribbon Rope Left
+  rotate: true
+  xy: 7664, 7686
+  size: 169, 499
+  orig: 170, 499
+  offset: 0, 0
+  index: -1
+Ribbon Rope Right
+  rotate: true
+  xy: 5221, 7884
+  size: 88, 408
+  orig: 88, 409
+  offset: 0, 1
+  index: -1
+Rose Back
+  rotate: false
+  xy: 5758, 6514
+  size: 578, 555
+  orig: 594, 562
+  offset: 16, 6
+  index: -1
+Rose1
+  rotate: true
+  xy: 887, 7610
+  size: 199, 203
+  orig: 199, 203
+  offset: 0, 0
+  index: -1
+Rose2
+  rotate: false
+  xy: 2341, 7562
+  size: 248, 214
+  orig: 248, 214
+  offset: 0, 0
+  index: -1
+Rose3
+  rotate: true
+  xy: 2591, 7552
+  size: 215, 229
+  orig: 215, 229
+  offset: 0, 0
+  index: -1
+Ruby
+  rotate: true
+  xy: 1435, 7928
+  size: 44, 72
+  orig: 47, 75
+  offset: 1, 2
+  index: -1
+Ruby Petite
+  rotate: true
+  xy: 106, 7959
+  size: 13, 17
+  orig: 16, 20
+  offset: 2, 2
+  index: -1
+Saliva Orgasm1 A
+  rotate: true
+  xy: 5112, 7886
+  size: 86, 107
+  orig: 87, 109
+  offset: 1, 0
+  index: -1
+Saliva Orgasm1 B
+  rotate: true
+  xy: 2152, 7922
+  size: 50, 103
+  orig: 77, 107
+  offset: 0, 2
+  index: -1
+Saliva Orgasm1 C
+  rotate: true
+  xy: 767, 7938
+  size: 34, 85
+  orig: 38, 112
+  offset: 2, 26
+  index: -1
+Saliva Orgasm1 D
+  rotate: true
+  xy: 541, 7946
+  size: 26, 45
+  orig: 44, 71
+  offset: 7, 10
+  index: -1
+Saliva Orgasm1 E
+  rotate: true
+  xy: 211, 7956
+  size: 16, 34
+  orig: 17, 42
+  offset: 0, 7
+  index: -1
+Shoe Left
+  rotate: true
+  xy: 3356, 7176
+  size: 339, 397
+  orig: 340, 398
+  offset: 1, 1
+  index: -1
+Shoe Left AC
+  rotate: true
+  xy: 896, 7934
+  size: 38, 75
+  orig: 41, 78
+  offset: 2, 1
+  index: -1
+Shoe Left AC Broken2
+  rotate: true
+  xy: 697, 7939
+  size: 33, 68
+  orig: 41, 78
+  offset: 7, 8
+  index: -1
+Shoe Left Broken1
+  rotate: true
+  xy: 3755, 7176
+  size: 339, 397
+  orig: 340, 398
+  offset: 1, 1
+  index: -1
+Shoe Left Broken2
+  rotate: true
+  xy: 4154, 7163
+  size: 339, 397
+  orig: 340, 398
+  offset: 1, 1
+  index: -1
+Shoe Right
+  rotate: true
+  xy: 7704, 7387
+  size: 297, 399
+  orig: 297, 399
+  offset: 0, 0
+  index: -1
+Shoe Right AC
+  rotate: true
+  xy: 973, 7934
+  size: 38, 76
+  orig: 40, 79
+  offset: 1, 1
+  index: -1
+Shoe Right AC Broken1
+  rotate: true
+  xy: 503, 7951
+  size: 21, 36
+  orig: 40, 79
+  offset: 8, 41
+  index: -1
+Shoe Right Broken1
+  rotate: true
+  xy: 2, 7346
+  size: 297, 399
+  orig: 297, 399
+  offset: 0, 0
+  index: -1
+Shoe Right Broken2
+  rotate: true
+  xy: 403, 7321
+  size: 297, 399
+  orig: 297, 399
+  offset: 0, 0
+  index: -1
+Skirt Bottom Left
+  rotate: false
+  xy: 1630, 1964
+  size: 1608, 1390
+  orig: 1700, 1616
+  offset: 92, 0
+  index: -1
+Skirt Bottom Left Broken1
+  rotate: false
+  xy: 6179, 1396
+  size: 1608, 1390
+  orig: 1700, 1616
+  offset: 92, 0
+  index: -1
+Skirt Bottom Left Broken2
+  rotate: false
+  xy: 2, 831
+  size: 1608, 1390
+  orig: 1700, 1616
+  offset: 92, 0
+  index: -1
+Skirt Bottom Left Broken3
+  rotate: false
+  xy: 1612, 572
+  size: 1608, 1390
+  orig: 1700, 1616
+  offset: 92, 0
+  index: -1
+Skirt Bottom Middle
+  rotate: true
+  xy: 6968, 2788
+  size: 2253, 1210
+  orig: 2253, 1210
+  offset: 0, 0
+  index: -1
+Skirt Bottom Right
+  rotate: false
+  xy: 3222, 8
+  size: 1466, 1392
+  orig: 1466, 1550
+  offset: 0, 0
+  index: -1
+Skirt Bottom Right Broken1
+  rotate: false
+  xy: 4690, 8
+  size: 1466, 1392
+  orig: 1466, 1550
+  offset: 0, 0
+  index: -1
+Skirt Bottom Right Broken2
+  rotate: false
+  xy: 6158, 2
+  size: 1466, 1392
+  orig: 1466, 1550
+  offset: 0, 0
+  index: -1
+Stocking Left Back
+  rotate: true
+  xy: 2708, 6105
+  size: 599, 1150
+  orig: 696, 1150
+  offset: 97, 0
+  index: -1
+Stocking Left Back Broken1
+  rotate: true
+  xy: 3860, 6070
+  size: 599, 1150
+  orig: 696, 1150
+  offset: 97, 0
+  index: -1
+Stocking Left Front
+  rotate: true
+  xy: 5660, 5807
+  size: 639, 808
+  orig: 663, 934
+  offset: 24, 113
+  index: -1
+Stocking Left Front Broken1
+  rotate: true
+  xy: 6470, 5778
+  size: 639, 808
+  orig: 663, 934
+  offset: 24, 113
+  index: -1
+Stocking Left Front Rope
+  rotate: true
+  xy: 3416, 7540
+  size: 219, 264
+  orig: 228, 265
+  offset: 8, 1
+  index: -1
+Stocking Right Back
+  rotate: false
+  xy: 913, 4693
+  size: 916, 799
+  orig: 921, 890
+  offset: 5, 0
+  index: -1
+Stocking Right Back Broken1
+  rotate: false
+  xy: 1831, 4627
+  size: 916, 799
+  orig: 921, 890
+  offset: 5, 0
+  index: -1
+Stocking Right Front
+  rotate: false
+  xy: 6338, 6448
+  size: 837, 542
+  orig: 845, 542
+  offset: 8, 0
+  index: -1
+Stocking Right Front Broken1
+  rotate: false
+  xy: 7177, 6419
+  size: 837, 542
+  orig: 845, 542
+  offset: 8, 0
+  index: -1
+Stocking Right Rope
+  rotate: false
+  xy: 6507, 7708
+  size: 316, 164
+  orig: 319, 167
+  offset: 1, 1
+  index: -1
+Tear Break1
+  rotate: false
+  xy: 6861, 7874
+  size: 299, 98
+  orig: 299, 98
+  offset: 0, 0
+  index: -1
+Thumb Left
+  rotate: true
+  xy: 4207, 7905
+  size: 67, 108
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+Tongue Orgasm1
+  rotate: false
+  xy: 6225, 7877
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+man leg
+  rotate: false
+  xy: 6452, 5043
+  size: 1345, 716
+  orig: 1348, 731
+  offset: 1, 1
+  index: -1
+
+Wrath Sexy2.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 1873, 1507
+  orig: 1874, 1990
+  offset: 1, 192
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 4197
+  size: 5070, 3080
+  orig: 5070, 3080
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: true
+  xy: 3886, 380
+  size: 2915, 1939
+  orig: 2976, 1939
+  offset: 0, 0
+  index: -1
+Head Covering Back Right
+  rotate: false
+  xy: 5827, 1661
+  size: 1973, 1634
+  orig: 1978, 2176
+  offset: 0, 427
+  index: -1
+Head Covering Back Right Broken1
+  rotate: false
+  xy: 5827, 25
+  size: 1973, 1634
+  orig: 1978, 2176
+  offset: 0, 427
+  index: -1
+Light
+  rotate: true
+  xy: 5074, 3297
+  size: 3980, 2342
+  orig: 3980, 2342
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 1877
+  size: 3882, 2318
+  orig: 3882, 2318
+  offset: 0, 0
+  index: -1
+Skirt Bottom Right Broken3
+  rotate: false
+  xy: 1511, 483
+  size: 1466, 1392
+  orig: 1466, 1550
+  offset: 0, 0
+  index: -1

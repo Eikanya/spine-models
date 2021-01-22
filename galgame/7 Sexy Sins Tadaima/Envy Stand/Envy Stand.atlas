@@ -1,0 +1,433 @@
+
+Envy Stand.png
+size: 8192,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm Left
+  rotate: false
+  xy: 4417, 173
+  size: 620, 632
+  orig: 620, 632
+  offset: 0, 0
+  index: -1
+Arm Left AC Back
+  rotate: false
+  xy: 2335, 2
+  size: 194, 188
+  orig: 194, 188
+  offset: 0, 0
+  index: -1
+Arm Left AC Front
+  rotate: false
+  xy: 2260, 192
+  size: 166, 242
+  orig: 195, 242
+  offset: 0, 0
+  index: -1
+Arm Right
+  rotate: true
+  xy: 2, 4
+  size: 330, 396
+  orig: 330, 396
+  offset: 0, 0
+  index: -1
+Arm Right AC
+  rotate: false
+  xy: 2428, 193
+  size: 185, 241
+  orig: 185, 241
+  offset: 0, 0
+  index: -1
+Blush
+  rotate: true
+  xy: 1727, 28
+  size: 372, 127
+  orig: 402, 154
+  offset: 17, 12
+  index: -1
+Body
+  rotate: false
+  xy: 2, 336
+  size: 1449, 1710
+  orig: 1548, 1710
+  offset: 0, 0
+  index: -1
+Ear Left
+  rotate: true
+  xy: 4406, 807
+  size: 119, 107
+  orig: 119, 107
+  offset: 0, 0
+  index: -1
+Ear Right
+  rotate: false
+  xy: 4328, 819
+  size: 76, 88
+  orig: 76, 90
+  offset: 0, 1
+  index: -1
+Eye Brow Left
+  rotate: false
+  xy: 997, 2
+  size: 121, 60
+  orig: 133, 69
+  offset: 8, 6
+  index: -1
+Eye Brow Right
+  rotate: false
+  xy: 683, 2
+  size: 93, 54
+  orig: 109, 58
+  offset: 10, 2
+  index: -1
+Eye Close Left
+  rotate: true
+  xy: 2820, 436
+  size: 141, 117
+  orig: 159, 121
+  offset: 1, 2
+  index: -1
+Eye Close Right
+  rotate: true
+  xy: 4248, 810
+  size: 97, 78
+  orig: 101, 82
+  offset: 2, 2
+  index: -1
+Eye Left
+  rotate: true
+  xy: 2242, 14
+  size: 128, 91
+  orig: 134, 94
+  offset: 2, 2
+  index: -1
+Eye Touch1 Left
+  rotate: true
+  xy: 2242, 14
+  size: 128, 91
+  orig: 134, 94
+  offset: 2, 2
+  index: -1
+Eye Right
+  rotate: true
+  xy: 4507, 1151
+  size: 106, 79
+  orig: 110, 83
+  offset: 1, 2
+  index: -1
+Eye Touch1 Right
+  rotate: true
+  xy: 4507, 1151
+  size: 106, 79
+  orig: 110, 83
+  offset: 1, 2
+  index: -1
+Eye Touch2 Left
+  rotate: true
+  xy: 2939, 449
+  size: 128, 80
+  orig: 134, 82
+  offset: 2, 1
+  index: -1
+Eye Touch2 Right
+  rotate: false
+  xy: 1177, 4
+  size: 107, 71
+  orig: 110, 74
+  offset: 1, 1
+  index: -1
+Fish
+  rotate: true
+  xy: 3887, 17
+  size: 787, 528
+  orig: 787, 528
+  offset: 0, 0
+  index: -1
+Fish2
+  rotate: true
+  xy: 4248, 1259
+  size: 787, 528
+  orig: 787, 528
+  offset: 0, 0
+  index: -1
+Hair Back
+  rotate: false
+  xy: 3502, 806
+  size: 744, 1240
+  orig: 760, 1240
+  offset: 3, 0
+  index: -1
+Hair Back Petite
+  rotate: false
+  xy: 4346, 928
+  size: 153, 153
+  orig: 153, 154
+  offset: 0, 0
+  index: -1
+Hair Front Left A
+  rotate: false
+  xy: 3033, 234
+  size: 179, 217
+  orig: 180, 217
+  offset: 1, 0
+  index: -1
+Hair Front Left A Petite
+  rotate: false
+  xy: 4248, 909
+  size: 96, 172
+  orig: 96, 172
+  offset: 0, 0
+  index: -1
+Hair Front Left B
+  rotate: true
+  xy: 683, 58
+  size: 276, 258
+  orig: 276, 258
+  offset: 0, 0
+  index: -1
+Hair Front Right A
+  rotate: false
+  xy: 2798, 5
+  size: 176, 204
+  orig: 177, 204
+  offset: 1, 0
+  index: -1
+Hair Front Right B
+  rotate: false
+  xy: 943, 64
+  size: 224, 270
+  orig: 305, 270
+  offset: 0, 0
+  index: -1
+Hair Front Right B Petite
+  rotate: false
+  xy: 2531, 2
+  size: 119, 189
+  orig: 122, 191
+  offset: 3, 2
+  index: -1
+Hair Ribbon Left
+  rotate: false
+  xy: 2710, 211
+  size: 124, 223
+  orig: 126, 224
+  offset: 0, 0
+  index: -1
+Hair Ribbon Right
+  rotate: false
+  xy: 4248, 1083
+  size: 148, 174
+  orig: 148, 176
+  offset: 0, 1
+  index: -1
+Hair Side Left
+  rotate: false
+  xy: 1856, 30
+  size: 179, 370
+  orig: 377, 408
+  offset: 198, 37
+  index: -1
+Hair Side Right Back
+  rotate: false
+  xy: 2615, 196
+  size: 93, 238
+  orig: 93, 240
+  offset: 0, 1
+  index: -1
+Hair Side Right Front
+  rotate: false
+  xy: 2976, 5
+  size: 155, 209
+  orig: 156, 210
+  offset: 1, 1
+  index: -1
+Hair Tail Left
+  rotate: true
+  xy: 1169, 77
+  size: 257, 388
+  orig: 288, 388
+  offset: 0, 0
+  index: -1
+Hair Tail Left PetiteA Back
+  rotate: false
+  xy: 3021, 453
+  size: 79, 124
+  orig: 79, 125
+  offset: 0, 1
+  index: -1
+Hair Tail Left PetiteA Front
+  rotate: true
+  xy: 3133, 23
+  size: 209, 100
+  orig: 229, 154
+  offset: 0, 54
+  index: -1
+Hair Tail Left PetiteB
+  rotate: false
+  xy: 4501, 1024
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+Hair Tail Right
+  rotate: false
+  xy: 400, 23
+  size: 281, 311
+  orig: 283, 311
+  offset: 1, 0
+  index: -1
+Hair Tail Right Petite
+  rotate: false
+  xy: 2652, 12
+  size: 144, 182
+  orig: 145, 183
+  offset: 0, 1
+  index: -1
+Hand Left
+  rotate: true
+  xy: 2037, 144
+  size: 256, 221
+  orig: 257, 222
+  offset: 1, 1
+  index: -1
+Hand Left Finger
+  rotate: false
+  xy: 3502, 625
+  size: 153, 179
+  orig: 153, 179
+  offset: 0, 0
+  index: -1
+Hand Left FingerA
+  rotate: false
+  xy: 3657, 625
+  size: 153, 179
+  orig: 153, 179
+  offset: 0, 0
+  index: -1
+Hand Left Little Finger
+  rotate: false
+  xy: 4398, 1139
+  size: 107, 118
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+Hand Left Ring Finger
+  rotate: false
+  xy: 2698, 436
+  size: 120, 141
+  orig: 120, 149
+  offset: 0, 8
+  index: -1
+Hand Right
+  rotate: false
+  xy: 2836, 216
+  size: 195, 218
+  orig: 195, 218
+  offset: 0, 0
+  index: -1
+Hand Right Finger
+  rotate: true
+  xy: 844, 14
+  size: 42, 151
+  orig: 43, 152
+  offset: 1, 1
+  index: -1
+Head
+  rotate: true
+  xy: 3273, 36
+  size: 541, 612
+  orig: 719, 612
+  offset: 61, 0
+  index: -1
+Horn
+  rotate: false
+  xy: 1559, 11
+  size: 166, 389
+  orig: 168, 391
+  offset: 1, 1
+  index: -1
+Leg Left
+  rotate: false
+  xy: 1453, 402
+  size: 607, 1644
+  orig: 607, 1644
+  offset: 0, 0
+  index: -1
+Leg Right
+  rotate: false
+  xy: 2062, 436
+  size: 466, 1610
+  orig: 541, 1611
+  offset: 1, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1286, 18
+  size: 57, 36
+  orig: 59, 38
+  offset: 1, 1
+  index: -1
+Mouth Touch1
+  rotate: false
+  xy: 1324, 10
+  size: 86, 26
+  orig: 88, 28
+  offset: 1, 1
+  index: -1
+Mouth Touch2
+  rotate: false
+  xy: 1324, 38
+  size: 88, 37
+  orig: 91, 40
+  offset: 1, 2
+  index: -1
+Neck
+  rotate: true
+  xy: 2530, 436
+  size: 141, 166
+  orig: 149, 166
+  offset: 7, 0
+  index: -1
+Neck Back
+  rotate: false
+  xy: 3102, 457
+  size: 169, 120
+  orig: 169, 120
+  offset: 0, 0
+  index: -1
+Neck Front
+  rotate: false
+  xy: 2037, 13
+  size: 203, 129
+  orig: 203, 131
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 778, 10
+  size: 20, 46
+  orig: 22, 49
+  offset: 1, 1
+  index: -1
+Skirt Back
+  rotate: true
+  xy: 2530, 579
+  size: 1467, 970
+  orig: 1467, 970
+  offset: 0, 0
+  index: -1
+Tear2 Left
+  rotate: false
+  xy: 1120, 2
+  size: 55, 60
+  orig: 55, 62
+  offset: 0, 1
+  index: -1
+Tear2 Right
+  rotate: false
+  xy: 800, 11
+  size: 42, 45
+  orig: 42, 46
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+shewen.png
+size: 1932,5664
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0501kuang
+  rotate: false
+  xy: 2, 4351
+  size: 1671, 1311
+  orig: 1673, 1313
+  offset: 1, 1
+  index: -1
+0502fa
+  rotate: 180
+  xy: 1111, 142
+  size: 716, 736
+  orig: 741, 763
+  offset: 25, 27
+  index: -1
+0503yeti
+  rotate: true
+  xy: 1617, 4041
+  size: 340, 312
+  orig: 372, 362
+  offset: 32, 50
+  index: -1
+0504nantou
+  rotate: true
+  xy: 2, 1972
+  size: 1140, 1564
+  orig: 1140, 1564
+  offset: 0, 0
+  index: -1
+0505nanshe
+  rotate: true
+  xy: 1514, 21
+  size: 310, 382
+  orig: 310, 382
+  offset: 0, 0
+  index: -1
+0506nvzui
+  rotate: 180
+  xy: 1393, 2500
+  size: 497, 612
+  orig: 552, 612
+  offset: 55, 0
+  index: -1
+0507nvya
+  rotate: false
+  xy: 448, 28
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+0508nvshe
+  rotate: false
+  xy: 1578, 879
+  size: 332, 259
+  orig: 333, 262
+  offset: 0, 3
+  index: -1
+0509zuixia
+  rotate: 180
+  xy: 2, 4
+  size: 458, 547
+  orig: 458, 547
+  offset: 0, 0
+  index: -1
+0510shegen
+  rotate: false
+  xy: 1623, 3769
+  size: 255, 271
+  orig: 364, 288
+  offset: 0, 0
+  index: -1
+0511kounei
+  rotate: false
+  xy: 1568, 1842
+  size: 339, 430
+  orig: 347, 430
+  offset: 0, 0
+  index: -1
+0512bizi
+  rotate: false
+  xy: 1617, 3107
+  size: 307, 315
+  orig: 307, 315
+  offset: 0, 0
+  index: -1
+0513tou
+  rotate: 270
+  xy: 2, 813
+  size: 1245, 1715
+  orig: 1245, 1715
+  offset: 0, 0
+  index: -1
+0514hudiejie
+  rotate: true
+  xy: 1617, 3425
+  size: 356, 273
+  orig: 380, 273
+  offset: 24, 0
+  index: -1
+0515fa
+  rotate: 270
+  xy: 193, 173
+  size: 776, 1310
+  orig: 776, 1310
+  offset: 0, 0
+  index: -1
+0516beijing
+  rotate: false
+  xy: 2, 3114
+  size: 1613, 1235
+  orig: 1615, 1237
+  offset: 1, 1
+  index: -1

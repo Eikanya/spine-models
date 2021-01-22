@@ -1,0 +1,90 @@
+
+1003_07_2.png
+size: 2412,6620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baikuang
+  rotate: false
+  xy: 2, 3600
+  size: 2372, 1496
+  orig: 2374, 1498
+  offset: 1, 1
+  index: -1
+neiku_1
+  rotate: 180
+  xy: 1782, 134
+  size: 626, 1191
+  orig: 626, 1191
+  offset: 0, 0
+  index: -1
+neiku_2
+  rotate: false
+  xy: 1767, 1392
+  size: 599, 1067
+  orig: 599, 1067
+  offset: 0, 0
+  index: -1
+shou_02
+  rotate: 270
+  xy: 624, 324
+  size: 977, 1475
+  orig: 977, 1475
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 337, 871
+  size: 1806, 1320
+  orig: 1806, 1320
+  offset: 0, 0
+  index: -1
+tunbu
+  rotate: false
+  xy: 2, 2099
+  size: 2233, 1499
+  orig: 2233, 1499
+  offset: 0, 0
+  index: -1
+xiaokuang
+  rotate: false
+  xy: 2, 5098
+  size: 2394, 1519
+  orig: 2396, 1521
+  offset: 1, 1
+  index: -1
+yeti
+  rotate: 270
+  xy: 2, 12
+  size: 889, 872
+  orig: 889, 872
+  offset: 0, 0
+  index: -1
+yeti1
+  rotate: 270
+  xy: 154, 3
+  size: 318, 428
+  orig: 318, 428
+  offset: 0, 0
+  index: -1
+yeti2
+  rotate: false
+  xy: 1350, 25
+  size: 571, 449
+  orig: 571, 449
+  offset: 0, 0
+  index: -1
+yeti3
+  rotate: true
+  xy: 749, 15
+  size: 359, 512
+  orig: 359, 512
+  offset: 0, 0
+  index: -1
+yeti4
+  rotate: false
+  xy: 1735, 52
+  size: 219, 164
+  orig: 219, 164
+  offset: 0, 0
+  index: -1

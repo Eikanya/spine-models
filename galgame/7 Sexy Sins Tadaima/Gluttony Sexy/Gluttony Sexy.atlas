@@ -1,0 +1,1000 @@
+
+Gluttony Sexy.png
+size: 8192,8192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apron
+  rotate: false
+  xy: 1205, 1480
+  size: 871, 1765
+  orig: 1050, 1769
+  offset: 179, 2
+  index: -1
+Apron_Broken1
+  rotate: true
+  xy: 4450, 2028
+  size: 871, 1765
+  orig: 1050, 1769
+  offset: 179, 2
+  index: -1
+Apron_Broken2
+  rotate: true
+  xy: 4527, 3908
+  size: 871, 1765
+  orig: 1050, 1769
+  offset: 179, 2
+  index: -1
+Apron_Broken3
+  rotate: true
+  xy: 4862, 5261
+  size: 871, 1765
+  orig: 1050, 1769
+  offset: 179, 2
+  index: -1
+Apron_Broken4
+  rotate: false
+  xy: 6278, 6403
+  size: 871, 1765
+  orig: 1050, 1769
+  offset: 179, 2
+  index: -1
+Apron_Sha
+  rotate: false
+  xy: 1190, 449
+  size: 778, 1029
+  orig: 779, 1040
+  offset: 0, 9
+  index: -1
+Arm_Left
+  rotate: true
+  xy: 6336, 4376
+  size: 432, 532
+  orig: 432, 532
+  offset: 0, 0
+  index: -1
+Arm_Left_Front
+  rotate: false
+  xy: 6615, 6135
+  size: 580, 266
+  orig: 580, 266
+  offset: 0, 0
+  index: -1
+Arm_Right_Back
+  rotate: true
+  xy: 2963, 4478
+  size: 301, 569
+  orig: 302, 569
+  offset: 1, 0
+  index: -1
+Arm_Right_Front
+  rotate: false
+  xy: 1970, 524
+  size: 248, 342
+  orig: 354, 342
+  offset: 0, 0
+  index: -1
+Blush
+  rotate: true
+  xy: 1970, 868
+  size: 369, 260
+  orig: 389, 282
+  offset: 11, 10
+  index: -1
+Body
+  rotate: false
+  xy: 2, 6595
+  size: 2369, 1573
+  orig: 2651, 1999
+  offset: 279, 351
+  index: -1
+Bra
+  rotate: true
+  xy: 684, 818
+  size: 878, 504
+  orig: 887, 505
+  offset: 2, 0
+  index: -1
+Bra Broken1
+  rotate: true
+  xy: 7151, 6634
+  size: 878, 504
+  orig: 887, 505
+  offset: 2, 0
+  index: -1
+Bra Broken2
+  rotate: false
+  xy: 5058, 3402
+  size: 878, 504
+  orig: 887, 505
+  offset: 2, 0
+  index: -1
+Bra_Ribbon
+  rotate: false
+  xy: 1020, 2180
+  size: 164, 168
+  orig: 164, 199
+  offset: 0, 31
+  index: -1
+Bra_Rope
+  rotate: true
+  xy: 628, 98
+  size: 65, 29
+  orig: 71, 30
+  offset: 4, 1
+  index: -1
+Bracelet_Left
+  rotate: true
+  xy: 7151, 6419
+  size: 213, 280
+  orig: 213, 282
+  offset: 0, 0
+  index: -1
+Bracelet_Left_Back
+  rotate: false
+  xy: 7960, 6652
+  size: 78, 182
+  orig: 78, 183
+  offset: 0, 0
+  index: -1
+Bracelet_Left_Broken1
+  rotate: true
+  xy: 4527, 2916
+  size: 213, 280
+  orig: 213, 282
+  offset: 0, 0
+  index: -1
+Bracelet_Right
+  rotate: false
+  xy: 3480, 1612
+  size: 260, 411
+  orig: 262, 412
+  offset: 2, 0
+  index: -1
+Bracelet_Right_Back
+  rotate: true
+  xy: 2232, 4384
+  size: 161, 123
+  orig: 161, 124
+  offset: 0, 0
+  index: -1
+Bracelet_Right_Broken1
+  rotate: false
+  xy: 2954, 1232
+  size: 260, 411
+  orig: 262, 412
+  offset: 2, 0
+  index: -1
+Brow_Left
+  rotate: true
+  xy: 3481, 3076
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+Brow_Right
+  rotate: false
+  xy: 5874, 3257
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+Dango_Left
+  rotate: false
+  xy: 6278, 6134
+  size: 335, 267
+  orig: 335, 267
+  offset: 0, 0
+  index: -1
+Dango_Right
+  rotate: false
+  xy: 2220, 537
+  size: 238, 329
+  orig: 238, 329
+  offset: 0, 0
+  index: -1
+Eye_Close_Left
+  rotate: false
+  xy: 7413, 5288
+  size: 137, 93
+  orig: 145, 97
+  offset: 8, 1
+  index: -1
+Eye_Close_Right
+  rotate: false
+  xy: 2232, 4295
+  size: 117, 87
+  orig: 117, 89
+  offset: 0, 2
+  index: -1
+Eye_Left_Break01
+  rotate: true
+  xy: 4700, 4973
+  size: 150, 121
+  orig: 157, 132
+  offset: 6, 6
+  index: -1
+Eye_Left_Break02
+  rotate: true
+  xy: 2232, 4874
+  size: 183, 128
+  orig: 194, 136
+  offset: 11, 4
+  index: -1
+Eye_Left_Break03
+  rotate: false
+  xy: 7082, 5736
+  size: 157, 119
+  orig: 195, 122
+  offset: 17, 1
+  index: -1
+Eye_Left_Orgasm01
+  rotate: true
+  xy: 4700, 4813
+  size: 158, 120
+  orig: 198, 146
+  offset: 15, 4
+  index: -1
+Eye_Left_Orgasm02
+  rotate: true
+  xy: 8059, 7075
+  size: 148, 86
+  orig: 152, 96
+  offset: 3, 6
+  index: -1
+Eye_Normal_Left
+  rotate: true
+  xy: 3423, 4364
+  size: 112, 108
+  orig: 114, 111
+  offset: 1, 1
+  index: -1
+Eye_Normal_Right
+  rotate: true
+  xy: 1100, 2019
+  size: 159, 102
+  orig: 161, 104
+  offset: 1, 1
+  index: -1
+Eye_Right_Break01
+  rotate: true
+  xy: 4700, 5125
+  size: 135, 122
+  orig: 147, 146
+  offset: 6, 14
+  index: -1
+Eye_Right_Break02
+  rotate: false
+  xy: 7960, 6934
+  size: 116, 130
+  orig: 155, 131
+  offset: 11, 0
+  index: -1
+Eye_Right_Break03
+  rotate: false
+  xy: 7369, 5737
+  size: 134, 118
+  orig: 137, 131
+  offset: 2, 13
+  index: -1
+Eye_Right_Orgasm01
+  rotate: false
+  xy: 2232, 5207
+  size: 133, 148
+  orig: 152, 168
+  offset: 2, 15
+  index: -1
+Eye_Right_Orgasm02
+  rotate: true
+  xy: 3423, 4266
+  size: 96, 102
+  orig: 110, 109
+  offset: 13, 4
+  index: -1
+Face
+  rotate: true
+  xy: 2359, 4273
+  size: 506, 602
+  orig: 508, 604
+  offset: 1, 1
+  index: -1
+Hair Band
+  rotate: true
+  xy: 7792, 7579
+  size: 589, 386
+  orig: 592, 386
+  offset: 2, 0
+  index: -1
+Hair_Front_Left
+  rotate: true
+  xy: 6428, 3539
+  size: 401, 426
+  orig: 401, 426
+  offset: 0, 0
+  index: -1
+Hair_Front_Left_Back
+  rotate: true
+  xy: 7505, 5688
+  size: 167, 117
+  orig: 381, 334
+  offset: 1, 217
+  index: -1
+Hair_Front_Left_Petite
+  rotate: false
+  xy: 4809, 2941
+  size: 232, 188
+  orig: 235, 188
+  offset: 3, 0
+  index: -1
+Hair_Front_Right
+  rotate: false
+  xy: 7707, 6467
+  size: 251, 597
+  orig: 1968, 1627
+  offset: 395, 1030
+  index: -1
+Hair_Front_Right_Back
+  rotate: false
+  xy: 7241, 5736
+  size: 126, 119
+  orig: 128, 120
+  offset: 2, 0
+  index: -1
+Hair_Front_Right_Petite_A
+  rotate: false
+  xy: 2232, 4547
+  size: 125, 325
+  orig: 130, 329
+  offset: 0, 0
+  index: -1
+Hair_Front_Right_Petite_S_Back
+  rotate: false
+  xy: 1020, 1702
+  size: 78, 476
+  orig: 79, 481
+  offset: 0, 0
+  index: -1
+Hair_Front_Right_Petite_S_Front
+  rotate: true
+  xy: 2963, 4267
+  size: 209, 458
+  orig: 210, 458
+  offset: 0, 0
+  index: -1
+Hair_Side_Right_A
+  rotate: false
+  xy: 8059, 7319
+  size: 90, 160
+  orig: 94, 162
+  offset: 2, 1
+  index: -1
+Hana
+  rotate: false
+  xy: 5874, 3182
+  size: 55, 73
+  orig: 69, 78
+  offset: 9, 4
+  index: -1
+Hand_Right
+  rotate: false
+  xy: 5938, 3424
+  size: 488, 482
+  orig: 488, 482
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 7151, 7514
+  size: 639, 654
+  orig: 639, 654
+  offset: 0, 0
+  index: -1
+Horn_Left
+  rotate: true
+  xy: 5345, 2921
+  size: 201, 360
+  orig: 203, 362
+  offset: 1, 1
+  index: -1
+Horn_Right
+  rotate: false
+  xy: 962, 512
+  size: 223, 304
+  orig: 225, 306
+  offset: 1, 1
+  index: -1
+Leg_Left_Front
+  rotate: true
+  xy: 3537, 2901
+  size: 1878, 988
+  orig: 1878, 993
+  offset: 0, 0
+  index: -1
+Leg_Right_Front
+  rotate: false
+  xy: 2, 165
+  size: 680, 1531
+  orig: 680, 1533
+  offset: 0, 0
+  index: -1
+Mimi_Left
+  rotate: true
+  xy: 5707, 2921
+  size: 201, 227
+  orig: 206, 230
+  offset: 5, 3
+  index: -1
+Mimi_Right
+  rotate: true
+  xy: 4700, 5262
+  size: 163, 122
+  orig: 163, 122
+  offset: 0, 0
+  index: -1
+Mouth_00
+  rotate: true
+  xy: 4984, 3279
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+Mouth_Break01
+  rotate: false
+  xy: 7180, 5287
+  size: 115, 94
+  orig: 125, 103
+  offset: 1, 6
+  index: -1
+Mouth_Break02
+  rotate: false
+  xy: 7065, 5286
+  size: 113, 95
+  orig: 139, 107
+  offset: 11, 5
+  index: -1
+Mouth_Break02_Top
+  rotate: true
+  xy: 2232, 5059
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+Mouth_Break03
+  rotate: true
+  xy: 5874, 3325
+  size: 75, 62
+  orig: 84, 73
+  offset: 3, 6
+  index: -1
+Mouth_Orgasm01
+  rotate: true
+  xy: 7552, 5284
+  size: 97, 78
+  orig: 104, 83
+  offset: 3, 4
+  index: -1
+Mouth_Orgasm02
+  rotate: true
+  xy: 8059, 7481
+  size: 96, 91
+  orig: 109, 99
+  offset: 6, 2
+  index: -1
+Neck
+  rotate: false
+  xy: 6217, 2291
+  size: 288, 336
+  orig: 288, 336
+  offset: 0, 0
+  index: -1
+Oppai_Left
+  rotate: false
+  xy: 6540, 3183
+  size: 373, 354
+  orig: 374, 356
+  offset: 1, 2
+  index: -1
+Oppai_Right
+  rotate: false
+  xy: 6828, 3974
+  size: 446, 400
+  orig: 449, 407
+  offset: 0, 1
+  index: -1
+Panty
+  rotate: false
+  xy: 2078, 2311
+  size: 874, 934
+  orig: 965, 935
+  offset: 90, 0
+  index: -1
+Panty Broken1
+  rotate: true
+  xy: 3514, 2025
+  size: 874, 934
+  orig: 965, 935
+  offset: 90, 0
+  index: -1
+Panty Broken2
+  rotate: false
+  xy: 2078, 1375
+  size: 874, 934
+  orig: 965, 935
+  offset: 90, 0
+  index: -1
+Panty_Ribbon
+  rotate: false
+  xy: 1020, 2350
+  size: 180, 227
+  orig: 180, 227
+  offset: 0, 0
+  index: -1
+Pussy Mosaic2
+  rotate: false
+  xy: 1970, 1239
+  size: 97, 239
+  orig: 97, 239
+  offset: 0, 0
+  index: -1
+Pussy_Bottom
+  rotate: false
+  xy: 2232, 1045
+  size: 254, 328
+  orig: 283, 347
+  offset: 29, 1
+  index: -1
+Pussy_Bottom Mosaic2
+  rotate: false
+  xy: 2488, 1045
+  size: 254, 328
+  orig: 283, 347
+  offset: 29, 1
+  index: -1
+Pussy_Top
+  rotate: false
+  xy: 3216, 1223
+  size: 253, 420
+  orig: 275, 464
+  offset: 8, 0
+  index: -1
+Pussy_Top Mosaic2
+  rotate: false
+  xy: 2744, 810
+  size: 253, 420
+  orig: 275, 464
+  offset: 8, 0
+  index: -1
+Ribbon_Shirt_Bottom
+  rotate: true
+  xy: 1100, 1699
+  size: 148, 97
+  orig: 148, 97
+  offset: 0, 0
+  index: -1
+Ribbon_Shirt_Top
+  rotate: true
+  xy: 7960, 6512
+  size: 138, 76
+  orig: 138, 76
+  offset: 0, 0
+  index: -1
+Rope_Arm
+  rotate: false
+  xy: 1020, 3611
+  size: 183, 415
+  orig: 185, 525
+  offset: 0, 110
+  index: -1
+Rope_Arm_Broken1
+  rotate: false
+  xy: 1020, 3194
+  size: 183, 415
+  orig: 185, 525
+  offset: 0, 110
+  index: -1
+Rope_Arm_Broken2
+  rotate: false
+  xy: 1020, 2777
+  size: 183, 415
+  orig: 185, 525
+  offset: 0, 110
+  index: -1
+Rope_Arm_Sha
+  rotate: false
+  xy: 4700, 5427
+  size: 144, 388
+  orig: 186, 389
+  offset: 42, 0
+  index: -1
+Rope_Hip
+  rotate: true
+  xy: 684, 2
+  size: 814, 276
+  orig: 949, 977
+  offset: 134, 700
+  index: -1
+Rope_Hip_Back
+  rotate: true
+  xy: 7297, 5287
+  size: 94, 114
+  orig: 96, 115
+  offset: 1, 1
+  index: -1
+Rope_Hip_Broken1
+  rotate: false
+  xy: 5058, 3124
+  size: 814, 276
+  orig: 949, 977
+  offset: 134, 700
+  index: -1
+Rope_Hip_Broken2
+  rotate: false
+  xy: 7082, 5857
+  size: 814, 276
+  orig: 949, 977
+  offset: 134, 700
+  index: -1
+Rope_Hip_Ribbon
+  rotate: false
+  xy: 3948, 5813
+  size: 469, 319
+  orig: 828, 1065
+  offset: 331, 560
+  index: -1
+Rope_Hip_Ribbon_Left
+  rotate: false
+  xy: 2232, 5966
+  size: 136, 627
+  orig: 828, 1065
+  offset: 593, 201
+  index: -1
+Rope_Hip_Ribbon_Left_Sha
+  rotate: true
+  xy: 2, 8
+  size: 155, 624
+  orig: 218, 640
+  offset: 12, 3
+  index: -1
+Rope_Hip_Ribbon_Right
+  rotate: true
+  xy: 6870, 4510
+  size: 298, 770
+  orig: 331, 947
+  offset: 22, 13
+  index: -1
+Rope_Hip_Ribbon_Right_Broken1
+  rotate: true
+  xy: 6979, 4974
+  size: 298, 770
+  orig: 331, 947
+  offset: 22, 13
+  index: -1
+Rope_Hip_Ribbon_Right_Sha
+  rotate: true
+  xy: 7197, 6142
+  size: 275, 775
+  orig: 298, 871
+  offset: 18, 89
+  index: -1
+Rope_Hip_Ribbon_Sha
+  rotate: false
+  xy: 4527, 3131
+  size: 455, 249
+  orig: 497, 834
+  offset: 40, 585
+  index: -1
+Rope_Hip_Sha
+  rotate: false
+  xy: 6336, 4810
+  size: 641, 449
+  orig: 661, 977
+  offset: 19, 508
+  index: -1
+Saliva_Break02
+  rotate: true
+  xy: 8059, 7225
+  size: 92, 88
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+Saliva_Break03
+  rotate: false
+  xy: 3481, 3022
+  size: 35, 52
+  orig: 37, 53
+  offset: 0, 1
+  index: -1
+Saliva_Orgasm01_A
+  rotate: true
+  xy: 2232, 4276
+  size: 17, 31
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+Saliva_Orgasm01_B
+  rotate: false
+  xy: 3481, 3183
+  size: 51, 62
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+Saliva_Orgasm01_C
+  rotate: false
+  xy: 3481, 2897
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+Saliva_Orgasm01_D
+  rotate: false
+  xy: 3481, 2965
+  size: 33, 55
+  orig: 34, 55
+  offset: 1, 0
+  index: -1
+Sensor_Body
+  rotate: true
+  xy: 2373, 5799
+  size: 2369, 1573
+  orig: 2651, 1999
+  offset: 279, 351
+  index: -1
+Sensor_Oppai_Right
+  rotate: true
+  xy: 7657, 7066
+  size: 446, 400
+  orig: 449, 407
+  offset: 0, 1
+  index: -1
+Sensor_Oppai_left
+  rotate: false
+  xy: 6856, 3618
+  size: 373, 354
+  orig: 374, 356
+  offset: 1, 2
+  index: -1
+Shirt Broken 01
+  rotate: true
+  xy: 1207, 3247
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt Broken 02
+  rotate: false
+  xy: 2, 1698
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt Broken 03
+  rotate: true
+  xy: 2370, 4781
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt Broken 04
+  rotate: true
+  xy: 3948, 7152
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt Broken 05
+  rotate: true
+  xy: 3948, 6134
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt_2
+  rotate: false
+  xy: 1214, 4265
+  size: 1016, 2328
+  orig: 1779, 2424
+  offset: 492, 0
+  index: -1
+Shirt_Arm_Left
+  rotate: true
+  xy: 6294, 3942
+  size: 432, 532
+  orig: 432, 532
+  offset: 0, 0
+  index: -1
+Shirt_Arm_Left_Front
+  rotate: true
+  xy: 1020, 2579
+  size: 196, 182
+  orig: 198, 183
+  offset: 2, 0
+  index: -1
+Shirt_Arm_Right_Back
+  rotate: true
+  xy: 7065, 5383
+  size: 302, 573
+  orig: 1824, 2164
+  offset: 399, 921
+  index: -1
+Shirt_Oppai_Right
+  rotate: false
+  xy: 6629, 5274
+  size: 434, 411
+  orig: 434, 416
+  offset: 0, 0
+  index: -1
+Shoe_Left_Back
+  rotate: false
+  xy: 4824, 4790
+  size: 754, 469
+  orig: 791, 500
+  offset: 36, 31
+  index: -1
+Shoe_Left_Back Broken01
+  rotate: false
+  xy: 5580, 4790
+  size: 754, 469
+  orig: 791, 500
+  offset: 36, 31
+  index: -1
+Shoe_Left_Front
+  rotate: true
+  xy: 6217, 2019
+  size: 270, 268
+  orig: 578, 384
+  offset: 126, 7
+  index: -1
+Shoe_Left_Front_Broken01
+  rotate: true
+  xy: 4450, 1756
+  size: 270, 268
+  orig: 578, 384
+  offset: 126, 7
+  index: -1
+Shoe_Right_Back
+  rotate: true
+  xy: 2954, 2176
+  size: 529, 524
+  orig: 542, 537
+  offset: 11, 7
+  index: -1
+Shoe_Right_Back Broken01
+  rotate: true
+  xy: 2954, 1645
+  size: 529, 524
+  orig: 542, 537
+  offset: 11, 7
+  index: -1
+Shoe_Right_Back Broken02
+  rotate: false
+  xy: 4527, 3382
+  size: 529, 524
+  orig: 542, 537
+  offset: 11, 7
+  index: -1
+Shoe_Right_Front
+  rotate: true
+  xy: 6217, 2629
+  size: 389, 378
+  orig: 510, 488
+  offset: 120, 1
+  index: -1
+Tail_Left
+  rotate: true
+  xy: 2, 4028
+  size: 1348, 1203
+  orig: 1348, 1203
+  offset: 0, 0
+  index: -1
+Tail_Right
+  rotate: true
+  xy: 2, 5378
+  size: 1215, 1210
+  orig: 1217, 1210
+  offset: 0, 0
+  index: -1
+Tongue_00
+  rotate: false
+  xy: 8038, 6574
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+Tongue_Break03
+  rotate: false
+  xy: 4984, 3205
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+Tongue_Orgasm01
+  rotate: true
+  xy: 7960, 6432
+  size: 78, 79
+  orig: 78, 85
+  offset: 0, 6
+  index: -1
+Tongue_Orgasm02
+  rotate: false
+  xy: 7960, 6836
+  size: 87, 96
+  orig: 87, 96
+  offset: 0, 0
+  index: -1
+banana
+  rotate: false
+  xy: 5938, 3020
+  size: 600, 402
+  orig: 607, 420
+  offset: 7, 18
+  index: -1
+banana_water02
+  rotate: false
+  xy: 1100, 1849
+  size: 101, 168
+  orig: 101, 168
+  offset: 0, 0
+  index: -1
+cock
+  rotate: true
+  xy: 6629, 5687
+  size: 446, 451
+  orig: 446, 452
+  offset: 0, 0
+  index: -1
+cock_water01
+  rotate: true
+  xy: 5043, 2919
+  size: 203, 300
+  orig: 209, 330
+  offset: 6, 1
+  index: -1
+hw
+  rotate: false
+  xy: 2954, 2707
+  size: 525, 538
+  orig: 538, 558
+  offset: 1, 20
+  index: -1
+hw_Body_Sp
+  rotate: false
+  xy: 962, 71
+  size: 214, 439
+  orig: 217, 464
+  offset: 1, 22
+  index: -1
+hw_Bottom_Back
+  rotate: true
+  xy: 7640, 5314
+  size: 541, 243
+  orig: 542, 271
+  offset: 1, 5
+  index: -1
+hw_Bottom_Front
+  rotate: true
+  xy: 2232, 5555
+  size: 409, 136
+  orig: 488, 196
+  offset: 32, 49
+  index: -1
+hw_Break_A
+  rotate: false
+  xy: 4419, 5817
+  size: 441, 315
+  orig: 441, 319
+  offset: 0, 0
+  index: -1
+hw_Break_B
+  rotate: true
+  xy: 7433, 6433
+  size: 199, 272
+  orig: 199, 272
+  offset: 0, 0
+  index: -1
+lick
+  rotate: true
+  xy: 2232, 5357
+  size: 196, 136
+  orig: 196, 136
+  offset: 0, 0
+  index: -1

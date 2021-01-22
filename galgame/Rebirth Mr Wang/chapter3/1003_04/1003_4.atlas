@@ -1,0 +1,391 @@
+
+1003_4.png
+size: 2260,7864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HuaShi_01_daizi1_1
+  rotate: false
+  xy: 2013, 5037
+  size: 140, 406
+  orig: 140, 406
+  offset: 0, 0
+  index: -1
+HuaShi_01_daizi1_2
+  rotate: false
+  xy: 1978, 5622
+  size: 277, 370
+  orig: 288, 370
+  offset: 11, 0
+  index: -1
+HuaShi_01_erduo1
+  rotate: false
+  xy: 2012, 2266
+  size: 109, 219
+  orig: 109, 219
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa1_1
+  rotate: false
+  xy: 1632, 380
+  size: 518, 852
+  orig: 518, 852
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa1_2
+  rotate: false
+  xy: 2, 5042
+  size: 505, 775
+  orig: 505, 775
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa1_3
+  rotate: true
+  xy: 1672, 3102
+  size: 448, 464
+  orig: 448, 464
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa1_4
+  rotate: false
+  xy: 1961, 3427
+  size: 190, 464
+  orig: 190, 464
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa2_1
+  rotate: false
+  xy: 1970, 3009
+  size: 247, 379
+  orig: 247, 379
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa2_2
+  rotate: true
+  xy: 1267, 5445
+  size: 952, 814
+  orig: 952, 814
+  offset: 0, 0
+  index: -1
+HuaShi_01_fa2_3
+  rotate: false
+  xy: 1006, 4153
+  size: 625, 1474
+  orig: 625, 1474
+  offset: 0, 0
+  index: -1
+HuaShi_01_jiemao1
+  rotate: false
+  xy: 1925, 4121
+  size: 274, 278
+  orig: 557, 600
+  offset: 43, 77
+  index: -1
+HuaShi_01_jiemao2
+  rotate: false
+  xy: 1960, 6662
+  size: 276, 268
+  orig: 276, 268
+  offset: 0, 0
+  index: -1
+HuaShi_01_jiemao3
+  rotate: false
+  xy: 1953, 2487
+  size: 270, 274
+  orig: 270, 274
+  offset: 0, 0
+  index: -1
+HuaShi_01_jiji
+  rotate: true
+  xy: 1610, 6904
+  size: 946, 400
+  orig: 946, 400
+  offset: 0, 0
+  index: -1
+HuaShi_01_l_hand
+  rotate: true
+  xy: 1813, 1794
+  size: 701, 316
+  orig: 701, 316
+  offset: 0, 0
+  index: -1
+HuaShi_01_lianhong1
+  rotate: false
+  xy: 1580, 4220
+  size: 391, 290
+  orig: 391, 290
+  offset: 0, 0
+  index: -1
+HuaShi_01_lianhong2
+  rotate: true
+  xy: 1841, 3
+  size: 375, 299
+  orig: 375, 299
+  offset: 0, 0
+  index: -1
+HuaShi_01_lianhong3
+  rotate: false
+  xy: 1633, 5177
+  size: 378, 266
+  orig: 378, 266
+  offset: 0, 0
+  index: -1
+HuaShi_01_meimao1
+  rotate: false
+  xy: 2, 801
+  size: 215, 28
+  orig: 215, 28
+  offset: 0, 0
+  index: -1
+HuaShi_01_meimao2
+  rotate: false
+  xy: 2, 831
+  size: 224, 59
+  orig: 224, 59
+  offset: 0, 0
+  index: -1
+HuaShi_01_meimao3
+  rotate: false
+  xy: 1267, 6456
+  size: 237, 91
+  orig: 237, 91
+  offset: 0, 0
+  index: -1
+HuaShi_01_muzhi
+  rotate: false
+  xy: 2, 5720
+  size: 267, 247
+  orig: 267, 247
+  offset: 0, 0
+  index: -1
+HuaShi_01_nan1_1
+  rotate: 270
+  xy: 848, 590
+  size: 1659, 867
+  orig: 1659, 867
+  offset: 0, 0
+  index: -1
+HuaShi_01_nan1_2
+  rotate: 180
+  xy: 1568, 4576
+  size: 505, 588
+  orig: 505, 588
+  offset: 0, 0
+  index: -1
+HuaShi_01_nan2_1
+  rotate: false
+  xy: 2, 4958
+  size: 1263, 2902
+  orig: 1461, 2902
+  offset: 198, 0
+  index: -1
+HuaShi_01_shenti1
+  rotate: true
+  xy: 2, 3209
+  size: 1956, 1158
+  orig: 1956, 1158
+  offset: 0, 0
+  index: -1
+HuaShi_01_shouzhi_1
+  rotate: false
+  xy: 1973, 4384
+  size: 181, 190
+  orig: 181, 190
+  offset: 0, 0
+  index: -1
+HuaShi_01_shouzhi_2
+  rotate: false
+  xy: 2, 5629
+  size: 147, 127
+  orig: 147, 127
+  offset: 0, 0
+  index: -1
+HuaShi_01_shouzhi_3
+  rotate: false
+  xy: 1267, 6259
+  size: 133, 138
+  orig: 133, 138
+  offset: 0, 0
+  index: -1
+HuaShi_01_shouzhi_4
+  rotate: false
+  xy: 1391, 6399
+  size: 169, 119
+  orig: 175, 119
+  offset: 0, 0
+  index: -1
+HuaShi_01_tou1
+  rotate: false
+  xy: 951, 2471
+  size: 760, 905
+  orig: 760, 905
+  offset: 0, 0
+  index: -1
+HuaShi_01_touku1
+  rotate: 180
+  xy: 943, 139
+  size: 896, 392
+  orig: 896, 392
+  offset: 0, 0
+  index: -1
+HuaShi_01_xiong1_1
+  rotate: false
+  xy: 1264, 433
+  size: 644, 772
+  orig: 644, 772
+  offset: 0, 0
+  index: -1
+HuaShi_01_xiong1_2
+  rotate: 180
+  xy: 1520, 1185
+  size: 563, 607
+  orig: 563, 607
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanbai1
+  rotate: false
+  xy: 2, 6304
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanbai2
+  rotate: false
+  xy: 2, 6953
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanbai3
+  rotate: false
+  xy: 1879, 7775
+  size: 121, 85
+  orig: 121, 85
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanjing1
+  rotate: false
+  xy: 2, 7123
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanjing2
+  rotate: false
+  xy: 2, 7059
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+HuaShi_01_yanjing3
+  rotate: false
+  xy: 2, 6473
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+HuaShi_01_yeti_1
+  rotate: 180
+  xy: 1910, 7276
+  size: 327, 584
+  orig: 327, 584
+  offset: 0, 0
+  index: -1
+HuaShi_01_yeti_2
+  rotate: false
+  xy: 2, 6528
+  size: 176, 376
+  orig: 176, 376
+  offset: 0, 0
+  index: -1
+HuaShi_01_yeti_3
+  rotate: false
+  xy: 1634, 6301
+  size: 87, 301
+  orig: 87, 301
+  offset: 0, 0
+  index: -1
+HuaShi_01_yeti_4
+  rotate: false
+  xy: 1752, 6737
+  size: 359, 561
+  orig: 359, 561
+  offset: 0, 0
+  index: -1
+HuaShi_01_youshou1_1
+  rotate: true
+  xy: 1267, 6549
+  size: 1312, 483
+  orig: 1352, 483
+  offset: 40, 0
+  index: -1
+HuaShi_01_youshou1_2
+  rotate: 270
+  xy: 1702, 5934
+  size: 726, 381
+  orig: 726, 381
+  offset: 0, 0
+  index: -1
+HuaShi_01_youshou1_3
+  rotate: false
+  xy: 2, 5908
+  size: 207, 386
+  orig: 207, 386
+  offset: 0, 0
+  index: -1
+HuaShi_01_youtui
+  rotate: 180
+  xy: 147, 1629
+  size: 1073, 1657
+  orig: 1073, 1657
+  offset: 0, 0
+  index: -1
+HuaShi_01_zuiba1
+  rotate: false
+  xy: 1916, 7351
+  size: 125, 112
+  orig: 145, 136
+  offset: 7, 0
+  index: -1
+HuaShi_01_zuiba2_1
+  rotate: false
+  xy: 2, 7191
+  size: 73, 153
+  orig: 73, 153
+  offset: 0, 0
+  index: -1
+HuaShi_01_zuiba2_2
+  rotate: false
+  xy: 1709, 6818
+  size: 149, 85
+  orig: 164, 123
+  offset: 15, 0
+  index: -1
+HuaShi_01_zuiba3
+  rotate: false
+  xy: 194, 5819
+  size: 133, 104
+  orig: 150, 142
+  offset: 12, 0
+  index: -1
+HuaShi_01_zuoshou1_1
+  rotate: true
+  xy: 874, 3315
+  size: 903, 1166
+  orig: 903, 1166
+  offset: 0, 0
+  index: -1
+HuaShi_01_zuoshou1_2
+  rotate: 180
+  xy: 1395, 2252
+  size: 699, 756
+  orig: 699, 756
+  offset: 0, 0
+  index: -1
+HuaShi_01_zuotui
+  rotate: 180
+  xy: 2, 375
+  size: 940, 1601
+  orig: 940, 1601
+  offset: 0, 0
+  index: -1

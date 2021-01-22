@@ -1,0 +1,447 @@
+
+RET_chara.png
+size: 3829,2060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RET/RET_hair1
+  rotate: false
+  xy: 2470, 1551
+  size: 504, 507
+  orig: 504, 507
+  offset: 0, 0
+  index: -1
+RET/RET_hair2
+  rotate: true
+  xy: 1237, 124
+  size: 650, 582
+  orig: 651, 582
+  offset: 1, 0
+  index: -1
+RET_AB/ABRET_LL_arm1
+  rotate: false
+  xy: 2470, 1082
+  size: 405, 467
+  orig: 406, 469
+  offset: 0, 1
+  index: -1
+RET_AB/ABRET_LL_arm2
+  rotate: false
+  xy: 2212, 343
+  size: 251, 445
+  orig: 252, 446
+  offset: 1, 0
+  index: -1
+RET_AB/ABRET_LL_arm3
+  rotate: false
+  xy: 2479, 80
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_L_arm1
+  rotate: true
+  xy: 2914, 514
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+RET_AB/ABRET_L_arm2
+  rotate: true
+  xy: 2823, 13
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_L_arm3
+  rotate: false
+  xy: 3323, 74
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+RET_N/RET_L_arm3
+  rotate: false
+  xy: 3323, 74
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_L_leg
+  rotate: false
+  xy: 2, 4
+  size: 303, 2054
+  orig: 303, 2055
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_R_arm1
+  rotate: true
+  xy: 2914, 340
+  size: 172, 522
+  orig: 172, 524
+  offset: 0, 1
+  index: -1
+RET_AB/ABRET_R_arm2
+  rotate: true
+  xy: 2877, 1110
+  size: 300, 534
+  orig: 301, 535
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_R_arm3
+  rotate: false
+  xy: 3626, 690
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_R_leg
+  rotate: false
+  xy: 608, 31
+  size: 318, 2027
+  orig: 319, 2027
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_body
+  rotate: false
+  xy: 1237, 776
+  size: 613, 1282
+  orig: 613, 1282
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_bodyback
+  rotate: false
+  xy: 1965, 21
+  size: 512, 96
+  orig: 512, 96
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_wearcollar
+  rotate: false
+  xy: 2823, 178
+  size: 498, 160
+  orig: 498, 160
+  offset: 0, 0
+  index: -1
+RET_AB/ABRET_wearcollar2
+  rotate: false
+  xy: 2465, 433
+  size: 447, 202
+  orig: 447, 202
+  offset: 0, 0
+  index: -1
+RET_N/RET_LL_arm1
+  rotate: false
+  xy: 2470, 637
+  size: 409, 443
+  orig: 410, 444
+  offset: 0, 0
+  index: -1
+RET_N/RET_LL_arm2
+  rotate: false
+  xy: 1965, 304
+  size: 245, 484
+  orig: 245, 485
+  offset: 0, 0
+  index: -1
+RET_N/RET_LL_arm3
+  rotate: false
+  xy: 2651, 80
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+RET_N/RET_L_arm1
+  rotate: true
+  xy: 1965, 119
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+RET_N/RET_L_arm2
+  rotate: false
+  xy: 3461, 694
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+RET_N/RET_L_leg
+  rotate: false
+  xy: 307, 4
+  size: 299, 2054
+  orig: 299, 2055
+  offset: 0, 0
+  index: -1
+RET_N/RET_R_arm1
+  rotate: true
+  xy: 2881, 895
+  size: 213, 578
+  orig: 213, 580
+  offset: 0, 1
+  index: -1
+RET_N/RET_R_arm2
+  rotate: true
+  xy: 2881, 699
+  size: 194, 573
+  orig: 194, 573
+  offset: 0, 0
+  index: -1
+RET_N/RET_R_arm3
+  rotate: false
+  xy: 3640, 1303
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+RET_N/RET_R_leg
+  rotate: false
+  xy: 928, 31
+  size: 307, 2027
+  orig: 307, 2027
+  offset: 0, 0
+  index: -1
+RET_N/RET_body
+  rotate: false
+  xy: 1852, 790
+  size: 616, 1268
+  orig: 616, 1268
+  offset: 0, 0
+  index: -1
+RET_N/RET_bodyback
+  rotate: false
+  xy: 1237, 19
+  size: 513, 103
+  orig: 513, 103
+  offset: 0, 0
+  index: -1
+RET_N/RET_wearcollar
+  rotate: true
+  xy: 1821, 113
+  size: 661, 142
+  orig: 661, 142
+  offset: 0, 0
+  index: -1
+RET_N/RET_wearcollar2
+  rotate: false
+  xy: 2976, 1412
+  size: 662, 183
+  orig: 662, 183
+  offset: 0, 0
+  index: -1
+RET_eye1/RET_eye1
+  rotate: true
+  xy: 3744, 686
+  size: 296, 73
+  orig: 298, 74
+  offset: 1, 1
+  index: -1
+RET_eye2/RET_eye2
+  rotate: true
+  xy: 3430, 39
+  size: 299, 88
+  orig: 301, 89
+  offset: 1, 0
+  index: -1
+RET_eye2_2/RET_eye2_2
+  rotate: true
+  xy: 3758, 1281
+  size: 314, 69
+  orig: 314, 70
+  offset: 0, 1
+  index: -1
+RET_eye2_3/RET_eye2_3
+  rotate: false
+  xy: 3295, 6
+  size: 283, 31
+  orig: 283, 32
+  offset: 0, 1
+  index: -1
+RET_eye3/RET_eye3
+  rotate: true
+  xy: 3520, 53
+  size: 304, 90
+  orig: 304, 91
+  offset: 0, 0
+  index: -1
+RET_eye3_2/RET_eye3_2
+  rotate: false
+  xy: 2465, 358
+  size: 338, 73
+  orig: 338, 74
+  offset: 0, 1
+  index: -1
+RET_eye4/RET_eye4
+  rotate: false
+  xy: 3438, 410
+  size: 303, 104
+  orig: 305, 105
+  offset: 1, 0
+  index: -1
+RET_eye5/RET_eye5
+  rotate: true
+  xy: 3743, 380
+  size: 304, 84
+  orig: 304, 85
+  offset: 0, 0
+  index: -1
+RET_eye6/RET_eye6
+  rotate: true
+  xy: 3612, 53
+  size: 304, 87
+  orig: 304, 89
+  offset: 0, 1
+  index: -1
+RET_head/RET_head
+  rotate: false
+  xy: 2976, 1597
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+RET_head2/RET_head2
+  rotate: false
+  xy: 3381, 1597
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+RET_mayu2/RET_mayu2
+  rotate: false
+  xy: 3428, 516
+  size: 286, 49
+  orig: 288, 49
+  offset: 1, 0
+  index: -1
+RET_mayu2_1/RET_mayu2_1
+  rotate: false
+  xy: 3438, 359
+  size: 287, 49
+  orig: 289, 50
+  offset: 1, 0
+  index: -1
+RET_mayu3/RET_mayu3
+  rotate: false
+  xy: 2479, 31
+  size: 325, 47
+  orig: 327, 49
+  offset: 1, 1
+  index: -1
+RET_mayu4/RET_mayu4
+  rotate: false
+  xy: 890, 4
+  size: 287, 25
+  orig: 289, 26
+  offset: 1, 0
+  index: -1
+RET_mayu5/RET_mayu5
+  rotate: true
+  xy: 3752, 92
+  size: 286, 46
+  orig: 288, 46
+  offset: 1, 0
+  index: -1
+RET_mayu6/RET_mayu6
+  rotate: true
+  xy: 3786, 1729
+  size: 329, 31
+  orig: 331, 33
+  offset: 1, 1
+  index: -1
+RET_mouth1/RET_mouth1
+  rotate: false
+  xy: 2805, 360
+  size: 91, 36
+  orig: 92, 36
+  offset: 0, 0
+  index: -1
+RET_mouth1_2/RET_mouth1_2
+  rotate: true
+  xy: 2877, 1425
+  size: 124, 71
+  orig: 124, 71
+  offset: 0, 0
+  index: -1
+RET_mouth2/RET_mouth2
+  rotate: true
+  xy: 1752, 44
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+RET_mouth2_2/RET_mouth2_2
+  rotate: true
+  xy: 3786, 1605
+  size: 122, 41
+  orig: 123, 41
+  offset: 0, 0
+  index: -1
+RET_mouth3/RET_mouth3
+  rotate: false
+  xy: 2212, 306
+  size: 103, 35
+  orig: 103, 35
+  offset: 0, 0
+  index: -1
+RET_mouth3_2/RET_mouth3_2
+  rotate: false
+  xy: 2805, 398
+  size: 103, 33
+  orig: 103, 33
+  offset: 0, 0
+  index: -1
+RET_mouth4/RET_mouth4
+  rotate: true
+  xy: 3295, 56
+  size: 120, 26
+  orig: 121, 26
+  offset: 1, 0
+  index: -1
+RET_mouth5/RET_mouth5
+  rotate: true
+  xy: 3557, 592
+  size: 100, 33
+  orig: 102, 33
+  offset: 1, 0
+  index: -1
+RET_mouth6/RET_mouth6
+  rotate: false
+  xy: 2317, 313
+  size: 92, 28
+  orig: 93, 29
+  offset: 1, 0
+  index: -1
+angmark/angmark
+  rotate: false
+  xy: 3428, 567
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+blush/blush
+  rotate: true
+  xy: 3701, 7
+  size: 350, 49
+  orig: 352, 51
+  offset: 1, 1
+  index: -1
+red_cheek
+  rotate: false
+  xy: 608, 2
+  size: 280, 27
+  orig: 288, 31
+  offset: 4, 1
+  index: -1
+sweat1
+  rotate: false
+  xy: 3413, 1166
+  size: 222, 244
+  orig: 222, 245
+  offset: 0, 0
+  index: -1
+sweat2
+  rotate: true
+  xy: 3626, 984
+  size: 180, 201
+  orig: 181, 202
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,3 @@
+・スキンは「RUB_eye1」「RUB_eye2」「RUB_eye3」「RUB_eye4」
+
+・アニメーションは「呼吸」

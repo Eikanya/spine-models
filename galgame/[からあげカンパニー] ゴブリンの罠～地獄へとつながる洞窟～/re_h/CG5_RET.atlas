@@ -1,0 +1,348 @@
+
+CG5_RET.png
+size: 4067,3960
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MON_BB_arm2
+  rotate: true
+  xy: 2, 1485
+  size: 603, 945
+  orig: 604, 945
+  offset: 1, 0
+  index: -1
+MON_BB_arm3
+  rotate: false
+  xy: 1934, 3467
+  size: 434, 314
+  orig: 434, 314
+  offset: 0, 0
+  index: -1
+MON_B_arm
+  rotate: false
+  xy: 1394, 1966
+  size: 1179, 533
+  orig: 1179, 533
+  offset: 0, 0
+  index: -1
+MON_B_leg
+  rotate: false
+  xy: 949, 1136
+  size: 960, 828
+  orig: 960, 828
+  offset: 0, 0
+  index: -1
+MON_F_leg
+  rotate: false
+  xy: 1911, 765
+  size: 1091, 1073
+  orig: 1091, 1073
+  offset: 0, 0
+  index: -1
+MON_body
+  rotate: true
+  xy: 2, 2
+  size: 1132, 1729
+  orig: 1132, 1729
+  offset: 0, 0
+  index: -1
+MON_boll
+  rotate: true
+  xy: 3186, 3757
+  size: 201, 230
+  orig: 201, 233
+  offset: 0, 0
+  index: -1
+RET_B_breast
+  rotate: false
+  xy: 2, 3657
+  size: 257, 235
+  orig: 257, 235
+  offset: 0, 0
+  index: -1
+RET_F_arm1
+  rotate: true
+  xy: 1008, 3549
+  size: 284, 461
+  orig: 284, 461
+  offset: 0, 0
+  index: -1
+RET_F_arm2
+  rotate: false
+  xy: 1135, 3129
+  size: 566, 399
+  orig: 566, 399
+  offset: 0, 0
+  index: -1
+RET_F_breast
+  rotate: false
+  xy: 709, 3588
+  size: 297, 268
+  orig: 297, 268
+  offset: 0, 0
+  index: -1
+RET_F_leg1
+  rotate: false
+  xy: 2141, 3017
+  size: 1127, 441
+  orig: 1127, 441
+  offset: 0, 0
+  index: -1
+RET_F_leg1_2
+  rotate: false
+  xy: 2, 2739
+  size: 1127, 441
+  orig: 1127, 441
+  offset: 0, 0
+  index: -1
+RET_F_leg2
+  rotate: true
+  xy: 1131, 2638
+  size: 489, 553
+  orig: 489, 553
+  offset: 0, 0
+  index: -1
+RET_body1
+  rotate: false
+  xy: 3128, 1813
+  size: 673, 578
+  orig: 673, 578
+  offset: 0, 0
+  index: -1
+RET_body2_1
+  rotate: false
+  xy: 1686, 2501
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+RET_body2_2
+  rotate: false
+  xy: 2876, 2393
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+RET_body2_3
+  rotate: false
+  xy: 3471, 2393
+  size: 594, 514
+  orig: 596, 514
+  offset: 0, 0
+  index: -1
+RET_body3_1
+  rotate: false
+  xy: 2281, 2501
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+RET_body3_2
+  rotate: false
+  xy: 2281, 2501
+  size: 593, 514
+  orig: 593, 514
+  offset: 0, 0
+  index: -1
+RET_body3_3
+  rotate: false
+  xy: 2, 2223
+  size: 594, 514
+  orig: 596, 514
+  offset: 0, 0
+  index: -1
+RET_eye1
+  rotate: false
+  xy: 1501, 3834
+  size: 242, 124
+  orig: 244, 125
+  offset: 1, 0
+  index: -1
+RET_eye2
+  rotate: false
+  xy: 1257, 3835
+  size: 242, 123
+  orig: 244, 124
+  offset: 1, 0
+  index: -1
+RET_eye3
+  rotate: false
+  xy: 1025, 3843
+  size: 230, 115
+  orig: 232, 117
+  offset: 1, 1
+  index: -1
+RET_eye4
+  rotate: false
+  xy: 1745, 3824
+  size: 265, 134
+  orig: 266, 135
+  offset: 1, 0
+  index: -1
+RET_hair1
+  rotate: true
+  xy: 2, 3263
+  size: 352, 490
+  orig: 352, 490
+  offset: 0, 0
+  index: -1
+RET_hair2
+  rotate: true
+  xy: 3418, 3733
+  size: 225, 468
+  orig: 225, 468
+  offset: 0, 0
+  index: -1
+RET_hair3
+  rotate: true
+  xy: 261, 3617
+  size: 242, 446
+  orig: 242, 446
+  offset: 0, 0
+  index: -1
+RET_hair4
+  rotate: false
+  xy: 2575, 1840
+  size: 551, 551
+  orig: 551, 551
+  offset: 0, 0
+  index: -1
+RET_head
+  rotate: false
+  xy: 1703, 3058
+  size: 436, 407
+  orig: 437, 407
+  offset: 1, 0
+  index: -1
+RET_mayu1
+  rotate: false
+  xy: 770, 3858
+  size: 253, 100
+  orig: 255, 101
+  offset: 1, 1
+  index: -1
+RET_mayu2
+  rotate: false
+  xy: 546, 3861
+  size: 222, 97
+  orig: 225, 98
+  offset: 1, 0
+  index: -1
+RET_mouth1
+  rotate: false
+  xy: 46, 3911
+  size: 94, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+RET_mouth2
+  rotate: false
+  xy: 142, 3908
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+RET_mouth3
+  rotate: false
+  xy: 235, 3894
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+RET_mouth4
+  rotate: false
+  xy: 2, 3927
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+RET_wear
+  rotate: false
+  xy: 3270, 2909
+  size: 682, 480
+  orig: 682, 480
+  offset: 0, 0
+  index: -1
+chair1
+  rotate: false
+  xy: 598, 2090
+  size: 794, 546
+  orig: 794, 546
+  offset: 0, 0
+  index: -1
+chair2
+  rotate: false
+  xy: 2012, 3783
+  size: 751, 175
+  orig: 751, 175
+  offset: 0, 0
+  index: -1
+chair3
+  rotate: false
+  xy: 2370, 3460
+  size: 962, 295
+  orig: 962, 295
+  offset: 0, 0
+  index: -1
+chair4
+  rotate: false
+  xy: 331, 3890
+  size: 213, 68
+  orig: 213, 68
+  offset: 0, 0
+  index: -1
+dick1
+  rotate: false
+  xy: 1471, 3530
+  size: 461, 292
+  orig: 461, 292
+  offset: 0, 0
+  index: -1
+dick2_2
+  rotate: true
+  xy: 3334, 3391
+  size: 340, 455
+  orig: 340, 455
+  offset: 0, 0
+  index: -1
+semen1
+  rotate: true
+  xy: 2765, 3759
+  size: 199, 419
+  orig: 199, 419
+  offset: 0, 0
+  index: -1
+semen2
+  rotate: true
+  xy: 494, 3182
+  size: 365, 639
+  orig: 365, 639
+  offset: 0, 0
+  index: -1
+
+CG5_RET2.png
+size: 3672,3072
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RET_B_leg
+  rotate: true
+  xy: 2130, 1537
+  size: 1533, 1540
+  orig: 1533, 1540
+  offset: 0, 0
+  index: -1
+RET_B_leg_2
+  rotate: true
+  xy: 2130, 2
+  size: 1533, 1540
+  orig: 1533, 1540
+  offset: 0, 0
+  index: -1
+back
+  rotate: true
+  xy: 2, 69
+  size: 3001, 2126
+  orig: 3001, 2126
+  offset: 0, 0
+  index: -1

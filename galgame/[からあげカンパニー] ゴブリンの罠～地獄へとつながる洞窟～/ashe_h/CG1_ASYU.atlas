@@ -1,0 +1,484 @@
+
+CG1_ASYU.png
+size: 4077,3995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ASYU/ASYU_F_arm2
+  rotate: false
+  xy: 2368, 2793
+  size: 739, 408
+  orig: 739, 409
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_L_breast
+  rotate: false
+  xy: 599, 3707
+  size: 217, 211
+  orig: 217, 212
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_R_breast
+  rotate: false
+  xy: 1479, 3657
+  size: 236, 230
+  orig: 236, 230
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_body1_2
+  rotate: false
+  xy: 3377, 2016
+  size: 698, 762
+  orig: 698, 762
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_eye1
+  rotate: true
+  xy: 2514, 3885
+  size: 108, 281
+  orig: 110, 282
+  offset: 1, 0
+  index: -1
+ASYU/ASYU_eye2
+  rotate: true
+  xy: 2797, 3885
+  size: 108, 281
+  orig: 110, 282
+  offset: 1, 0
+  index: -1
+ASYU/ASYU_eye3
+  rotate: true
+  xy: 1509, 3889
+  size: 104, 281
+  orig: 105, 283
+  offset: 0, 1
+  index: -1
+ASYU/ASYU_eye4
+  rotate: true
+  xy: 1792, 3889
+  size: 104, 296
+  orig: 104, 298
+  offset: 0, 1
+  index: -1
+ASYU/ASYU_hair1
+  rotate: true
+  xy: 1971, 2180
+  size: 611, 668
+  orig: 611, 668
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_hair2
+  rotate: false
+  xy: 922, 1704
+  size: 825, 731
+  orig: 825, 731
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_head
+  rotate: false
+  xy: 659, 2486
+  size: 530, 480
+  orig: 530, 481
+  offset: 0, 1
+  index: -1
+ASYU/ASYU_mayu1
+  rotate: true
+  xy: 455, 3932
+  size: 61, 276
+  orig: 62, 278
+  offset: 1, 1
+  index: -1
+ASYU/ASYU_mayu2
+  rotate: true
+  xy: 168, 3941
+  size: 52, 285
+  orig: 53, 286
+  offset: 1, 0
+  index: -1
+ASYU/ASYU_mouth1
+  rotate: true
+  xy: 2, 3958
+  size: 35, 101
+  orig: 35, 101
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_mouth2
+  rotate: true
+  xy: 959, 3919
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_mouth3
+  rotate: true
+  xy: 105, 3942
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+ASYU/ASYU_wear
+  rotate: true
+  xy: 1191, 2437
+  size: 439, 778
+  orig: 439, 778
+  offset: 0, 0
+  index: -1
+ASYU/MON_BB_arm3
+  rotate: true
+  xy: 2434, 3601
+  size: 282, 325
+  orig: 282, 325
+  offset: 0, 0
+  index: -1
+ASYU_B_leg1
+  rotate: true
+  xy: 2835, 1276
+  size: 738, 970
+  orig: 738, 971
+  offset: 0, 1
+  index: -1
+ASYU_B_leg1_2
+  rotate: true
+  xy: 2, 964
+  size: 738, 970
+  orig: 738, 971
+  offset: 0, 1
+  index: -1
+ASYU_B_leg2
+  rotate: false
+  xy: 162, 3780
+  size: 238, 159
+  orig: 239, 159
+  offset: 0, 0
+  index: -1
+ASYU_B_rope1
+  rotate: true
+  xy: 2, 3814
+  size: 126, 158
+  orig: 126, 158
+  offset: 0, 0
+  index: -1
+ASYU_B_rope2
+  rotate: true
+  xy: 733, 3920
+  size: 73, 224
+  orig: 73, 225
+  offset: 0, 0
+  index: -1
+ASYU_F_arm3
+  rotate: false
+  xy: 3510, 3586
+  size: 345, 295
+  orig: 345, 295
+  offset: 0, 0
+  index: -1
+ASYU_F_leg1
+  rotate: false
+  xy: 974, 640
+  size: 1081, 753
+  orig: 1082, 755
+  offset: 0, 1
+  index: -1
+ASYU_F_leg1_2
+  rotate: false
+  xy: 2057, 521
+  size: 1081, 753
+  orig: 1082, 755
+  offset: 0, 1
+  index: -1
+ASYU_F_leg2
+  rotate: true
+  xy: 2, 2562
+  size: 420, 655
+  orig: 420, 655
+  offset: 0, 0
+  index: -1
+ASYU_F_rope1
+  rotate: true
+  xy: 1042, 3900
+  size: 93, 465
+  orig: 93, 465
+  offset: 0, 0
+  index: -1
+ASYU_F_rope2
+  rotate: false
+  xy: 2090, 3886
+  size: 124, 107
+  orig: 125, 108
+  offset: 1, 0
+  index: -1
+ASYU_eye1_2
+  rotate: true
+  xy: 3364, 3883
+  size: 110, 282
+  orig: 111, 283
+  offset: 1, 0
+  index: -1
+ASYU_eye2_2
+  rotate: true
+  xy: 3648, 3883
+  size: 110, 282
+  orig: 111, 283
+  offset: 1, 0
+  index: -1
+ASYU_eye3_2
+  rotate: true
+  xy: 3080, 3884
+  size: 109, 282
+  orig: 109, 283
+  offset: 0, 0
+  index: -1
+ASYU_eye4_2
+  rotate: true
+  xy: 2216, 3886
+  size: 107, 296
+  orig: 107, 298
+  offset: 0, 1
+  index: -1
+ASYU_genital1
+  rotate: false
+  xy: 3347, 3190
+  size: 440, 394
+  orig: 440, 394
+  offset: 0, 0
+  index: -1
+ASYU_genital2
+  rotate: false
+  xy: 2, 2984
+  size: 440, 394
+  orig: 440, 394
+  offset: 0, 0
+  index: -1
+ASYU_genital2_2
+  rotate: false
+  xy: 444, 2984
+  size: 440, 394
+  orig: 440, 394
+  offset: 0, 0
+  index: -1
+ASYU_wear2
+  rotate: true
+  xy: 3109, 2780
+  size: 408, 698
+  orig: 408, 698
+  offset: 0, 0
+  index: -1
+MON_BB_arm1
+  rotate: true
+  xy: 332, 3380
+  size: 291, 613
+  orig: 291, 614
+  offset: 0, 0
+  index: -1
+MON_BB_arm2
+  rotate: true
+  xy: 1964, 3614
+  size: 270, 468
+  orig: 271, 470
+  offset: 1, 1
+  index: -1
+MON_B_arm1
+  rotate: true
+  xy: 1749, 1395
+  size: 727, 1084
+  orig: 727, 1084
+  offset: 0, 0
+  index: -1
+MON_B_arm3_1
+  rotate: false
+  xy: 402, 3754
+  size: 195, 176
+  orig: 196, 176
+  offset: 0, 0
+  index: -1
+MON_B_arm3_2
+  rotate: false
+  xy: 2379, 3241
+  size: 515, 350
+  orig: 516, 351
+  offset: 0, 0
+  index: -1
+MON_B_leg1
+  rotate: true
+  xy: 2, 1792
+  size: 692, 918
+  orig: 693, 918
+  offset: 0, 0
+  index: -1
+MON_B_leg2
+  rotate: false
+  xy: 2761, 3593
+  size: 747, 288
+  orig: 748, 289
+  offset: 0, 0
+  index: -1
+MON_F_arm2
+  rotate: true
+  xy: 818, 3673
+  size: 225, 659
+  orig: 225, 659
+  offset: 0, 0
+  index: -1
+MON_F_arm3
+  rotate: true
+  xy: 1457, 3322
+  size: 325, 459
+  orig: 325, 460
+  offset: 0, 0
+  index: -1
+MON_F_leg1
+  rotate: true
+  xy: 1328, 2878
+  size: 390, 1038
+  orig: 390, 1039
+  offset: 0, 1
+  index: -1
+MON_F_leg2
+  rotate: true
+  xy: 947, 3364
+  size: 307, 508
+  orig: 308, 510
+  offset: 0, 1
+  index: -1
+SERI/MON_BB_arm3_2
+  rotate: true
+  xy: 2, 3478
+  size: 300, 328
+  orig: 300, 328
+  offset: 0, 0
+  index: -1
+a_mosaic2
+  rotate: false
+  xy: 886, 2968
+  size: 440, 394
+  orig: 440, 394
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 2641, 2124
+  size: 734, 654
+  orig: 734, 655
+  offset: 0, 0
+  index: -1
+dick1
+  rotate: false
+  xy: 1717, 3649
+  size: 245, 238
+  orig: 245, 238
+  offset: 0, 0
+  index: -1
+dick2
+  rotate: true
+  xy: 3932, 3875
+  size: 118, 133
+  orig: 118, 133
+  offset: 0, 0
+  index: -1
+kk1
+  rotate: false
+  xy: 3140, 2
+  size: 766, 1272
+  orig: 782, 1313
+  offset: 16, 41
+  index: -1
+semen
+  rotate: false
+  xy: 1918, 3270
+  size: 459, 342
+  orig: 459, 342
+  offset: 0, 0
+  index: -1
+shorts
+  rotate: false
+  xy: 2896, 3203
+  size: 449, 388
+  orig: 449, 388
+  offset: 0, 0
+  index: -1
+
+CG1_ASYU2.png
+size: 3772,2172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MON_body
+  rotate: false
+  xy: 1429, 1124
+  size: 1062, 1046
+  orig: 1062, 1046
+  offset: 0, 0
+  index: -1
+kk2
+  rotate: true
+  xy: 2493, 120
+  size: 2050, 1277
+  orig: 2089, 1314
+  offset: 39, 37
+  index: -1
+kk6
+  rotate: false
+  xy: 2, 2
+  size: 2051, 1120
+  orig: 2087, 1153
+  offset: 0, 33
+  index: -1
+kk_sc7
+  rotate: true
+  xy: 2, 1219
+  size: 951, 1425
+  orig: 1088, 1574
+  offset: 137, 149
+  index: -1
+
+CG1_ASYU3.png
+size: 3005,2130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 2
+  size: 3001, 2126
+  orig: 3001, 2126
+  offset: 0, 0
+  index: -1
+
+CG1_ASYU4.png
+size: 3005,2130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk3
+  rotate: false
+  xy: 2, 2
+  size: 3001, 2126
+  orig: 3001, 2126
+  offset: 0, 0
+  index: -1
+
+CG1_ASYU5.png
+size: 3005,2130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk4
+  rotate: false
+  xy: 2, 2
+  size: 3001, 2126
+  orig: 3001, 2126
+  offset: 0, 0
+  index: -1
+
+CG1_ASYU6.png
+size: 3005,2130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk5
+  rotate: false
+  xy: 2, 2
+  size: 3001, 2126
+  orig: 3001, 2126
+  offset: 0, 0
+  index: -1

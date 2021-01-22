@@ -1,0 +1,125 @@
+
+3_RUB.png
+size: 3729,2679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RET_F_arm1
+  rotate: true
+  xy: 2074, 1065
+  size: 403, 1052
+  orig: 403, 1053
+  offset: 0, 0
+  index: -1
+RET_F_arm2
+  rotate: false
+  xy: 2948, 2
+  size: 656, 647
+  orig: 656, 647
+  offset: 0, 0
+  index: -1
+RET_F_arm3
+  rotate: true
+  xy: 3128, 1074
+  size: 267, 571
+  orig: 268, 571
+  offset: 0, 0
+  index: -1
+RET_waer
+  rotate: false
+  xy: 2172, 2048
+  size: 1102, 629
+  orig: 1102, 629
+  offset: 0, 0
+  index: -1
+RUBI/MON_arm
+  rotate: false
+  xy: 1185, 210
+  size: 715, 496
+  orig: 715, 496
+  offset: 0, 0
+  index: -1
+RUBI/MON_body
+  rotate: false
+  xy: 2, 551
+  size: 1181, 2126
+  orig: 1181, 2126
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_body2
+  rotate: false
+  xy: 2172, 1470
+  size: 981, 576
+  orig: 981, 576
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_bura
+  rotate: false
+  xy: 1185, 1520
+  size: 985, 1157
+  orig: 985, 1168
+  offset: 0, 11
+  index: -1
+RUBI/RUBI_eye1
+  rotate: false
+  xy: 2869, 651
+  size: 322, 412
+  orig: 323, 412
+  offset: 1, 0
+  index: -1
+RUBI/RUBI_eye2
+  rotate: false
+  xy: 3193, 660
+  size: 322, 412
+  orig: 323, 412
+  offset: 1, 0
+  index: -1
+RUBI/RUBI_hair1
+  rotate: false
+  xy: 1185, 708
+  size: 887, 810
+  orig: 887, 810
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_hair2
+  rotate: false
+  xy: 3155, 1343
+  size: 572, 662
+  orig: 655, 724
+  offset: 0, 61
+  index: -1
+RUBI/RUBI_hair3
+  rotate: false
+  xy: 3276, 2007
+  size: 421, 670
+  orig: 421, 670
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_hair4
+  rotate: true
+  xy: 2, 100
+  size: 449, 1118
+  orig: 449, 1118
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_head
+  rotate: true
+  xy: 1902, 70
+  size: 493, 654
+  orig: 493, 654
+  offset: 0, 0
+  index: -1
+RUBI/RUBI_ribbon
+  rotate: true
+  xy: 2558, 43
+  size: 520, 388
+  orig: 521, 388
+  offset: 0, 0
+  index: -1
+dick
+  rotate: false
+  xy: 2074, 565
+  size: 793, 498
+  orig: 793, 498
+  offset: 0, 0
+  index: -1

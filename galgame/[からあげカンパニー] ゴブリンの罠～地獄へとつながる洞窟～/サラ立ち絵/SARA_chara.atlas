@@ -1,0 +1,531 @@
+
+SARA_chara.png
+size: 4065,2632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SARA/SARA_AHOGE
+  rotate: false
+  xy: 2540, 957
+  size: 121, 135
+  orig: 121, 135
+  offset: 0, 0
+  index: -1
+SARA/SARA_hair1
+  rotate: false
+  xy: 2238, 2
+  size: 335, 268
+  orig: 335, 268
+  offset: 0, 0
+  index: -1
+SARA/SARA_hair2
+  rotate: false
+  xy: 620, 58
+  size: 457, 543
+  orig: 457, 543
+  offset: 0, 0
+  index: -1
+SARA/SARA_hair3
+  rotate: false
+  xy: 2, 12
+  size: 616, 562
+  orig: 618, 562
+  offset: 1, 0
+  index: -1
+SARA/SARA_hair4
+  rotate: true
+  xy: 2016, 1094
+  size: 252, 672
+  orig: 252, 672
+  offset: 0, 0
+  index: -1
+SARA/SARA_hair5
+  rotate: true
+  xy: 3249, 1361
+  size: 315, 673
+  orig: 315, 673
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_LLL_arm2
+  rotate: true
+  xy: 2601, 182
+  size: 280, 281
+  orig: 281, 282
+  offset: 1, 1
+  index: -1
+SARA_AB/ABSARA_LLL_arm3
+  rotate: false
+  xy: 1237, 1084
+  size: 777, 1546
+  orig: 778, 1547
+  offset: 1, 1
+  index: -1
+SARA_TUE/SARA_LLL_arm3
+  rotate: false
+  xy: 1237, 1084
+  size: 777, 1546
+  orig: 778, 1547
+  offset: 1, 1
+  index: -1
+SARA_AB/ABSARA_LL_arm1
+  rotate: false
+  xy: 1275, 238
+  size: 405, 467
+  orig: 406, 469
+  offset: 0, 1
+  index: -1
+SARA_AB/ABSARA_LL_arm2
+  rotate: false
+  xy: 2903, 613
+  size: 251, 445
+  orig: 252, 446
+  offset: 1, 0
+  index: -1
+SARA_AB/ABSARA_LL_arm3
+  rotate: false
+  xy: 3876, 1690
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_L_arm1
+  rotate: true
+  xy: 1724, 59
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+SARA_AB/ABSARA_L_arm2
+  rotate: true
+  xy: 3156, 590
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_L_arm3
+  rotate: true
+  xy: 3682, 359
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_L_arm3
+  rotate: true
+  xy: 3682, 359
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_L_leg
+  rotate: false
+  xy: 2, 576
+  size: 303, 2054
+  orig: 303, 2055
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_R_arm1
+  rotate: true
+  xy: 2016, 920
+  size: 172, 522
+  orig: 172, 524
+  offset: 0, 1
+  index: -1
+SARA_AB/ABSARA_R_arm2
+  rotate: true
+  xy: 2690, 1060
+  size: 300, 534
+  orig: 301, 535
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_R_arm3
+  rotate: false
+  xy: 3924, 1396
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_R_leg
+  rotate: false
+  xy: 608, 603
+  size: 318, 2027
+  orig: 319, 2027
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_body
+  rotate: false
+  xy: 2016, 1348
+  size: 613, 1282
+  orig: 613, 1282
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_bodyback
+  rotate: false
+  xy: 3167, 225
+  size: 512, 96
+  orig: 512, 96
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_wearcollar
+  rotate: false
+  xy: 3167, 428
+  size: 498, 160
+  orig: 498, 160
+  offset: 0, 0
+  index: -1
+SARA_AB/ABSARA_wearcollar2
+  rotate: false
+  xy: 1275, 34
+  size: 447, 202
+  orig: 447, 202
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_B_cape
+  rotate: true
+  xy: 3889, 949
+  size: 410, 174
+  orig: 410, 174
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_F_cape
+  rotate: false
+  xy: 1237, 707
+  size: 666, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_F_cape2
+  rotate: true
+  xy: 3249, 1678
+  size: 952, 625
+  orig: 952, 625
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_LL_arm1
+  rotate: false
+  xy: 2492, 464
+  size: 409, 454
+  orig: 410, 456
+  offset: 0, 1
+  index: -1
+SARA_N/SARA_LL_arm2
+  rotate: true
+  xy: 3156, 755
+  size: 245, 445
+  orig: 245, 446
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_LL_arm3
+  rotate: true
+  xy: 3667, 466
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_L_arm1
+  rotate: true
+  xy: 2087, 272
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+SARA_N/SARA_L_arm2
+  rotate: true
+  xy: 2575, 17
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_L_leg
+  rotate: false
+  xy: 307, 576
+  size: 299, 2054
+  orig: 299, 2055
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_R_arm1
+  rotate: true
+  xy: 3226, 1002
+  size: 213, 578
+  orig: 213, 580
+  offset: 0, 1
+  index: -1
+SARA_N/SARA_R_arm2
+  rotate: false
+  xy: 1079, 49
+  size: 194, 552
+  orig: 194, 552
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_R_arm3
+  rotate: true
+  xy: 3628, 638
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_R_leg
+  rotate: false
+  xy: 928, 603
+  size: 307, 2027
+  orig: 307, 2027
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_body
+  rotate: false
+  xy: 2631, 1362
+  size: 616, 1268
+  orig: 616, 1268
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_bodyback
+  rotate: false
+  xy: 3167, 323
+  size: 513, 103
+  orig: 513, 103
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_wearcollar
+  rotate: false
+  xy: 3226, 1217
+  size: 661, 142
+  orig: 661, 142
+  offset: 0, 0
+  index: -1
+SARA_N/SARA_wearcollar2
+  rotate: true
+  xy: 3876, 1968
+  size: 662, 183
+  orig: 662, 183
+  offset: 0, 0
+  index: -1
+SARA_TUE/SARA_LLL_arm2
+  rotate: true
+  xy: 2884, 182
+  size: 280, 281
+  orig: 281, 282
+  offset: 1, 1
+  index: -1
+SARA_eye1/SARA_eye1
+  rotate: false
+  xy: 3682, 287
+  size: 296, 70
+  orig: 298, 71
+  offset: 1, 1
+  index: -1
+SARA_eye2/SARA_eye2
+  rotate: false
+  xy: 3681, 198
+  size: 310, 87
+  orig: 312, 89
+  offset: 1, 1
+  index: -1
+SARA_eye2_2/SARA_eye2_2
+  rotate: true
+  xy: 3980, 324
+  size: 313, 71
+  orig: 315, 72
+  offset: 1, 0
+  index: -1
+SARA_eye2_3/SARA_eye2_3
+  rotate: false
+  xy: 972, 16
+  size: 283, 31
+  orig: 283, 32
+  offset: 0, 1
+  index: -1
+SARA_eye3/SARA_eye3
+  rotate: false
+  xy: 3352, 63
+  size: 314, 88
+  orig: 314, 89
+  offset: 0, 0
+  index: -1
+SARA_eye3_2/SARA_eye3_2
+  rotate: false
+  xy: 3167, 153
+  size: 333, 70
+  orig: 333, 71
+  offset: 0, 1
+  index: -1
+SARA_eye4/SARA_eye4
+  rotate: false
+  xy: 3047, 47
+  size: 303, 104
+  orig: 305, 105
+  offset: 1, 0
+  index: -1
+SARA_eye5/SARA_eye5
+  rotate: true
+  xy: 3922, 639
+  size: 308, 82
+  orig: 310, 83
+  offset: 1, 0
+  index: -1
+SARA_eye6/SARA_eye6
+  rotate: false
+  xy: 3668, 111
+  size: 314, 85
+  orig: 314, 86
+  offset: 0, 0
+  index: -1
+SARA_head/SARA_head
+  rotate: false
+  xy: 1682, 244
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+SARA_head2/SARA_head2
+  rotate: false
+  xy: 2087, 457
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+SARA_mayu2/SARA_mayu2
+  rotate: false
+  xy: 3654, 11
+  size: 286, 49
+  orig: 288, 49
+  offset: 1, 0
+  index: -1
+SARA_mayu2_2/SARA_mayu2_2
+  rotate: false
+  xy: 3365, 12
+  size: 287, 49
+  orig: 289, 50
+  offset: 1, 0
+  index: -1
+SARA_mayu3/SARA_mayu3
+  rotate: false
+  xy: 3668, 62
+  size: 325, 47
+  orig: 327, 49
+  offset: 1, 1
+  index: -1
+SARA_mayu4/SARA_mayu4
+  rotate: false
+  xy: 1257, 7
+  size: 287, 25
+  orig: 289, 26
+  offset: 1, 0
+  index: -1
+SARA_mayu5/SARA_mayu5
+  rotate: true
+  xy: 4006, 661
+  size: 286, 46
+  orig: 288, 46
+  offset: 1, 0
+  index: -1
+SARA_mayu6/SARA_mayu6
+  rotate: false
+  xy: 3047, 3
+  size: 316, 42
+  orig: 318, 47
+  offset: 1, 1
+  index: -1
+SARA_mayu6_2/SARA_mayu6_2
+  rotate: false
+  xy: 1724, 30
+  size: 329, 27
+  orig: 331, 29
+  offset: 1, 1
+  index: -1
+SARA_mouth1/SARA_mouth1
+  rotate: false
+  xy: 3502, 185
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+SARA_mouth1_2/SARA_mouth1_2
+  rotate: false
+  xy: 1905, 1009
+  size: 97, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+SARA_mouth2/SARA_mouth2
+  rotate: false
+  xy: 3032, 549
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+SARA_mouth2_2/SARA_mouth2_2
+  rotate: false
+  xy: 3047, 153
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+SARA_mouth3/SARA_mouth3
+  rotate: false
+  xy: 1905, 965
+  size: 89, 42
+  orig: 90, 43
+  offset: 0, 1
+  index: -1
+SARA_mouth3_2/SARA_mouth3_2
+  rotate: false
+  xy: 3924, 1361
+  size: 103, 33
+  orig: 103, 33
+  offset: 0, 0
+  index: -1
+SARA_mouth4/SARA_mouth4
+  rotate: true
+  xy: 3806, 1126
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+SARA_mouth5/SARA_mouth5
+  rotate: true
+  xy: 1237, 605
+  size: 100, 33
+  orig: 102, 33
+  offset: 1, 0
+  index: -1
+SARA_mouth6/SARA_mouth6
+  rotate: true
+  xy: 3856, 1037
+  size: 87, 31
+  orig: 87, 32
+  offset: 0, 0
+  index: -1
+angmark/angmark
+  rotate: false
+  xy: 2903, 486
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+blush/blush
+  rotate: false
+  xy: 620, 7
+  size: 350, 49
+  orig: 352, 51
+  offset: 1, 1
+  index: -1
+red_cheek
+  rotate: true
+  xy: 3827, 844
+  size: 280, 27
+  orig: 288, 31
+  offset: 4, 1
+  index: -1
+sweat1
+  rotate: false
+  xy: 3603, 756
+  size: 222, 244
+  orig: 222, 245
+  offset: 0, 0
+  index: -1
+sweat2
+  rotate: false
+  xy: 1905, 717
+  size: 180, 201
+  orig: 181, 202
+  offset: 0, 0
+  index: -1

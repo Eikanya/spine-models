@@ -1,0 +1,503 @@
+
+SERI_chara.png
+size: 4081,2823
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SERI/SERI_hair1
+  rotate: true
+  xy: 956, 195
+  size: 426, 741
+  orig: 426, 741
+  offset: 0, 0
+  index: -1
+SERI/SERI_hair2
+  rotate: false
+  xy: 2016, 1639
+  size: 772, 1182
+  orig: 772, 1209
+  offset: 0, 27
+  index: -1
+SERI/SERI_hat
+  rotate: false
+  xy: 1237, 623
+  size: 993, 650
+  orig: 993, 650
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_LLL_arm2
+  rotate: false
+  xy: 3770, 1307
+  size: 280, 281
+  orig: 281, 282
+  offset: 1, 1
+  index: -1
+SERI_AB/ABSERI_LLL_arm3
+  rotate: false
+  xy: 1237, 1275
+  size: 777, 1546
+  orig: 778, 1547
+  offset: 1, 1
+  index: -1
+SERI_N/SERI_LLL_arm3
+  rotate: false
+  xy: 1237, 1275
+  size: 777, 1546
+  orig: 778, 1547
+  offset: 1, 1
+  index: -1
+SERI_AB/ABSERI_LL_arm1
+  rotate: false
+  xy: 2232, 841
+  size: 405, 467
+  orig: 406, 469
+  offset: 0, 1
+  index: -1
+SERI_AB/ABSERI_LL_arm2
+  rotate: true
+  xy: 2639, 967
+  size: 251, 445
+  orig: 252, 446
+  offset: 1, 0
+  index: -1
+SERI_AB/ABSERI_LL_arm3
+  rotate: true
+  xy: 3183, 306
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_L_arm1
+  rotate: true
+  xy: 2279, 7
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+SERI_AB/ABSERI_L_arm2
+  rotate: false
+  xy: 3588, 469
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_L_arm3
+  rotate: true
+  xy: 956, 687
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_L_leg
+  rotate: false
+  xy: 2, 767
+  size: 303, 2054
+  orig: 303, 2055
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_R_arm1
+  rotate: true
+  xy: 2679, 1220
+  size: 172, 522
+  orig: 172, 524
+  offset: 0, 1
+  index: -1
+SERI_AB/ABSERI_R_arm2
+  rotate: true
+  xy: 3234, 1288
+  size: 300, 534
+  orig: 301, 535
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_R_arm3
+  rotate: true
+  xy: 3770, 1189
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_R_leg
+  rotate: false
+  xy: 608, 794
+  size: 318, 2027
+  orig: 319, 2027
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_body
+  rotate: true
+  xy: 2790, 2208
+  size: 613, 1282
+  orig: 613, 1282
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_bodyback
+  rotate: false
+  xy: 956, 97
+  size: 512, 96
+  orig: 512, 96
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_wearcollar
+  rotate: false
+  xy: 3205, 941
+  size: 498, 160
+  orig: 498, 160
+  offset: 0, 0
+  index: -1
+SERI_AB/ABSERI_wearcollar2
+  rotate: false
+  xy: 2232, 637
+  size: 447, 202
+  orig: 447, 202
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_B_cape
+  rotate: false
+  xy: 2793, 81
+  size: 410, 174
+  orig: 410, 174
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_F_cape
+  rotate: false
+  xy: 1699, 246
+  size: 666, 375
+  orig: 667, 375
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_F_cape2
+  rotate: false
+  xy: 2, 140
+  size: 952, 625
+  orig: 952, 625
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_LLL_arm2
+  rotate: false
+  xy: 3205, 23
+  size: 280, 281
+  orig: 281, 282
+  offset: 1, 1
+  index: -1
+SERI_N/SERI_LL_arm1
+  rotate: false
+  xy: 2367, 192
+  size: 409, 443
+  orig: 410, 444
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_LL_arm2
+  rotate: true
+  xy: 2681, 720
+  size: 245, 445
+  orig: 245, 446
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_LL_arm3
+  rotate: false
+  xy: 3753, 439
+  size: 170, 276
+  orig: 171, 276
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_L_arm1
+  rotate: true
+  xy: 3203, 1103
+  size: 183, 512
+  orig: 184, 512
+  offset: 1, 0
+  index: -1
+SERI_N/SERI_L_arm2
+  rotate: false
+  xy: 3753, 717
+  size: 163, 470
+  orig: 163, 470
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_L_arm3
+  rotate: true
+  xy: 3698, 86
+  size: 105, 264
+  orig: 105, 264
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_L_leg
+  rotate: false
+  xy: 307, 767
+  size: 299, 2054
+  orig: 299, 2055
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_R_arm1
+  rotate: true
+  xy: 1699, 31
+  size: 213, 578
+  orig: 213, 580
+  offset: 0, 1
+  index: -1
+SERI_N/SERI_R_arm2
+  rotate: true
+  xy: 2680, 1394
+  size: 194, 552
+  orig: 194, 552
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_R_arm3
+  rotate: false
+  xy: 3918, 895
+  size: 116, 292
+  orig: 116, 292
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_R_leg
+  rotate: false
+  xy: 928, 794
+  size: 307, 2027
+  orig: 307, 2027
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_body
+  rotate: true
+  xy: 2790, 1590
+  size: 616, 1268
+  orig: 616, 1268
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_bodyback
+  rotate: false
+  xy: 2, 35
+  size: 513, 103
+  orig: 513, 103
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_wearcollar
+  rotate: false
+  xy: 2016, 1310
+  size: 661, 142
+  orig: 661, 142
+  offset: 0, 0
+  index: -1
+SERI_N/SERI_wearcollar2
+  rotate: false
+  xy: 2016, 1454
+  size: 662, 183
+  orig: 662, 183
+  offset: 0, 0
+  index: -1
+SERI_eye1/SERI_eye1
+  rotate: true
+  xy: 3925, 300
+  size: 281, 68
+  orig: 281, 69
+  offset: 0, 1
+  index: -1
+SERI_eye2/SERI_eye2
+  rotate: false
+  xy: 3612, 3
+  size: 311, 81
+  orig: 311, 82
+  offset: 0, 1
+  index: -1
+SERI_eye2_2/SERI_eye2_2
+  rotate: true
+  xy: 3925, 583
+  size: 310, 69
+  orig: 310, 76
+  offset: 0, 0
+  index: -1
+SERI_eye2_3/SERI_eye2_3
+  rotate: true
+  xy: 3996, 590
+  size: 287, 75
+  orig: 287, 76
+  offset: 0, 1
+  index: -1
+SERI_eye3/SERI_eye3
+  rotate: false
+  xy: 517, 50
+  size: 311, 88
+  orig: 311, 88
+  offset: 0, 0
+  index: -1
+SERI_eye3_2/SERI_eye3_2
+  rotate: true
+  xy: 3487, 25
+  size: 322, 74
+  orig: 322, 75
+  offset: 0, 1
+  index: -1
+SERI_eye4/SERI_eye4
+  rotate: false
+  xy: 830, 12
+  size: 311, 83
+  orig: 311, 83
+  offset: 0, 0
+  index: -1
+SERI_eye5/SERI_eye5
+  rotate: true
+  xy: 3612, 156
+  size: 311, 84
+  orig: 311, 85
+  offset: 0, 1
+  index: -1
+SERI_eye6/SERI_eye6
+  rotate: false
+  xy: 1143, 11
+  size: 311, 84
+  orig: 311, 85
+  offset: 0, 1
+  index: -1
+SERI_head1/SERI_head1
+  rotate: false
+  xy: 2778, 257
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+SERI_head2/SERI_head2
+  rotate: false
+  xy: 3183, 478
+  size: 403, 461
+  orig: 403, 461
+  offset: 0, 0
+  index: -1
+SERI_mayu2/SERI_mayu2
+  rotate: true
+  xy: 3995, 295
+  size: 286, 55
+  orig: 288, 55
+  offset: 1, 0
+  index: -1
+SERI_mayu2_2/SERI_mayu2_2
+  rotate: true
+  xy: 3128, 860
+  size: 287, 51
+  orig: 289, 52
+  offset: 1, 0
+  index: -1
+SERI_mayu3/SERI_mayu3
+  rotate: true
+  xy: 3563, 22
+  size: 325, 47
+  orig: 327, 49
+  offset: 1, 1
+  index: -1
+SERI_mayu4/SERI_mayu4
+  rotate: false
+  xy: 608, 767
+  size: 287, 25
+  orig: 289, 26
+  offset: 1, 0
+  index: -1
+SERI_mayu5/SERI_mayu5
+  rotate: false
+  xy: 517, 2
+  size: 286, 46
+  orig: 288, 46
+  offset: 1, 0
+  index: -1
+SERI_mayu6/SERI_mayu6
+  rotate: true
+  xy: 4036, 879
+  size: 308, 35
+  orig: 310, 36
+  offset: 1, 1
+  index: -1
+SERI_mouth1/SERI_mouth1
+  rotate: true
+  xy: 2639, 1236
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+SERI_mouth1_2/SERI_mouth1_2
+  rotate: false
+  xy: 3086, 1149
+  size: 67, 69
+  orig: 68, 69
+  offset: 1, 0
+  index: -1
+SERI_mouth2/SERI_mouth2
+  rotate: false
+  xy: 2681, 637
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+SERI_mouth2_2/SERI_mouth2_2
+  rotate: false
+  xy: 897, 767
+  size: 47, 25
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+SERI_mouth3/SERI_mouth3
+  rotate: false
+  xy: 2680, 1602
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+SERI_mouth3_2/SERI_mouth3_2
+  rotate: false
+  xy: 2118, 1275
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+SERI_mouth4/SERI_mouth4
+  rotate: true
+  xy: 2279, 194
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+SERI_mouth5/SERI_mouth5
+  rotate: false
+  xy: 2016, 1275
+  size: 100, 33
+  orig: 102, 33
+  offset: 1, 0
+  index: -1
+SERI_mouth6/SERI_mouth6
+  rotate: true
+  xy: 3203, 1328
+  size: 64, 28
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+angmark/angmark
+  rotate: true
+  xy: 3461, 349
+  size: 127, 125
+  orig: 127, 125
+  offset: 0, 0
+  index: -1
+blush/blush
+  rotate: false
+  xy: 2793, 30
+  size: 350, 49
+  orig: 352, 51
+  offset: 1, 1
+  index: -1
+red_cheek
+  rotate: true
+  xy: 4052, 1308
+  size: 280, 27
+  orig: 288, 31
+  offset: 4, 1
+  index: -1
+sweat1
+  rotate: false
+  xy: 3698, 193
+  size: 222, 244
+  orig: 222, 245
+  offset: 0, 0
+  index: -1
+sweat2
+  rotate: true
+  xy: 1470, 13
+  size: 180, 201
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
