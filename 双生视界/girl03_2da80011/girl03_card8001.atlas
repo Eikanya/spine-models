@@ -1,0 +1,104 @@
+
+girl03_card8001.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl03_37
+  rotate: false
+  xy: 2, 1311
+  size: 1028, 729
+  orig: 1028, 729
+  offset: 0, 0
+  index: -1
+girl03_38
+  rotate: false
+  xy: 1815, 1636
+  size: 201, 87
+  orig: 201, 87
+  offset: 0, 0
+  index: -1
+girl03_40
+  rotate: true
+  xy: 1815, 1725
+  size: 270, 202
+  orig: 270, 202
+  offset: 0, 0
+  index: -1
+girl03_41
+  rotate: true
+  xy: 1319, 1741
+  size: 48, 120
+  orig: 61, 120
+  offset: 13, 0
+  index: -1
+girl03_42
+  rotate: true
+  xy: 1815, 1997
+  size: 43, 216
+  orig: 43, 216
+  offset: 0, 0
+  index: -1
+girl03_43
+  rotate: true
+  xy: 1815, 1534
+  size: 100, 192
+  orig: 121, 192
+  offset: 21, 0
+  index: -1
+girl03_44
+  rotate: false
+  xy: 2009, 1569
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+girl03_45
+  rotate: false
+  xy: 1319, 1553
+  size: 119, 186
+  orig: 153, 207
+  offset: 34, 21
+  index: -1
+girl03_46
+  rotate: true
+  xy: 1441, 1571
+  size: 180, 269
+  orig: 180, 269
+  offset: 0, 0
+  index: -1
+girl03_47
+  rotate: true
+  xy: 1032, 1720
+  size: 69, 285
+  orig: 69, 285
+  offset: 0, 0
+  index: -1
+girl03_48
+  rotate: false
+  xy: 1712, 1513
+  size: 101, 238
+  orig: 101, 238
+  offset: 0, 0
+  index: -1
+girl03_49
+  rotate: true
+  xy: 1449, 1753
+  size: 68, 354
+  orig: 68, 354
+  offset: 0, 0
+  index: -1
+girl03_7
+  rotate: true
+  xy: 1032, 1791
+  size: 249, 415
+  orig: 1550, 808
+  offset: 1301, 127
+  index: -1
+girl03_8
+  rotate: true
+  xy: 1449, 1823
+  size: 217, 364
+  orig: 1451, 552
+  offset: 1234, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+ganxiexin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganxiexin_12
+  rotate: false
+  xy: 90, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ganxiexin_14
+  rotate: true
+  xy: 159, 228
+  size: 157, 9
+  orig: 157, 9
+  offset: 0, 0
+  index: -1
+ganxiexin_15
+  rotate: false
+  xy: 170, 318
+  size: 155, 63
+  orig: 155, 63
+  offset: 0, 0
+  index: -1
+ganxiexin_16
+  rotate: false
+  xy: 170, 253
+  size: 155, 63
+  orig: 155, 63
+  offset: 0, 0
+  index: -1
+ganxiexin_17
+  rotate: false
+  xy: 2, 171
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+ganxiexin_18
+  rotate: false
+  xy: 2, 387
+  size: 168, 120
+  orig: 168, 120
+  offset: 0, 0
+  index: -1
+ganxiexin_2
+  rotate: true
+  xy: 262, 92
+  size: 159, 42
+  orig: 159, 42
+  offset: 0, 0
+  index: -1
+ganxiexin_4
+  rotate: false
+  xy: 2, 69
+  size: 128, 100
+  orig: 128, 100
+  offset: 0, 0
+  index: -1
+ganxiexin_5
+  rotate: false
+  xy: 172, 383
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+ganxiexin_6
+  rotate: false
+  xy: 2, 279
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+ganxiexin_8
+  rotate: false
+  xy: 128, 28
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: true
+  xy: 170, 239
+  size: 12, 64
+  orig: 12, 64
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: true
+  xy: 170, 228
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+sheng3
+  rotate: true
+  xy: 132, 86
+  size: 83, 24
+  orig: 86, 33
+  offset: 0, 9
+  index: -1
+sheng4
+  rotate: false
+  xy: 2, 2
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+sheng5
+  rotate: true
+  xy: 143, 32
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+sheng6
+  rotate: false
+  xy: 90, 5
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+sheng7
+  rotate: true
+  xy: 132, 42
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+xf
+  rotate: false
+  xy: 158, 5
+  size: 155, 64
+  orig: 155, 64
+  offset: 0, 0
+  index: -1
+xf2
+  rotate: true
+  xy: 159, 71
+  size: 155, 101
+  orig: 155, 101
+  offset: 0, 0
+  index: -1

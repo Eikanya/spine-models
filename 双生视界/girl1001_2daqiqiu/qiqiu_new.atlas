@@ -1,0 +1,132 @@
+
+qiqiu_new.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo_01
+  rotate: false
+  xy: 519, 356
+  size: 112, 37
+  orig: 112, 37
+  offset: 0, 0
+  index: -1
+dizuo_02
+  rotate: false
+  xy: 417, 358
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+iqiu_04
+  rotate: true
+  xy: 2, 2
+  size: 190, 214
+  orig: 190, 214
+  offset: 0, 0
+  index: -1
+qiqiu_01
+  rotate: true
+  xy: 456, 154
+  size: 103, 559
+  orig: 104, 560
+  offset: 1, 1
+  index: -1
+qiqiu_02
+  rotate: true
+  xy: 2, 362
+  size: 31, 413
+  orig: 32, 415
+  offset: 0, 1
+  index: -1
+qiqiu_03
+  rotate: true
+  xy: 935, 259
+  size: 83, 635
+  orig: 87, 646
+  offset: 0, 0
+  index: -1
+qiqiu_04
+  rotate: true
+  xy: 633, 355
+  size: 38, 472
+  orig: 91, 473
+  offset: 52, 0
+  index: -1
+qiqiu_05
+  rotate: true
+  xy: 1107, 344
+  size: 49, 592
+  orig: 49, 592
+  offset: 0, 0
+  index: -1
+qiqiu_06
+  rotate: true
+  xy: 2, 307
+  size: 53, 395
+  orig: 97, 395
+  offset: 44, 0
+  index: -1
+qiqiu_07
+  rotate: true
+  xy: 2, 194
+  size: 86, 452
+  orig: 107, 493
+  offset: 21, 0
+  index: -1
+qiqiu_08
+  rotate: true
+  xy: 399, 282
+  size: 71, 534
+  orig: 71, 534
+  offset: 0, 0
+  index: -1
+qiu_01
+  rotate: true
+  xy: 1017, 91
+  size: 166, 198
+  orig: 166, 198
+  offset: 0, 0
+  index: -1
+qiu_02
+  rotate: true
+  xy: 1701, 260
+  size: 133, 159
+  orig: 133, 159
+  offset: 0, 0
+  index: -1
+qiu_03
+  rotate: true
+  xy: 218, 2
+  size: 190, 214
+  orig: 190, 214
+  offset: 0, 0
+  index: -1
+qiu_05
+  rotate: true
+  xy: 1572, 103
+  size: 155, 187
+  orig: 155, 187
+  offset: 0, 0
+  index: -1
+qiu_06
+  rotate: true
+  xy: 1862, 260
+  size: 133, 166
+  orig: 133, 166
+  offset: 0, 0
+  index: -1
+qiu_07
+  rotate: false
+  xy: 1217, 68
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+qiu_08
+  rotate: true
+  xy: 1761, 94
+  size: 164, 181
+  orig: 164, 181
+  offset: 0, 0
+  index: -1

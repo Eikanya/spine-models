@@ -1,0 +1,27 @@
+{
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "girl09_2da7001.skel",
+  "atlases": [
+    {
+      "atlas": "girl09_2da7001.atlas",
+      "tex_names": [
+        "girl09_2da7001",
+        "girl09_2da70012",
+        "girl09_2da70013"
+      ],
+      "textures": [
+        "girl09_2da7001.png",
+        "girl09_2da70012.png",
+        "girl09_2da70013.png"
+      ]
+    }
+  ]
+}

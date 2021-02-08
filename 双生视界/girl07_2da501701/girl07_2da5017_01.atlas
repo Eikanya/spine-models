@@ -1,0 +1,20 @@
+
+girl07_2da5017_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diying
+  rotate: true
+  xy: 114, 24
+  size: 84, 21
+  orig: 86, 23
+  offset: 1, 1
+  index: -1
+e_hh_jq_yezi002
+  rotate: false
+  xy: 2, 2
+  size: 110, 106
+  orig: 110, 107
+  offset: 0, 1
+  index: -1
