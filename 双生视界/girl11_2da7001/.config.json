@@ -1,0 +1,23 @@
+{
+  "controllers": {
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "options": {
+    "edge_padding": false,
+    "shader": "Skeleton-Straight-Alpha"
+  },
+  "skeleton": "girl11_2da7001.json",
+  "atlases": [
+    {
+      "atlas": "girl11_2da7001.atlas",
+      "tex_names": [
+        "girl11_2da7001"
+      ],
+      "textures": [
+        "girl11_2da7001.png"
+      ]
+    }
+  ]
+}
