@@ -1,0 +1,898 @@
+
+Fly_mitelayz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 1497, 31
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+fnengnu_mei
+  rotate: false
+  xy: 1659, 34
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+fnengnu_yan
+  rotate: true
+  xy: 2002, 1675
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+fnengnu_zui
+  rotate: false
+  xy: 448, 8
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+gaoxing_mei
+  rotate: false
+  xy: 1803, 43
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+gaoxing_yan
+  rotate: true
+  xy: 2002, 1606
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+gaoxing_zui
+  rotate: false
+  xy: 2002, 1502
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+jingya_mei
+  rotate: false
+  xy: 1741, 9
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+jingya_yan
+  rotate: true
+  xy: 2002, 1744
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+jingya_zui
+  rotate: true
+  xy: 2002, 1230
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+nanguo_hongyun
+  rotate: false
+  xy: 96, 4
+  size: 87, 57
+  orig: 87, 57
+  offset: 0, 0
+  index: -1
+nanguo_mei
+  rotate: false
+  xy: 383, 3
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+nanguo_yan
+  rotate: true
+  xy: 2002, 1353
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+nanguo_yanlei
+  rotate: false
+  xy: 1803, 11
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+nanguo_zui
+  rotate: true
+  xy: 2039, 1266
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+renwu10
+  rotate: false
+  xy: 1990, 906
+  size: 53, 75
+  orig: 53, 75
+  offset: 0, 0
+  index: -1
+renwu11
+  rotate: false
+  xy: 1990, 1136
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+renwu12
+  rotate: true
+  xy: 2, 2
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+renwu13
+  rotate: false
+  xy: 832, 3
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+renwu14
+  rotate: true
+  xy: 383, 27
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+renwu15
+  rotate: false
+  xy: 1413, 6
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+renwu16
+  rotate: true
+  xy: 1990, 354
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+renwu17
+  rotate: true
+  xy: 1990, 770
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+renwu18
+  rotate: false
+  xy: 2002, 1422
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+renwu19
+  rotate: false
+  xy: 2002, 1813
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+renwu2
+  rotate: true
+  xy: 1155, 7
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+renwu22
+  rotate: false
+  xy: 726, 3
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+renwu23
+  rotate: true
+  xy: 1762, 37
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+renwu3
+  rotate: false
+  xy: 1617, 33
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+renwu33
+  rotate: false
+  xy: 1708, 6
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+renwu35
+  rotate: false
+  xy: 1708, 37
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+renwu36
+  rotate: true
+  xy: 1562, 33
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+renwu38
+  rotate: true
+  xy: 1274, 70
+  size: 280, 615
+  orig: 280, 615
+  offset: 0, 0
+  index: -1
+renwu39
+  rotate: false
+  xy: 882, 101
+  size: 381, 230
+  orig: 381, 230
+  offset: 0, 0
+  index: -1
+renwu4
+  rotate: false
+  xy: 1342, 5
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+renwu43
+  rotate: true
+  xy: 491, 4
+  size: 63, 233
+  orig: 63, 233
+  offset: 0, 0
+  index: -1
+renwu45
+  rotate: true
+  xy: 1990, 462
+  size: 177, 47
+  orig: 177, 47
+  offset: 0, 0
+  index: -1
+renwu5
+  rotate: false
+  xy: 265, 15
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+renwu50
+  rotate: true
+  xy: 1990, 1049
+  size: 85, 55
+  orig: 85, 55
+  offset: 0, 0
+  index: -1
+renwu54
+  rotate: false
+  xy: 2002, 1543
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+renwu6
+  rotate: true
+  xy: 1990, 848
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+renwu62
+  rotate: false
+  xy: 2002, 1886
+  size: 43, 160
+  orig: 43, 160
+  offset: 0, 0
+  index: -1
+renwu67
+  rotate: true
+  xy: 1659, 5
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+renwu7
+  rotate: false
+  xy: 1619, 6
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+renwu70
+  rotate: false
+  xy: 1990, 707
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+renwu71
+  rotate: false
+  xy: 1990, 641
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+renwu73
+  rotate: false
+  xy: 1891, 15
+  size: 150, 335
+  orig: 150, 335
+  offset: 0, 0
+  index: -1
+renwu74
+  rotate: false
+  xy: 1990, 983
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+renwu76
+  rotate: true
+  xy: 491, 69
+  size: 262, 389
+  orig: 262, 389
+  offset: 0, 0
+  index: -1
+renwu8
+  rotate: true
+  xy: 1260, 2
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+renwu84
+  rotate: false
+  xy: 882, 6
+  size: 271, 93
+  orig: 271, 93
+  offset: 0, 0
+  index: -1
+renwu87
+  rotate: false
+  xy: 2, 333
+  size: 1270, 1713
+  orig: 1270, 1713
+  offset: 0, 0
+  index: -1
+renwu9
+  rotate: false
+  xy: 185, 14
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+shiluo_bizui
+  rotate: true
+  xy: 2034, 441
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shiluo_fa
+  rotate: true
+  xy: 1497, 4
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+shiluo_meimao
+  rotate: false
+  xy: 1562, 3
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+shiluo_yan
+  rotate: true
+  xy: 2002, 1284
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+shiluo_zhangzui
+  rotate: true
+  xy: 1858, 8
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+shiluo_zui
+  rotate: true
+  xy: 2034, 427
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+yansu_yan
+  rotate: false
+  xy: 314, 23
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+yansu_zui
+  rotate: true
+  xy: 2034, 408
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+yu3
+  rotate: true
+  xy: 2, 63
+  size: 268, 487
+  orig: 268, 487
+  offset: 0, 0
+  index: -1
+yu8
+  rotate: true
+  xy: 1274, 352
+  size: 876, 714
+  orig: 876, 714
+  offset: 0, 0
+  index: -1
+yu9
+  rotate: false
+  xy: 1274, 1230
+  size: 726, 816
+  orig: 726, 816
+  offset: 0, 0
+  index: -1
+
+Fly_mitelayz2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu24
+  rotate: true
+  xy: 85, 10
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+renwu34
+  rotate: false
+  xy: 2, 3
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+renwu42
+  rotate: false
+  xy: 166, 65
+  size: 161, 467
+  orig: 161, 467
+  offset: 0, 0
+  index: -1
+renwu46
+  rotate: false
+  xy: 2, 534
+  size: 968, 1512
+  orig: 968, 1512
+  offset: 0, 0
+  index: -1
+renwu55
+  rotate: true
+  xy: 539, 72
+  size: 234, 424
+  orig: 234, 428
+  offset: 0, 1
+  index: -1
+renwu58
+  rotate: false
+  xy: 2, 36
+  size: 162, 496
+  orig: 162, 496
+  offset: 0, 0
+  index: -1
+renwu59
+  rotate: true
+  xy: 1762, 6
+  size: 163, 214
+  orig: 163, 214
+  offset: 0, 0
+  index: -1
+renwu66
+  rotate: true
+  xy: 1545, 171
+  size: 888, 472
+  orig: 888, 472
+  offset: 0, 0
+  index: -1
+renwu68
+  rotate: false
+  xy: 972, 1061
+  size: 1024, 985
+  orig: 1024, 985
+  offset: 0, 0
+  index: -1
+renwu78
+  rotate: true
+  xy: 329, 10
+  size: 296, 208
+  orig: 296, 208
+  offset: 0, 0
+  index: -1
+renwu82
+  rotate: true
+  xy: 1545, 2
+  size: 167, 215
+  orig: 167, 215
+  offset: 0, 0
+  index: -1
+yansu_mei
+  rotate: false
+  xy: 28, 6
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+yu5
+  rotate: true
+  xy: 329, 308
+  size: 224, 639
+  orig: 224, 639
+  offset: 0, 0
+  index: -1
+yu6
+  rotate: true
+  xy: 972, 49
+  size: 1010, 571
+  orig: 1010, 571
+  offset: 0, 0
+  index: -1
+
+Fly_mitelayz3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fnengnu_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+gaoxing_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+jingya_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+nanguo_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+shiluo_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+yansu_lian
+  rotate: false
+  xy: 1958, 1544
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+renwu20
+  rotate: true
+  xy: 1958, 1354
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+renwu21
+  rotate: true
+  xy: 1947, 936
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+renwu26
+  rotate: true
+  xy: 1959, 1945
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+renwu40
+  rotate: true
+  xy: 2, 10
+  size: 614, 768
+  orig: 614, 768
+  offset: 0, 0
+  index: -1
+renwu41
+  rotate: false
+  xy: 1759, 315
+  size: 223, 356
+  orig: 223, 356
+  offset: 0, 0
+  index: -1
+renwu53
+  rotate: true
+  xy: 1947, 1033
+  size: 100, 91
+  orig: 100, 91
+  offset: 0, 0
+  index: -1
+renwu57
+  rotate: true
+  xy: 1716, 796
+  size: 104, 326
+  orig: 104, 326
+  offset: 0, 0
+  index: -1
+renwu61
+  rotate: false
+  xy: 1551, 16
+  size: 206, 610
+  orig: 206, 610
+  offset: 0, 0
+  index: -1
+renwu64
+  rotate: true
+  xy: 1716, 902
+  size: 420, 229
+  orig: 420, 229
+  offset: 0, 0
+  index: -1
+renwu65
+  rotate: true
+  xy: 1716, 1645
+  size: 399, 241
+  orig: 399, 241
+  offset: 0, 0
+  index: -1
+renwu69
+  rotate: false
+  xy: 1958, 1450
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+renwu75
+  rotate: false
+  xy: 1759, 2
+  size: 114, 311
+  orig: 114, 311
+  offset: 0, 0
+  index: -1
+renwu77
+  rotate: false
+  xy: 1716, 1324
+  size: 240, 319
+  orig: 240, 319
+  offset: 0, 0
+  index: -1
+renwu79
+  rotate: true
+  xy: 1716, 673
+  size: 121, 325
+  orig: 121, 325
+  offset: 0, 0
+  index: -1
+renwu80
+  rotate: false
+  xy: 932, 628
+  size: 782, 1416
+  orig: 782, 1416
+  offset: 0, 0
+  index: -1
+renwu81
+  rotate: true
+  xy: 1947, 1135
+  size: 187, 93
+  orig: 187, 93
+  offset: 0, 0
+  index: -1
+renwu83
+  rotate: true
+  xy: 1875, 70
+  size: 243, 170
+  orig: 243, 170
+  offset: 0, 0
+  index: -1
+renwu86
+  rotate: false
+  xy: 2, 626
+  size: 928, 1418
+  orig: 928, 1418
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: true
+  xy: 772, 28
+  size: 596, 777
+  orig: 596, 777
+  offset: 0, 0
+  index: -1
+
+Fly_mitelayz4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu1
+  rotate: false
+  xy: 2, 651
+  size: 1174, 1385
+  orig: 1174, 1385
+  offset: 0, 0
+  index: -1
+renwu25
+  rotate: true
+  xy: 1019, 116
+  size: 117, 145
+  orig: 117, 145
+  offset: 0, 0
+  index: -1
+renwu37
+  rotate: true
+  xy: 1749, 21
+  size: 212, 124
+  orig: 212, 124
+  offset: 0, 0
+  index: -1
+renwu44
+  rotate: true
+  xy: 910, 2
+  size: 231, 107
+  orig: 231, 107
+  offset: 0, 0
+  index: -1
+renwu47
+  rotate: true
+  xy: 910, 369
+  size: 102, 240
+  orig: 102, 240
+  offset: 0, 0
+  index: -1
+renwu48
+  rotate: true
+  xy: 910, 473
+  size: 176, 264
+  orig: 176, 264
+  offset: 0, 0
+  index: -1
+renwu49
+  rotate: false
+  xy: 1019, 24
+  size: 144, 90
+  orig: 144, 90
+  offset: 0, 0
+  index: -1
+renwu51
+  rotate: false
+  xy: 1749, 235
+  size: 221, 144
+  orig: 221, 144
+  offset: 0, 0
+  index: -1
+renwu52
+  rotate: true
+  xy: 1875, 47
+  size: 186, 139
+  orig: 186, 139
+  offset: 0, 0
+  index: -1
+renwu56
+  rotate: true
+  xy: 910, 235
+  size: 132, 234
+  orig: 132, 234
+  offset: 0, 0
+  index: -1
+renwu60
+  rotate: true
+  xy: 1749, 562
+  size: 209, 228
+  orig: 209, 228
+  offset: 0, 0
+  index: -1
+renwu72
+  rotate: true
+  xy: 1749, 381
+  size: 179, 222
+  orig: 179, 222
+  offset: 0, 0
+  index: -1
+yu10
+  rotate: true
+  xy: 1178, 773
+  size: 592, 809
+  orig: 592, 809
+  offset: 0, 0
+  index: -1
+yu11
+  rotate: false
+  xy: 1178, 30
+  size: 569, 741
+  orig: 569, 741
+  offset: 0, 0
+  index: -1
+yu4
+  rotate: true
+  xy: 1178, 1367
+  size: 669, 861
+  orig: 669, 861
+  offset: 0, 0
+  index: -1
+yu7
+  rotate: false
+  xy: 2, 20
+  size: 906, 629
+  orig: 906, 629
+  offset: 0, 0
+  index: -1
+
+Fly_mitelayz5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu63
+  rotate: false
+  xy: 1229, 822
+  size: 592, 125
+  orig: 592, 125
+  offset: 0, 0
+  index: -1
+renwu85
+  rotate: true
+  xy: 2, 2
+  size: 945, 1225
+  orig: 945, 1225
+  offset: 0, 0
+  index: -1
+shiluo_lian2
+  rotate: false
+  xy: 1229, 546
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+yu12
+  rotate: true
+  xy: 1823, 831
+  size: 116, 200
+  orig: 116, 200
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: false
+  xy: 1229, 685
+  size: 416, 135
+  orig: 416, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,158 @@
+
+Fly_taolesi3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1heiti
+  rotate: false
+  xy: 742, 827
+  size: 738, 1217
+  orig: 738, 1217
+  offset: 0, 0
+  index: -1
+baoabo
+  rotate: true
+  xy: 1482, 1498
+  size: 546, 559
+  orig: 546, 559
+  offset: 0, 0
+  index: -1
+beiguang
+  rotate: false
+  xy: 1482, 836
+  size: 210, 247
+  orig: 212, 249
+  offset: 0, 1
+  index: -1
+chibagndunzi
+  rotate: true
+  xy: 1568, 1085
+  size: 411, 470
+  orig: 411, 470
+  offset: 0, 0
+  index: -1
+dandan
+  rotate: false
+  xy: 2, 827
+  size: 738, 1217
+  orig: 738, 1217
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 823, 959
+  orig: 823, 959
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 1694, 856
+  size: 268, 227
+  orig: 268, 227
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 1568, 42
+  size: 161, 92
+  orig: 161, 92
+  offset: 0, 0
+  index: -1
+xiaoguangdian
+  rotate: false
+  xy: 1482, 1437
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 1568, 136
+  size: 456, 698
+  orig: 456, 705
+  offset: 0, 0
+  index: -1
+youcelianguang2
+  rotate: false
+  xy: 963, 20
+  size: 603, 805
+  orig: 603, 805
+  offset: 0, 0
+  index: -1
+
+Fly_taolesi32.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2hechi
+  rotate: true
+  xy: 2, 145
+  size: 731, 1121
+  orig: 731, 1121
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 2, 878
+  size: 977, 1124
+  orig: 977, 1124
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: false
+  xy: 1714, 1481
+  size: 267, 227
+  orig: 267, 227
+  offset: 0, 0
+  index: -1
+youcelianguang
+  rotate: true
+  xy: 1714, 1710
+  size: 292, 313
+  orig: 292, 313
+  offset: 0, 0
+  index: -1
+youchibang
+  rotate: false
+  xy: 1125, 2
+  size: 906, 877
+  orig: 906, 877
+  offset: 0, 0
+  index: -1
+zuochibang
+  rotate: false
+  xy: 981, 881
+  size: 731, 1121
+  orig: 731, 1121
+  offset: 0, 0
+  index: -1
+
+Fly_taolesi33.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1heichi
+  rotate: true
+  xy: 2, 2
+  size: 904, 877
+  orig: 906, 877
+  offset: 2, 0
+  index: -1
+youchibang11
+  rotate: false
+  xy: 735, 1152
+  size: 906, 876
+  orig: 906, 877
+  offset: 0, 1
+  index: -1
+zuochibang22
+  rotate: false
+  xy: 2, 908
+  size: 731, 1120
+  orig: 731, 1121
+  offset: 0, 1
+  index: -1
