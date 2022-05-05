@@ -1,0 +1,1 @@
+{"controllers":{"intimacy_system":{},"slot_opacity":{},"slot_color":{}},"motions":{"idle":[{"file":"aniIdle","fade_in":0,"fade_out":0}]},"options":{"scale_factor":0.1,"position_y":-7.0,"edge_padding":false},"skeleton":"Fly_liemo.skel","atlases":[{"atlas":"Fly_liemo.atlas","tex_names":["Fly_liemo"],"textures":["Fly_liemo.png"]}]}

@@ -1,0 +1,319 @@
+
+Fly_seles.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyankaobei
+  rotate: false
+  xy: 279, 39
+  size: 95, 40
+  orig: 97, 40
+  offset: 0, 0
+  index: -1
+biyankaobei1
+  rotate: false
+  xy: 557, 21
+  size: 89, 28
+  orig: 93, 29
+  offset: 1, 1
+  index: -1
+cx1
+  rotate: true
+  xy: 740, 58
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+dajiankai
+  rotate: true
+  xy: 2, 7
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+fengnu_mei
+  rotate: false
+  xy: 648, 22
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+fengnu_yan
+  rotate: false
+  xy: 376, 48
+  size: 90, 31
+  orig: 90, 31
+  offset: 0, 0
+  index: -1
+fengnu_zui
+  rotate: true
+  xy: 803, 43
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+gaoqing_mei
+  rotate: false
+  xy: 633, 5
+  size: 76, 14
+  orig: 76, 14
+  offset: 0, 0
+  index: -1
+gaoqing_yan
+  rotate: false
+  xy: 370, 8
+  size: 97, 29
+  orig: 97, 29
+  offset: 0, 0
+  index: -1
+gaoqing_zui
+  rotate: false
+  xy: 796, 67
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+heisequnzhao
+  rotate: false
+  xy: 2, 504
+  size: 701, 516
+  orig: 701, 517
+  offset: 0, 1
+  index: -1
+jingya_mei
+  rotate: false
+  xy: 551, 3
+  size: 80, 14
+  orig: 80, 14
+  offset: 0, 0
+  index: -1
+jingya_yan
+  rotate: false
+  xy: 468, 51
+  size: 94, 28
+  orig: 94, 28
+  offset: 0, 0
+  index: -1
+jingya_zui
+  rotate: true
+  xy: 816, 46
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+mei
+  rotate: false
+  xy: 655, 56
+  size: 83, 23
+  orig: 83, 27
+  offset: 0, 3
+  index: -1
+nanguo_mei
+  rotate: false
+  xy: 711, 7
+  size: 80, 13
+  orig: 80, 13
+  offset: 0, 0
+  index: -1
+nanguo_yan
+  rotate: false
+  xy: 469, 19
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+nanguo_zui
+  rotate: true
+  xy: 808, 24
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+shiluo_mei
+  rotate: false
+  xy: 469, 2
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+shiluo_yan
+  rotate: false
+  xy: 564, 53
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+shiluo_zui
+  rotate: true
+  xy: 808, 8
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+wuqidachui
+  rotate: false
+  xy: 2, 81
+  size: 805, 421
+  orig: 805, 421
+  offset: 0, 0
+  index: -1
+yansu_mei
+  rotate: false
+  xy: 724, 31
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+yansu_yan
+  rotate: false
+  xy: 279, 5
+  size: 89, 32
+  orig: 89, 33
+  offset: 0, 0
+  index: -1
+yansu_zui
+  rotate: true
+  xy: 793, 9
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+yaozhonggai
+  rotate: true
+  xy: 829, 9
+  size: 139, 156
+  orig: 140, 162
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 823, 150
+  size: 173, 189
+  orig: 174, 190
+  offset: 0, 1
+  index: -1
+youyaokai
+  rotate: false
+  xy: 705, 505
+  size: 143, 108
+  orig: 173, 116
+  offset: 0, 8
+  index: -1
+zuotui
+  rotate: false
+  xy: 705, 615
+  size: 313, 405
+  orig: 314, 407
+  offset: 0, 2
+  index: -1
+zuoyaokai
+  rotate: false
+  xy: 143, 7
+  size: 134, 72
+  orig: 134, 72
+  offset: 0, 0
+  index: -1
+zyishiybuga
+  rotate: true
+  xy: 850, 512
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+zyishiybuga1
+  rotate: true
+  xy: 823, 325
+  size: 178, 187
+  orig: 179, 187
+  offset: 1, 0
+  index: -1
+
+Fly_seles2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoqun
+  rotate: true
+  xy: 444, 472
+  size: 550, 341
+  orig: 550, 342
+  offset: 0, 0
+  index: -1
+dunpai
+  rotate: true
+  xy: 558, 2
+  size: 352, 381
+  orig: 352, 382
+  offset: 0, 0
+  index: -1
+qunhou
+  rotate: false
+  xy: 2, 19
+  size: 554, 437
+  orig: 555, 438
+  offset: 0, 0
+  index: -1
+shangqiang
+  rotate: true
+  xy: 787, 593
+  size: 160, 172
+  orig: 160, 174
+  offset: 0, 2
+  index: -1
+tousgi
+  rotate: false
+  xy: 787, 460
+  size: 165, 131
+  orig: 165, 143
+  offset: 0, 0
+  index: -1
+vd1
+  rotate: false
+  xy: 787, 755
+  size: 229, 267
+  orig: 229, 267
+  offset: 0, 0
+  index: -1
+xiongyi
+  rotate: false
+  xy: 558, 356
+  size: 155, 114
+  orig: 155, 115
+  offset: 0, 1
+  index: -1
+youtui
+  rotate: false
+  xy: 2, 458
+  size: 440, 564
+  orig: 442, 569
+  offset: 2, 1
+  index: -1
+
+Fly_seles3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: false
+  xy: 2, 124
+  size: 346, 273
+  orig: 368, 274
+  offset: 1, 1
+  index: -1
+liuhai
+  rotate: false
+  xy: 2, 2
+  size: 127, 120
+  orig: 127, 121
+  offset: 0, 1
+  index: -1
+zhugan
+  rotate: true
+  xy: 350, 133
+  size: 264, 331
+  orig: 268, 338
+  offset: 0, 6
+  index: -1

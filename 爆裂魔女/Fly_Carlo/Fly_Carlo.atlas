@@ -1,0 +1,328 @@
+
+Fly_Carlo.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baiqungiz
+  rotate: false
+  xy: 289, 627
+  size: 574, 273
+  orig: 574, 274
+  offset: 0, 1
+  index: -1
+images/biuyan
+  rotate: true
+  xy: 1859, 1737
+  size: 87, 52
+  orig: 100, 64
+  offset: 4, 10
+  index: -1
+images/cefa
+  rotate: false
+  xy: 878, 519
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+images/feng_yan
+  rotate: true
+  xy: 1859, 1656
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+images/feng_zui
+  rotate: false
+  xy: 1609, 1443
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+images/gaoxing_mei
+  rotate: true
+  xy: 1859, 1498
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+images/gaoxing_yan
+  rotate: true
+  xy: 240, 53
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+images/gaoxing_zui
+  rotate: true
+  xy: 1270, 978
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+images/heiqunqian
+  rotate: false
+  xy: 2, 1442
+  size: 1119, 604
+  orig: 1121, 604
+  offset: 1, 0
+  index: -1
+images/houfax
+  rotate: false
+  xy: 1123, 1455
+  size: 517, 369
+  orig: 517, 418
+  offset: 0, 49
+  index: -1
+images/houqunhouoian
+  rotate: false
+  xy: 2, 902
+  size: 1102, 538
+  orig: 1102, 541
+  offset: 0, 3
+  index: -1
+images/hudiejie
+  rotate: true
+  xy: 815, 421
+  size: 72, 61
+  orig: 73, 61
+  offset: 1, 0
+  index: -1
+images/huhoudiand
+  rotate: false
+  xy: 289, 354
+  size: 524, 271
+  orig: 550, 297
+  offset: 25, 1
+  index: -1
+images/hujide
+  rotate: false
+  xy: 1114, 637
+  size: 150, 119
+  orig: 150, 119
+  offset: 0, 0
+  index: -1
+images/jialing
+  rotate: false
+  xy: 2, 48
+  size: 236, 177
+  orig: 237, 178
+  offset: 1, 0
+  index: -1
+images/jianjia
+  rotate: false
+  xy: 1494, 1033
+  size: 116, 126
+  orig: 117, 126
+  offset: 0, 0
+  index: -1
+images/jichuren
+  rotate: false
+  xy: 1642, 1362
+  size: 215, 462
+  orig: 215, 462
+  offset: 0, 0
+  index: -1
+images/jingya_mei
+  rotate: true
+  xy: 815, 354
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+images/jingya_yan
+  rotate: false
+  xy: 964, 587
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+images/jingya_zui
+  rotate: false
+  xy: 802, 329
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+images/liuhai
+  rotate: false
+  xy: 1114, 758
+  size: 137, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+images/nanguo_mei
+  rotate: true
+  xy: 1859, 1577
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+images/nanguo_yan
+  rotate: false
+  xy: 964, 548
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+images/nanguo_zui
+  rotate: false
+  xy: 1123, 1444
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+images/qijian
+  rotate: false
+  xy: 1106, 1008
+  size: 189, 432
+  orig: 189, 432
+  offset: 0, 0
+  index: -1
+images/qijian1
+  rotate: true
+  xy: 289, 204
+  size: 48, 510
+  orig: 48, 510
+  offset: 0, 0
+  index: -1
+images/qijian2
+  rotate: true
+  xy: 289, 254
+  size: 98, 511
+  orig: 98, 511
+  offset: 0, 0
+  index: -1
+images/qijian3
+  rotate: true
+  xy: 2, 2
+  size: 44, 263
+  orig: 44, 263
+  offset: 0, 0
+  index: -1
+images/shiluo_mei
+  rotate: true
+  xy: 1859, 1424
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+images/shiluo_yan
+  rotate: false
+  xy: 878, 431
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+images/shiluo_zui
+  rotate: false
+  xy: 1297, 1026
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+images/touduandai
+  rotate: false
+  xy: 1106, 902
+  size: 162, 104
+  orig: 162, 105
+  offset: 0, 0
+  index: -1
+images/toushagnhusieji
+  rotate: true
+  xy: 815, 495
+  size: 130, 61
+  orig: 131, 61
+  offset: 1, 0
+  index: -1
+images/tucheng
+  rotate: true
+  xy: 240, 137
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+images/xiong
+  rotate: false
+  xy: 1465, 1161
+  size: 134, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+images/yansu_mei
+  rotate: false
+  xy: 359, 167
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+images/yansu_yan
+  rotate: false
+  xy: 878, 473
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+images/yansu_zui
+  rotate: true
+  xy: 1253, 880
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+images/youbi
+  rotate: false
+  xy: 1915, 1611
+  size: 131, 435
+  orig: 148, 436
+  offset: 0, 1
+  index: -1
+images/youtui
+  rotate: false
+  xy: 2, 227
+  size: 285, 673
+  orig: 293, 674
+  offset: 7, 0
+  index: -1
+images/youyaojia
+  rotate: false
+  xy: 865, 630
+  size: 247, 270
+  orig: 249, 270
+  offset: 0, 0
+  index: -1
+images/zuobi
+  rotate: false
+  xy: 1297, 1157
+  size: 166, 296
+  orig: 167, 298
+  offset: 0, 0
+  index: -1
+images/zuobingjiao
+  rotate: true
+  xy: 286, 163
+  size: 39, 71
+  orig: 40, 72
+  offset: 1, 0
+  index: -1
+images/zuodabi
+  rotate: true
+  xy: 1297, 1035
+  size: 120, 195
+  orig: 120, 195
+  offset: 0, 0
+  index: -1
+images/zuodha
+  rotate: true
+  xy: 1465, 1276
+  size: 177, 142
+  orig: 177, 142
+  offset: 0, 0
+  index: -1
+images/zuotui
+  rotate: true
+  xy: 1123, 1826
+  size: 220, 790
+  orig: 246, 812
+  offset: 25, 20
+  index: -1

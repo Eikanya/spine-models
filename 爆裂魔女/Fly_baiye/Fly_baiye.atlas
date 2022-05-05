@@ -1,0 +1,418 @@
+
+Fly_baiye.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq_fennu_mei
+  rotate: false
+  xy: 891, 11
+  size: 79, 34
+  orig: 115, 75
+  offset: 0, 40
+  index: -1
+bq_fennu_yan
+  rotate: false
+  xy: 972, 20
+  size: 96, 25
+  orig: 96, 25
+  offset: 0, 0
+  index: -1
+bq_fennu_zui
+  rotate: true
+  xy: 1024, 3
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bq_gaoxing_mei
+  rotate: false
+  xy: 1379, 9
+  size: 70, 17
+  orig: 70, 17
+  offset: 0, 0
+  index: -1
+bq_gaoxing_sai
+  rotate: true
+  xy: 1983, 605
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+bq_gaoxing_yan
+  rotate: false
+  xy: 685, 8
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+bq_gaoxing_zui
+  rotate: false
+  xy: 972, 6
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+bq_nanguo_lei
+  rotate: false
+  xy: 1433, 28
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+bq_nanguo_mei
+  rotate: false
+  xy: 1305, 8
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+bq_nanguo_sai
+  rotate: true
+  xy: 1983, 488
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+bq_nanguo_yan
+  rotate: false
+  xy: 581, 7
+  size: 102, 38
+  orig: 102, 38
+  offset: 0, 0
+  index: -1
+bq_nanguo_zui
+  rotate: false
+  xy: 998, 7
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+bq_shiluo_mei
+  rotate: false
+  xy: 1284, 50
+  size: 77, 25
+  orig: 115, 75
+  offset: 4, 43
+  index: -1
+bq_shiluo_sai
+  rotate: true
+  xy: 1983, 371
+  size: 115, 52
+  orig: 115, 52
+  offset: 0, 0
+  index: -1
+bq_shiluo_yan
+  rotate: false
+  xy: 1094, 50
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+bq_shiluo_zui
+  rotate: false
+  xy: 789, 3
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+bq_yansu_mei
+  rotate: false
+  xy: 1224, 20
+  size: 79, 28
+  orig: 115, 75
+  offset: 3, 44
+  index: -1
+bq_yansu_yan
+  rotate: false
+  xy: 1189, 50
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+bq_yansu_zui
+  rotate: false
+  xy: 15, 6
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+bq_yingya_han
+  rotate: false
+  xy: 32, 3
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+bq_yingya_mei
+  rotate: false
+  xy: 1363, 55
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+bq_yingya_yan
+  rotate: false
+  xy: 482, 4
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+bq_yingya_zui
+  rotate: false
+  xy: 803, 3
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+bq_zhengchang_yan
+  rotate: false
+  xy: 999, 50
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+huangmaoxia
+  rotate: true
+  xy: 999, 77
+  size: 222, 443
+  orig: 222, 443
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 1305, 28
+  size: 73, 20
+  orig: 73, 20
+  offset: 0, 0
+  index: -1
+niaolong
+  rotate: false
+  xy: 1444, 918
+  size: 567, 1128
+  orig: 567, 1128
+  offset: 0, 0
+  index: -1
+niaoshengti
+  rotate: true
+  xy: 716, 908
+  size: 346, 530
+  orig: 346, 530
+  offset: 0, 0
+  index: -1
+shengti1
+  rotate: true
+  xy: 1321, 1393
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+shengti2
+  rotate: true
+  xy: 2, 301
+  size: 604, 1150
+  orig: 604, 1151
+  offset: 0, 1
+  index: -1
+toudingtouzuoqian
+  rotate: false
+  xy: 1321, 1839
+  size: 116, 207
+  orig: 116, 207
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1154, 313
+  size: 279, 252
+  orig: 280, 252
+  offset: 1, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1444, 92
+  size: 537, 824
+  orig: 537, 829
+  offset: 0, 5
+  index: -1
+toufa3
+  rotate: true
+  xy: 1154, 567
+  size: 339, 271
+  orig: 361, 272
+  offset: 22, 1
+  index: -1
+toufa4
+  rotate: true
+  xy: 2, 12
+  size: 287, 478
+  orig: 290, 478
+  offset: 2, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 716, 1256
+  size: 603, 790
+  orig: 603, 790
+  offset: 0, 0
+  index: -1
+toufayouqian
+  rotate: true
+  xy: 482, 47
+  size: 252, 515
+  orig: 252, 515
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 2, 907
+  size: 712, 1139
+  orig: 713, 1139
+  offset: 1, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 1758, 20
+  size: 212, 70
+  orig: 212, 70
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 1070, 4
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+toushi22
+  rotate: false
+  xy: 1321, 1636
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 789, 14
+  size: 100, 31
+  orig: 100, 31
+  offset: 0, 0
+  index: -1
+youshoushang
+  rotate: false
+  xy: 1983, 722
+  size: 60, 194
+  orig: 60, 194
+  offset: 0, 0
+  index: -1
+youshouxia
+  rotate: true
+  xy: 1530, 23
+  size: 67, 226
+  orig: 68, 228
+  offset: 0, 0
+  index: -1
+youtuishang
+  rotate: false
+  xy: 1321, 1312
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+youtuixia
+  rotate: true
+  xy: 1248, 918
+  size: 336, 182
+  orig: 336, 182
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 2, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+zuoshoushang
+  rotate: false
+  xy: 1321, 1480
+  size: 99, 154
+  orig: 99, 154
+  offset: 0, 0
+  index: -1
+
+Fly_baiye2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangmaoshang
+  rotate: false
+  xy: 1163, 477
+  size: 98, 64
+  orig: 99, 65
+  offset: 1, 1
+  index: -1
+lian
+  rotate: false
+  xy: 1581, 561
+  size: 122, 137
+  orig: 122, 137
+  offset: 0, 0
+  index: -1
+lianzihua
+  rotate: true
+  xy: 2, 2
+  size: 204, 440
+  orig: 204, 440
+  offset: 0, 0
+  index: -1
+qunzihou
+  rotate: false
+  xy: 2, 208
+  size: 802, 760
+  orig: 822, 763
+  offset: 20, 3
+  index: -1
+tielian
+  rotate: false
+  xy: 806, 476
+  size: 355, 492
+  orig: 355, 492
+  offset: 0, 0
+  index: -1
+tielian2
+  rotate: false
+  xy: 1581, 700
+  size: 162, 268
+  orig: 163, 282
+  offset: 0, 14
+  index: -1
+toufahou
+  rotate: false
+  xy: 1163, 543
+  size: 416, 425
+  orig: 416, 430
+  offset: 0, 0
+  index: -1
+zuoshouxia
+  rotate: false
+  xy: 444, 15
+  size: 123, 191
+  orig: 123, 191
+  offset: 0, 0
+  index: -1
+zuotuishang
+  rotate: false
+  xy: 806, 211
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+zuotuixia
+  rotate: false
+  xy: 806, 285
+  size: 261, 189
+  orig: 261, 189
+  offset: 0, 0
+  index: -1

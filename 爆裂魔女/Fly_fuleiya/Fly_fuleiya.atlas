@@ -1,0 +1,258 @@
+
+Fly_fuleiya.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 1211, 242
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+gaixibulinan
+  rotate: true
+  xy: 995, 976
+  size: 218, 939
+  orig: 232, 939
+  offset: 7, 0
+  index: -1
+gaixibulinan1
+  rotate: false
+  xy: 529, 66
+  size: 69, 826
+  orig: 69, 826
+  offset: 0, 0
+  index: -1
+houbujia
+  rotate: false
+  xy: 2, 145
+  size: 525, 747
+  orig: 537, 747
+  offset: 3, 0
+  index: -1
+kaiyan
+  rotate: false
+  xy: 2, 2
+  size: 86, 52
+  orig: 86, 53
+  offset: 0, 1
+  index: -1
+maozi
+  rotate: true
+  xy: 1802, 402
+  size: 156, 107
+  orig: 156, 107
+  offset: 0, 0
+  index: -1
+pidai1
+  rotate: true
+  xy: 600, 71
+  size: 50, 155
+  orig: 50, 155
+  offset: 0, 0
+  index: -1
+pidai2
+  rotate: true
+  xy: 951, 133
+  size: 27, 76
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+pidai3
+  rotate: false
+  xy: 1638, 1226
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+pidai4
+  rotate: false
+  xy: 1756, 1554
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+pidai5
+  rotate: false
+  xy: 1755, 1391
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+pidai6
+  rotate: false
+  xy: 1755, 1467
+  size: 66, 85
+  orig: 67, 85
+  offset: 1, 0
+  index: -1
+pidai7
+  rotate: false
+  xy: 1921, 1515
+  size: 74, 531
+  orig: 74, 531
+  offset: 0, 0
+  index: -1
+pidai7-1
+  rotate: true
+  xy: 951, 351
+  size: 63, 330
+  orig: 63, 330
+  offset: 0, 0
+  index: -1
+pidai8
+  rotate: true
+  xy: 1313, 394
+  size: 164, 487
+  orig: 188, 487
+  offset: 24, 0
+  index: -1
+pidai8-1
+  rotate: false
+  xy: 600, 123
+  size: 205, 46
+  orig: 205, 47
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 951, 416
+  size: 360, 558
+  orig: 360, 558
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 951, 162
+  size: 141, 187
+  orig: 141, 187
+  offset: 0, 0
+  index: -1
+xiongbu
+  rotate: false
+  xy: 607, 916
+  size: 177, 109
+  orig: 177, 109
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 1911, 480
+  size: 78, 42
+  orig: 84, 43
+  offset: 3, 1
+  index: -1
+youchibang
+  rotate: false
+  xy: 600, 171
+  size: 218, 721
+  orig: 218, 721
+  offset: 0, 0
+  index: -1
+youchibangxa
+  rotate: false
+  xy: 2, 894
+  size: 603, 1152
+  orig: 603, 1155
+  offset: 0, 3
+  index: -1
+youdatui
+  rotate: false
+  xy: 1756, 1644
+  size: 163, 402
+  orig: 163, 402
+  offset: 0, 0
+  index: -1
+youjianjia
+  rotate: true
+  xy: 1313, 745
+  size: 229, 678
+  orig: 229, 678
+  offset: 0, 0
+  index: -1
+youshagnchibang
+  rotate: false
+  xy: 995, 1594
+  size: 759, 452
+  orig: 759, 452
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: false
+  xy: 1094, 185
+  size: 55, 164
+  orig: 57, 164
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1926, 642
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 1151, 194
+  size: 155, 58
+  orig: 155, 59
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 2, 56
+  size: 87, 441
+  orig: 87, 441
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 1638, 1316
+  size: 276, 115
+  orig: 276, 115
+  offset: 0, 0
+  index: -1
+zuochibangxia
+  rotate: true
+  xy: 1313, 560
+  size: 70, 642
+  orig: 70, 642
+  offset: 0, 0
+  index: -1
+zuodachibang
+  rotate: false
+  xy: 607, 1027
+  size: 386, 1019
+  orig: 387, 1021
+  offset: 1, 2
+  index: -1
+zuodatui
+  rotate: false
+  xy: 820, 120
+  size: 129, 905
+  orig: 129, 905
+  offset: 0, 0
+  index: -1
+zuojianjia
+  rotate: true
+  xy: 1313, 632
+  size: 111, 611
+  orig: 114, 611
+  offset: 2, 0
+  index: -1
+zuoshangchi
+  rotate: false
+  xy: 995, 1196
+  size: 641, 396
+  orig: 641, 396
+  offset: 0, 0
+  index: -1
+zuuoshou
+  rotate: true
+  xy: 445, 42
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
