@@ -1,0 +1,286 @@
+
+xialun.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YL01
+  rotate: false
+  xy: 1307, 1446
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+YR01
+  rotate: true
+  xy: 615, 544
+  size: 30, 21
+  orig: 31, 21
+  offset: 1, 0
+  index: -1
+fengnu
+  rotate: true
+  xy: 839, 400
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+gaoxing
+  rotate: true
+  xy: 1299, 959
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+jingya
+  rotate: true
+  xy: 1418, 959
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+nanguo
+  rotate: false
+  xy: 1225, 839
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+shiluo
+  rotate: false
+  xy: 1313, 840
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+tx01
+  rotate: true
+  xy: 839, 488
+  size: 240, 142
+  orig: 240, 142
+  offset: 0, 0
+  index: -1
+tx02
+  rotate: true
+  xy: 1908, 1500
+  size: 254, 124
+  orig: 254, 124
+  offset: 0, 0
+  index: -1
+tx03
+  rotate: false
+  xy: 1307, 1047
+  size: 246, 137
+  orig: 246, 137
+  offset: 0, 0
+  index: -1
+xl01
+  rotate: false
+  xy: 1307, 1186
+  size: 328, 205
+  orig: 328, 205
+  offset: 0, 0
+  index: -1
+xl02
+  rotate: true
+  xy: 338, 9
+  size: 139, 163
+  orig: 139, 163
+  offset: 0, 0
+  index: -1
+xl03
+  rotate: false
+  xy: 1401, 840
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+xl04
+  rotate: true
+  xy: 687, 353
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+xl05
+  rotate: true
+  xy: 615, 352
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+xl07
+  rotate: false
+  xy: 615, 405
+  size: 153, 110
+  orig: 153, 110
+  offset: 0, 0
+  index: -1
+xl08
+  rotate: false
+  xy: 1225, 746
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+xl09
+  rotate: true
+  xy: 521, 173
+  size: 164, 96
+  orig: 164, 96
+  offset: 0, 0
+  index: -1
+xl10
+  rotate: false
+  xy: 983, 495
+  size: 137, 232
+  orig: 137, 232
+  offset: 0, 0
+  index: -1
+xl11
+  rotate: true
+  xy: 2, 2
+  size: 146, 334
+  orig: 146, 334
+  offset: 0, 0
+  index: -1
+xl12
+  rotate: false
+  xy: 770, 422
+  size: 67, 93
+  orig: 67, 93
+  offset: 0, 0
+  index: -1
+xl13
+  rotate: false
+  xy: 1015, 729
+  size: 208, 320
+  orig: 208, 320
+  offset: 0, 0
+  index: -1
+xl14
+  rotate: false
+  xy: 1225, 958
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+xl15
+  rotate: true
+  xy: 1813, 1077
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+xl16
+  rotate: false
+  xy: 739, 1262
+  size: 83, 204
+  orig: 83, 204
+  offset: 0, 0
+  index: -1
+xl17
+  rotate: false
+  xy: 1122, 494
+  size: 122, 233
+  orig: 122, 233
+  offset: 0, 0
+  index: -1
+xl18
+  rotate: true
+  xy: 1015, 1051
+  size: 415, 290
+  orig: 415, 290
+  offset: 0, 0
+  index: -1
+xl19
+  rotate: true
+  xy: 1637, 1188
+  size: 203, 326
+  orig: 203, 326
+  offset: 0, 0
+  index: -1
+xl20
+  rotate: true
+  xy: 1355, 1756
+  size: 265, 664
+  orig: 265, 664
+  offset: 0, 0
+  index: -1
+xl21
+  rotate: false
+  xy: 2, 1257
+  size: 735, 764
+  orig: 735, 764
+  offset: 0, 0
+  index: -1
+xl22
+  rotate: false
+  xy: 521, 339
+  size: 92, 235
+  orig: 92, 235
+  offset: 0, 0
+  index: -1
+xl23
+  rotate: false
+  xy: 638, 517
+  size: 199, 738
+  orig: 199, 738
+  offset: 0, 0
+  index: -1
+xl24
+  rotate: false
+  xy: 839, 730
+  size: 174, 736
+  orig: 174, 736
+  offset: 0, 0
+  index: -1
+xl25
+  rotate: false
+  xy: 739, 1468
+  size: 614, 553
+  orig: 614, 553
+  offset: 0, 0
+  index: -1
+xl26
+  rotate: true
+  xy: 1355, 1393
+  size: 361, 551
+  orig: 361, 551
+  offset: 0, 0
+  index: -1
+xl27
+  rotate: false
+  xy: 2, 576
+  size: 634, 679
+  orig: 634, 679
+  offset: 0, 0
+  index: -1
+xl28
+  rotate: false
+  xy: 2, 150
+  size: 517, 424
+  orig: 517, 431
+  offset: 0, 7
+  index: -1
+xl29
+  rotate: false
+  xy: 1677, 1080
+  size: 134, 106
+  orig: 134, 106
+  offset: 0, 0
+  index: -1
+xl6
+  rotate: true
+  xy: 1555, 1046
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+yansu
+  rotate: true
+  xy: 1908, 1412
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
