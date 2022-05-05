@@ -1,0 +1,13 @@
+
+character_2002.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_2002
+  rotate: false
+  xy: 2, 2
+  size: 1034, 1633
+  orig: 1036, 1636
+  offset: 1, 2
+  index: -1

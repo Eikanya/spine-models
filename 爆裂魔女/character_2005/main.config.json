@@ -1,0 +1,1 @@
+{"controllers":{"intimacy_system":{},"slot_opacity":{},"slot_color":{}},"motions":{"idle":[{"file":"aniIdle","fade_in":0,"fade_out":0}]},"options":{"scale_factor":0.1,"position_y":-7.0,"edge_padding":false},"skeleton":"character_2005.skel","atlases":[{"atlas":"character_2005.atlas","tex_names":["character_2005"],"textures":["character_2005.png"]}]}

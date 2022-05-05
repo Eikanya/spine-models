@@ -1,0 +1,13 @@
+
+character_2003.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_2003
+  rotate: false
+  xy: 2, 2
+  size: 724, 1626
+  orig: 724, 1628
+  offset: 0, 1
+  index: -1
